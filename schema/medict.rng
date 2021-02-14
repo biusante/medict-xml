@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <start>
+    <ref name="TEI"/>
+  </start>
+  <div>
+    <a:documentation>Structure d’un article</a:documentation>
+    <define name="entry">
+      <element name="entry">
+        <a:documentation>Entrée, contenant au moins un bloc avec une vedette, un identifiant unique pour le fichier, et des “sens” (ou autres sections contenant gloses ou renvois)</a:documentation>
+        <optional>
+          <ref name="xml.id"/>
+        </optional>
+        <ref name="form1"/>
+        <optional>
+          <ref name="pb"/>
+        </optional>
+        <optional>
+          <ref name="dictScrap"/>
+        </optional>
+        <zeroOrMore>
+          <choice>
+            <ref name="code"/>
+            <ref name="damage"/>
+            <ref name="pb"/>
+            <ref name="graphic"/>
+            <ref name="sense"/>
+            <ref name="table"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="form1">
+      <element name="form">
+        <a:documentation>Bloc identifiant l’entrée, contenant au moins un mot en vedette, plusieurs sont possibles, avec des indications de flexion ou de nature (ex : s. f. « substantif féminin »)</a:documentation>
+        <ref name="orth"/>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="orth"/>
+            <ref name="sc"/>
+            <ref name="gram"/>
+            <ref name="emph"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="dictScrap">
+      <element name="dictScrap">
+        <a:documentation>Section mêlée, contenant de l’étymologie et des traductions</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="damage"/>
+            <ref name="emph"/>
+            <ref name="foreign"/>
+            <ref name="num"/>
+            <ref name="pb"/>
+            <ref name="ref"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="sense">
+      <element name="sense">
+        <a:documentation>Un “sens”, ou au moins une section dans un article (la hiérarchie n’est pas nécessaire)</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="damage"/>
+            <ref name="emph"/>
+            <ref name="form"/>
+            <ref name="formula"/>
+            <ref name="graphic"/>
+            <ref name="num"/>
+            <ref name="ref"/>
+            <ref name="pb"/>
+            <ref name="sc"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="code">
+      <element name="code">
+        <attribute name="xml:space">
+          <value>preserve</value>
+        </attribute>
+        <text/>
+      </element>
+    </define>
+    <define name="table">
+      <element name="table">
+        <a:documentation>Table, &lt;html5:table>. Avant essaiera de limiter l'usage des tables aux structures de contenu qui ne peuvent pas être ramenées à une liste &lt;list> (penser notamment aux listes de définitions qui correspondent à des tableaux à deux colonnes)</a:documentation>
+        <optional>
+          <attribute name="rend">
+            <list>
+              <choice>
+                <value>center</value>
+              </choice>
+            </list>
+          </attribute>
+        </optional>
+        <optional>
+          <element name="head">
+            <text/>
+          </element>
+        </optional>
+        <optional>
+          <element name="spanGrp">
+            <attribute name="type">
+              <value>colgroup</value>
+            </attribute>
+            <oneOrMore>
+              <element name="span">
+                <attribute name="type">
+                  <value>col</value>
+                </attribute>
+                <optional>
+                  <attribute name="rend"/>
+                </optional>
+                <optional>
+                  <attribute name="style"/>
+                </optional>
+              </element>
+            </oneOrMore>
+          </element>
+        </optional>
+        <oneOrMore>
+          <choice>
+            <element name="row">
+              <optional>
+                <attribute name="role">
+                  <choice>
+                    <value>data</value>
+                    <a:documentation>(défaut) &lt;html5:tbody></a:documentation>
+                    <value>label</value>
+                    <a:documentation>&lt;html5:thead> ou &lt;html5:tfoot></a:documentation>
+                  </choice>
+                </attribute>
+              </optional>
+              <oneOrMore>
+                <element name="cell">
+                  <optional>
+                    <attribute name="role">
+                      <choice>
+                        <value>data</value>
+                        <a:documentation>(défaut) &lt;html5:td&gt;</a:documentation>
+                        <value>label</value>
+                        <a:documentation>&lt;html5:th&gt;</a:documentation>
+                        <text/>
+                      </choice>
+                    </attribute>
+                  </optional>
+                  <optional>
+                    <!-- TODO border ? -->
+                    <attribute name="rend">
+                      <list>
+                        <oneOrMore>
+                          <choice>
+                            <value>center</value>
+                            <value>bottom</value>
+                            <value>middle</value>
+                            <value>top</value>
+                            <value>left</value>
+                            <value>right</value>
+                            <value>border</value>
+                          </choice>
+                        </oneOrMore>
+                      </list>
+                    </attribute>
+                  </optional>
+                  <optional>
+                    <attribute name="rows"/>
+                  </optional>
+                  <optional>
+                    <attribute name="cols"/>
+                  </optional>
+                  <text/>
+                </element>
+              </oneOrMore>
+            </element>
+            <ref name="pb"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+  </div>
+  <div>
+    <a:documentation>Éléments lexicaux balisés dans un article</a:documentation>
+    <define name="orth">
+      <element name="orth">
+        <a:documentation>Forme graphique en vedette, généralement en gras et majuscules (accentuées)</a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="ref">
+      <element name="ref">
+        <a:documentation>Renvoi, doit renvoyer à une entrée exacte, voire à une sous-entrée</a:documentation>
+        <optional>
+          <ref name="target"/>
+        </optional>
+        <text/>
+      </element>
+    </define>
+    <define name="emph">
+      <element name="emph">
+        <a:documentation>Mot en italique, sémantique en cours de résolution</a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="form">
+      <element name="form">
+        <a:documentation>Sous-entrée, notamment la phraéologie (locutions, expressions)</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="foreign">
+      <element name="foreign">
+        <a:documentation>Mot en langue étrangère, notamment les équivalenets traductionnels</a:documentation>
+        <ref name="xml.lang"/>
+        <text/>
+      </element>
+    </define>
+    <define name="formula">
+      <element name="formula">
+        <a:documentation>Formule chimique ou mathématique, possiblement mal retranscrite</a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="gram">
+      <element name="gram">
+        <a:documentation>Information grammaticale sur une forme</a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="sc">
+      <element name="hi">
+        <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple
+        <a:example><orth>MÉTHYLOSPIROYLIQUE</orth> (<hi rend="sc">Acide</hi>).</a:example> </a:documentation>
+        <attribute name="rend">
+          <value>sc</value>
+        </attribute>
+        <text/>
+      </element>
+    </define>
+    <define name="num">
+      <element name="num">
+        <a:documentation>Nombre, en petites capitales, souvent des siècles, reconnu automatiquement.
+        <a:example>qui régna dans le milieu du <num>xivᵉ</num> siècle.</a:example></a:documentation>
+        <text/>
+      </element>
+    </define>
+  </div>
+  <div>
+    <a:documentation>Structure générale du fichier</a:documentation>
+    <define name="pb">
+      <element name="pb">
+        <a:documentation>Saut de page (n° et url de l’image de page doivent devenir obligatoire)</a:documentation>
+        <optional>
+          <text/>
+        </optional>
+        <optional>
+          <ref name="n"/>
+        </optional>
+        <optional>
+          <ref name="facs"/>
+        </optional>
+      </element>
+    </define>
+    <define name="damage">
+      <element name="damage">
+        <a:documentation>Partie non lisible ou non reconnue, notamment le grec</a:documentation>
+        <optional>
+          <ref name="xml.lang"/>
+        </optional>
+        <optional>
+          <attribute name="type">
+            <choice>
+              <value>table</value>
+              <value>fig</value>
+            </choice>
+          </attribute>
+        </optional>
+        <choice>
+          <text/>
+          <empty/>
+        </choice>
+      </element>
+    </define>
+    <define name="graphic">
+      <element name="graphic">
+        <a:documentation>Illustration insérée dans la page (possiblement découpée par l’OCR)</a:documentation>
+        <attribute name="url"/>
+      </element>
+    </define>
+    <define name="TEI">
+      <element name="TEI">
+        <ref name="xml.lang"/>
+        <element name="teiHeader">
+          <zeroOrMore>
+            <ref name="elany"/>
+          </zeroOrMore>
+        </element>
+        <element name="text">
+          <element name="body">
+            <oneOrMore>
+              <choice>
+                <ref name="damage"/>
+                <ref name="graphic"/>
+                <ref name="entry"/>
+                <ref name="pb"/>
+                <ref name="table"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </element>
+      </element>
+    </define>
+    <define name="elany">
+      <a:documentation>Motif provisoire, n’importe quel élément</a:documentation>
+      <element>
+        <anyName>
+          <except>
+            <nsName/>
+          </except>
+        </anyName>
+        <zeroOrMore>
+          <choice>
+            <attribute>
+              <anyName>
+                <except>
+                  <name>xml:id</name>
+                </except>
+              </anyName>
+            </attribute>
+            <text/>
+            <ref name="elany"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+  </div>
+  <div>
+    <a:documentation>Attributs</a:documentation>
+    <define name="xml.id">
+      <attribute name="xml:id">
+        <a:documentation>Identifiant, au moins unique pour le document</a:documentation>
+        <data type="ID"/>
+      </attribute>
+    </define>
+    <define name="target">
+      <attribute name="target">
+        <a:documentation>Renvoi à un article identifié</a:documentation>
+        <data type="IDREF"/>
+      </attribute>
+    </define>
+    <define name="n">
+      <attribute name="n">
+        <a:documentation>Numéro de page tel qu’imprimé</a:documentation>
+      </attribute>
+    </define>
+    <define name="facs">
+      <attribute name="facs">
+        <a:documentation>Lien a une images de page de référence</a:documentation>
+        <data type="anyURI"/>
+      </attribute>
+    </define>
+    <define name="xml.lang">
+      <attribute name="xml:lang">
+        <a:documentation>Code normalisé de langue</a:documentation>
+        <choice>
+          <value>de</value>
+          <value>en</value>
+          <value>es</value>
+          <value>fr</value>
+          <value>gr</value>
+          <value>it</value>
+          <value>la</value>
+        </choice>
+      </attribute>
+    </define>
+  </div>
+</grammar>

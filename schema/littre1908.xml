@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="littre1908.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="medict.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt></publicationStmt>
+      <sourceDesc></sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition selector=".form .orth">text-transform: uppercase; font-weight: bold;</rendition>
+        <rendition selector=".term">font-style: italic;</rendition>
+        <rendition selector=".foreign">font-style: italic;</rendition>
+        <rendition selector=".ref">text-transform: capitalize; font-variant: small-caps;</rendition>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="expérience">
+        <form><orth>expérience</orth>. <gram>s. f.</gram></form>
+        <dictScrap>[<foreign xml:lang="la">experientia</foreign>, de <emph>experiri</emph>, éprouver, de <emph>ex</emph>, et d’un radical <emph>per</emph>, qui se trouve dans πέρειν, percer, d’où πεῖρα, essai, tentative ; all. <foreign xml:lang="de">Erfhrung</foreign>, angl. <foreign xml:lang="en">experience</foreign>, it. <foreign xml:lang="it">sperienzia</foreign>, esp. <foreign xml:lang="es">experiencia</foreign>].</dictScrap>
+        <sense>Communément, connaissance acquise par la seule observation répétée du même objet. Mais l’occasion de voir beaucoup ne fait pas l’expérience ; car l’observation simple d’un fait ne peut qu’en faire apercevoir les diverses faces. L’acquisition d’une véritable expérience en médecine exige non seulement l’aptitude à remarquer et différencier toutes les parties d’un sujet, mais encore la capacité de réfléchir sur ce qu’on a observé, et de s’élever à un travail d’intelligence, des phénomènes à leurs causes, du connu à l’inconnu, […]</sense>
+        <sense>V. <ref>expérimental</ref> et <ref>expérimentation</ref>.</sense>
+      </entry>
+      <entry xml:id="expérimental">
+        <form><orth>expérimental, ale</orth>. adj.</form>
+        <dictScrap>[all. et angl. <foreign xml:lang="de">experimental</foreign>, it. <foreign xml:lang="it">esperimentale</foreign>].</dictScrap>
+        <sense>Se dit de ce qui est fondé sur l’expérimentation.</sense>
+        <sense>— <form>art expérimental</form>, <form>méthode expérimentale</form>. Procédé d’étude scientifique qui a pour base l’expérimentation. […]</sense>
+        <sense>— <form>médecine expérimentale</form>. V. <ref>médecine</ref>.</sense>
+        <sense>— <form>pathologie expérimentale</form>. V. <ref>pathologie</ref>.</sense>
+        <sense>— <form>physiologie expérimentale</form>. V. <ref>physiologie</ref>.</sense>
+        <sense>— <form>thérapeutique expérimentale</form>. V. <ref>thérapeutique</ref>.</sense>
+      </entry>
+      <entry xml:id="expérimenation">
+        <form><orth>expérimentation</orth>. s. f.</form>
+        <dictScrap>[all. <foreign xml:lang="de">Experiment</foreign>, angl. <foreign xml:lang="en">experiment</foreign>, it. <foreign xml:lang="it">sperimento</foreign>].</dictScrap>
+        <sense>Art de solliciter la production de faits qu’on veut observer, pour en assigner la loi, en déterminer les causes, reconnaître la manière dont ces causes agissent</sense>
+      </entry>
+    </body>
+  </text>
+</TEI>
