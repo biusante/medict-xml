@@ -282,6 +282,7 @@
             <choice>
               <value>table</value>
               <value>fig</value>
+              <value>formula</value>
             </choice>
           </attribute>
         </optional>
