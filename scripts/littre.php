@@ -24,14 +24,14 @@ class Littre
         $ret = "";
         if (isset($matches[2])) {
           $val = 0 + $matches[2];
-          echo $matches[0] . " " . $n . PHP_EOL;
           if ($n != $val) {
+            echo "found=" . $matches[0] . " calculate=" . $n . PHP_EOL;
             $ret .= "<!-- page error " . $n . "!=" . $val . " -->";
             $n = $val;
           }
         }
-        $ret .= '<pb n="' . sprintf('%04d', $n) . '" style="color:red; --bg-image: url(\'https://www.biusante.parisdescartes.fr/images/livres/37020d/' . sprintf('%04d', $n+14) . '.jpg\'); ">$$$</pb>';
-        
+        // $ret .= '<pb n="' . sprintf('%04d', $n) . '" style="color:red; --bg-image: url(\'https://www.biusante.parisdescartes.fr/images/livres/37020d/' . sprintf('%04d', $n+14) . '.jpg\'); ">$$$</pb>';
+        $ret = '<pb n="' . sprintf('%04d', $n) . '"/>';
         return $ret;
       },
     );

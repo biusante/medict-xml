@@ -64,7 +64,7 @@
     <define name="sense">
       <element name="sense">
         <a:documentation>Un “sens”, ou au moins une section dans un article (la hiérarchie n’est pas nécessaire)</a:documentation>
-        <zeroOrMore>
+        <oneOrMore>
           <choice>
             <text/>
             <ref name="damage"/>
@@ -77,7 +77,7 @@
             <ref name="pb"/>
             <ref name="sc"/>
           </choice>
-        </zeroOrMore>
+        </oneOrMore>
       </element>
     </define>
     <define name="code">
