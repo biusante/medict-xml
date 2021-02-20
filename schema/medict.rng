@@ -191,6 +191,13 @@
       <element name="orth">
         <a:documentation>Forme graphique en vedette, généralement en gras et majuscules (accentuées)</a:documentation>
         <text/>
+        <optional>
+          <attribute name="cert">
+            <choice>
+              <value>high</value>
+            </choice>
+          </attribute>
+        </optional>
       </element>
     </define>
     <define name="ref">

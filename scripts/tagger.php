@@ -61,7 +61,9 @@ class Tagger
       '@<form><orth>([^<]+)</orth>@' => function ($matches) use (&$last) {
         $orth = strtr($matches[1], array(
           '-' => '',
-          // ' ' => '',
+          ' ' => '',
+          '.' => '',
+          'Æ' => 'AE',
           'Â' => 'A',
           'À' => 'A',
           'É' => 'E',
@@ -70,15 +72,22 @@ class Tagger
           'Ë' => 'E',
           'Ï' => 'I',
           'Î' => 'I',
+          'Œ' => 'OE',
+          'Û' => 'U',
         ));
+        $ret = $matches[0];
         // peut être égal, ex : ABIÉTINE, ABIÉTINÉ
-        if (strcmp($last, $orth) > 0) echo $matches[1]."\n";
+        if (strcmp($last, $orth) > 0) {
+          echo $matches[1]."\t\t-".$last.'- -'.$orth.'-   '.strcmp($last, $orth)."\n";
+          $ret = '<form><orth cert="low">'.$matches[1]."</orth>";
+        }
         $last = $orth;
-      }
+        return $ret;
+      },
     );
     $xml = preg_replace_callback_array($re_callback, $this->_xml);
-    $dst = self::$HOME . "test/" . $this->_filename . ".xml";
-    // file_put_contents($dst, $xml);
+    $dst = self::$HOME . "work/" . $this->_filename . ".xml";
+    file_put_contents($dst, $xml);
   }
   
   /**
