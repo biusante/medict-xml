@@ -56,16 +56,37 @@ class Tagger
    */
   public function orth()
   {
+    
+  
     $last;
     $re_callback = array (
       '@<form><orth>([^<]+)</orth>@' => function ($matches) use (&$last) {
+        // dégrecer
+        $degrec = array(
+          'Α' => 'A',
+          'Β' => 'B',
+          'Ε' => 'E',
+          'Η' => 'H',
+          'Ι' => 'I',
+          'Κ' => 'K',
+          'Μ' => 'M',
+          'Ν' => 'N',
+          'Ο' => 'O',
+          'Ρ' => 'P',
+          'Τ' => 'T',
+          'Ζ' => 'Z',
+        );
+        $matches[1] = strtr($matches[1], $degrec);
         $orth = strtr($matches[1], array(
           '-' => '',
           ' ' => '',
           '.' => '',
+          "'" => '',
+          '’' => '',
           'Æ' => 'AE',
           'Â' => 'A',
           'À' => 'A',
+          'Ç' => 'C',
           'É' => 'E',
           'È' => 'E',
           'Ê' => 'E',
@@ -73,9 +94,10 @@ class Tagger
           'Ï' => 'I',
           'Î' => 'I',
           'Œ' => 'OE',
+          'Ô' => 'O',
           'Û' => 'U',
         ));
-        $ret = $matches[0];
+        $ret = '<form><orth>'.$matches[1]."</orth>";
         // peut être égal, ex : ABIÉTINE, ABIÉTINÉ
         if (strcmp($last, $orth) > 0) {
           echo $matches[1]."\t\t-".$last.'- -'.$orth.'-   '.strcmp($last, $orth)."\n";
