@@ -3,7 +3,7 @@ include 'build.php';
 
 Tagger::init();
 $tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
-$tagger->orth();
+$tagger->orthold();
 
 
 exit();
@@ -52,14 +52,69 @@ class Tagger
   }
 
   /**
-   * Vérifier les entrées
+   * Comparer avec l’ancienne indexation
    */
-  public function orth()
+  public function orthold()
+  {
+    // charger l’indexation ancienne, méthode provisoire
+    $orth_sql = file(self::$HOME . "data/37020d_old.tsv", FILE_IGNORE_NEW_LINES);
+    $orth_sql = array_flip($orth_sql);
+    $desacc = array(
+      '-' => '',
+      ' ' => '',
+      '.' => '',
+      "'" => '',
+      '’' => '',
+      'Æ' => 'AE',
+      'Â' => 'A',
+      'À' => 'A',
+      'Ç' => 'C',
+      'É' => 'E',
+      'È' => 'E',
+      'Ê' => 'E',
+      'Ë' => 'E',
+      'Ï' => 'I',
+      'Î' => 'I',
+      'Œ' => 'OE',
+      'Ô' => 'O',
+      'Û' => 'U',
+    );
+    $orth_key = array();
+    foreach ($orth_sql as $key => $value) {
+      $orth_key[strtr($key, $desacc)] = $key;
+    }
+    
+    
+    
+    $re_callback = array(
+      '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) use (&$orth_sql, &$orth_key, &$desacc) {
+        $orth = strtr($matches[1], array(
+          'Æ' => 'AE',
+          'Œ' => 'OE',
+        ));
+        if (isset($orth_sql[$orth])) return;
+        $key = strtr($orth, $desacc);
+        if (isset($orth_key[$key])) {
+          echo $matches[1],' => ', $orth_key[$key], "\n";
+          return;
+        }
+        
+        // echo $matches[1], "\n";
+      }
+    );
+    $xml = preg_replace_callback_array($re_callback, $this->_xml);
+  }
+  
+
+  /**
+   * Vérifier l’ordre alphabétique des entrées
+   */
+  public function orthalpha()
   {
     
   
     $last;
-    $re_callback = array (
+    $re_callback = array(
       '@<form><orth>([^<]+)</orth>@' => function ($matches) use (&$last) {
         // dégrecer
         $degrec = array(
