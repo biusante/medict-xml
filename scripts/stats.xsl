@@ -11,13 +11,20 @@
   <xsl:variable name="tab">
     <xsl:text>&#9;</xsl:text>
   </xsl:variable>
+  <xsl:param name="mode"/>
   <xsl:template match="/">
-    <xsl:call-template name="orthList"/>
+    <xsl:choose>
+      <xsl:when test="$mode = 'orthList'">
+        <xsl:call-template name="orthList"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:call-template name="orthList"/>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   <xsl:template name="orthList">
     <xsl:for-each select="/tei:TEI/tei:text/tei:body//tei:orth">
-      <xsl:value-of select="substring(., 1, 1)"/>
-      <xsl:value-of select="translate(substring(., 2), $uc, $lc)"/>
+      <xsl:value-of select="normalize-space(.)"/>
       <xsl:value-of select="$lf"/>
     </xsl:for-each>
   </xsl:template>

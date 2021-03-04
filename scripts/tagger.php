@@ -84,7 +84,7 @@ class Tagger
       $orth_key[strtr($key, $desacc)] = $key;
     }
     
-    
+    echo "SQL\tXML\n";
     
     $re_callback = array(
       '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) use (&$orth_sql, &$orth_key, &$desacc) {
@@ -95,7 +95,7 @@ class Tagger
         if (isset($orth_sql[$orth])) return;
         $key = strtr($orth, $desacc);
         if (isset($orth_key[$key])) {
-          echo $matches[1],' => ', $orth_key[$key], "\n";
+          echo $orth_key[$key],"\t",$matches[1],"\n";
           return;
         }
         
