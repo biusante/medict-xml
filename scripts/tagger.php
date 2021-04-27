@@ -3,8 +3,9 @@ include 'build.php';
 
 Tagger::init();
 $tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
-$tagger->orthold();
-
+// $tagger->orthold();
+$xml = $tagger->ids();
+file_put_contents(Tagger::$HOME . "xml/medict37020d.xml.xml", $xml);
 
 exit();
 
@@ -50,6 +51,15 @@ class Tagger
     if (!$this->_dom) throw new Exception("BAD XML");
     $this->_xpath = Build::xpath($this->_dom);
   }
+
+  /**
+   * ajouter des ids
+   */
+  public function ids()
+  {
+    return Build::transformDoc($this->_dom, dirname(__FILE__).'/idref.xsl');
+  }
+  
 
   /**
    * Comparer avec l’ancienne indexation
