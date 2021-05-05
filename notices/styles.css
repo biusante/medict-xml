@@ -1,0 +1,125 @@
+/* ========================================================
+    Reprise de la charte graphique de Medica
+=========================================================== */
+
+html {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    box-sizing: border-box;
+    width: 990px;
+    margin: 0 auto;
+    min-height: 100%;
+    background-color: rgba(255, 255, 255, 1.0);
+    box-shadow: 0 0 2px 2px rgba(68, 68, 68, 0.3);
+    -moz-box-shadow: 0 0 2px 2px rgba(68, 68, 68, 0.3);
+    -webkit-box-shadow: 0 0 2px 2px rgba(68, 68, 68, 0.3);
+}
+
+body {
+    text-align: justify;
+    margin-right: 45px;
+    margin-left: 45px;
+    font-size: 105%;
+    font-family: 'Lucida Sans', sans-serif !important;
+}
+
+/* ========================================================
+    Définition des titres et sous-titres
+=========================================================== */
+
+h1 {
+    text-align: center;
+    color: #842739;
+    font-family: 'Lucida Grande', sans-serif !important;
+}
+
+h2 {
+    text-align: left;
+    margin: 20px;
+    color: #181717;
+    font-family: 'Lucida Grande', sans-serif !important;
+}
+
+h3 {
+    text-align: left;
+    margin: inherit;
+    color: #545454;
+    font-family: 'Lucida Grande', sans-serif !important;
+}
+
+/* ========================================================
+    Définition des attributs des notes, des liens et des images
+=========================================================== */
+
+a {
+    color: #842739;
+}
+
+.ana {
+    color: #787878;
+}
+
+.center {
+    text-align: center;
+}
+
+.ref {
+    color: #4d4d4d;
+    text-align: justify;
+    width: auto;
+}
+
+div#tab1 {
+    float: left;
+    margin: inherit;
+    padding: 2px;
+    width: auto;
+}
+
+div#tab2 {
+    width: auto;
+}
+
+/* div#img {
+    width: auto;
+} */
+
+.liste {
+    list-style-type: none;
+}
+
+span {
+    font-variant: small-caps;
+}
+
+
+div#img2 {
+    text-align: center;
+}
+
+/* ========================================================
+    Application du Zoom
+=========================================================== */
+
+div#click-zoom label {
+    float: left;
+    height: 200px;
+    width: 400px;
+}
+
+div#click-zoom input[type = checkbox] {
+    display: none;
+}
+
+div#click-zoom img {
+    transition: transform 0.25s ease;
+    cursor: zoom-in;
+}
+
+div#click-zoom input[type = checkbox]:checked ~ img {
+    transform: scale(2);
+    cursor: zoom-out;
+}
