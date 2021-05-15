@@ -5,4 +5,4 @@ docx/
 doc/
 rawx/
 test/
-
+*.sqlite
