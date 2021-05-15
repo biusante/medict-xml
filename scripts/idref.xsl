@@ -26,9 +26,14 @@
     <xsl:copy>
       <xsl:copy-of select="@n"/>
       <xsl:attribute name="facs">
+        <xsl:text>//www.biusante.parisdescartes.fr/images/livres/37020d/</xsl:text>
+        <xsl:value-of select="format-number($n +14, '0000')" />
+        <xsl:text>.jpg</xsl:text>
+        <!--
         <xsl:text>https://iiif.archivelab.org/iiif/BIUSante_37020d$</xsl:text>
         <xsl:value-of select="$n + 13"/>
         <xsl:text>/full/full/0/default.jpg</xsl:text>
+        -->
       </xsl:attribute>
     </xsl:copy>
   </xsl:template>
