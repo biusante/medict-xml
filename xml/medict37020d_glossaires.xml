@@ -33,20 +33,9 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div xml:lang="la">
         <label>GLOSSAIRE LATIN</label>
-        <!--section=Sect6-->
-        <p/>
-        <p/>
-        <p/>
-        <p/>
-        <p/>
-        <!--/section=Sect6-->
-        <!--section=Sect7-->
-        <p>
-          <figure rend="frame"><quote>
-              <p>(1) Nous n’avons pas admis, dans ce glossaire, les mots du bas latin, tels que <emph>facile</emph>, péroné, <emph>lupia</emph>, loupe, <emph>siphOCt</emph> péritoine, etc., afin qu’on ne crût pas qu’ils appartiennent à la langue latine ou gréco-latine.</p></quote></figure>
-        </p>
+              <note>(1) Nous n’avons pas admis, dans ce glossaire, les mots du bas latin, tels que <emph>facile</emph>, péroné, <emph>lupia</emph>, loupe, <emph>siphOCt</emph> péritoine, etc., afin qu’on ne crût pas qu’ils appartiennent à la langue latine ou gréco-latine.</note>
         <label>ACE</label>
         <p>Abaptiston, <emph>abaptiste [trépan).</emph></p>
         <p>Abdomen, <emph>abdomen.</emph></p>
