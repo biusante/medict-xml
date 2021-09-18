@@ -3,7 +3,7 @@
  * Classe pour construire la base de données avec les dictionnaires
  */
  
-Medict::init();
+Medict::init(dirname(dirname(dirname(__FILE__))).'/medict/medict.sqlite');
 Medict::loadTei(dirname(dirname(__FILE__)).'/xml/medict37020d.xml');
 Medict::loadOld(dirname(dirname(__FILE__)).'/lfs/export_livancpages_dico.csv');
 
@@ -60,7 +60,7 @@ CREATE TABLE orth (
 CREATE INDEX orth_label ON orth(label);
 CREATE INDEX orth_sort ON orth(sort, label);
 CREATE INDEX orth_small ON orth(small);
-CREATE INDEX orth_key ON orth(key);
+CREATE INDEX orth_key ON orth(key, sort, label);
 CREATE INDEX orth_pb ON orth(pb);
 CREATE INDEX orth_year ON orth(year, pb);
 
@@ -96,10 +96,10 @@ CREATE INDEX volume_year ON volume(year);
   
   ";
   
-  public static function init()
+  public static function init($sqlite)
   {
     self::$home = dirname(dirname(__FILE__)).'/';
-    self::$sqlfile = self::$home."site/medict.sqlite";
+    self::$sqlfile = $sqlite;
     self::$pdo = Build::sqlcreate(self::$sqlfile, self::$create);
     mb_internal_encoding("UTF-8");
   }

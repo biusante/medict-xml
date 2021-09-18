@@ -302,7 +302,12 @@
     <define name="graphic">
       <element name="graphic">
         <a:documentation>Illustration insérée dans la page (possiblement découpée par l’OCR)</a:documentation>
-        <attribute name="url"/>
+        <optional>
+          <attribute name="url"/>
+        </optional>
+        <optional>
+          <attribute name="n"/>
+        </optional>
       </element>
     </define>
     <define name="TEI">
