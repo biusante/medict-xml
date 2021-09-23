@@ -88,6 +88,16 @@
         <text/>
       </element>
     </define>
+    <define name="head">
+      <element name="head">
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="emph"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
     <define name="table">
       <element name="table">
         <a:documentation>Table, &lt;html5:table>. Avant essaiera de limiter l'usage des tables aux structures de contenu qui ne peuvent pas être ramenées à une liste &lt;list> (penser notamment aux listes de définitions qui correspondent à des tableaux à deux colonnes)</a:documentation>
@@ -101,9 +111,7 @@
           </attribute>
         </optional>
         <optional>
-          <element name="head">
-            <text/>
-          </element>
+          <ref name="head"/>
         </optional>
         <optional>
           <element name="spanGrp">
@@ -217,7 +225,18 @@
     </define>
     <define name="form">
       <element name="form">
-        <a:documentation>Sous-entrée, notamment la phraéologie (locutions, expressions)</a:documentation>
+        <a:documentation>Sous-entrée, notamment la phraséologie (locutions, expressions)</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="unclear"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="term">
+      <element name="term">
+        <a:documentation>Équivalent traductionnel dans un glossaire nultilingue</a:documentation>
         <zeroOrMore>
           <choice>
             <text/>
@@ -299,6 +318,19 @@
         </choice>
       </element>
     </define>
+    <define name="unclear">
+      <element name="unclear">
+        <a:documentation>Partie non lisible ou non reconnue, notamment le grec</a:documentation>
+        <optional>
+          <ref name="xml.lang"/>
+        </optional>
+        <choice>
+          <text/>
+          <empty/>
+        </choice>
+      </element>
+    </define>
+    
     <define name="graphic">
       <element name="graphic">
         <a:documentation>Illustration insérée dans la page (possiblement découpée par l’OCR)</a:documentation>
@@ -319,18 +351,21 @@
           </zeroOrMore>
         </element>
         <element name="text">
-          <element name="body">
-            <oneOrMore>
-              <choice>
-                <ref name="damage"/>
-                <ref name="graphic"/>
-                <ref name="entry"/>
-                <ref name="pb"/>
-                <ref name="table"/>
-              </choice>
-            </oneOrMore>
-          </element>
+          <ref name="body"/>
         </element>
+      </element>
+    </define>
+    <define name="body">
+      <element name="body">
+        <oneOrMore>
+          <choice>
+            <ref name="damage"/>
+            <ref name="graphic"/>
+            <ref name="entry"/>
+            <ref name="pb"/>
+            <ref name="table"/>
+          </choice>
+        </oneOrMore>
       </element>
     </define>
     <define name="elany">
