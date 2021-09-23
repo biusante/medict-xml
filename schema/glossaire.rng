@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<grammar 
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  ns="http://www.tei-c.org/ns/1.0"
+  xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:h="http://www.w3.org/1999/xhtml" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  >
   <include href="medict.rng">
+    <a:documentation>Import du schéma général medict.rng qui sert pour les autres dictionnaires. Redéfinition de la structure globale.</a:documentation>
     <define name="body">
       <element name="body">
         <oneOrMore>
           <element name="div">
+            <a:documentation>Chaque glossaire est dans <a:el>div</a:el> avec un idenfiant et un titre</a:documentation>
             <ref name="xml.id"/>
             <ref name="head"/>
             <oneOrMore>
@@ -17,6 +26,18 @@
   </include>
   <define name="entryFree">
     <element name="entryFree">
+      <a:documentation>Les entrées de glossaire consiste en au moins une vedette dans une autre langue que le français, en général un ou plusieurs équivalents traductionnels dans un élément <a:el>term</a:el>, parfois on ne peut extraire un terme simple, il s’agit d’une glose dans un un </a:documentation>
+      <a:example>
+        <entryFree>
+          <form xml:lang="la">Abductor</form>
+          <term>abducteur</term>
+        </entryFree>
+        <entryFree>
+          <form xml:lang="it">Cavezza di Moro</form>
+          <term>tête de More</term>
+          <gloss>en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</gloss>
+        </entryFree>
+      </a:example>
       <oneOrMore>
         <ref name="formlang"/>
       </oneOrMore>
@@ -24,12 +45,13 @@
         <ref name="term"/>
       </zeroOrMore>
       <zeroOrMore>
-        <ref name="def"/>
+        <ref name="gloss"/>
       </zeroOrMore>
     </element>
   </define>
   <define name="formlang">
     <element name="form">
+      <a:documentation>Vedette avec code de langue</a:documentation>
       <ref name="xml.lang"/>
       <zeroOrMore>
         <choice>
@@ -39,8 +61,9 @@
       </zeroOrMore>
     </element>
   </define>
-  <define name="def">
-    <element name="def">
+  <define name="gloss">
+    <element name="gloss">
+      <a:documentation>Glose qui n’est un équivalent traductionnel simple</a:documentation>
       <zeroOrMore>
         <choice>
           <text/>

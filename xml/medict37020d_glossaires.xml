@@ -27,7 +27,7 @@
     <revisionDesc>
       <change>[Fait] Conversion docx > TEI brut</change>
       <change>[Fait] Vérification typographique (césures, cacographies…)</change>
-      <change>[Fait] Structure XML validée (séparation des vedettes, des traductions, vérifications des mauvaises divisions)</change>
+      <change>[Fait] Structure XML validée (séparation des vedettes, des traductions, corrections des erreurs OCR rencontrées)</change>
       <!-- à faire -->
       <change>Détection phonétique des erreurs OCR dans le français (investissement de programmation à faire). Comme le vocabulaire médical peut être très créatif, sans compter les noms propres, il s’agirait de détecter les suites de lettres improbables.</change>
       <change>Même algorithme pour le latin</change>
@@ -419,7 +419,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Ad pondus omnium</form>
-          <def>signifie que le dernier médicament prescrit dans la formule doit peser autant que tous les autres</def>
+          <gloss>signifie que le dernier médicament prescrit dans la formule doit peser autant que tous les autres</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Adstrictio</form>
@@ -494,7 +494,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Aeromeli</form>
-          <def>substance sucrée, qui se trouve dans les fleurs</def>
+          <gloss>substance sucrée, qui se trouve dans les fleurs</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Aerophobia</form>
@@ -630,7 +630,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Agrippa</form>
-          <def>enfant qui se présente par les pieds dans l’accouchement</def>
+          <gloss>enfant qui se présente par les pieds dans l’accouchement</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Agrostis</form>
@@ -713,7 +713,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Alectorius lapis</form>
-          <def>pierre qui se trouve dans le gésier des gallinacés</def>
+          <gloss>pierre qui se trouve dans le gésier des gallinacés</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Alectorolophis</form>
@@ -772,7 +772,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Alindesis</form>
-          <def>action de se rouler dans la poussière le corps frotté d’huile</def>
+          <gloss>action de se rouler dans la poussière le corps frotté d’huile</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Alipta</form>
@@ -873,7 +873,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Alveus ampullascens</form>
-          <def>nom donné par Pecquct aux deux troncs chylifères qui sortent du réservoir du chyle</def>
+          <gloss>nom donné par Pecquct aux deux troncs chylifères qui sortent du réservoir du chyle</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Alviduca</form>
@@ -929,7 +929,7 @@
           <form xml:lang="la">Ambe</form>
           <term>ambe</term>
           <term>ambi</term>
-          <def>instrument destiné à la réduction des luxations du bras</def>
+          <gloss>instrument destiné à la réduction des luxations du bras</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Ambloticus</form>
@@ -945,7 +945,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Ambulo, onis</form>
-          <def>nom d’une affection abdominale avec douleur et gonflement se portant tantôt en un point, tantôt en un autre</def>
+          <gloss>nom d’une affection abdominale avec douleur et gonflement se portant tantôt en un point, tantôt en un autre</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Ambustio</form>
@@ -1080,7 +1080,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anacollema</form>
-          <def>Uniment appliqué sur le front et les oreilles pour les maux d’yeux et les épistaxis</def>
+          <gloss>Uniment appliqué sur le front et les oreilles pour les maux d’yeux et les épistaxis</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anâctorion</form>
@@ -1088,7 +1088,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anadiplosis</form>
-          <def>répétition des redoublements, changement d’une fièvre simple en une fièvre composée</def>
+          <gloss>répétition des redoublements, changement d’une fièvre simple en une fièvre composée</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anæmia</form>
@@ -1214,7 +1214,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anemius furnus</form>
-          <def>forge où le feu est entretenu non par des soufflets, mais par l’air entrant spontanément</def>
+          <gloss>forge où le feu est entretenu non par des soufflets, mais par l’air entrant spontanément</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anemometrum</form>
@@ -1255,7 +1255,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Angiostegnotica</form>
-          <def>médicaments propres à resserrer les vaisseaux</def>
+          <gloss>médicaments propres à resserrer les vaisseaux</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Angiotomia</form>
@@ -1340,7 +1340,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Annulus osseus</form>
-          <def>le cercle osseux du tympan chez le fœtus</def>
+          <gloss>le cercle osseux du tympan chez le fœtus</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Annus climactericus</form>
@@ -1429,7 +1429,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anlhera medicamenta</form>
-          <def>médicaments, surtout métalliques, de couleur brillante</def>
+          <gloss>médicaments, surtout métalliques, de couleur brillante</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anthologia</form>
@@ -1459,7 +1459,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anthropomorpha animalia</form>
-          <def>animaux dont la forme ressemble à celle de l’homme</def>
+          <gloss>animaux dont la forme ressemble à celle de l’homme</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anthronophagus</form>
@@ -1544,7 +1544,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anus</form>
-          <def>l’anus ou l’ouverture inférieur du rectum ; l’ouverture postérieure des couches optiques</def>
+          <gloss>l’anus ou l’ouverture inférieur du rectum ; l’ouverture postérieure des couches optiques</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Anxietas</form>
@@ -1586,7 +1586,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Apertorium</form>
-          <def>instrument pour dilater l’orifice utérin dans l’accouchement</def>
+          <gloss>instrument pour dilater l’orifice utérin dans l’accouchement</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Apetalus</form>
@@ -1707,7 +1707,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Aposceparnismus</form>
-          <def>enlèvement, en dédolant, d’une portion dit crâne</def>
+          <gloss>enlèvement, en dédolant, d’une portion dit crâne</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Apositia</form>
@@ -1731,7 +1731,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Apotherapia</form>
-          <def>friction d’huile, ou onction qui s’administrait à la fin de l’exercice dans les gymnases</def>
+          <gloss>friction d’huile, ou onction qui s’administrait à la fin de l’exercice dans les gymnases</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Apothermon</form>
@@ -2421,7 +2421,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Bathrum</form>
-          <def>instrument de réduction des fractures et luxations</def>
+          <gloss>instrument de réduction des fractures et luxations</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Batrachus</form>
@@ -3285,7 +3285,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Chorea</form>
-          <def>chorée, danse de Saint-Weith ou de Saint-Guy</def>
+          <gloss>chorée, danse de Saint-Weith ou de Saint-Guy</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Chorion</form>
@@ -3431,7 +3431,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Clavicula</form>
-          <def>la clavicule. — Vrille des plantes sarmenteuses</def>
+          <gloss>la clavicule. — Vrille des plantes sarmenteuses</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Clavus</form>
@@ -4394,7 +4394,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Decoctum</form>
-          <def>une décoction (le produit de la décoction)</def>
+          <gloss>une décoction (le produit de la décoction)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Decorticatio</form>
@@ -5536,7 +5536,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Exungulare</form>
-          <def>perdre ses soles (en parlant d’un cheval)</def>
+          <gloss>perdre ses soles (en parlant d’un cheval)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Facies</form>
@@ -5628,7 +5628,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Femen</form>
-          <def>la cuisse, et particulièrement sa partie interne; le fémur</def>
+          <gloss>la cuisse, et particulièrement sa partie interne; le fémur</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Femina</form>
@@ -5645,7 +5645,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Fendicæ</form>
-          <def>le feuillet, l’un des estomacs des ruminants</def>
+          <gloss>le feuillet, l’un des estomacs des ruminants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Fermentescere</form>
@@ -6295,7 +6295,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Halter</form>
-          <def>corps pesants que tenaient dans les mains ceux qui s’exerçaient au saut</def>
+          <gloss>corps pesants que tenaient dans les mains ceux qui s’exerçaient au saut</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Hamus</form>
@@ -6927,7 +6927,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Infusio</form>
-          <def>action de verser dans, injection, lavement</def>
+          <gloss>action de verser dans, injection, lavement</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Ingluvies</form>
@@ -7329,7 +7329,7 @@
         <entryFree>
           <form xml:lang="la">Lambdacismus</form>
           <term>lambdacisme</term>
-          <def>prononciation vicieuse de l’L</def>
+          <gloss>prononciation vicieuse de l’L</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Lambdoides</form>
@@ -7441,7 +7441,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Leptomeres</form>
-          <def>peu énergique, en parlant d’un médicament</def>
+          <gloss>peu énergique, en parlant d’un médicament</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Leptynticus</form>
@@ -7745,7 +7745,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Lytta</form>
-          <def>petit ver qu’on enlevait à la langue des jeunes chiens pour les préserver de la rage</def>
+          <gloss>petit ver qu’on enlevait à la langue des jeunes chiens pour les préserver de la rage</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Maceratio</form>
@@ -8293,7 +8293,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Muliebria</form>
-          <def>parties sexuelles de la femme, menstrues</def>
+          <gloss>parties sexuelles de la femme, menstrues</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Mulomedicina</form>
@@ -10765,7 +10765,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Rubigo</form>
-          <def>rouille des métaux; nielle maladie des blés</def>
+          <gloss>rouille des métaux; nielle maladie des blés</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Rubor</form>
@@ -12184,7 +12184,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Tecolithos</form>
-          <def>pierre qui passait pour dissoudre les calculs de vessie</def>
+          <gloss>pierre qui passait pour dissoudre les calculs de vessie</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Tegumen</form>
@@ -12299,7 +12299,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Tetanothrum</form>
-          <def>cosmétique propre à faire disparaître les rides</def>
+          <gloss>cosmétique propre à faire disparaître les rides</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Tetanus</form>
@@ -12703,7 +12703,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="la">Uncus</form>
-          <def>crochet, instrument pour l’extraction du fœtus</def>
+          <gloss>crochet, instrument pour l’extraction du fœtus</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="la">Uxlguentum</form>
@@ -13559,7 +13559,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αίμορραγία</form>
-          <def>hémorrhagie en général ou hémorrhagie nasale</def>
+          <gloss>hémorrhagie en général ou hémorrhagie nasale</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αιμορροΐδες</form>
@@ -13567,11 +13567,11 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αίμο</form>
-          <def>p p οϊδοκαύ στης, instrument pour brûler les hémorrhoïdes</def>
+          <gloss>p p οϊδοκαύ στης, instrument pour brûler les hémorrhoïdes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αίμόρροος</form>
-          <def>sujet aux écoulements de sang ; femme qui a ses menstrues</def>
+          <gloss>sujet aux écoulements de sang ; femme qui a ses menstrues</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αιμο</form>
@@ -13609,7 +13609,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αιώρα</form>
-          <def>instrument qui servait à balancer un malade</def>
+          <gloss>instrument qui servait à balancer un malade</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ακαθαρσία</form>
@@ -13684,7 +13684,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άκμ</form>
-          <def>.η, vigueur de l’âge; l’état d’une maladie</def>
+          <gloss>.η, vigueur de l’âge; l’état d’une maladie</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άκοη</form>
@@ -13757,7 +13757,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άκροχειρισμος</form>
-          <def>exercice qui consistait à mouvoir les bras</def>
+          <gloss>exercice qui consistait à mouvoir les bras</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άκροχορδώυ</form>
@@ -13904,7 +13904,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άμε</form>
-          <def>'θυστος, qui empêche ou dissipe l’ivresse</def>
+          <gloss>'θυστος, qui empêche ou dissipe l’ivresse</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αμίαντος</form>
@@ -14043,7 +14043,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άνοικομίζω</form>
-          <def>je rétablis, je ranime, je rends les forces</def>
+          <gloss>je rétablis, je ranime, je rends les forces</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αναληπτικός</form>
@@ -14348,11 +14348,11 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άπο</form>
-          <def>'θερμον, sorte de breuvage usité dans l’antiquité</def>
+          <gloss>'θερμον, sorte de breuvage usité dans l’antiquité</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άπο</form>
-          <def>'θεσις, position fixe donnée à un membre cassé ou démis</def>
+          <gloss>'θεσις, position fixe donnée à un membre cassé ou démis</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άποθυμίασις</form>
@@ -14428,7 +14428,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άποσκεπαρνισμός</form>
-          <def>fracture du crâne où la pièce est emportée comme avec une doloire</def>
+          <gloss>fracture du crâne où la pièce est emportée comme avec une doloire</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άποσκίρρωμα</form>
@@ -14526,7 +14526,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άραιο</form>
-          <def>'σαρκος, dont les chairs sont spongieuses</def>
+          <gloss>'σαρκος, dont les chairs sont spongieuses</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">άραίωμα</form>
@@ -14591,7 +14591,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr"><unclear/></form>
-          <def>suppression d’un écoulement, particulièrement des menstrues</def>
+          <gloss>suppression d’un écoulement, particulièrement des menstrues</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">αρτηρία</form>
@@ -14858,7 +14858,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">βλεφαρόξυστρου</form>
-          <def>instrument propre à racler les paupières</def>
+          <gloss>instrument propre à racler les paupières</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">βοθριου</form>
@@ -15022,7 +15022,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">γαλιάγζων</form>
-          <def>bras déformé à la suite d’une luxation congénitale</def>
+          <gloss>bras déformé à la suite d’une luxation congénitale</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">γαργαρεών</form>
@@ -15148,7 +15148,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">γομφίασις</form>
-          <def>mal aux dents (à l’époque de la dentition)</def>
+          <gloss>mal aux dents (à l’époque de la dentition)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">γομφίος</form>
@@ -15602,7 +15602,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">εισβολή</form>
-          <def>invasion, attaque, épisémasie, paroxysme</def>
+          <gloss>invasion, attaque, épisémasie, paroxysme</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">εισροή</form>
@@ -15750,7 +15750,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ελκυστήρ</form>
-          <def>Voyez εμβρυουλκός, ελκώδης, ulcéré, ulcéreux</def>
+          <gloss>Voyez εμβρυουλκός, ελκώδης, ulcéré, ulcéreux</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έλκωμα</form>
@@ -15791,7 +15791,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">εμβρυουλκός</form>
-          <def>crochet pour extraire le fœtus mort dans la matrice</def>
+          <gloss>crochet pour extraire le fœtus mort dans la matrice</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έμεσία</form>
@@ -15845,11 +15845,11 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έμπυος</form>
-          <def>qui expectore des crachats purulents; qui a du pus dans une cavité, dans la poitrine</def>
+          <gloss>qui expectore des crachats purulents; qui a du pus dans une cavité, dans la poitrine</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έμπυος</form>
-          <def>μοτος, charpie ou tente que l’on introduit dans une plaie suppurante</def>
+          <gloss>μοτος, charpie ou tente que l’on introduit dans une plaie suppurante</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έμπυρος</form>
@@ -15957,7 +15957,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ε</form>
-          <def>’ξεχέγλουτος, qui a une hanche saillante</def>
+          <gloss>’ξεχέγλουτος, qui a une hanche saillante</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έξις</form>
@@ -15992,7 +15992,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έπαρμα</form>
-          <def>tumeur en général, ou particulièrement une parotide</def>
+          <gloss>tumeur en général, ou particulièrement une parotide</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">έπαρσις</form>
@@ -16489,7 +16489,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">θλάσις</form>
-          <def>θλάσμα, fracture avec dépression des os du crâne ; contusion</def>
+          <gloss>θλάσμα, fracture avec dépression des os du crâne ; contusion</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">θλίψις</form>
@@ -16617,7 +16617,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ίππος</form>
-          <def>affection des yeux dans laquelle ils se meuvent constamment</def>
+          <gloss>affection des yeux dans laquelle ils se meuvent constamment</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ίρις</form>
@@ -16853,7 +16853,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">κατάστασις</form>
-          <def>κατάστημα, constitution du corps, de la saison</def>
+          <gloss>κατάστημα, constitution du corps, de la saison</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">κατάτασις</form>
@@ -17487,7 +17487,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">λιθοτόμος</form>
-          <def>lithotomiste ; instrument pour couper la pierre dans la vessie après l’incision</def>
+          <gloss>lithotomiste ; instrument pour couper la pierre dans la vessie après l’incision</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">λιμαγχία</form>
@@ -17901,7 +17901,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">μυρτόχειλα</form>
-          <def>μυρτοχειλίδες, parties charnues situées près du clitoris</def>
+          <gloss>μυρτοχειλίδες, parties charnues situées près du clitoris</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">μυς</form>
@@ -17909,7 +17909,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">μυτίλος</form>
-          <def>moule (coquillage). μυχός απόρρητος, la vulve</def>
+          <gloss>moule (coquillage). μυχός απόρρητος, la vulve</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">μυωπία</form>
@@ -18079,7 +18079,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ξήριον</form>
-          <def>médicament sec : par exemple, une poudre</def>
+          <gloss>médicament sec : par exemple, une poudre</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ξηρόσαρκος</form>
@@ -18316,7 +18316,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ορθο</form>
-          <def>'κυλλος, dont un membre est ankylosé et droit</def>
+          <gloss>'κυλλος, dont un membre est ankylosé et droit</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ορθο</form>
@@ -18685,7 +18685,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">περίολεψις</form>
-          <def>action de jeter des regards effrayés autour de soi</def>
+          <gloss>action de jeter des regards effrayés autour de soi</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">περικάρδιος</form>
@@ -19061,7 +19061,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">πρόχειλος</form>
-          <def>la partie antérieure et moyenne des lèvres</def>
+          <gloss>la partie antérieure et moyenne des lèvres</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">πρωκτός</form>
@@ -19434,7 +19434,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">σατυρισμός</form>
-          <def>engorgement des parotides; satyriasis ; éléphantiasis</def>
+          <gloss>engorgement des parotides; satyriasis ; éléphantiasis</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">σβε</form>
@@ -19753,7 +19753,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">στήθος</form>
-          <def>la poitrine ; la paume de la main, la plante du pied</def>
+          <gloss>la poitrine ; la paume de la main, la plante du pied</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">στίμμι</form>
@@ -20429,7 +20429,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ύποσπαθισμός</form>
-          <def>hypospathisme, opération par laquelle on décolle 1s peau de dessus le crâne</def>
+          <gloss>hypospathisme, opération par laquelle on décolle 1s peau de dessus le crâne</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">υπόστασις</form>
@@ -20437,7 +20437,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">υπόφασις</form>
-          <def>hypophase, entr’ouverture des yeux pendant le sommeil</def>
+          <gloss>hypophase, entr’ouverture des yeux pendant le sommeil</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">ύποφθάλμια</form>
@@ -20514,7 +20514,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">φαρμακεία</form>
-          <def>φαρμακοποσία, breuvage purgatif, médecine</def>
+          <gloss>φαρμακοποσία, breuvage purgatif, médecine</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">φαρμακευτικός</form>
@@ -20558,7 +20558,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">φίμωσις</form>
-          <def>occlusion d’un conduit ou d’une ouverture quelconque, phimosis</def>
+          <gloss>occlusion d’un conduit ou d’une ouverture quelconque, phimosis</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">φλεβοτομία</form>
@@ -20595,7 +20595,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">φλέψ</form>
-          <def>vaisseau sanguin (artériel ou veineux), veine</def>
+          <gloss>vaisseau sanguin (artériel ou veineux), veine</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">φλογώδης</form>
@@ -20732,7 +20732,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="gr">χείριξις</form>
-          <def>χειρισμός, l’action d explorer, de palper</def>
+          <gloss>χειρισμός, l’action d explorer, de palper</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="gr">χειροβόλον</form>
@@ -21805,7 +21805,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Aufliegen sich</form>
-          <def>se causer des excoriations en restant couché</def>
+          <gloss>se causer des excoriations en restant couché</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Aufliegend</form>
@@ -21825,7 +21825,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Auflösend</form>
-          <def>résolutif, fondant; apéritif, dissolvant</def>
+          <gloss>résolutif, fondant; apéritif, dissolvant</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Auflösung</form>
@@ -22004,7 +22004,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Augennagel</form>
-          <def>onglet, onyx, unguis, onglée des chevaux</def>
+          <gloss>onglet, onyx, unguis, onglée des chevaux</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Augenrinnen</form>
@@ -22092,7 +22092,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Ausartung</form>
-          <def>perversion, dégénérescence, abâtardissement</def>
+          <gloss>perversion, dégénérescence, abâtardissement</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Ausdehnbarkeit</form>
@@ -22110,7 +22110,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Ausdünstung</form>
-          <def>exhalation, transpi. ration, perspiration</def>
+          <gloss>exhalation, transpi. ration, perspiration</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Ausfallen</form>
@@ -23361,7 +23361,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Blättermagen</form>
-          <def>feuillet,troisième estomac des ruminants</def>
+          <gloss>feuillet,troisième estomac des ruminants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Blättern</form>
@@ -23871,7 +23871,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Bogengänge des innern Ohres</form>
-          <def>canaux demi-circulaires de l’oreille interne</def>
+          <gloss>canaux demi-circulaires de l’oreille interne</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Bohne</form>
@@ -24237,7 +24237,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Brustfieber</form>
-          <def>fièvre asthmatique, péricardite, cardite</def>
+          <gloss>fièvre asthmatique, péricardite, cardite</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Brustgang</form>
@@ -24343,7 +24343,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Busch</form>
-          <def>feuillet, troisième estomac des ruminants</def>
+          <gloss>feuillet, troisième estomac des ruminants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Büschelchen</form>
@@ -24568,7 +24568,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Darmeinschiebung</form>
-          <def>intussusception, invagination intestinale</def>
+          <gloss>intussusception, invagination intestinale</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Darmentzündung</form>
@@ -25526,7 +25526,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Einschneiden</form>
-          <def>faire une incision circulaire; scarifier</def>
+          <gloss>faire une incision circulaire; scarifier</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Einschnitt</form>
@@ -25632,7 +25632,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Eisenöl</form>
-          <def>liqueur styptique de Loxius (hydrochlorate de fer liquide)</def>
+          <gloss>liqueur styptique de Loxius (hydrochlorate de fer liquide)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Eisentinctur</form>
@@ -25990,7 +25990,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Entkräftung</form>
-          <def>épuisement, affaiblissement, prostration, exténuation</def>
+          <gloss>épuisement, affaiblissement, prostration, exténuation</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Entleeren</form>
@@ -26558,7 +26558,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Faltenmagen</form>
-          <def>feuillet, troisième estomac des ruminants</def>
+          <gloss>feuillet, troisième estomac des ruminants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Farbe</form>
@@ -26846,7 +26846,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Fettmagen</form>
-          <def>caillette, quatrième estomac des ruminants</def>
+          <gloss>caillette, quatrième estomac des ruminants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Fettsäure</form>
@@ -28236,7 +28236,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gegenreiz</form>
-          <def>irritation substitutive, contre-stimulant</def>
+          <gloss>irritation substitutive, contre-stimulant</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gegensatz</form>
@@ -28297,7 +28297,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehirnfalten</form>
-          <def>petit hippocampe, éminence unrdforme du cerveau</def>
+          <gloss>petit hippocampe, éminence unrdforme du cerveau</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehirnfett</form>
@@ -28339,7 +28339,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehirnkrümmungen</form>
-          <def>anfractuosités qui séparent les circonvolutions du cerveau</def>
+          <gloss>anfractuosités qui séparent les circonvolutions du cerveau</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehirnlappen</form>
@@ -28387,7 +28387,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehirnspalte</form>
-          <def>scissure interlobaire du cerveau ; grande fente cérébrale; canal de Bichat; ouverture du ventricule moyen</def>
+          <gloss>scissure interlobaire du cerveau ; grande fente cérébrale; canal de Bichat; ouverture du ventricule moyen</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehirntrichter</form>
@@ -28395,7 +28395,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehirnwulst</form>
-          <def>dorne d’Ammon ; Pied d’hippocampe majeur</def>
+          <gloss>dorne d’Ammon ; Pied d’hippocampe majeur</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gehör</form>
@@ -28569,7 +28569,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gelenkfortsatz</form>
-          <def>apophyse articulaire; apophyse cubitale de l’humérus</def>
+          <gloss>apophyse articulaire; apophyse cubitale de l’humérus</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Gelenkhöhle</form>
@@ -29649,7 +29649,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Haarwachs</form>
-          <def>tissu . tendineux qui forme les attaches . des muscles</def>
+          <gloss>tissu . tendineux qui forme les attaches . des muscles</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Haarwurm</form>
@@ -29705,7 +29705,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Hahnenkamm</form>
-          <def>apophyse cristagalli ; végétation, crête de coq</def>
+          <gloss>apophyse cristagalli ; végétation, crête de coq</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Hahnentritt</form>
@@ -29941,7 +29941,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Handgelenk</form>
-          <def>articulation carpo-métacarpienne, poignet</def>
+          <gloss>articulation carpo-métacarpienne, poignet</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Handmuskel</form>
@@ -30119,7 +30119,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Harschen</form>
-          <def>se.couvrir d’une écorce dure, se cicatriser</def>
+          <gloss>se.couvrir d’une écorce dure, se cicatriser</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Hart</form>
@@ -30173,7 +30173,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Haube</form>
-          <def>bonnet, coiffe, deuxième estomac des ruminants</def>
+          <gloss>bonnet, coiffe, deuxième estomac des ruminants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Haufendrüsen</form>
@@ -30741,7 +30741,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Hirsekorn</form>
-          <def>granulations miliaires de la conjonctive</def>
+          <gloss>granulations miliaires de la conjonctive</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Hirsekornartig</form>
@@ -32300,7 +32300,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Knollfuss</form>
-          <def>pied éléphantin, éléphantiasis des Arabes</def>
+          <gloss>pied éléphantin, éléphantiasis des Arabes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Knopf</form>
@@ -32851,7 +32851,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Kriebelkrankheit</form>
-          <def>raphanie, convulsion cérébrale, ergotisme</def>
+          <gloss>raphanie, convulsion cérébrale, ergotisme</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Kriechen</form>
@@ -34393,7 +34393,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Milchgefässe</form>
-          <def>vaisseaux galactophores, vaisseaux chylifères</def>
+          <gloss>vaisseaux galactophores, vaisseaux chylifères</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Milchgeschwulst</form>
@@ -35732,7 +35732,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Ohnmacht</form>
-          <def>défaillance, évanouissement, pâmoison, syncope</def>
+          <gloss>défaillance, évanouissement, pâmoison, syncope</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Ohr</form>
@@ -37476,7 +37476,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Samen gang</form>
-          <def>conduit’ excréteur du sperme ; canal déférent</def>
+          <gloss>conduit’ excréteur du sperme ; canal déférent</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Samengeflecht</form>
@@ -38620,7 +38620,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Schnitt</form>
-          <def>coupure, opération sanglante, incision, taille</def>
+          <gloss>coupure, opération sanglante, incision, taille</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Schnittmesser</form>
@@ -39744,7 +39744,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Spitzsäulenkörper</form>
-          <def>éminences pyramidales de la moelle allongée</def>
+          <gloss>éminences pyramidales de la moelle allongée</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Spitzsäulenmuskel</form>
@@ -39872,7 +39872,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Stachelkreutzband</form>
-          <def>ligament sacro-épineux; sacro-iliaque inférieur</def>
+          <gloss>ligament sacro-épineux; sacro-iliaque inférieur</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Stachelloch</form>
@@ -40297,7 +40297,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Stirnfortsatz</form>
-          <def>apophyse montante de l’os maxillaire supérieur</def>
+          <gloss>apophyse montante de l’os maxillaire supérieur</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Stirnhöhle</form>
@@ -42293,7 +42293,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Vorhof</form>
-          <def>vestibule du labyrinthe ; oreillette du cœur</def>
+          <gloss>vestibule du labyrinthe ; oreillette du cœur</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Vorkammer</form>
@@ -42361,7 +42361,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Wachsdrüsen</form>
-          <def>glandes cérumineuses ; glandes, engorgements de croissance</def>
+          <gloss>glandes cérumineuses ; glandes, engorgements de croissance</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Wachsgrind</form>
@@ -42533,7 +42533,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Warzenfortsatz</form>
-          <def>apophyse mastdide du temporal; lobe de Spiegel</def>
+          <gloss>apophyse mastdide du temporal; lobe de Spiegel</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Warzengewebe</form>
@@ -42597,7 +42597,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Wassergänge im Auge</form>
-          <def>conduits de l’humeur aqueuse admis par quelques anatomistes</def>
+          <gloss>conduits de l’humeur aqueuse admis par quelques anatomistes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Wassergeschwulst</form>
@@ -42687,7 +42687,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Wasserwuth</form>
-          <def>délire des pellagreux qui les porte à se jeter dans l’eau</def>
+          <gloss>délire des pellagreux qui les porte à se jeter dans l’eau</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Watte</form>
@@ -42753,7 +42753,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Wehentreibend</form>
-          <def>qui provoque les douleurs de l’enfantement</def>
+          <gloss>qui provoque les douleurs de l’enfantement</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Weib</form>
@@ -44049,7 +44049,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Zungenvorfall</form>
-          <def>procidence de la langue, glossocèle, macroglosse</def>
+          <gloss>procidence de la langue, glossocèle, macroglosse</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Zungenwarzen </form>
@@ -44494,7 +44494,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Ague cake </form>
-          <def>engorgement de la rate, suite de fièvres</def>
+          <gloss>engorgement de la rate, suite de fièvres</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Ague (dead)</form>
@@ -44826,7 +44826,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Autumnal fever</form>
-          <def>fièvre intermittente ou rémittente, avec complication bilieuse</def>
+          <gloss>fièvre intermittente ou rémittente, avec complication bilieuse</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Auxiliary</form>
@@ -44855,7 +44855,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Breast glass</form>
-          <def>verre pour tirer le lait du sein des nourrices</def>
+          <gloss>verre pour tirer le lait du sein des nourrices</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Breath</form>
@@ -44999,7 +44999,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Cardinal humors</form>
-          <def>humeurs cardinales : le sang, la bile, le phlegme et l’atrabile</def>
+          <gloss>humeurs cardinales : le sang, la bile, le phlegme et l’atrabile</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Carious</form>
@@ -45023,7 +45023,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Carpopedal spasm</form>
-          <def>affection spasmodique du larynx et de la poitrine, avec convulsion des pouces et des orteils</def>
+          <gloss>affection spasmodique du larynx et de la poitrine, avec convulsion des pouces et des orteils</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Cartilaginous</form>
@@ -45233,7 +45233,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Blood-shot</form>
-          <def>qui a les vaisseaux de l’œil distendus par le sang</def>
+          <gloss>qui a les vaisseaux de l’œil distendus par le sang</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Blotch</form>
@@ -45637,7 +45637,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Congestive fever</form>
-          <def>fièvre rémittente avec des signes de congestion</def>
+          <gloss>fièvre rémittente avec des signes de congestion</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Conglobate</form>
@@ -45685,7 +45685,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Convulsives</form>
-          <def>médicaments qui augmentent l’irritabilité musculaire</def>
+          <gloss>médicaments qui augmentent l’irritabilité musculaire</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Copper</form>
@@ -45717,7 +45717,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Corniculate</form>
-          <def>ayant des apophyses semblables à de petites cornes</def>
+          <gloss>ayant des apophyses semblables à de petites cornes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Coronary</form>
@@ -45761,7 +45761,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Couehîng</form>
-          <def>opération de la cataracte par abaissement</def>
+          <gloss>opération de la cataracte par abaissement</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Cough</form>
@@ -45837,7 +45837,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Crim evil</form>
-          <def>mal de Crimée [sorte d’élépliantiasis tuberculeux)</def>
+          <gloss>mal de Crimée [sorte d’élépliantiasis tuberculeux)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Critical</form>
@@ -46106,7 +46106,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Determination</form>
-          <def>l’afflux du sang ou d’autres humeurs en une partie</def>
+          <gloss>l’afflux du sang ou d’autres humeurs en une partie</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Detruncation</form>
@@ -46146,7 +46146,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Diapnoic</form>
-          <def>remède qui procure une douce transpiration</def>
+          <gloss>remède qui procure une douce transpiration</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Diapyetic</form>
@@ -46162,7 +46162,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Diet drink</form>
-          <def>décoction altérante employée chaque jour à dose plus élevée</def>
+          <gloss>décoction altérante employée chaque jour à dose plus élevée</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Dietetic</form>
@@ -46178,12 +46178,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Digastric groove</form>
-          <def>enfoncement longitudinal de l’apophyse mastoïde d’où naît le digastrique</def>
+          <gloss>enfoncement longitudinal de l’apophyse mastoïde d’où naît le digastrique</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Digerents</form>
           <form xml:lang="en">digestives</form>
-          <def>remèdes digestifs, qui favorisent la suppuration</def>
+          <gloss>remèdes digestifs, qui favorisent la suppuration</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Digester</form>
@@ -46203,11 +46203,11 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Dirigent</form>
-          <def>la substance qui, dans un médicament composé, en détermine l’action</def>
+          <gloss>la substance qui, dans un médicament composé, en détermine l’action</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Dirt-eating</form>
-          <def>appétit morbide, commun parmi les nègres</def>
+          <gloss>appétit morbide, commun parmi les nègres</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Discharge</form>
@@ -46503,7 +46503,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Eel fat</form>
-          <def>graisse d’anguille employée pour les raideurs des articulations</def>
+          <gloss>graisse d’anguille employée pour les raideurs des articulations</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Effete</form>
@@ -46636,7 +46636,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Enepidermic treatment</form>
-          <def>application d’emplâtres, etc., à la peau, sans abrasion ni friction</def>
+          <gloss>application d’emplâtres, etc., à la peau, sans abrasion ni friction</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Energy</form>
@@ -46716,7 +46716,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Episternal bones</form>
-          <def>les deux pièces du sternum encore séparées dans l’adolescence</def>
+          <gloss>les deux pièces du sternum encore séparées dans l’adolescence</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Epizootie</form>
@@ -46756,7 +46756,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Eryfhroprotid</form>
-          <def>produit de' l’action d’une solution de potasse bouillante sur la protéine</def>
+          <gloss>produit de' l’action d’une solution de potasse bouillante sur la protéine</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Eschar</form>
@@ -46994,7 +46994,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Fillet</form>
-          <def>ruban employé par les accoucheurs au lieu du crochet mousse</def>
+          <gloss>ruban employé par les accoucheurs au lieu du crochet mousse</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Exotie</form>
@@ -47063,7 +47063,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Eye-glass</form>
-          <def>l’oculaire dans les instruments optiques</def>
+          <gloss>l’oculaire dans les instruments optiques</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Eye teeth</form>
@@ -47512,7 +47512,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Grocer’s itch</form>
-          <def>gale d’épicier, sorte d’eczéma impétigineux produit par l’irritation que cause le sucre</def>
+          <gloss>gale d’épicier, sorte d’eczéma impétigineux produit par l’irritation que cause le sucre</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Grog blotch</form>
@@ -47520,7 +47520,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Grub</form>
-          <def>un ver, dénomination appliquée quelquefois à la sécrétion sébacée des follicules sous-cutanés</def>
+          <gloss>un ver, dénomination appliquée quelquefois à la sécrétion sébacée des follicules sous-cutanés</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Grumous</form>
@@ -47536,7 +47536,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Gum lancet</form>
-          <def>sorte de lancette pour inciser les gencives</def>
+          <gloss>sorte de lancette pour inciser les gencives</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Gum (red)</form>
@@ -47826,7 +47826,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Hour-glass contraction</form>
-          <def>contraction spasmodique des fibres transverses de l’utérus, contraction qui lui donne la forme d’un verre de montre</def>
+          <gloss>contraction spasmodique des fibres transverses de l’utérus, contraction qui lui donne la forme d’un verre de montre</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Humoric</form>
@@ -47986,7 +47986,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Ice-cap</form>
-          <def>vessie pleine de glace qu’ot. ’ applique sur la tête</def>
+          <gloss>vessie pleine de glace qu’ot. ’ applique sur la tête</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Ichorous</form>
@@ -48144,7 +48144,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Intercalary days</form>
-          <def>jours intercalaires auxquels s’opère une crise incomplète ou mauvaise</def>
+          <gloss>jours intercalaires auxquels s’opère une crise incomplète ou mauvaise</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Intercellular</form>
@@ -48176,7 +48176,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Intoxicants</form>
-          <def>remèdes qui produisent un état d’ivresse</def>
+          <gloss>remèdes qui produisent un état d’ivresse</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Intoxication</form>
@@ -48425,7 +48425,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Laryngophony</form>
-          <def>son de la voix entendu à travers le stéthoscope comme venant du larynx</def>
+          <gloss>son de la voix entendu à travers le stéthoscope comme venant du larynx</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Laryngotomy</form>
@@ -48477,7 +48477,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Leaping ague </form>
-          <def>maladie d’Écosse qu’on dit caractérisée par une activité anomale de corps et d’esprit</def>
+          <gloss>maladie d’Écosse qu’on dit caractérisée par une activité anomale de corps et d’esprit</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Leather</form>
@@ -48593,7 +48593,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Lithectasy</form>
-          <def>opération pour ôter la pierre de la vessie</def>
+          <gloss>opération pour ôter la pierre de la vessie</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Lithic acid</form>
@@ -48879,7 +48879,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Médicinal hours</form>
-          <def>heures auxquelles le malade doit prendre le remède</def>
+          <gloss>heures auxquelles le malade doit prendre le remède</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Medicine</form>
@@ -48891,7 +48891,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Meloplastic</form>
-          <def>qui se rapporte à la restauration de la joue</def>
+          <gloss>qui se rapporte à la restauration de la joue</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Membranous</form>
@@ -48999,7 +48999,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Mildew mortification</form>
-          <def>gangrène résultant du grain affecté d’ergot</def>
+          <gloss>gangrène résultant du grain affecté d’ergot</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Miliary</form>
@@ -49019,7 +49019,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Milk sickness</form>
-          <def>sorte de maladie qui se voit aux États-Unis</def>
+          <gloss>sorte de maladie qui se voit aux États-Unis</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Mind</form>
@@ -49135,7 +49135,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Mouldiness</form>
-          <def>pourriture avec production de nombreux champignons</def>
+          <gloss>pourriture avec production de nombreux champignons</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Mouth</form>
@@ -49388,7 +49388,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Nipple shield</form>
-          <def>disque d’ivoire pour protéger te mamelon</def>
+          <gloss>disque d’ivoire pour protéger te mamelon</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Nirles</form>
@@ -49480,7 +49480,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Nutritive center</form>
-          <def>cellule qui produit une succession de cellules</def>
+          <gloss>cellule qui produit une succession de cellules</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Nymphotomy</form>
@@ -49556,7 +49556,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Ocular spectres</form>
-          <def>corps imaginaires qui flottent devant les yeux</def>
+          <gloss>corps imaginaires qui flottent devant les yeux</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Oculist</form>
@@ -49652,7 +49652,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Oozing tumor of the labium</form>
-          <def>tumeur des grandes lèvres, qui rend un fluide aqueux</def>
+          <gloss>tumeur des grandes lèvres, qui rend un fluide aqueux</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Opacity</form>
@@ -49781,7 +49781,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Osteotomist</form>
-          <def>forts ciseaux destinés à couper les os du fœtus dans l’utérus</def>
+          <gloss>forts ciseaux destinés à couper les os du fœtus dans l’utérus</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Osteotomy</form>
@@ -49978,7 +49978,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Paralyzers</form>
-          <def>subdivision de narcotiques qui produit une sorte de paralysie passagère</def>
+          <gloss>subdivision de narcotiques qui produit une sorte de paralysie passagère</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Parasitical</form>
@@ -50098,7 +50098,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Pelvi-trochanteric</form>
-          <def>qui se rapporte au bassin et au trochanter</def>
+          <gloss>qui se rapporte au bassin et au trochanter</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Pelvimeter</form>
@@ -50186,7 +50186,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Perisystole</form>
-          <def>la pause ou intervalle entre une contraction et une dilatation du cœur</def>
+          <gloss>la pause ou intervalle entre une contraction et une dilatation du cœur</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Peritropal</form>
@@ -50480,7 +50480,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Placebo</form>
-          <def>épithète donnée à toute médecine propre plus à plaire qu’à faire du bien au malade</def>
+          <gloss>épithète donnée à toute médecine propre plus à plaire qu’à faire du bien au malade</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Plague</form>
@@ -50488,7 +50488,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Plague (cold)</form>
-          <def>la fièvre congestive des États du sud (dans l’Amérique du Nord), où il y a peu de réaction</def>
+          <gloss>la fièvre congestive des États du sud (dans l’Amérique du Nord), où il y a peu de réaction</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Plaited</form>
@@ -50660,7 +50660,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Pouch</form>
-          <def>dilatation morbide d’une partie d’un canal</def>
+          <gloss>dilatation morbide d’une partie d’un canal</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Poultice</form>
@@ -50813,7 +50813,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Protid</form>
-          <def>produit de l’action de la potasse sur la protéine</def>
+          <gloss>produit de l’action de la potasse sur la protéine</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Protopathic</form>
@@ -51054,7 +51054,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Quickening</form>
-          <def>période de la grossesse où l’on commence à sentir l’enfant</def>
+          <gloss>période de la grossesse où l’on commence à sentir l’enfant</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Quicklime</form>
@@ -51078,7 +51078,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Quinogen</form>
-          <def>radical hypothétique des alcaloïdes du cinchona</def>
+          <gloss>radical hypothétique des alcaloïdes du cinchona</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Quinsy</form>
@@ -51243,7 +51243,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Resuscitation</form>
-          <def>restauration de personnes mortes en apparence, à la vie</def>
+          <gloss>restauration de personnes mortes en apparence, à la vie</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Retching</form>
@@ -51387,11 +51387,11 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Royal préventive</form>
-          <def>lotion consistant en une solution d’acétate de plomb et qu’on vend comme un préservatif pour les affections vénériennes</def>
+          <gloss>lotion consistant en une solution d’acétate de plomb et qu’on vend comme un préservatif pour les affections vénériennes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Royal stitch</form>
-          <def>point royal, sorte de suture employée jadis pour la cure des hernies</def>
+          <gloss>point royal, sorte de suture employée jadis pour la cure des hernies</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Rubefacient</form>
@@ -51631,7 +51631,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Scoop</form>
-          <def>instrument en forme de cuiller, servant à l’extraction des corps étrangers</def>
+          <gloss>instrument en forme de cuiller, servant à l’extraction des corps étrangers</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Scorbutic</form>
@@ -51697,7 +51697,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Secernents</form>
-          <def>capillaires qu’on supposait ernster pour opérer la sécrétion</def>
+          <gloss>capillaires qu’on supposait ernster pour opérer la sécrétion</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Secondary</form>
@@ -51833,7 +51833,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Seven days’ disease</form>
-          <def>maladie de sept jours (on croit que c’est le trismus des enfants)</def>
+          <gloss>maladie de sept jours (on croit que c’est le trismus des enfants)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Sex</form>
@@ -51907,7 +51907,7 @@
         <entryFree>
           <form xml:lang="en">Show</form>
           <form xml:lang="en">shows</form>
-          <def>marquer, en parlant des signes avant-coureurs de l’accouchement</def>
+          <gloss>marquer, en parlant des signes avant-coureurs de l’accouchement</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Shower-bath</form>
@@ -52445,7 +52445,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Staff</form>
-          <def>cathéter qui sert à guider le bistouri dans l’opération de la taille</def>
+          <gloss>cathéter qui sert à guider le bistouri dans l’opération de la taille</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Stage</form>
@@ -52513,7 +52513,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Strangalis</form>
-          <def>tumeur dure et douloureuse au sein produite par une obstruction au cours du lait</def>
+          <gloss>tumeur dure et douloureuse au sein produite par une obstruction au cours du lait</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Strangury</form>
@@ -52742,7 +52742,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Surfeit</form>
-          <def>conséquence d’un excès de manger ou de boire</def>
+          <gloss>conséquence d’un excès de manger ou de boire</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Surgeon</form>
@@ -52851,7 +52851,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Systatic</form>
-          <def>associé, en parlant des affections nerveuses</def>
+          <gloss>associé, en parlant des affections nerveuses</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">System</form>
@@ -52859,7 +52859,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Systemic circulation</form>
-          <def>circulation du corps, en opposition à la circulation pulmonaire</def>
+          <gloss>circulation du corps, en opposition à la circulation pulmonaire</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Tabîd</form>
@@ -52875,7 +52875,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Taliacotian operation</form>
-          <def>opération pour restaurer les parties perdues</def>
+          <gloss>opération pour restaurer les parties perdues</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Tannic acid</form>
@@ -53148,7 +53148,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Tongue (black)</form>
-          <def>fièvre typhoïde endémique dans les États de l’ouest (Amérique du Nord)</def>
+          <gloss>fièvre typhoïde endémique dans les États de l’ouest (Amérique du Nord)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Tongue-shaped</form>
@@ -53799,7 +53799,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Wen</form>
-          <def>tumeur indolente, ordinairement sébacée, tanne</def>
+          <gloss>tumeur indolente, ordinairement sébacée, tanne</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Wharton’sduct</form>
@@ -53867,7 +53867,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Wind contusion</form>
-          <def>prétendue contusion par le vent du boulet</def>
+          <gloss>prétendue contusion par le vent du boulet</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Windy</form>
@@ -53927,7 +53927,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Wormseed</form>
-          <def>aux États-Unis, graine du chenopodium anthelminthicum; en Angleterre, fleurs, sommités et graine de l’artemisia santonica</def>
+          <gloss>aux États-Unis, graine du chenopodium anthelminthicum; en Angleterre, fleurs, sommités et graine de l’artemisia santonica</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Wormwood</form>
@@ -54015,7 +54015,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="en">Zincous element</form>
-          <def>l’élément positif d’un composé, par opposition à chlorous element, ou élément négatif</def>
+          <gloss>l’élément positif d’un composé, par opposition à chlorous element, ou élément négatif</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="en">Zingiber</form>
@@ -54135,7 +54135,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Abomaso</form>
-          <def>le quatrième ventricule chez les ruminants</def>
+          <gloss>le quatrième ventricule chez les ruminants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Abortire</form>
@@ -54433,7 +54433,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Acquavitale</form>
-          <def>limonade préparée avec l’acide sulfurique</def>
+          <gloss>limonade préparée avec l’acide sulfurique</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Acquavite</form>
@@ -54494,7 +54494,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Acromatopsia</form>
-          <def>impuissance de discerner certaines couleurs</def>
+          <gloss>impuissance de discerner certaines couleurs</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Acromiale</form>
@@ -54579,7 +54579,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Adenofaringite</form>
-          <def>inflammation des amygdales et du pharynx</def>
+          <gloss>inflammation des amygdales et du pharynx</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Adenofima</form>
@@ -54607,7 +54607,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Adenottalmia</form>
-          <def>inflammation des follicules de Meibomius</def>
+          <gloss>inflammation des follicules de Meibomius</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Adepto</form>
@@ -54764,7 +54764,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Affralimento</form>
-          <def>maladie du cheval dans laquelle le muscle ilio-abdominal forme une corde qui sépare le flanc</def>
+          <gloss>maladie du cheval dans laquelle le muscle ilio-abdominal forme une corde qui sépare le flanc</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Affusione</form>
@@ -54812,7 +54812,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Agerasia</form>
-          <def>conservation des forces dans la vieillesse</def>
+          <gloss>conservation des forces dans la vieillesse</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Agglutinare</form>
@@ -55092,11 +55092,11 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Alto d’avanti</form>
-          <def>se dit d’un cheval dont la hauteur, depuis le sommet des épaules, dépasse la mesure de deux têtes et demie</def>
+          <gloss>se dit d’un cheval dont la hauteur, depuis le sommet des épaules, dépasse la mesure de deux têtes et demie</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Alto di monta</form>
-          <def>se dit d’un cheval dont les jambes sont trop longues</def>
+          <gloss>se dit d’un cheval dont les jambes sont trop longues</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Alto calzato</form>
@@ -55212,7 +55212,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Amigdala</form>
-          <def>protubérance ronde de la superficie inférieure du cerveau</def>
+          <gloss>protubérance ronde de la superficie inférieure du cerveau</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Amigdale</form>
@@ -55375,7 +55375,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Ancajone</form>
-          <def>cheval qui a une des hanches plus basse que l’autre</def>
+          <gloss>cheval qui a une des hanches plus basse que l’autre</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Anchiloblefaro</form>
@@ -55517,7 +55517,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Angioplania</form>
-          <def>irrégularité des vaisseaux dans leur disposition</def>
+          <gloss>irrégularité des vaisseaux dans leur disposition</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Angiosperme</form>
@@ -56003,7 +56003,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Archetto</form>
-          <def>cerceau pour garantir un membre fracturé</def>
+          <gloss>cerceau pour garantir un membre fracturé</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Archiatro</form>
@@ -56220,7 +56220,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Attrappamento</form>
-          <def>claudication chez le cheval, par inflammation du tissu réticulaire du pied</def>
+          <gloss>claudication chez le cheval, par inflammation du tissu réticulaire du pied</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Attrattivo</form>
@@ -56731,7 +56731,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Barra</form>
-          <def>prolongement, de la symphyse du pubis qui diminue le détroit périnéal du bassin</def>
+          <gloss>prolongement, de la symphyse du pubis qui diminue le détroit périnéal du bassin</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Barrare unavena</form>
@@ -56783,7 +56783,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Batassare</form>
-          <def>produire le ballottement dans le toucher</def>
+          <gloss>produire le ballottement dans le toucher</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Batraco</form>
@@ -56886,7 +56886,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Bezioli</form>
-          <def>sorte de fausses lunettes pour redresser les yeux des enfants louches</def>
+          <gloss>sorte de fausses lunettes pour redresser les yeux des enfants louches</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Bezuarro</form>
@@ -56894,7 +56894,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Bianchire</form>
-          <def>enlever une partie de la sole à un cheval</def>
+          <gloss>enlever une partie de la sole à un cheval</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Bianco</form>
@@ -57417,7 +57417,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cacatoria (febbre)</form>
-          <def>fièvre avec des déjections alvines abondantes</def>
+          <gloss>fièvre avec des déjections alvines abondantes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cacciù</form>
@@ -57836,7 +57836,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Capitombolo</form>
-          <def>culbute (supposée) du fœtus, dans l’utérus</def>
+          <gloss>culbute (supposée) du fœtus, dans l’utérus</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Capituluvio</form>
@@ -57864,7 +57864,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cappelletto</form>
-          <def>loupe qui vient chez le cheval au jarret</def>
+          <gloss>loupe qui vient chez le cheval au jarret</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cappellina</form>
@@ -58254,7 +58254,8 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cavezza di Moro</form>
-          <def>tête de More, en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</def>
+          <term>tête de More</term>
+          <gloss>en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cavité</form>
@@ -58274,7 +58275,8 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cavriola</form>
-          <def>courbette, saut de chèvre (en parlant du cheval)</def>
+          <term>courbette</term>
+          <gloss>saut de chèvre (en parlant du cheval)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Cece</form>
@@ -59759,7 +59761,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Corba</form>
-          <def>tumeur osseuse à la face interne du jarret, chez lecheval</def>
+          <gloss>tumeur osseuse à la face interne du jarret, chez lecheval</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Corda d’Ippocrate</form>
@@ -59847,7 +59849,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Coronamento</form>
-          <def>bourrelet circulaire, formé dans l’accouchement par l’orifice externe de l’utérus devant la tête du fœtus</def>
+          <gloss>bourrelet circulaire, formé dans l’accouchement par l’orifice externe de l’utérus devant la tête du fœtus</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Coronario</form>
@@ -62719,7 +62721,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Fettone</form>
-          <def>fourchette (lésion du pied chez le cheval)</def>
+          <gloss>fourchette (lésion du pied chez le cheval)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Fiala</form>
@@ -63062,7 +63064,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Formella</form>
-          <def>tumeur synoviale qui se forme au jarret du cheval</def>
+          <gloss>tumeur synoviale qui se forme au jarret du cheval</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Formento</form>
@@ -63086,7 +63088,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Formicolajo (vétér.)</form>
-          <def>trou qui se trouve entre l’ongle et l’os du pied du cheval</def>
+          <gloss>trou qui se trouve entre l’ongle et l’os du pied du cheval</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Formicolamento</form>
@@ -63346,7 +63348,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Fuoco selvatico </form>
-          <def>éruption fugace chez les enfants à la mamelle</def>
+          <gloss>éruption fugace chez les enfants à la mamelle</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Furfuraceo</form>
@@ -63416,7 +63418,7 @@
         <entryFree>
           <form xml:lang="it">Gallete</form>
           <form xml:lang="it">galbe acquajuole</form>
-          <def>petites tumeurs cystiques qui viennent chez le cheval</def>
+          <gloss>petites tumeurs cystiques qui viennent chez le cheval</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Gallico</form>
@@ -64121,7 +64123,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Idatismo</form>
-          <def>bruit que produit la fluctuation d’un liquide</def>
+          <gloss>bruit que produit la fluctuation d’un liquide</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Idiocrasia</form>
@@ -64531,7 +64533,7 @@
         <entryFree>
           <form xml:lang="it">Inchiodare</form>
           <form xml:lang="it">inchiovare</form>
-          <def>planter un clou dans le tissu réticulaire du pied du cheval</def>
+          <gloss>planter un clou dans le tissu réticulaire du pied du cheval</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Incidente</form>
@@ -65235,7 +65237,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Ipoglottidi</form>
-          <def>pilules béchiques qu’on laisse fondre sous la langue ; glandules linguales</def>
+          <gloss>pilules béchiques qu’on laisse fondre sous la langue ; glandules linguales</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Ipopio</form>
@@ -66951,7 +66953,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Migliolino</form>
-          <def>grain de millet, petite tumeur qui se développe dans les paupières</def>
+          <gloss>grain de millet, petite tumeur qui se développe dans les paupières</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Miglioramento</form>
@@ -67609,7 +67611,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Nutazione</form>
-          <def>oscillation habituelle et involontaire de la tête</def>
+          <gloss>oscillation habituelle et involontaire de la tête</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Nutrimento</form>
@@ -69400,7 +69402,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Premito</form>
-          <def>effort, action de pousser (dans les selles)</def>
+          <gloss>effort, action de pousser (dans les selles)</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Preparata</form>
@@ -69999,7 +70001,7 @@
         <entryFree>
           <form xml:lang="it">Radicatura</form>
           <form xml:lang="it">reggitura</form>
-          <def>sachet contenant une racine d’ellébore, et qu’on met au cou des chevaux et des bœufs</def>
+          <gloss>sachet contenant une racine d’ellébore, et qu’on met au cou des chevaux et des bœufs</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Radice</form>
@@ -70293,7 +70295,7 @@
         <entryFree>
           <form xml:lang="it">Reste</form>
           <form xml:lang="it">coda di ratto</form>
-          <def>croûtes dures et squameuses qui viennent au genou du cheval</def>
+          <gloss>croûtes dures et squameuses qui viennent au genou du cheval</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Restio</form>
@@ -70511,7 +70513,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Riscaldamento</form>
-          <def>échauffement, c’est-à-dire constipation ; uréthrite ; rougeur chez les enfants</def>
+          <gloss>échauffement, c’est-à-dire constipation ; uréthrite ; rougeur chez les enfants</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Risipola</form>
@@ -72941,7 +72943,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Tessaraconliatro</form>
-          <def>médecin de quarante jours, c’est-à-dire médecin qui prétend guérir les maladies par une diète sévère de quarante jours</def>
+          <gloss>médecin de quarante jours, c’est-à-dire médecin qui prétend guérir les maladies par une diète sévère de quarante jours</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Tessitura</form>
@@ -73199,7 +73201,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Trajno </form>
-          <def>se dit du cheval qui, galopant des jambes de devant, trotte des jambes de derrière</def>
+          <gloss>se dit du cheval qui, galopant des jambes de devant, trotte des jambes de derrière</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Tramezzo</form>
@@ -73266,7 +73268,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Travaglio</form>
-          <def>travail de l’enfantement; mal de mer; travail de maréchal</def>
+          <gloss>travail de l’enfantement; mal de mer; travail de maréchal</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Trefina</form>
@@ -73348,7 +73350,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="it">Trismo incapestrato</form>
-          <def>impossibilité d’ouvrir la bouche par suite d’adhérences</def>
+          <gloss>impossibilité d’ouvrir la bouche par suite d’adhérences</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="it">Tritossido</form>
@@ -74672,7 +74674,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Acumetro</form>
-          <def>instrument pour mesurer la finesse de l’ouïe</def>
+          <gloss>instrument pour mesurer la finesse de l’ouïe</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Acuminado</form>
@@ -75000,7 +75002,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Aguadura (vétér.)</form>
-          <def>rhumatisme ; inflammation du tissu réticulaire du pied</def>
+          <gloss>rhumatisme ; inflammation du tissu réticulaire du pied</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Aguamiel</form>
@@ -77194,7 +77196,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Calcoideo</form>
-          <def>nom donné par Fallope aux os cunéiformes du pied</def>
+          <gloss>nom donné par Fallope aux os cunéiformes du pied</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Calculo</form>
@@ -77454,7 +77456,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Caratea</form>
-          <def>affection particulière de la peau chez les gens de couleur dans l’Amérique du Sud</def>
+          <gloss>affection particulière de la peau chez les gens de couleur dans l’Amérique du Sud</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Carbon</form>
@@ -79048,7 +79050,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Coronamiento</form>
-          <def>position de la tête du fœtus au moment de la rupture des membranes</def>
+          <gloss>position de la tête du fœtus au moment de la rupture des membranes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Coronario</form>
@@ -79881,7 +79883,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Desinfisar</form>
-          <def>pratiquer la section de la symphyse du pubis</def>
+          <gloss>pratiquer la section de la symphyse du pubis</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Deslumbramiento</form>
@@ -81806,7 +81808,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Espolon</form>
-          <def>éperon ou ergot de coq, engelure au talon</def>
+          <gloss>éperon ou ergot de coq, engelure au talon</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Espondilartrocace</form>
@@ -82087,7 +82089,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Estinia</form>
-          <def>compression des nerfs ou des vertèbres du cou</def>
+          <gloss>compression des nerfs ou des vertèbres du cou</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Estio</form>
@@ -83366,7 +83368,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Fumorolas</form>
-          <def>cavités qui exhalent une vapeur de soufre</def>
+          <gloss>cavités qui exhalent une vapeur de soufre</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Funcion</form>
@@ -83505,7 +83507,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Garganta</form>
-          <def>partie antérieure du cou, gorge, cou-de-pied</def>
+          <gloss>partie antérieure du cou, gorge, cou-de-pied</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Gargarismo</form>
@@ -84361,7 +84363,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Higroblefaricos (conductos)</form>
-          <def>conduits excrétoires de la glande lacrymale</def>
+          <gloss>conduits excrétoires de la glande lacrymale</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Helecho</form>
@@ -84751,7 +84753,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Hipniatre</form>
-          <def>somnambule donnant des consultations médicales</def>
+          <gloss>somnambule donnant des consultations médicales</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Hipnobatesis</form>
@@ -86021,7 +86023,7 @@
         <entryFree>
           <form xml:lang="es">Intention</form>
           <term>intention</term>
-          <def>Reunion por primera intencion, por segunda intencion, réunion par première, par seconde intention</def>
+          <gloss>Reunion por primera intencion, por segunda intencion, réunion par première, par seconde intention</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Intensidad</form>
@@ -86157,7 +86159,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Juanete</form>
-          <def>(os saillant du gros orteil) tumeurs douloureuses qui sa manifestent aux doigts despieds, sont causées par des chaussures étroites, et déterminent le gonflement de l’os , ce qui les distingue des cors</def>
+          <gloss>(os saillant du gros orteil) tumeurs douloureuses qui sa manifestent aux doigts despieds, sont causées par des chaussures étroites, et déterminent le gonflement de l’os , ce qui les distingue des cors</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Juanetudo</form>
@@ -86916,7 +86918,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Litoclasto</form>
-          <def>instrument qui brise les pierres vésicales</def>
+          <gloss>instrument qui brise les pierres vésicales</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Litolabo</form>
@@ -87363,7 +87365,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Mamadera</form>
-          <def>vaisseau de verre ou de métal pour les mamelles</def>
+          <gloss>vaisseau de verre ou de métal pour les mamelles</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Mamalogia</form>
@@ -87861,7 +87863,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Menoxenia</form>
-          <def>hémorrhagie supplémentaire de la menstruation</def>
+          <gloss>hémorrhagie supplémentaire de la menstruation</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Menstruation</form>
@@ -87989,7 +87991,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Mesotenar</form>
-          <def>muscle qui rapproche le pouce de la paume de la main</def>
+          <gloss>muscle qui rapproche le pouce de la paume de la main</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Mesotorax</form>
@@ -88133,7 +88135,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Metroscopo</form>
-          <def>instrument pour entendre les doublet, battements du cœur du fœtus</def>
+          <gloss>instrument pour entendre les doublet, battements du cœur du fœtus</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Metrotomia</form>
@@ -91153,7 +91155,7 @@
         <entryFree>
           <form xml:lang="es">Porta</form>
           <term>porte</term>
-          <def>Eminencias portas, éminences portes</def>
+          <gloss>Eminencias portas, éminences portes</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Porta agujas</form>
@@ -94340,7 +94342,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="es">Tornasol</form>
-          <def>matière bleue qui sert à reconnaître les acides</def>
+          <gloss>matière bleue qui sert à reconnaître les acides</gloss>
         </entryFree>
         <entryFree>
           <form xml:lang="es">Tornillo</form>
