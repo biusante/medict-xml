@@ -56,9 +56,9 @@
         <a:documentation>Section mêlée, contenant de l’étymologie et des traductions</a:documentation>
         <zeroOrMore>
           <choice>
-            <text/>
             <ref name="damage"/>
             <ref name="emph"/>
+            <ref name="etym"/>
             <ref name="foreign"/>
             <ref name="num"/>
             <ref name="pb"/>
@@ -229,6 +229,19 @@
         <text/>
       </element>
     </define>
+    <define name="etym">
+      <element name="etym">
+        <a:documentation>Séquence étymologique (de … et …) où les mots en italique ne sont pas des équivalents traductionnels.</a:documentation>
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="emph"/>
+            <ref name="damage"/>
+            <ref name="pb"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
     <define name="form">
       <element name="form">
         <a:documentation>Sous-entrée, notamment la phraséologie (locutions, expressions)</a:documentation>
@@ -242,7 +255,7 @@
     </define>
     <define name="term">
       <element name="term">
-        <a:documentation>Équivalent traductionnel dans un glossaire nultilingue</a:documentation>
+        <a:documentation>Équivalent traductionnel dans un glossaire nultilingue ou une section étymologique</a:documentation>
         <zeroOrMore>
           <choice>
             <text/>
@@ -252,9 +265,14 @@
     </define>
     <define name="foreign">
       <element name="foreign">
-        <a:documentation>Mot en langue étrangère, notamment les équivalenets traductionnels</a:documentation>
+        <a:documentation>Mot en langue étrangère, notamment les équivalenets traductionnels ou les glossaires</a:documentation>
         <ref name="xml.lang"/>
-        <text/>
+        <oneOrMore>
+          <choice>
+            <ref name="damage"/>
+            <text/>
+          </choice>
+        </oneOrMore>
       </element>
     </define>
     <define name="formula">
@@ -431,7 +449,7 @@
           <value>en</value>
           <value>es</value>
           <value>fr</value>
-          <value>gr</value>
+          <value>grc</value>
           <value>it</value>
           <value>la</value>
         </choice>
