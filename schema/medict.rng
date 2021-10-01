@@ -57,12 +57,12 @@
         <zeroOrMore>
           <choice>
             <ref name="damage"/>
-            <ref name="emph"/>
             <ref name="etym"/>
             <ref name="foreign"/>
             <ref name="num"/>
             <ref name="pb"/>
             <ref name="ref"/>
+            <ref name="term"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -237,7 +237,9 @@
             <text/>
             <ref name="emph"/>
             <ref name="damage"/>
+            <ref name="num"/>
             <ref name="pb"/>
+            <ref name="ref"/>
           </choice>
         </oneOrMore>
       </element>
@@ -255,7 +257,7 @@
     </define>
     <define name="term">
       <element name="term">
-        <a:documentation>Équivalent traductionnel dans un glossaire nultilingue ou une section étymologique</a:documentation>
+        <a:documentation>Terme en français, équivalent traductionnel dans un glossaire nultilingue avec entrée en langue étrangère, ou synonyme en section étymologique</a:documentation>
         <zeroOrMore>
           <choice>
             <text/>
