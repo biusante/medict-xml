@@ -232,6 +232,9 @@
     <define name="etym">
       <element name="etym">
         <a:documentation>Séquence étymologique (de … et …) où les mots en italique ne sont pas des équivalents traductionnels.</a:documentation>
+        <optional>
+          <ref name="xml.lang"/>
+        </optional>
         <oneOrMore>
           <choice>
             <text/>
