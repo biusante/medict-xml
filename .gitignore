@@ -1,5 +1,6 @@
 .old
 .~*
+_*.xml
 work/
 docx/
 doc/

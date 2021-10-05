@@ -1,4 +1,7 @@
 <?php
+/**
+Différents outils de restructuration des fichiers après conversion docx > TEI
+*/
 include 'build.php';
 Tagger::init();
 
@@ -20,7 +23,7 @@ class Tagger
     $path = dirname(dirname(__FILE__)) . '/';
     self::$HOME=$path;
   }
-  
+
   /** filepath */
   private $_src;
   /** XML string */
@@ -36,7 +39,7 @@ class Tagger
   /** file size */
   private $_filesize;
 
-  
+
   /**
    * Constructor, load a file and prepare work
    */
@@ -61,7 +64,7 @@ class Tagger
   {
     return Build::transformDoc($this->_dom, dirname(__FILE__).'/idref.xsl');
   }
-  
+
 
   /**
    * Comparer avec l’ancienne indexation
@@ -95,9 +98,9 @@ class Tagger
     foreach ($orth_sql as $key => $value) {
       $orth_key[strtr($key, $desacc)] = $key;
     }
-    
+
     echo "SQL\tXML\n";
-    
+
     $re_callback = array(
       '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) use (&$orth_sql, &$orth_key, &$desacc) {
         $orth = strtr($matches[1], array(
@@ -110,21 +113,21 @@ class Tagger
           echo $orth_key[$key],"\t",$matches[1],"\n";
           return;
         }
-        
+
         // echo $matches[1], "\n";
       }
     );
     $xml = preg_replace_callback_array($re_callback, $this->_xml);
   }
-  
+
 
   /**
    * Vérifier l’ordre alphabétique des entrées
    */
   public function orthalpha()
   {
-    
-  
+
+
     $last;
     $re_callback = array(
       '@<form><orth>([^<]+)</orth>@' => function ($matches) use (&$last) {
@@ -178,7 +181,7 @@ class Tagger
     $dst = self::$HOME . "work/" . $this->_filename . ".xml";
     file_put_contents($dst, $xml);
   }
-  
+
   /**
    * Insérer les no de pages
    */
@@ -217,7 +220,7 @@ function rewrite1()
     "@­@u" => "", // trait d’union invisible
     "@ xml:lang=\"[^\"]+\"@u" => "",
     '@\n<lb type="line"/>@u' => '', // lignes vides
-    '@<space rend="tab">    </space>@u' => '', // 
+    '@<space rend="tab">    </space>@u' => '', //
     '@<seg rend="texteducorps">(.*)</seg>@' => '$1', // scorie
     '@^.*?<body>@su' => "",
     '@</body>.*?$@su' => "",
@@ -287,10 +290,10 @@ function rewrite1()
   );
 
   $re3 = array(
-    
+
     /*
     // '@<p rend="lmarg1">(.*?)</p>@u' => "<list>$1</list>", // noise
-    '@<p rend="[^"]*legendedelimage[^"]*">(.*?)</p>@u' => "<figDesc>$1</figDesc>", // Légende 
+    '@<p rend="[^"]*legendedelimage[^"]*">(.*?)</p>@u' => "<figDesc>$1</figDesc>", // Légende
     // '@<emph>([^<\n]+)(<hi rend="sc">[^<\n]+</hi>)@u' => "<emph>$1</emph>$2<emph>",// <emph>— Turbith nitreux. <hi rend="sc">N. Azotate</hi> de potasse. — Vapeurs nitreuses. N.</emph>
     '@<orth>([-\p{Lu}]+)([^\n\p{Lu}<]+)@u' => "<orth>$1</orth>$2<orth>", // <p><hi rend="b">NAPIFORME. adj. V. NAPACÉ.</hi></p>
     // '@<seg rend="texteducorps">([^<\n]+)</seg>@u' => "$1", // reste
@@ -302,10 +305,10 @@ function rewrite1()
     '@ *[NyY]</emph>. (<hi rend="sc">|<orth>)@u' => "</emph> V. $1",
     '@([\.,\[\]\(\) }— =]+)</(emph)>@u' => "</$2>$1", // renettoyer les <emph> créés
     '@<(emph|orth)>([^\pL\n]*?)</\1>@u' => "$2", // nettoyer des balises vides
-    
-    
+
+
     // Sauts de lignes qui peuvent casser des balises
-    
+
     '@(<orth>[^\[\n]*?)(adj\. et s\. f\.|s. f. et adj.|adj\. et s\. m\.|adj\.|s\. f\.|[s]\. m\.)@u' => "\n<form>$1$2</form>", // saut de ligne autour de la vedette
     '@(<emph>[^<]+)(</form>)@u' => "$1</emph>$2", // italique cassé dans la vedette
     '@(</form>) *(\[[^\]\n]+?)(\]\.?|\}\.|\)\.)@u' => "$1\n<dictScrap>$2].</dictScrap>\n    ", // saut de ligne après l’étymologie
@@ -321,11 +324,11 @@ function rewrite1()
     "@<(emph)>([\[(—  ]+)@u" => "$2<$1>", // sortir avant balise
     '@<hi rend="sc">V. ([^<]+)</hi>@u' => 'V. <ref>$1</ref>', // renvoi simple
     '@(\PL+)</ref>@u' => "</ref>$1", // nettoyer les <ref>
-    '@<p>@u' => "<entry>", 
+    '@<p>@u' => "<entry>",
     '@</p>@u' => "\n</entry>",
-    
+
     // structuration sémantique
-    
+
     '@\n    (.*)@u' => "\n....<sense>$1</sense>",
     */
   );

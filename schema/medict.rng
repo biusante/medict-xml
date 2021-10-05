@@ -56,6 +56,7 @@
         <a:documentation>Section mêlée, contenant de l’étymologie et des traductions</a:documentation>
         <zeroOrMore>
           <choice>
+            <ref name="dictScrap.lax"/>
             <ref name="damage"/>
             <ref name="etym"/>
             <ref name="foreign"/>
@@ -67,11 +68,16 @@
         </zeroOrMore>
       </element>
     </define>
+    <define name="dictScrap.lax">
+      <a:documentation>Permet de régler la rigueur du bloc étymologique en cours de travail à l’import</a:documentation>
+      <empty/>
+    </define>
     <define name="sense">
       <element name="sense">
         <a:documentation>Un “sens”, ou au moins une section dans un article (la hiérarchie n’est pas nécessaire)</a:documentation>
         <oneOrMore>
           <choice>
+            <ref name="sense.lax"></ref>
             <text/>
             <ref name="damage"/>
             <ref name="emph"/>
@@ -85,6 +91,10 @@
           </choice>
         </oneOrMore>
       </element>
+    </define>
+    <define name="sense.lax">
+      <a:documentation>Permet de régler la rigueur d’un bloc de signification à l’import</a:documentation>
+      <empty/>
     </define>
     <define name="code">
       <element name="code">

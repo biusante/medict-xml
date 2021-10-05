@@ -28,7 +28,7 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:pb[not(@facs)]">
+  <xsl:template match="tei:pbTMP[not(@facs)]">
     <xsl:variable name="n" select="@n"/>
     <xsl:if test="$n &lt; 1">
       <xsl:message>pb ? <xsl:value-of select="$n"/></xsl:message>
@@ -49,7 +49,7 @@
   </xsl:template>
     
   
-  <xsl:template match="tei:ref[not(@target)]">
+  <xsl:template match="tei:refTMP[not(@target)]">
     <xsl:variable name="key">
       <xsl:variable name="norm" select="normalize-space(.)"/>
       <xsl:choose>
@@ -98,12 +98,14 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:entryDONE">
+  <xsl:template match="tei:entry[not(@xml:id)]">
     <xsl:copy>
       <xsl:copy-of select="@*"/>
       <xsl:variable name="key" select="translate(tei:form/tei:orth, $uc, $lc)"/>
       <xsl:variable name="entry" select="."/>
       <xsl:variable name="id">
+        <xsl:value-of select="$key"/>
+        <!--
         <xsl:choose>
           <xsl:when test="count(key('ids', $key)) = 1">
             <xsl:value-of select="$key"/>
@@ -120,6 +122,7 @@
             </xsl:for-each>
           </xsl:otherwise>
         </xsl:choose>
+        -->
       </xsl:variable>
       <xsl:attribute name="xml:id">
         <xsl:value-of select="$id"/>
