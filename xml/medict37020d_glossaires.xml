@@ -13302,15 +13302,15 @@
           <term>zona</term>
         </entryFree>
       </div>
-      <div xml:id="gr">
+      <div xml:id="grc">
+        <pb n="1726" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1740"/>
         <head>Glossaire grec</head>
         <entryFree>
           <form xml:lang="grc">αβάπτιστου</form>
           <term>sorte de trépan</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άβρο</form>
-          <term>'τονον</term>
+          <form xml:lang="grc">άβρο'τονον</form>
           <term>aurone</term>
         </entryFree>
         <entryFree>
@@ -13340,7 +13340,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">αγγείου</form>
-          <term>κυητηριον</term>
+          <form xml:lang="grc">κυητηριον</form>
           <term>utérus</term>
         </entryFree>
         <entryFree>
@@ -13370,7 +13370,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άγκύλωσις</form>
-          <term>αγκύλη</term>
+          <form xml:lang="grc">αγκύλη</form>
           <term>ankylosé</term>
         </entryFree>
         <entryFree>
@@ -13401,7 +13401,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">Αγουοι</form>
-          <term>ημε'ραι</term>
+          <form xml:lang="grc">ημε'ραι</form>
           <term>jours pairs</term>
         </entryFree>
         <entryFree>
@@ -13468,8 +13468,7 @@
           <term>la joubarbe</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άερο</form>
-          <term>'φοβος</term>
+          <form xml:lang="grc">άερο'φοβος</form>
           <term>aérophobe</term>
         </entryFree>
         <entryFree>
@@ -13492,7 +13491,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">αθήρωμα</form>
-          <term>αθε'ρωμα</term>
+          <form xml:lang="grc">αθε'ρωμα</form>
           <term>athérome</term>
         </entryFree>
         <entryFree>
@@ -13538,7 +13537,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">αίματΐτις</form>
-          <term>φλέψ</term>
+          <form xml:lang="grc">φλέψ</form>
           <term>veine</term>
         </entryFree>
         <entryFree>
@@ -13574,8 +13573,7 @@
           <gloss>sujet aux écoulements de sang ; femme qui a ses menstrues</gloss>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">αιμο</form>
-          <term>'φοβος</term>
+          <form xml:lang="grc">αιμο'φοβος</form>
           <term>qui craint la saignée</term>
         </entryFree>
         <entryFree>
@@ -13640,42 +13638,37 @@
           <term>ciron</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άκε</form>
-          <term>'ομαι</term>
+          <form xml:lang="grc">άκε'ομαι</form>
           <term>je guéris</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άκε</form>
-          <term>'σιμος</term>
-          <term>άκίσμιος</term>
-          <term>άκεστος</term>
+          <form xml:lang="grc">άκε'σιμος</form>
+          <form xml:lang="grc">άκίσμιος</form>
+          <form xml:lang="grc">άκεστος</form>
           <term>guérissable</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άκε</form>
-          <term>'σιος</term>
+          <form xml:lang="grc">άκε'σιος</form>
           <term>guérissant</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άκεσμα</form>
-          <term>άκεσις</term>
-          <term>άκεσμος</term>
+          <form xml:lang="grc">άκεσις</form>
+          <form xml:lang="grc">άκεσμος</form>
           <term>cure</term>
           <term>remède</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άκεστρΐς</form>
-          <term>άκεστορις</term>
+          <form xml:lang="grc">άκεστορις</form>
           <term>sage-femme</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άκε</form>
-          <term>'στωρ</term>
+          <form xml:lang="grc">άκε'στωρ</form>
           <term>médecin</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άκε</form>
-          <term>'φαλος</term>
+          <form xml:lang="grc">άκε'φαλος</form>
           <term>acéphale</term>
         </entryFree>
         <entryFree>
@@ -13782,14 +13775,14 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άλγημα</form>
-          <term>άλγος</term>
+          <form xml:lang="grc">άλγος</form>
           <term>douleur</term>
           <term>quelquefois maladie</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άλειμμα</form>
-          <term>άλειφα</term>
-          <term>άλειφαρ</term>
+          <form xml:lang="grc">άλειφα</form>
+          <form xml:lang="grc">άλειφαρ</form>
           <term>onguent</term>
         </entryFree>
         <entryFree>
@@ -13812,6 +13805,7 @@
           <form xml:lang="grc">άλεξιφάρμακου</form>
           <term>alexipharmaque</term>
         </entryFree>
+        <pb n="1727" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1741"/>
         <entryFree>
           <form xml:lang="grc">άλευρον</form>
           <term>farine</term>
@@ -13826,7 +13820,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άλλαντοειδής</form>
-          <term>ΰμήν</term>
+          <form xml:lang="grc">ΰμήν</form>
           <term>allantoïde</term>
         </entryFree>
         <entryFree>
@@ -13855,7 +13849,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άλύκη</form>
-          <term>άλυσμός</term>
+          <form xml:lang="grc">άλυσμός</form>
           <term>angoisse</term>
           <term>agitation</term>
           <term>anxiété</term>
@@ -13890,7 +13884,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άμβλυωγμός</form>
-          <term>άμβλυωπία</term>
+          <form xml:lang="grc">άμβλυωπία</form>
           <term>amblyopie</term>
         </entryFree>
         <entryFree>
@@ -13899,7 +13893,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άμβλωτρ</form>
-          <term>ίδιον</term>
+          <form xml:lang="grc">ίδιον</form>
           <term>moyen abortif</term>
         </entryFree>
         <entryFree>
@@ -13960,8 +13954,7 @@
           <term>région autour des amygdales</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άμφιδε</form>
-          <term>'ξιος</term>
+          <form xml:lang="grc">άμφιδε'ξιος</form>
           <term>ambidextre</term>
         </entryFree>
         <entryFree>
@@ -14075,7 +14068,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άναπετεις</form>
-          <term>οφθαλμοί</term>
+          <form xml:lang="grc">οφθαλμοί</form>
           <term>yeux ouverts</term>
         </entryFree>
         <entryFree>
@@ -14107,8 +14100,7 @@
           <term>action de se mettre sur sou séant</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άναστο</form>
-          <term>'μωσις</term>
+          <form xml:lang="grc">άναστο'μωσις</form>
           <term>anastomose</term>
         </entryFree>
         <entryFree>
@@ -14175,14 +14167,13 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άνησον</form>
-          <term>άννησον</term>
-          <term>άνισον</term>
-          <term>άνησσον</term>
+          <form xml:lang="grc">άννησον</form>
+          <form xml:lang="grc">άνισον</form>
+          <form xml:lang="grc">άνησσον</form>
           <term>anis</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άνθε</form>
-          <term>'λιξ</term>
+          <form xml:lang="grc">άνθε'λιξ</form>
           <term>anthélix</term>
         </entryFree>
         <entryFree>
@@ -14211,7 +14202,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άνοδμος</form>
-          <term>άνοσμος</term>
+          <form xml:lang="grc">άνοσμος</form>
           <term>inodore</term>
         </entryFree>
         <entryFree>
@@ -14220,13 +14211,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άνοχευς</form>
-          <term>ύμήν</term>
-          <term>έντερων</term>
+          <form xml:lang="grc">ύμήν</form>
+          <form xml:lang="grc">έντερων</form>
           <term>mésentère</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άντε</form>
-          <term>'ρεισις</term>
+          <form xml:lang="grc">άντε'ρεισις</form>
           <term>rénitence</term>
         </entryFree>
         <entryFree>
@@ -14263,13 +14253,13 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άνω</form>
-          <term>κοιλία</term>
-          <term>ή</term>
+          <form xml:lang="grc">κοιλία</form>
+          <form xml:lang="grc">ή</form>
           <term>la poitrine</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ανωμαλία</form>
-          <term>άνωμαλότης</term>
+          <form xml:lang="grc">άνωμαλότης</form>
           <term>anomalie</term>
         </entryFree>
         <entryFree>
@@ -14322,8 +14312,7 @@
           <term>qui est sans respiration</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'βρεγμα</term>
+          <form xml:lang="grc">άπο'βρεγμα</form>
           <term>infusion</term>
         </entryFree>
         <entryFree>
@@ -14367,8 +14356,7 @@
           <term>abscission</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'κρισις</term>
+          <form xml:lang="grc">άπο'κρισις</form>
           <term>sécrétion d’humeur</term>
           <term>excrétion</term>
         </entryFree>
@@ -14393,9 +14381,8 @@
           <term>déjections</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'πληκτος</term>
-          <term>άποπληκτικός</term>
+          <form xml:lang="grc">άπο'πληκτος</form>
+          <form xml:lang="grc">άποπληκτικός</form>
           <term>apoplectique</term>
         </entryFree>
         <entryFree>
@@ -14440,15 +14427,13 @@
           <term>apospastique</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'στασις</term>
-          <term>απόστημα</term>
+          <form xml:lang="grc">άπο'στασις</form>
+          <form xml:lang="grc">απόστημα</form>
           <term>apostème</term>
           <term>abcès</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'συρμα</term>
+          <form xml:lang="grc">άπο'συρμα</form>
           <term>desquamation</term>
           <term>excoriation</term>
         </entryFree>
@@ -14469,8 +14454,7 @@
           <term>cicatrisant</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'φθαρμα</term>
+          <form xml:lang="grc">άπο'φθαρμα</form>
           <term>avorton</term>
         </entryFree>
         <entryFree>
@@ -14482,13 +14466,11 @@
           <term>tout ce qui fait couler la pituite</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'φυσις</term>
+          <form xml:lang="grc">άπο'φυσις</form>
           <term>apophyse</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">άπο</form>
-          <term>'χρεμψις</term>
+          <form xml:lang="grc">άπο'χρεμψις</form>
           <term>exscréation</term>
         </entryFree>
         <entryFree>
@@ -14521,7 +14503,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άραιόν</form>
-          <term>οστε'ον</term>
+          <form xml:lang="grc">οστε'ον</form>
           <term>os spongieux</term>
         </entryFree>
         <entryFree>
@@ -14547,8 +14529,8 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άργεμα</form>
-          <term>άργεμον</term>
-          <term>άργεμος</term>
+          <form xml:lang="grc">άργεμον</form>
+          <form xml:lang="grc">άργεμος</form>
           <term>albugo</term>
         </entryFree>
         <entryFree>
@@ -14569,9 +14551,10 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άρθρον</form>
-          <term>άρθρωσις</term>
+          <form xml:lang="grc">άρθρωσις</form>
           <term>articulation</term>
         </entryFree>
+        <pb n="1728" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1742"/>
         <entryFree>
           <form xml:lang="grc">άρθρωδία</form>
           <term>arthrodie</term>
@@ -14582,7 +14565,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άρμ</form>
-          <term>ονία</term>
+          <form xml:lang="grc">ονία</form>
           <term>harmonie</term>
         </entryFree>
         <entryFree>
@@ -14741,7 +14724,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">άφο'δευμα</form>
-          <term>άφοδος</term>
+          <form xml:lang="grc">άφοδος</form>
           <term>excréments</term>
         </entryFree>
         <entryFree>
@@ -14789,8 +14772,7 @@
           <term>cavité articulaire d’un os</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">βάθρου</form>
-          <term>Ιπποκράτειον</term>
+          <form xml:lang="grc">βάθρου Ιπποκράτειον</form>
           <term>banc d’Hippocrate</term>
         </entryFree>
         <entryFree>
@@ -14899,8 +14881,8 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">βουλιμία</form>
-          <term>βουλιμίασις</term>
-          <term>βούλιμ.ος</term>
+          <form xml:lang="grc">βουλιμίασις</form>
+          <form xml:lang="grc">βούλιμ.ος</form>
           <term>boulimie</term>
         </entryFree>
         <entryFree>
@@ -14924,8 +14906,7 @@
           <term>enrouement</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">βραουπε</form>
-          <term>'ψία</term>
+          <form xml:lang="grc">βραουπε'ψία</form>
           <term>bradypepsie</term>
         </entryFree>
         <entryFree>
@@ -14941,8 +14922,7 @@
           <term>qui a l’haleine courte</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">βραχυπο</form>
-          <term>'της</term>
+          <form xml:lang="grc">βραχυπο'της</form>
           <term>qui boit peu</term>
         </entryFree>
         <entryFree>
@@ -14996,11 +14976,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">γάλα</form>
-          <term>σχιστόν</term>
+          <form xml:lang="grc">σχιστόν</form>
           <term>petit-lait</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">γάλα ορνίθων</form>
+          <form xml:lang="grc">γάλα</form>
+          <form xml:lang="grc">ορνίθων</form>
           <term>lait de poule</term>
         </entryFree>
         <entryFree>
@@ -15033,7 +15014,7 @@
           <term>je gargarise</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">γαργαρισμος</form>
+          <form xml:lang="grc">γαργαρισμ.ος</form>
           <term>gargarisme</term>
         </entryFree>
         <entryFree>
@@ -15093,12 +15074,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">γλάμη</form>
-          <term>γλήμη</term>
+          <form xml:lang="grc">γλήμη</form>
           <term>chassie</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">γλαύκωμα</form>
-          <term>γλαύκωσις</term>
+          <form xml:lang="grc">γλαύκωσις</form>
           <term>cataracte</term>
         </entryFree>
         <entryFree>
@@ -15119,7 +15100,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">γλώσσα</form>
-          <term>γλώττα</term>
+          <form xml:lang="grc">γλώττα</form>
           <term>langue</term>
         </entryFree>
         <entryFree>
@@ -15128,7 +15109,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">γλωσσόκομον</form>
-          <term>γλωττοκομεϊον</term>
+          <form xml:lang="grc">γλωττοκομεϊον</form>
           <term>glossocome</term>
         </entryFree>
         <entryFree>
@@ -15169,7 +15150,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">γόνιμη</form>
-          <term>ημέρα</term>
+          <form xml:lang="grc">ημέρα</form>
           <term>jour impair</term>
         </entryFree>
         <entryFree>
@@ -15198,7 +15179,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">δάκρυ</form>
-          <term>δάκρυου</term>
+          <form xml:lang="grc">δάκρυου</form>
           <term>larme</term>
         </entryFree>
         <entryFree>
@@ -15216,7 +15197,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">δαρτός</form>
-          <term>χιτών</term>
+          <form xml:lang="grc">χιτών</form>
           <term>dartos</term>
         </entryFree>
         <entryFree>
@@ -15306,9 +15287,9 @@
           <form xml:lang="grc">διαπυητικός</form>
           <term>suppuratif</term>
         </entryFree>
+        <pb n="1729" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1742"/>
         <entryFree>
-          <form xml:lang="grc">β</form>
-          <term>.άρθρωσις</term>
+          <form xml:lang="grc">β.άρθρωσις</form>
           <term>diarthrose</term>
         </entryFree>
         <entryFree>
@@ -15332,8 +15313,7 @@
           <term>excoriation par frottement</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">διαφο</form>
-          <term>'ρησις</term>
+          <form xml:lang="grc">διαφο'ρησις</form>
           <term>diaphorèse</term>
         </entryFree>
         <entryFree>
@@ -15355,7 +15335,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">διαχώρησις</form>
-          <term>διαχώρημα</term>
+          <form xml:lang="grc">διαχώρημα</form>
           <term>selle</term>
           <term>évacuation alvine</term>
         </entryFree>
@@ -15386,8 +15366,7 @@
           <term>tuméfaction</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">διο</form>
-          <term>'ρθωσις</term>
+          <form xml:lang="grc">διο'ρθωσις</form>
           <term>réduction d’une fracture</term>
         </entryFree>
         <entryFree>
@@ -15443,8 +15422,7 @@
           <term>caprisant</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">δο</form>
-          <term>'σις</term>
+          <form xml:lang="grc">δο'σις</form>
           <term>dose</term>
         </entryFree>
         <entryFree>
@@ -15453,13 +15431,12 @@
           <term>drastique</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">δρο</form>
-          <term>'μος</term>
+          <form xml:lang="grc">δρο'μος</form>
           <term>course</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">δρυπεπής</form>
-          <term>δρυπετής</term>
+          <form xml:lang="grc">δρυπετής</form>
           <term>drupe</term>
         </entryFree>
         <entryFree>
@@ -15532,7 +15509,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έγγε</form>
-          <term>ίσωμα</term>
+          <form xml:lang="grc">ίσωμα</form>
           <term>emharrure</term>
         </entryFree>
         <entryFree>
@@ -15549,7 +15526,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">εγκέφαλος</form>
-          <term>οπίσθιος</term>
+          <form xml:lang="grc">οπίσθιος</form>
           <term>cervelet</term>
         </entryFree>
         <entryFree>
@@ -15578,7 +15555,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έγχυσις</form>
-          <term>έγχυτον</term>
+          <form xml:lang="grc">έγχυτον</form>
           <term>infusion</term>
         </entryFree>
         <entryFree>
@@ -15607,8 +15584,7 @@
           <term>inspiration</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">εκβο</form>
-          <term>'λιος</term>
+          <form xml:lang="grc">εκβο'λιος</form>
           <term>abortif</term>
         </entryFree>
         <entryFree>
@@ -15633,7 +15609,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έκλειγμα</form>
-          <term>έκλεικτόν</term>
+          <form xml:lang="grc">έκλεικτόν</form>
           <term>éclegme</term>
         </entryFree>
         <entryFree>
@@ -15693,14 +15669,13 @@
           <term>excoriation</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">έκτρο</form>
-          <term>'πιον</term>
+          <form xml:lang="grc">έκτρο'πιον</form>
           <term>ectropion</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έκτρωμα</form>
-          <term>έκτρωσις</term>
-          <term>έκτρωσμος</term>
+          <form xml:lang="grc">έκτρωσις</form>
+          <form xml:lang="grc">έκτρωσμος</form>
           <term>avortement</term>
         </entryFree>
         <entryFree>
@@ -15717,7 +15692,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έκχύμωμα</form>
-          <term>έκχύμωσις</term>
+          <form xml:lang="grc">έκχύμωσις</form>
           <term>ecchymose</term>
         </entryFree>
         <entryFree>
@@ -15726,12 +15701,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ελατή</form>
-          <term>ριον</term>
+          <form xml:lang="grc">ριον</form>
           <term>purgatif</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έλεφαυτίασις</form>
-          <term>έλεφας</term>
+          <form xml:lang="grc">έλεφας</form>
           <term>éléphantiasis</term>
         </entryFree>
         <entryFree>
@@ -15752,7 +15727,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έλκωμα</form>
-          <term>έλκωσις</term>
+          <form xml:lang="grc">έλκωσις</form>
           <term>ulcération</term>
         </entryFree>
         <entryFree>
@@ -15883,7 +15858,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ένδήμιος</form>
-          <term>ένδημος</term>
+          <form xml:lang="grc">ένδημος</form>
           <term>endémique</term>
         </entryFree>
         <entryFree>
@@ -15941,8 +15916,8 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έξάρθρημα</form>
-          <term>έξάρθρωμα</term>
-          <term>εξάρθρωσις</term>
+          <form xml:lang="grc">έξάρθρωμα</form>
+          <form xml:lang="grc">εξάρθρωσις</form>
           <term>luxation</term>
         </entryFree>
         <entryFree>
@@ -15971,8 +15946,7 @@
           <term>assimilation</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">εξό</form>
-          <term>^ιφαλος</term>
+          <form xml:lang="grc">εξό^ιφαλος</form>
           <term>exomphale</term>
         </entryFree>
         <entryFree>
@@ -15980,8 +15954,7 @@
           <term>pollution nocturne</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">έξο</form>
-          <term>'στωσις</term>
+          <form xml:lang="grc">έξο'στωσις</form>
           <term>exostose</term>
         </entryFree>
         <entryFree>
@@ -16002,7 +15975,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έπιγουατίς</form>
-          <term>έπιγουυίς</term>
+          <form xml:lang="grc">έπιγουυίς</form>
           <term>la rotule</term>
         </entryFree>
         <entryFree>
@@ -16020,7 +15993,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">έπιδήμιος</form>
-          <term>έπίδημος</term>
+          <form xml:lang="grc">έπίδημος</form>
           <term>épidémique</term>
         </entryFree>
         <entryFree>
@@ -16044,6 +16017,7 @@
           <form xml:lang="grc">έπικρανις</form>
           <term>cervelet</term>
         </entryFree>
+        <pb n="1730" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1743"/>
         <entryFree>
           <form xml:lang="grc">επικτένιον</form>
           <term>le pubis</term>
@@ -16106,8 +16080,7 @@
           <term>suppression</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">ε</form>
-          <term>’πιφαινόμενον</term>
+          <form xml:lang="grc">ε’πιφαινόμενον</form>
           <term>épiphénomène</term>
         </entryFree>
         <entryFree>
@@ -16428,7 +16401,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ήρακλεία</form>
-          <term>νόσος</term>
+          <form xml:lang="grc">νόσος</form>
           <term>maladie herculéenne</term>
           <term>épilepsie</term>
         </entryFree>
@@ -16442,8 +16415,7 @@
           <term>soufre</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">θε</form>
-          <term>'ναρ</term>
+          <form xml:lang="grc">θε'ναρ</form>
           <term>éminence thénar</term>
           <term>paume de la main</term>
         </entryFree>
@@ -16478,7 +16450,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">θήριον</form>
-          <term>θηρίωμα</term>
+          <form xml:lang="grc">θηρίωμα</form>
           <term>ulcère malin</term>
         </entryFree>
         <entryFree>
@@ -16495,7 +16467,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">θορή</form>
-          <term>θορός</term>
+          <form xml:lang="grc">θορός</form>
           <term>sperme</term>
         </entryFree>
         <entryFree>
@@ -16512,7 +16484,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">θρόμβος</form>
-          <term>θρόμβωσις</term>
+          <form xml:lang="grc">θρόμβωσις</form>
           <term>thrombus</term>
           <term>caillot de sang</term>
         </entryFree>
@@ -16555,7 +16527,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ιγνύα</form>
-          <term>ιγνυς</term>
+          <form xml:lang="grc">ιγνυς</form>
           <term>jarret</term>
         </entryFree>
         <entryFree>
@@ -16576,7 +16548,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ιερά</form>
-          <term>νόσος</term>
+          <form xml:lang="grc">νόσος</form>
           <term>épilepsie</term>
         </entryFree>
         <entryFree>
@@ -16714,6 +16686,7 @@
           <form xml:lang="grc">κακοχυμία</form>
           <term>cacochymie</term>
         </entryFree>
+        <pb n="1731" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1744"/>
         <entryFree>
           <form xml:lang="grc">κακόχυαος</form>
           <term>cacochyme</term>
@@ -16728,7 +16701,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">καμάριον</form>
-          <term>ψαλιδοειδές</term>
+          <form xml:lang="grc">ψαλιδοειδές</form>
           <term>voûte à trois piliers</term>
         </entryFree>
         <entryFree>
@@ -16754,7 +16727,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">καρδ</form>
-          <term>ιωγμός</term>
+          <form xml:lang="grc">ιωγμός</form>
           <term>cardialgie</term>
           <term>palpitation</term>
         </entryFree>
@@ -16867,7 +16840,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κατοχή</form>
-          <term>κάτοχος</term>
+          <form xml:lang="grc">κάτοχος</form>
           <term>catochus</term>
         </entryFree>
         <entryFree>
@@ -16924,8 +16897,7 @@
           <term>évacuant</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">κε</form>
-          <term>'ρασον</term>
+          <form xml:lang="grc">κε'ρασον</form>
           <term>cerise</term>
         </entryFree>
         <entryFree>
@@ -16965,8 +16937,7 @@
           <term>opération de la hernie</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">κηλοτο</form>
-          <term>'μος</term>
+          <form xml:lang="grc">κηλοτο'μος</form>
           <term>chirurgien herniaire</term>
         </entryFree>
         <entryFree>
@@ -16987,7 +16958,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κίγκλισις</form>
-          <term>κιγκλισμός</term>
+          <form xml:lang="grc">κιγκλισμός</form>
           <term>cinclise</term>
         </entryFree>
         <entryFree>
@@ -16996,7 +16967,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κιμωλία</form>
-          <term>γη</term>
+          <form xml:lang="grc">γη</form>
           <term>terre cimolée</term>
         </entryFree>
         <entryFree>
@@ -17073,8 +17044,7 @@
           <term>ventre</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">ή</form>
-          <term>άνω κοιλία</term>
+          <form xml:lang="grc">ήάνω κοιλία</form>
           <term>la poitrine</term>
         </entryFree>
         <entryFree>
@@ -17103,7 +17073,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κολπός</form>
-          <term>γυναικείος</term>
+          <form xml:lang="grc">γυναικείος</form>
           <term>vulve</term>
         </entryFree>
         <entryFree>
@@ -17196,7 +17166,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κριθή</form>
-          <term>κριθίδιον</term>
+          <form xml:lang="grc">κριθίδιον</form>
           <term>orgelet</term>
         </entryFree>
         <entryFree>
@@ -17250,7 +17220,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κυητήριον</form>
-          <term>άγγεΐον</term>
+          <form xml:lang="grc">άγγεΐον</form>
           <term>utérus</term>
         </entryFree>
         <entryFree>
@@ -17276,7 +17246,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κυρίαι</form>
-          <term>ήμεραι</term>
+          <form xml:lang="grc">ήμεραι</form>
           <term>jours critiques</term>
         </entryFree>
         <entryFree>
@@ -17305,7 +17275,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">κωλική</form>
-          <term>διάθεσις</term>
+          <form xml:lang="grc">διάθεσις</form>
           <term>la colique</term>
         </entryFree>
         <entryFree>
@@ -17320,12 +17290,14 @@
         <entryFree>
           <form xml:lang="grc">κώνωψ</form>
           <term>cousin (insecte)</term>
-          <term>κώφωσις</term>
+        </entryFree>
+        <entryFree>
+          <form xml:lang="grc">κώφωσις</form>
           <term>surdité</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">λαβίδιον</form>
-          <term>λαβίς</term>
+          <form xml:lang="grc">λαβίς</form>
           <term>pince</term>
           <term>tenette</term>
         </entryFree>
@@ -17476,13 +17448,14 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">λίθος</form>
-          <term>λιθίδιον</term>
+          <form xml:lang="grc">λιθίδιον</form>
           <term>calcul</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">λιθοτομία</form>
           <term>lithotomie</term>
         </entryFree>
+        <pb n="1732" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1745"/>
         <entryFree>
           <form xml:lang="grc">λιθοτόμος</form>
           <gloss>lithotomiste ; instrument pour couper la pierre dans la vessie après l’incision</gloss>
@@ -17536,13 +17509,11 @@
           <term>crête</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">λοχεία</form>
-          <term>(ή)</term>
+          <form xml:lang="grc">λοχεία(ή)</form>
           <term>accouchement</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">λοχεία</form>
-          <term>(τα)</term>
+          <form xml:lang="grc">λοχεία(τα)</form>
           <term>lochies</term>
         </entryFree>
         <entryFree>
@@ -17555,7 +17526,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">λυγξ</form>
-          <term>λυγμός</term>
+          <form xml:lang="grc">λυγμός</form>
           <term>hoquet</term>
         </entryFree>
         <entryFree>
@@ -17604,12 +17575,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μαία</form>
-          <term>μαιεύτρια</term>
+          <form xml:lang="grc">μαιεύτρια</form>
           <term>sage-femme</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μαιεία</form>
-          <term>μαίευσις</term>
+          <form xml:lang="grc">μαίευσις</form>
           <term>l’art des accouchements</term>
         </entryFree>
         <entryFree>
@@ -17638,7 +17609,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μαλθακαι</form>
-          <term>πλεΰραι</term>
+          <form xml:lang="grc">πλεΰραι</form>
           <term>fausses côtes</term>
         </entryFree>
         <entryFree>
@@ -17687,8 +17658,7 @@
           <term>qui a les viscères engorgés</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">με</form>
-          <term>'δω</term>
+          <form xml:lang="grc">με'δω</form>
           <term>je soigne</term>
         </entryFree>
         <entryFree>
@@ -17705,12 +17675,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μέλαινα</form>
-          <term>νόσος</term>
+          <form xml:lang="grc">νόσος</form>
           <term>mélæna</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μ</form>
-          <term>ελαναγωγος</term>
+          <form xml:lang="grc">ελαναγωγος</form>
           <term>mélanagogue</term>
         </entryFree>
         <entryFree>
@@ -17772,7 +17742,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μηκών</form>
-          <term>ιον</term>
+          <form xml:lang="grc">ιον</form>
           <term>méconium</term>
         </entryFree>
         <entryFree>
@@ -17810,7 +17780,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μίλφαι</form>
-          <term>μίλφωσις</term>
+          <form xml:lang="grc">μίλφωσις</form>
           <term>chute des cils</term>
         </entryFree>
         <entryFree>
@@ -17831,7 +17801,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μοτόν</form>
-          <term>μοτός</term>
+          <form xml:lang="grc">μοτός</form>
           <term>tente</term>
           <term>charpie</term>
         </entryFree>
@@ -17911,7 +17881,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μυωπία</form>
-          <term>μύωπίασις$ myopie</term>
+          <form xml:lang="grc">μύωπίασις$ myopie</form>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">μύωψ</form>
@@ -17929,7 +17899,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">νάρκη</form>
-          <term>νάρκωσις</term>
+          <form xml:lang="grc">νάρκωσις</form>
           <term>narcotisme</term>
         </entryFree>
         <entryFree>
@@ -17971,7 +17941,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">νεφρ</form>
-          <term>ίδιος</term>
+          <form xml:lang="grc">ίδιος</form>
           <term>rénal</term>
         </entryFree>
         <entryFree>
@@ -18030,7 +18000,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">νυγμή</form>
-          <term>νύξις</term>
+          <form xml:lang="grc">νύξις</form>
           <term>piqûre</term>
           <term>ponction</term>
         </entryFree>
@@ -18113,7 +18083,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">όβελαία</form>
-          <term>ραφή</term>
+          <form xml:lang="grc">ραφή</form>
           <term>suture sagittale</term>
         </entryFree>
         <entryFree>
@@ -18213,6 +18183,7 @@
           <form xml:lang="grc">όλόστεος</form>
           <term>entièrement osseux</term>
         </entryFree>
+        <pb n="1733" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1746"/>
         <entryFree>
           <form xml:lang="grc">όμμα</form>
           <term>œil</term>
@@ -18291,8 +18262,7 @@
           <term>postérieur</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">όπισθο</form>
-          <term>'τονος</term>
+          <form xml:lang="grc">όπισθο'τονος</form>
           <term>opisthotonos</term>
         </entryFree>
         <entryFree>
@@ -18317,8 +18287,7 @@
           <gloss>'κυλλος, dont un membre est ankylosé et droit</gloss>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">ορθο</form>
-          <term>'πνοια</term>
+          <form xml:lang="grc">ορθο'πνοια</form>
           <term>orthopnée</term>
         </entryFree>
         <entryFree>
@@ -18348,8 +18317,7 @@
           <term>odeur</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">οστεοκο</form>
-          <term>'πος</term>
+          <form xml:lang="grc">οστεοκο'πος</form>
           <term>ostéocope</term>
         </entryFree>
         <entryFree>
@@ -18374,7 +18342,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">όσχεον</form>
-          <term>όσχεος</term>
+          <form xml:lang="grc">όσχεος</form>
           <term>scrotum</term>
         </entryFree>
         <entryFree>
@@ -18387,12 +18355,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ουραγός</form>
-          <term>ούραχός</term>
+          <form xml:lang="grc">ούραχός</form>
           <term>ouraque</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ούρανός</form>
-          <term>ουρανίσκος</term>
+          <form xml:lang="grc">ουρανίσκος</form>
           <term>le palais</term>
         </entryFree>
         <entryFree>
@@ -18478,7 +18446,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πάθος</form>
-          <term>παιδικόν</term>
+          <form xml:lang="grc">παιδικόν</form>
           <term>épilepsie</term>
         </entryFree>
         <entryFree>
@@ -18584,7 +18552,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">παρά</form>
-          <term>τά ωτα</term>
+          <form xml:lang="grc">τά ωτα</form>
           <term>parotide (tumeur)</term>
         </entryFree>
         <entryFree>
@@ -18678,7 +18646,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">περίαμμα</form>
-          <term>περίαπτον</term>
+          <form xml:lang="grc">περίαπτον</form>
           <term>amulette</term>
         </entryFree>
         <entryFree>
@@ -18703,7 +18671,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">περίναιον</form>
-          <term>περίνεον</term>
+          <form xml:lang="grc">περίνεον</form>
           <term>périnée</term>
         </entryFree>
         <entryFree>
@@ -18731,8 +18699,7 @@
           <term>colliquation</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">περιτόναιον</form>
-          <term>«.ιπεριτο'νειον</term>
+          <form xml:lang="grc">περιτόναιον«.ιπεριτο'νειον</form>
           <term>péritoine</term>
         </entryFree>
         <entryFree>
@@ -18774,7 +18741,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πηδηθμός</form>
-          <term>φλεβών</term>
+          <form xml:lang="grc">φλεβών</form>
           <term>battement des artères</term>
         </entryFree>
         <entryFree>
@@ -18796,8 +18763,7 @@
           <term>compression</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">πικρο</form>
-          <term>'της</term>
+          <form xml:lang="grc">πικρο'της</form>
           <term>amertume</term>
         </entryFree>
         <entryFree>
@@ -18894,12 +18860,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πνίξ</form>
-          <term>πνιγμός</term>
+          <form xml:lang="grc">πνιγμός</form>
           <term>suffocation</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πνιξ</form>
-          <term>υστερική</term>
+          <form xml:lang="grc">υστερική</form>
           <term>hystérie</term>
         </entryFree>
         <entryFree>
@@ -18948,14 +18914,12 @@
           <term>phlyctène</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">πο</form>
-          <term>'νος</term>
+          <form xml:lang="grc">πο'νος</form>
           <term>fatigue</term>
           <term>douleur</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">πο</form>
-          <term>'ρος</term>
+          <form xml:lang="grc">πο'ρος</form>
           <term>pore</term>
         </entryFree>
         <entryFree>
@@ -18967,8 +18931,7 @@
           <term>orgelet</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">πο</form>
-          <term>'σις</term>
+          <form xml:lang="grc">πο'σις</form>
           <term>potion</term>
         </entryFree>
         <entryFree>
@@ -18995,6 +18958,7 @@
           <form xml:lang="grc">προγνωστικός</form>
           <term>pronostique</term>
         </entryFree>
+        <pb n="1734" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1747"/>
         <entryFree>
           <form xml:lang="grc">προηγούμενος</form>
           <term>proégumène</term>
@@ -19032,8 +18996,7 @@
           <term>le cubitus</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">πρ</form>
-          <term>«πόλις</term>
+          <form xml:lang="grc">πρ«πόλις</form>
           <term>propolis</term>
         </entryFree>
         <entryFree>
@@ -19078,13 +19041,11 @@
           <term>éternument</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">πτε</form>
-          <term>'ρνα</term>
+          <form xml:lang="grc">πτε'ρνα</form>
           <term>calcanéum</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">πτε</form>
-          <term>'ρον</term>
+          <form xml:lang="grc">πτε'ρον</form>
           <term>aile</term>
         </entryFree>
         <entryFree>
@@ -19114,7 +19075,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πτύελον</form>
-          <term>πτύσμα</term>
+          <form xml:lang="grc">πτύσμα</form>
           <term>crachat</term>
         </entryFree>
         <entryFree>
@@ -19154,12 +19115,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πυρ</form>
-          <term>άγριον</term>
+          <form xml:lang="grc">άγριον</form>
           <term>érysipèle</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πυρεκτικός</form>
-          <term>’ fébrile</term>
+          <term>fébrile</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πύρεξις</form>
@@ -19180,8 +19141,8 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">πυρία</form>
-          <term>πυρίασις</term>
-          <term>πυρίαμά</term>
+          <form xml:lang="grc">πυρίασις</form>
+          <form xml:lang="grc">πυρίαμά</form>
           <term>fomentation</term>
         </entryFree>
         <entryFree>
@@ -19223,7 +19184,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ραβδοειδής</form>
-          <term>ραφή</term>
+          <form xml:lang="grc">ραφή</form>
           <term>suture sagittale</term>
         </entryFree>
         <entryFree>
@@ -19249,7 +19210,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ράχιτης</form>
-          <term>μυελός</term>
+          <form xml:lang="grc">μυελός</form>
           <term>moelle épinière</term>
         </entryFree>
         <entryFree>
@@ -19274,7 +19235,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ρήγμα</form>
-          <term>ρήξις</term>
+          <form xml:lang="grc">ρήξις</form>
           <term>rupture</term>
         </entryFree>
         <entryFree>
@@ -19334,7 +19295,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ρους</form>
-          <term>γυναικείος-</term>
+          <form xml:lang="grc">γυναικείος-</form>
           <term>leucorrhée</term>
         </entryFree>
         <entryFree>
@@ -19427,7 +19388,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σατυριασμός</form>
-          <term>σατυρίασις</term>
+          <form xml:lang="grc">σατυρίασις</form>
           <term>satyriasis</term>
         </entryFree>
         <entryFree>
@@ -19435,8 +19396,7 @@
           <gloss>engorgement des parotides; satyriasis ; éléphantiasis</gloss>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">σβε</form>
-          <term>'σις</term>
+          <form xml:lang="grc">σβε'σις</form>
           <term>extinction</term>
         </entryFree>
         <entryFree>
@@ -19490,7 +19450,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σιαγώυ</form>
-          <term>σιαγόυιον</term>
+          <form xml:lang="grc">σιαγόυιον</form>
           <term>mâchoire</term>
         </entryFree>
         <entryFree>
@@ -19531,7 +19491,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σιτίου</form>
-          <term>σίτος</term>
+          <form xml:lang="grc">σίτος</form>
           <term>aliment</term>
         </entryFree>
         <entryFree>
@@ -19555,8 +19515,7 @@
           <term>squelette</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">σκε</form>
-          <term>'λος</term>
+          <form xml:lang="grc">σκε'λος</form>
           <term>jambe</term>
         </entryFree>
         <entryFree>
@@ -19596,13 +19555,12 @@
           <term>pandiculation</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">σκο</form>
-          <term>'ροδον</term>
+          <form xml:lang="grc">σκο'ροδον</form>
           <term>ail</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σκοτόδιυος</form>
-          <term>σκότωμα</term>
+          <form xml:lang="grc">σκότωμα</form>
           <term>vertige</term>
         </entryFree>
         <entryFree>
@@ -19632,7 +19590,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σπάσαα</form>
-          <term>σπασμός</term>
+          <form xml:lang="grc">σπασμός</form>
           <term>spasme</term>
         </entryFree>
         <entryFree>
@@ -19640,8 +19598,7 @@
           <term>spasmodique</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">σπε</form>
-          <term>'ρμα</term>
+          <form xml:lang="grc">σπε'ρμα</form>
           <term>sperme</term>
         </entryFree>
         <entryFree>
@@ -19662,7 +19619,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σπλάγχ</form>
-          <term>υου</term>
+          <form xml:lang="grc">υου</form>
           <term>viscère</term>
         </entryFree>
         <entryFree>
@@ -19695,7 +19652,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">στάξις</form>
-          <term>επίσταξις</term>
+          <form xml:lang="grc">επίσταξις</form>
           <term>épistaxis</term>
         </entryFree>
         <entryFree>
@@ -19719,8 +19676,7 @@
           <term>épi</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">στε</form>
-          <term>'αρ</term>
+          <form xml:lang="grc">στε'αρ</form>
           <term>graisse</term>
         </entryFree>
         <entryFree>
@@ -19741,8 +19697,7 @@
           <term>obstruant</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">στε</form>
-          <term>'ρυου</term>
+          <form xml:lang="grc">στε'ρυου</form>
           <term>sternum</term>
         </entryFree>
         <entryFree>
@@ -19766,6 +19721,7 @@
           <term>la bouche</term>
           <term>orifice de l’utérus</term>
         </entryFree>
+        <pb n="1735" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1749"/>
         <entryFree>
           <form xml:lang="grc">στοματικός</form>
           <term>stomatique</term>
@@ -19783,12 +19739,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">στόμαχος</form>
-          <term>τής κύστιος</term>
+          <form xml:lang="grc">τής κύστιος</form>
           <term>col de la vessie</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">στόμαχος</form>
-          <term>τής μήτρας</term>
+          <form xml:lang="grc">τής μήτρας</form>
           <term>col de la matrice</term>
         </entryFree>
         <entryFree>
@@ -19846,7 +19802,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σύκωμα</form>
-          <term>σύκωσις</term>
+          <form xml:lang="grc">σύκωσις</form>
           <term>sycose</term>
         </entryFree>
         <entryFree>
@@ -19888,7 +19844,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">συν</form>
-          <term>άγχη</term>
+          <form xml:lang="grc">άγχη</form>
           <term>esquinancie</term>
         </entryFree>
         <entryFree>
@@ -19954,7 +19910,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σφάκελος</form>
-          <term>σφακελισμός</term>
+          <form xml:lang="grc">σφακελισμός</form>
           <term>sphacèle</term>
         </entryFree>
         <entryFree>
@@ -20010,7 +19966,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">σωφρονιστήρες</form>
-          <term>όδόντες</term>
+          <form xml:lang="grc">όδόντες</form>
           <term>dents de sagesse</term>
         </entryFree>
         <entryFree>
@@ -20068,7 +20024,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">τιθή</form>
-          <term>τίτθη</term>
+          <form xml:lang="grc">τίτθη</form>
           <term>mamelle</term>
         </entryFree>
         <entryFree>
@@ -20089,7 +20045,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">τίλμα</form>
-          <term>τίλτος μοτός</term>
+          <form xml:lang="grc">τίλτος μοτός</form>
           <term>charpie</term>
         </entryFree>
         <entryFree>
@@ -20135,7 +20091,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">τραχεία</form>
-          <term>αρτηρία</term>
+          <form xml:lang="grc">αρτηρία</form>
           <term>trachée-artère</term>
         </entryFree>
         <entryFree>
@@ -20151,8 +20107,7 @@
           <term>trachoma</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">τρε</form>
-          <term>'φω</term>
+          <form xml:lang="grc">τρε'φω</form>
           <term>je nourris</term>
         </entryFree>
         <entryFree>
@@ -20240,7 +20195,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">τυφλός</form>
-          <term>έντερον</term>
+          <form xml:lang="grc">έντερον</form>
           <term>le cæcum</term>
         </entryFree>
         <entryFree>
@@ -20422,7 +20377,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ΰποσαρκίδιος</form>
-          <term>ΰδρωψ</term>
+          <form xml:lang="grc">ΰδρωψ</form>
           <term>anasarque</term>
         </entryFree>
         <entryFree>
@@ -20451,12 +20406,12 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">υπόχυμα</form>
-          <term>ΰπόχυσις</term>
+          <form xml:lang="grc">ΰπόχυσις</form>
           <term>cataracte</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">υποχώρημα</form>
-          <term>ύποχώρησις</term>
+          <form xml:lang="grc">ύποχώρησις</form>
           <term>déjections</term>
         </entryFree>
         <entryFree>
@@ -20507,13 +20462,14 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">φαλακρότης</form>
-          <term>φαλάκρωσις</term>
+          <form xml:lang="grc">φαλάκρωσις</form>
           <term>calvitie</term>
         </entryFree>
         <entryFree>
           <form xml:lang="grc">φαρμακεία</form>
           <gloss>φαρμακοποσία, breuvage purgatif, médecine</gloss>
         </entryFree>
+        <pb n="1736" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1750"/>
         <entryFree>
           <form xml:lang="grc">φαρμακευτικός</form>
           <term>pharmaceutique</term>
@@ -20549,7 +20505,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">φθισίς</form>
-          <term>φθοή</term>
+          <form xml:lang="grc">φθοή</form>
           <term>phthisie</term>
           <term>«φθορά</term>
           <term>avortement</term>
@@ -20605,7 +20561,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">φλυζάκιον</form>
-          <term>φλύκταινα</term>
+          <form xml:lang="grc">φλύκταινα</form>
           <term>phlyctène</term>
         </entryFree>
         <entryFree>
@@ -20668,7 +20624,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">φϋσα</form>
-          <term>φύσημα</term>
+          <form xml:lang="grc">φύσημα</form>
           <term>flatuosité</term>
         </entryFree>
         <entryFree>
@@ -20713,7 +20669,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">χάσμη</form>
-          <term>χάσμησις</term>
+          <form xml:lang="grc">χάσμησις</form>
           <term>bâillement</term>
         </entryFree>
         <entryFree>
@@ -20753,8 +20709,7 @@
           <term>thorax</term>
         </entryFree>
         <entryFree>
-          <form xml:lang="grc">χη</form>
-          <term>'μωσις</term>
+          <form xml:lang="grc">χη'μωσις</form>
           <term>chémosis</term>
         </entryFree>
         <entryFree>
@@ -20872,7 +20827,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">χώλωμα</form>
-          <term>χώλωσις</term>
+          <form xml:lang="grc">χώλωσις</form>
           <term>claudication</term>
         </entryFree>
         <entryFree>
@@ -20881,7 +20836,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ψελλισμός</form>
-          <term>ψελλότης</term>
+          <form xml:lang="grc">ψελλότης</form>
           <term>bégayement</term>
         </entryFree>
         <entryFree>
@@ -20903,7 +20858,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ψοίτης</form>
-          <term>μυελός</term>
+          <form xml:lang="grc">μυελός</form>
           <term>la moelle de la région lombaire</term>
         </entryFree>
         <entryFree>
@@ -20912,7 +20867,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="grc">ψύδρακες</form>
-          <term>ψυδράκια</term>
+          <form xml:lang="grc">ψυδράκια</form>
           <term>pustules</term>
         </entryFree>
         <entryFree>
@@ -20999,6 +20954,7 @@
         </entryFree>
       </div>
       <div xml:id="de">
+        <pb n="1737" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1751"/>
         <head>Glossaire Allemand</head>
         <entryFree>
           <form xml:lang="de">Aal</form>
@@ -21572,6 +21528,7 @@
           <form xml:lang="de">Anzeichen</form>
           <term>symptôme</term>
         </entryFree>
+        <pb n="1738" facs="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=zoom&amp;cote=37020d&amp;p=1752"/>
         <entryFree>
           <form xml:lang="de">Anzieher</form>
           <term>adducteur</term>
@@ -25192,7 +25149,7 @@
         </entryFree>
         <entryFree>
           <form xml:lang="de">Eierstockentzündung</form>
-          <term>οvarite</term>
+          <term>ovarite</term>
         </entryFree>
         <entryFree>
           <form xml:lang="de">Eiförmig</form>
