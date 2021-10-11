@@ -11,7 +11,7 @@
   <xsl:variable name="tab">
     <xsl:text>&#9;</xsl:text>
   </xsl:variable>
-  <xsl:param name="mode" select="'etym'"/>
+  <xsl:param name="mode" select="'glossLa'"/>
   <xsl:template match="/">
     <xsl:choose>
       <xsl:when test="$mode = 'etym'">
@@ -20,17 +20,56 @@
       <xsl:when test="$mode = 'orthList'">
         <xsl:call-template name="orthList"/>
       </xsl:when>
+      <xsl:when test="$mode = 'dicLa'">
+        <xsl:call-template name="dicLa"/>
+      </xsl:when>
+      <xsl:when test="$mode = 'glossLa'">
+        <xsl:call-template name="glossLa"/>
+      </xsl:when>
       <xsl:otherwise>
-        <xsl:call-template name="orthList"/>
+        <xsl:call-template name="dicLa"/>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+  
   <xsl:template name="orthList">
     <xsl:for-each select="/tei:TEI/tei:text/tei:body//tei:orth">
       <xsl:value-of select="normalize-space(.)"/>
       <xsl:value-of select="$lf"/>
     </xsl:for-each>
   </xsl:template>
+
+  <xsl:template name="dicLa">
+    <xsl:for-each select="/tei:TEI/tei:text/tei:body/tei:entry/tei:dictScrap/tei:foreign[@xml:lang = 'la']">
+      <xsl:value-of select="."/>
+      <xsl:value-of select="$tab"/>
+      <xsl:for-each select="ancestor::tei:entry/tei:form/tei:orth">
+        <xsl:value-of select="."/>
+        <xsl:choose>
+          <xsl:when test="position() = last()">.</xsl:when>
+          <xsl:otherwise>, </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each>
+      <xsl:value-of select="$lf"/>
+    </xsl:for-each>
+  </xsl:template>
+
+  <xsl:template name="glossLa">
+    <xsl:for-each select="/tei:TEI/tei:text/tei:body/tei:div[@xml:id='la']/tei:entryFree/tei:form">
+      <xsl:value-of select="."/>
+      <xsl:value-of select="$tab"/>
+      <xsl:for-each select="ancestor::tei:entryFree/tei:term">
+        <xsl:value-of select="."/>
+        <xsl:choose>
+          <xsl:when test="position() = last()">.</xsl:when>
+          <xsl:otherwise>, </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each>
+      <xsl:value-of select="$lf"/>
+    </xsl:for-each>
+  </xsl:template>
+  
+
 
   <xsl:template name="etym">
     <xsl:text>vedette</xsl:text>
