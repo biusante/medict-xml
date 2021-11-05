@@ -28,8 +28,8 @@
           <choice>
             <ref name="code"/>
             <ref name="damage"/>
-            <ref name="pb"/>
             <ref name="graphic"/>
+            <ref name="pb"/>
             <ref name="sense"/>
             <ref name="table"/>
           </choice>
@@ -369,7 +369,6 @@
         </choice>
       </element>
     </define>
-    
     <define name="graphic">
       <element name="graphic">
         <a:documentation>Illustration insérée dans la page (possiblement découpée par l’OCR)</a:documentation>
