@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/glossaire.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="medict.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="37020d_gloss" ana="Littré 1873 (TEI) Glossaires">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -11,12 +11,12 @@
         <author>Charles Robin</author>
       </titleStmt>
       <publicationStmt>
-        <publisher>BIU Santé</publisher>
+        <p>BIU Santé</p>
       </publicationStmt>
       <sourceDesc>
-        <bibl>
-          <ref target="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=chapitre&amp;cote=37020d">Littré 1873</ref>
-        </bibl>
+        <p>
+          https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=chapitre&amp;cote=37020d
+        </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

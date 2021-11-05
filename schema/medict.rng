@@ -236,6 +236,9 @@
     <define name="emph">
       <element name="emph">
         <a:documentation>Mot en italique, sémantique en cours de résolution</a:documentation>
+        <optional>
+          <ref name="xml.lang"/>
+        </optional>
         <text/>
       </element>
     </define>
@@ -383,13 +386,56 @@
     <define name="TEI">
       <element name="TEI">
         <ref name="xml.lang"/>
-        <element name="teiHeader">
-          <zeroOrMore>
-            <ref name="elany"/>
-          </zeroOrMore>
-        </element>
+        <attribute name="n"/>
+        <attribute name="ana"/>
+        <ref name="teiHeader"/>
         <element name="text">
           <ref name="body"/>
+        </element>
+      </element>
+    </define>
+    <define name="teiHeader">
+      <element name="teiHeader">
+        <element name="fileDesc">
+          <element name="titleStmt">
+            <element name="title">
+              <text/>
+            </element>
+            <oneOrMore>
+              <element name="author">
+                <text/>
+              </element>
+            </oneOrMore>
+          </element>
+          <element name="publicationStmt">
+            <element name="p">
+              <text/>
+            </element>
+          </element>
+          <element name="sourceDesc">
+            <element name="p">
+              <oneOrMore>
+                <choice>
+                  <text/>
+                  <ref name="emph"/>
+                </choice>
+              </oneOrMore>
+            </element>
+          </element>
+        </element>
+        <element name="profileDesc">
+          <element name="creation">
+            <element name="date">
+              <attribute name="when"/>
+            </element>
+          </element>
+        </element>
+        <element name="revisionDesc">
+          <oneOrMore>
+            <element name="change">
+              <text/>
+            </element>
+          </oneOrMore>
         </element>
       </element>
     </define>
