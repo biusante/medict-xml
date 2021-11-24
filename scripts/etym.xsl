@@ -20,36 +20,69 @@
   <xsl:template name="html">
     <html>
       <body>
-        <xsl:for-each select="//tei:entry[tei:dictScrap/tei:foreign[@xml:lang='grc']]">
-          <div>
-            <xsl:apply-templates select="preceding::tei:pb[1]"/>
-            <xsl:text> </xsl:text>
-            <b>
-              <xsl:value-of select="@xml:id"/>
-            </b>
-            <xsl:text> — </xsl:text>
-            <xsl:for-each select="tei:dictScrap/tei:foreign[@xml:lang!='grc']">
-              <xsl:apply-templates/>
-              <xsl:choose>
-                <xsl:when test="position() = last()">.</xsl:when>
-                <xsl:otherwise>, </xsl:otherwise>
-              </xsl:choose>
-            </xsl:for-each>
-          </div>
-          <div>
-            <xsl:for-each select="tei:dictScrap/tei:foreign[@xml:lang='grc']">
-              <xsl:apply-templates/>
-              <xsl:choose>
-                <xsl:when test="position() != last()"> — </xsl:when>
-              </xsl:choose>
-            </xsl:for-each>
-          </div>
-        </xsl:for-each>
+        <xsl:call-template name="glossaire"/>
       </body>
     </html>
   </xsl:template>
   
-  <xsl:template match="tei:foreign[@xml:lang='grc']/tei:damage">
+  <xsl:template name="glossaire">
+    <xsl:param name="lang">grc</xsl:param>
+    <xsl:for-each select="//tei:div[@xml:id='grc']/tei:entryFree">
+      <div>
+        <xsl:apply-templates select="preceding::tei:pb[1]"/>
+        <xsl:text> </xsl:text>
+        <xsl:for-each select="tei:form">
+          <strong>
+            <xsl:apply-templates/>
+          </strong>
+          <xsl:choose>
+            <xsl:when test="position() = last()">.</xsl:when>
+            <xsl:otherwise>, </xsl:otherwise>
+          </xsl:choose>
+        </xsl:for-each>
+      </div>
+      <div style="font-style: italic,">
+        <xsl:for-each select="tei:term|tei:gloss">
+          <xsl:apply-templates/>
+          <xsl:choose>
+            <xsl:when test="position() = last()">.</xsl:when>
+            <xsl:otherwise>, </xsl:otherwise>
+          </xsl:choose>
+        </xsl:for-each>
+      </div>
+    </xsl:for-each>
+  </xsl:template>
+  
+  
+  <xsl:template name="foreign">
+    <xsl:for-each select="//tei:entry[tei:dictScrap/tei:foreign[@xml:lang='grc']]">
+      <div>
+        <xsl:apply-templates select="preceding::tei:pb[1]"/>
+        <xsl:text> </xsl:text>
+        <b>
+          <xsl:value-of select="@xml:id"/>
+        </b>
+        <xsl:text> — </xsl:text>
+        <xsl:for-each select="tei:dictScrap/tei:foreign[@xml:lang!='grc']">
+          <xsl:apply-templates/>
+          <xsl:choose>
+            <xsl:when test="position() = last()">.</xsl:when>
+            <xsl:otherwise>, </xsl:otherwise>
+          </xsl:choose>
+        </xsl:for-each>
+      </div>
+      <div>
+        <xsl:for-each select="tei:dictScrap/tei:foreign[@xml:lang='grc']">
+          <xsl:apply-templates/>
+          <xsl:choose>
+            <xsl:when test="position() != last()"> — </xsl:when>
+          </xsl:choose>
+        </xsl:for-each>
+      </div>
+    </xsl:for-each>
+  </xsl:template>
+  
+  <xsl:template match="*[@xml:lang='grc']/tei:damage | *[@xml:lang='grc']/tei:unclear">
     <span style="color:red">ΑαωΩ</span>
   </xsl:template>
 

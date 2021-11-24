@@ -1,5 +1,0 @@
-
-* indexation ancienne, vérifier l'alignement des numéros de page pour tous les volumes
-* vedettes dans la nomenclature, majuscule initiale ? Ou bien distinguer les noms propres ?
-* confusion 32923X14, 32923x14
-* image par défaut à l’accueil ?
