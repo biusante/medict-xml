@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
-  <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
+  <xsl:output method="xml" encoding="UTF-8" indent="yes" omit-xml-declaration="yes"/>
   <!-- Upper case letters with diactitics, translate("L'État", $uc, $lc) = "l'état" -->
   <xsl:variable name="uc">ABCDEFGHIJKLMNOPQRSTUVWXYZÆŒÇÀÁÂÃÄÅÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝ</xsl:variable>
   <!-- Lower case letters with diacritics, for translate() -->
@@ -19,6 +19,9 @@
 
   <xsl:template name="html">
     <html>
+      <head>
+        <title>BIU santé dictionnaires, export pour relecture grec</title>
+      </head>
       <body>
         <xsl:call-template name="glossaire"/>
       </body>
@@ -29,8 +32,6 @@
     <xsl:param name="lang">grc</xsl:param>
     <xsl:for-each select="//tei:div[@xml:id='grc']/tei:entryFree">
       <div>
-        <xsl:apply-templates select="preceding::tei:pb[1]"/>
-        <xsl:text> </xsl:text>
         <xsl:for-each select="tei:form">
           <strong>
             <xsl:apply-templates/>
@@ -41,7 +42,12 @@
           </xsl:choose>
         </xsl:for-each>
       </div>
-      <div style="font-style: italic,">
+      <div>
+        <xsl:text>[</xsl:text>
+        <xsl:value-of select="@xml:id"/>
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates select="preceding::tei:pb[1]"/>
+        <xsl:text>] </xsl:text>
         <xsl:for-each select="tei:term|tei:gloss">
           <xsl:apply-templates/>
           <xsl:choose>
@@ -91,10 +97,8 @@
       <xsl:attribute name="href">
         <xsl:value-of select="@facs"/>
       </xsl:attribute>
-      <xsl:text>[</xsl:text>
       <xsl:text>p. </xsl:text>
       <xsl:value-of select="@n"/>
-      <xsl:text>]</xsl:text>
     </a>
   </xsl:template>
 

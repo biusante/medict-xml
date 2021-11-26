@@ -28,6 +28,16 @@
     </xsl:copy>
   </xsl:template>
   
+  <xsl:template match="tei:entryFree[not(@xml:id)]">
+    <xsl:copy>
+      <xsl:attribute name="xml:id">
+        <xsl:value-of select="../@xml:id"/>
+        <xsl:number/>
+      </xsl:attribute>
+      <xsl:apply-templates select="node()|@*"/>
+    </xsl:copy>
+  </xsl:template>
+  
   <xsl:template match="tei:pbTMP[not(@facs)]">
     <xsl:variable name="n" select="@n"/>
     <xsl:if test="$n &lt; 1">
