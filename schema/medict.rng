@@ -14,9 +14,8 @@
     <define name="entry">
       <element name="entry">
         <a:documentation>Entrée, contenant au moins un bloc avec une vedette, un identifiant unique pour le fichier, et des “sens” (ou autres sections contenant gloses ou renvois)</a:documentation>
-        <optional>
-          <ref name="xml.id"/>
-        </optional>
+        <ref name="entry.id"/>
+        <ref name="corresp"/>
         <ref name="form1"/>
         <optional>
           <ref name="pb"/>
@@ -484,6 +483,10 @@
         <data type="ID"/>
       </attribute>
     </define>
+    <define name="entry.id">
+      <a:documentation>Contrôler si <a:el>entry</a:el>/<a:att>xml:id</a:att> doit être optionnel ou pas</a:documentation>
+      <ref name="xml.id"/>
+    </define>
     <define name="target">
       <attribute name="target">
         <a:documentation>Renvoi à un article identifié</a:documentation>
@@ -500,6 +503,16 @@
         <a:documentation>Lien a une images de page de référence</a:documentation>
         <data type="anyURI"/>
       </attribute>
+    </define>
+    <define name="corresp">
+      <optional>
+        <attribute name="corresp">
+          <choice>
+            <value>medict37020d.xml</value>
+            <text/>
+          </choice>
+        </attribute>
+      </optional>
     </define>
     <define name="xml.lang">
       <attribute name="xml:lang">
