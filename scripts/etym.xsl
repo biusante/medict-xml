@@ -23,7 +23,7 @@
         <title>BIU santé dictionnaires, export pour relecture grec</title>
       </head>
       <body>
-        <xsl:call-template name="glossaire"/>
+        <xsl:call-template name="foreign"/>
       </body>
     </html>
   </xsl:template>
@@ -61,7 +61,7 @@
   
   
   <xsl:template name="foreign">
-    <xsl:for-each select="//tei:entry[tei:dictScrap/tei:foreign[@xml:lang='grc']]">
+    <xsl:for-each select="//tei:entry[tei:dictScrap/tei:foreign[@xml:lang='grc']][not(@corresp)]">
       <div>
         <xsl:apply-templates select="preceding::tei:pb[1]"/>
         <xsl:text> </xsl:text>
