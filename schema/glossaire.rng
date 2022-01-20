@@ -44,6 +44,7 @@
           <gloss>en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</gloss>
         </entryFree>
       </a:example>
+      <ref name="xml.id"/>
       <oneOrMore>
         <ref name="formlang"/>
       </oneOrMore>
