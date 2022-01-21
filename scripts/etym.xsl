@@ -63,7 +63,9 @@
   <xsl:template name="foreign">
     <xsl:for-each select="//tei:entry[tei:dictScrap/tei:foreign[@xml:lang='grc']][not(@corresp)]">
       <div>
+        <xsl:text>[</xsl:text>
         <xsl:apply-templates select="preceding::tei:pb[1]"/>
+        <xsl:text>]</xsl:text>
         <xsl:text> </xsl:text>
         <b>
           <xsl:value-of select="@xml:id"/>
