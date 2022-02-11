@@ -26,6 +26,7 @@ body {
     font-family: 'Lucida Sans', sans-serif !important;
 }
 
+
 /* ========================================================
     Définition des titres et sous-titres
 =========================================================== */
@@ -49,6 +50,7 @@ h3 {
     color: #545454;
     font-family: 'Lucida Grande', sans-serif !important;
 }
+
 
 /* ========================================================
     Définition des attributs des notes, des liens et des images
@@ -83,6 +85,7 @@ div#tab2 {
     width: auto;
 }
 
+
 /* div#img {
     width: auto;
 } */
@@ -95,10 +98,10 @@ span {
     font-variant: small-caps;
 }
 
-
 div#img2 {
     text-align: center;
 }
+
 
 /* ========================================================
     Application du Zoom
@@ -110,7 +113,7 @@ div#click-zoom label {
     width: 400px;
 }
 
-div#click-zoom input[type = checkbox] {
+div#click-zoom input[type=checkbox] {
     display: none;
 }
 
@@ -119,7 +122,7 @@ div#click-zoom img {
     cursor: zoom-in;
 }
 
-div#click-zoom input[type = checkbox]:checked ~ img {
+div#click-zoom input[type=checkbox]:checked~img {
     transform: scale(2);
     cursor: zoom-out;
 }
