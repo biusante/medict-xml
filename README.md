@@ -1,6 +1,6 @@
 # Dictionnaires de Médecine en XML-TEI
 
-Ce dépôt concerne un projet sur les dictionnaires de médecine de la BIU Santé. 
+Ce dépôt concerne un projet sur les dictionnaires de médecine de la BIU Santé.
 
 ## Dictionnaires
 
