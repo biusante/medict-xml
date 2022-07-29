@@ -35,6 +35,26 @@
         </zeroOrMore>
       </element>
     </define>
+    <define name="entryFree">
+      <element name="entryFree">
+        <a:documentation>Entrée non structurée (ex Castelli) avec texte mêlé</a:documentation>
+        <ref name="entry.id"/>
+        <ref name="orth"/>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="cb"/>
+            <ref name="damage"/>
+            <ref name="emph"/>
+            <ref name="lb"/>
+            <ref name="orth"/>
+            <ref name="pb"/>
+            <ref name="quote.c"/>
+            <ref name="quote.l"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
     <define name="form1">
       <element name="form">
         <a:documentation>Bloc identifiant l’entrée, contenant au moins un mot en vedette, plusieurs sont possibles, avec des indications de flexion ou de nature (ex : s. f. « substantif féminin »)</a:documentation>
@@ -105,6 +125,27 @@
     </define>
     <define name="head">
       <element name="head">
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="emph"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    <define name="quote.l">
+      <element name="quote">
+        <a:documentation>Citation de vers</a:documentation>
+        <oneOrMore>
+          <element name="l">
+            <text/>
+          </element>
+        </oneOrMore>
+      </element>
+    </define>
+    <define name="quote.c">
+      <element name="quote">
+        <a:documentation>Citation texte</a:documentation>
         <oneOrMore>
           <choice>
             <text/>
@@ -210,35 +251,20 @@
   </div>
   <div>
     <a:documentation>Éléments lexicaux balisés dans un article</a:documentation>
-    <define name="orth">
-      <element name="orth">
-        <a:documentation>Forme graphique en vedette, généralement en gras et majuscules (accentuées)</a:documentation>
-        <text/>
-        <optional>
-          <attribute name="cert">
-            <choice>
-              <value>high</value>
-            </choice>
-          </attribute>
-        </optional>
-      </element>
-    </define>
-    <define name="ref">
-      <element name="ref">
-        <a:documentation>Renvoi, doit renvoyer à une entrée exacte, voire à une sous-entrée</a:documentation>
-        <optional>
-          <ref name="target"/>
-        </optional>
-        <text/>
-      </element>
-    </define>
     <define name="emph">
       <element name="emph">
         <a:documentation>Mot en italique, sémantique en cours de résolution</a:documentation>
         <optional>
           <ref name="xml.lang"/>
         </optional>
-        <text/>
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="cb"/>
+            <ref name="lb"/>
+            <ref name="pb"/>
+          </choice>
+        </oneOrMore>
       </element>
     </define>
     <define name="etym">
@@ -270,16 +296,6 @@
         </zeroOrMore>
       </element>
     </define>
-    <define name="term">
-      <element name="term">
-        <a:documentation>Terme en français, équivalent traductionnel dans un glossaire nultilingue avec entrée en langue étrangère, ou synonyme en section étymologique</a:documentation>
-        <zeroOrMore>
-          <choice>
-            <text/>
-          </choice>
-        </zeroOrMore>
-      </element>
-    </define>
     <define name="foreign">
       <element name="foreign">
         <a:documentation>Mot en langue étrangère, notamment les équivalenets traductionnels ou les glossaires</a:documentation>
@@ -304,6 +320,35 @@
         <text/>
       </element>
     </define>
+    <define name="num">
+      <element name="num">
+        <a:documentation>Nombre, en petites capitales, souvent des siècles, reconnu automatiquement.
+        <a:example>qui régna dans le milieu du <num>xivᵉ</num> siècle.</a:example></a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="orth">
+      <element name="orth">
+        <a:documentation>Forme graphique en vedette, généralement en gras et majuscules (accentuées)</a:documentation>
+        <text/>
+        <optional>
+          <attribute name="cert">
+            <choice>
+              <value>high</value>
+            </choice>
+          </attribute>
+        </optional>
+      </element>
+    </define>
+    <define name="ref">
+      <element name="ref">
+        <a:documentation>Renvoi, doit renvoyer à une entrée exacte, voire à une sous-entrée</a:documentation>
+        <optional>
+          <ref name="target"/>
+        </optional>
+        <text/>
+      </element>
+    </define>
     <define name="sc">
       <element name="hi">
         <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple
@@ -314,28 +359,36 @@
         <text/>
       </element>
     </define>
-    <define name="num">
-      <element name="num">
-        <a:documentation>Nombre, en petites capitales, souvent des siècles, reconnu automatiquement.
-        <a:example>qui régna dans le milieu du <num>xivᵉ</num> siècle.</a:example></a:documentation>
-        <text/>
+    <define name="term">
+      <element name="term">
+        <a:documentation>Terme en français, équivalent traductionnel dans un glossaire nultilingue avec entrée en langue étrangère, ou synonyme en section étymologique</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+          </choice>
+        </zeroOrMore>
       </element>
     </define>
   </div>
   <div>
     <a:documentation>Structure générale du fichier</a:documentation>
-    <define name="pb">
-      <element name="pb">
-        <a:documentation>Saut de page (n° et url de l’image de page doivent devenir obligatoire)</a:documentation>
-        <optional>
-          <text/>
-        </optional>
-        <optional>
-          <ref name="n"/>
-        </optional>
-        <optional>
-          <ref name="facs"/>
-        </optional>
+    <define name="body">
+      <element name="body">
+        <oneOrMore>
+          <choice>
+            <ref name="damage"/>
+            <ref name="graphic"/>
+            <ref name="entry"/>
+            <ref name="pb"/>
+            <ref name="table"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    <define name="cb">
+      <element name="cb">
+        <a:documentation>Saut de colonne, parfois nécessaire pour des numérisations anciennes</a:documentation>
+        <empty/>
       </element>
     </define>
     <define name="damage">
@@ -359,16 +412,27 @@
         </choice>
       </element>
     </define>
-    <define name="unclear">
-      <element name="unclear">
-        <a:documentation>Partie non lisible ou non reconnue, notamment le grec</a:documentation>
-        <optional>
-          <ref name="xml.lang"/>
-        </optional>
-        <choice>
-          <text/>
-          <empty/>
-        </choice>
+    <define name="elany">
+      <a:documentation>Motif provisoire, n’importe quel élément</a:documentation>
+      <element>
+        <anyName>
+          <except>
+            <nsName/>
+          </except>
+        </anyName>
+        <zeroOrMore>
+          <choice>
+            <attribute>
+              <anyName>
+                <except>
+                  <name>xml:id</name>
+                </except>
+              </anyName>
+            </attribute>
+            <text/>
+            <ref name="elany"/>
+          </choice>
+        </zeroOrMore>
       </element>
     </define>
     <define name="graphic">
@@ -379,6 +443,26 @@
         </optional>
         <optional>
           <attribute name="n"/>
+        </optional>
+      </element>
+    </define>
+    <define name="lb">
+      <element name="lb">
+        <a:documentation>Saut de ligne, parfois nécessaire pour des numérisations anciennes</a:documentation>
+        <empty/>
+      </element>
+    </define>
+    <define name="pb">
+      <element name="pb">
+        <a:documentation>Saut de page (n° et url de l’image de page doivent devenir obligatoire)</a:documentation>
+        <optional>
+          <text/>
+        </optional>
+        <optional>
+          <ref name="n"/>
+        </optional>
+        <optional>
+          <ref name="facs"/>
         </optional>
       </element>
     </define>
@@ -438,40 +522,16 @@
         </element>
       </element>
     </define>
-    <define name="body">
-      <element name="body">
-        <oneOrMore>
-          <choice>
-            <ref name="damage"/>
-            <ref name="graphic"/>
-            <ref name="entry"/>
-            <ref name="pb"/>
-            <ref name="table"/>
-          </choice>
-        </oneOrMore>
-      </element>
-    </define>
-    <define name="elany">
-      <a:documentation>Motif provisoire, n’importe quel élément</a:documentation>
-      <element>
-        <anyName>
-          <except>
-            <nsName/>
-          </except>
-        </anyName>
-        <zeroOrMore>
-          <choice>
-            <attribute>
-              <anyName>
-                <except>
-                  <name>xml:id</name>
-                </except>
-              </anyName>
-            </attribute>
-            <text/>
-            <ref name="elany"/>
-          </choice>
-        </zeroOrMore>
+    <define name="unclear">
+      <element name="unclear">
+        <a:documentation>Partie non lisible ou non reconnue, notamment le grec</a:documentation>
+        <optional>
+          <ref name="xml.lang"/>
+        </optional>
+        <choice>
+          <text/>
+          <empty/>
+        </choice>
       </element>
     </define>
   </div>
@@ -484,7 +544,7 @@
       </attribute>
     </define>
     <define name="entry.id">
-      <a:documentation>Contrôler si <a:el>entry</a:el>/<a:att>xml:id</a:att> doit être optionnel ou pas</a:documentation>
+      <a:documentation>Import, <a:el>entry</a:el>/<a:att>xml:id</a:att>, optionnel ou pas</a:documentation>
       <ref name="xml.id"/>
     </define>
     <define name="target">
