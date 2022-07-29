@@ -3,9 +3,9 @@
 Différents outils de restructuration des fichiers après conversion docx > TEI
 */
 include 'build.php';
-Tagger::init();
 
-rewrite1();
+Tagger::pages(dirname(__DIR__)."/xml/medict07399.xml");
+
 /*
 $tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
 // $tagger->orthold();
@@ -185,7 +185,7 @@ class Tagger
   /**
    * Insérer les no de pages
    */
-  public static function pages()
+  public static function pages($file)
   {
     $n = 0;
     $re_callback = array(
@@ -204,9 +204,9 @@ class Tagger
         return $ret;
       },
     );
-    $xml = file_get_contents(Littre::$HOME . "xml/medict37020d.xml");
+    $xml = file_get_contents($file);
     $xml = preg_replace_callback_array($re_callback, $xml);
-    file_put_contents(Littre::$HOME . "test/medict37020d.xml", $xml);
+    file_put_contents($file, $xml);
   }
 
 }
