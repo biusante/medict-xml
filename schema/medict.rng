@@ -15,7 +15,9 @@
       <element name="entry">
         <a:documentation>Entrée, contenant au moins un bloc avec une vedette, un identifiant unique pour le fichier, et des “sens” (ou autres sections contenant gloses ou renvois)</a:documentation>
         <ref name="entry.id"/>
-        <ref name="corresp"/>
+        <optional>
+          <attribute name="corresp"/>
+        </optional>
         <ref name="form1"/>
         <optional>
           <ref name="pb"/>
@@ -464,6 +466,9 @@
         <optional>
           <ref name="facs"/>
         </optional>
+        <optional>
+          <ref name="corresp.pb"/>
+        </optional>
       </element>
     </define>
     <define name="TEI">
@@ -560,19 +565,15 @@
     </define>
     <define name="facs">
       <attribute name="facs">
-        <a:documentation>Lien a une images de page de référence</a:documentation>
+        <a:documentation>Lien a une image de page de référence</a:documentation>
         <data type="anyURI"/>
       </attribute>
     </define>
-    <define name="corresp">
-      <optional>
-        <attribute name="corresp">
-          <choice>
-            <value>medict37020d.xml</value>
-            <text/>
-          </choice>
-        </attribute>
-      </optional>
+    <define name="corresp.pb">
+      <attribute name="corresp">
+        <a:documentation>Page, url de consultation</a:documentation>
+        <data type="anyURI"/>
+      </attribute>
     </define>
     <define name="xml.lang">
       <attribute name="xml:lang">
