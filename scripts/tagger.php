@@ -6,7 +6,7 @@ Différents outils de restructuration des fichiers après conversion docx > TEI
 include 'build.php';
 
 // Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
-Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
+// Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
 
 /*
 $tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
@@ -222,7 +222,7 @@ class Tagger
                 $refimg = sprintf('%04d', $delta + $matches[1]);
                 $ret = '<pb n="' . $matches[1] . '"
     facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:' . $cote . ':' . $refimg . '/full/full/0/default.jpg"
-    corresp="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=' . $cote . '&p=' . $refimg . '"/>';
+    corresp="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&amp;cote=' . $cote . '&amp;p=' . $refimg . '"/>';
                 return $ret;
             },
         );
