@@ -5,7 +5,8 @@ Différents outils de restructuration des fichiers après conversion docx > TEI
  */
 include 'build.php';
 
-Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
+// Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
+Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
 
 /*
 $tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
