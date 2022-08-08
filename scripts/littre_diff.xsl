@@ -6,14 +6,8 @@
   exclude-result-prefixes="tei">
   <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
   <xsl:variable name="littre1873" select="document('../xml/medict37020d.xml')"/>
-  <xsl:variable name="idkey_trans1">aàâäçeéèëêiîïoöôuûüy-</xsl:variable>
-  <xsl:variable name="idkey_trans2">aaaaeceeeeiiiooouuui</xsl:variable>
   <xsl:key name="id" match="tei:entry" use="@xml:id"/>
-  <xsl:key name="idkey" match="tei:entry" use="translate(
-    @xml:id,
-    'aàâäçeéèëêiîïoöôuûüy-', 
-    'aaaaceeeeeiiiooouuui'
-   )"/>
+
 
   <xsl:template match="node()|@*">
     <xsl:copy>
@@ -21,7 +15,27 @@
     </xsl:copy>
   </xsl:template>
 
-  <xsl:template match="tei:entry">
+  <xsl:template match="tei:dictScrap">
+    <xsl:variable name="id" select="ancestor-or-self::tei:entry/@xml:id"/>
+    <xsl:variable name="scrap">
+      <xsl:for-each select="$littre1873">
+        <xsl:copy-of select="key('id', $id)/tei:dictScrap"/>
+      </xsl:for-each>
+    </xsl:variable>
+    <xsl:choose>
+      <xsl:when test="$scrap != ''">
+        <xsl:copy-of select="$scrap"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:copy>
+          <xsl:apply-templates select="node()|@*"/>
+        </xsl:copy>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  
+
+  <xsl:template match="tei:entryOLD">
     <xsl:variable name="id" select="@xml:id"/>
     <xsl:variable name="found">
       <xsl:for-each select="$littre1873">
