@@ -21,7 +21,7 @@
             <ref name="head"/>
             <oneOrMore>
               <choice>
-                <ref name="entryFree"/>
+                <ref name="trad"/>
                 <ref name="pb"/>
               </choice>
             </oneOrMore>
@@ -30,7 +30,7 @@
       </element>
     </define>
   </include>
-  <define name="entryFree">
+  <define name="trad">
     <element name="entryFree">
       <a:documentation>Les entrées de glossaire consiste en au moins une vedette dans une autre langue que le français, en général un ou plusieurs équivalents traductionnels dans un élément <a:el>term</a:el>, parfois on ne peut extraire un terme simple, il s’agit d’une glose dans un un </a:documentation>
       <a:example>
@@ -44,9 +44,12 @@
           <gloss>en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</gloss>
         </entryFree>
       </a:example>
+      <attribute name="type">
+        <value>tr</value>
+      </attribute>
       <ref name="xml.id"/>
       <oneOrMore>
-        <ref name="formlang"/>
+        <ref name="orthlang"/>
       </oneOrMore>
       <zeroOrMore>
         <ref name="term"/>
@@ -56,8 +59,8 @@
       </zeroOrMore>
     </element>
   </define>
-  <define name="formlang">
-    <element name="form">
+  <define name="orthlang">
+    <element name="orth">
       <a:documentation>Vedette avec code de langue</a:documentation>
       <ref name="xml.lang"/>
       <zeroOrMore>

@@ -579,13 +579,13 @@
       <attribute name="xml:lang">
         <a:documentation>Code normalisé de langue</a:documentation>
         <choice>
-          <value>de</value>
-          <value>en</value>
-          <value>es</value>
-          <value>fr</value>
+          <value>deu</value>
+          <value>eng</value>
+          <value>spa</value>
+          <value>fra</value>
           <value>grc</value>
-          <value>it</value>
-          <value>la</value>
+          <value>ita</value>
+          <value>lat</value>
         </choice>
       </attribute>
     </define>
