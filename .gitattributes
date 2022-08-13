@@ -15,4 +15,6 @@
 *.png binary
 *.xlsx binary
 *.zip binary
+*.pptx binary
+
 
