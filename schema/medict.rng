@@ -102,6 +102,7 @@
             <text/>
             <ref name="damage"/>
             <ref name="emph"/>
+            <ref name="foreign"/>
             <ref name="form"/>
             <ref name="formula"/>
             <ref name="graphic"/>
