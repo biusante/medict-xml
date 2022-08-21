@@ -2,9 +2,9 @@
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
   <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
   <!-- Upper case letters with diactitics, translate("L'État", $uc, $lc) = "l'état" -->
-  <xsl:variable name="uc">ABCDEFGHIJKLMNOPQRSTUVWXYZÆŒÇÀÁÂÃÄÅÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝ ’</xsl:variable>
+  <xsl:variable name="uc">ABCDEFGHIJKLMNOPQRSTUVWXYZÆŒÇÀÁÂÃÄÅÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝ</xsl:variable>
   <!-- Lower case letters with diacritics, for translate() -->
-  <xsl:variable name="lc">abcdefghijklmnopqrstuvwxyzæœçàáâãäåèéêëìíîïòóôõöùúûüý__</xsl:variable>
+  <xsl:variable name="lc">abcdefghijklmnopqrstuvwxyzæœçàáâãäåèéêëìíîïòóôõöùúûüý</xsl:variable>
   <!-- To produce a normalised id without diacritics translate("Déjà vu, 4", $idfrom, $idto) = "dejavu4"  To produce a normalised id -->
   <xsl:variable name="idfrom">ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÄÉÈÊÏÎÔÖÛÜÇàâäéèêëïîöôüû_ ,.'’ #</xsl:variable>
   <xsl:variable name="idto"  >abcdefghijklmnopqrstuvwxyzaaaeeeiioouucaaaeeeeiioouu_</xsl:variable>
@@ -28,7 +28,17 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:entryFree[not(@xml:id)]">
+  <xsl:template match="tei:ref">
+    <xsl:copy>
+      <xsl:copy-of select="@*"/>
+      <xsl:variable name="value" select="normalize-space(.)"/>
+      <xsl:value-of select="translate(substring($value, 1, 1), $lc, $uc)"/>
+      <xsl:value-of select="translate(substring($value, 2), $uc, $lc)"/>
+    </xsl:copy>
+  </xsl:template>
+
+  
+  <xsl:template match="tei:___entryFree[not(@xml:id)]">
     <xsl:copy>
       <xsl:attribute name="xml:id">
         <xsl:value-of select="../@xml:id"/>
@@ -38,7 +48,7 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:pbTMP[not(@facs)]">
+  <xsl:template match="tei:___pb[not(@facs)]">
     <xsl:variable name="n" select="@n"/>
     <xsl:if test="$n &lt; 1">
       <xsl:message>pb ? <xsl:value-of select="$n"/></xsl:message>
@@ -59,7 +69,7 @@
   </xsl:template>
     
   
-  <xsl:template match="tei:refTMP[not(@target)]">
+  <xsl:template match="tei:___ref[not(@target)]">
     <xsl:variable name="key">
       <xsl:variable name="norm" select="normalize-space(.)"/>
       <xsl:choose>
@@ -99,16 +109,8 @@
   </xsl:template>
   
   
-  <xsl:template match="tei:refDONE">
-    <xsl:copy>
-      <xsl:copy-of select="@*"/>
-      <xsl:variable name="value" select="normalize-space(.)"/>
-      <xsl:value-of select="translate(substring($value, 1, 1), $lc, $uc)"/>
-      <xsl:value-of select="translate(substring($value, 2), $uc, $lc)"/>
-    </xsl:copy>
-  </xsl:template>
   
-  <xsl:template match="tei:entry[not(@xml:id)]">
+  <xsl:template match="tei:___entry[not(@xml:id)]">
     <xsl:copy>
       <xsl:copy-of select="@*"/>
       <xsl:variable name="key" select="translate(tei:form/tei:orth, $uc, $lc)"/>
