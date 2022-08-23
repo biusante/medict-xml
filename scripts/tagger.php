@@ -184,6 +184,8 @@ class Tagger
         file_put_contents($dst, $xml);
     }
 
+
+
     /**
      * Insérer les no de pages
      */

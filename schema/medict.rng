@@ -14,7 +14,7 @@
     <define name="entry">
       <element name="entry">
         <a:documentation>Entrée, contenant au moins un bloc avec une vedette, un identifiant unique pour le fichier, et des “sens” (ou autres sections contenant gloses ou renvois)</a:documentation>
-        <ref name="entry.id"/>
+        <ref name="id.entry"/>
         <optional>
           <attribute name="corresp"/>
         </optional>
@@ -40,7 +40,7 @@
     <define name="entryFree">
       <element name="entryFree">
         <a:documentation>Entrée non structurée (ex Castelli) avec texte mêlé</a:documentation>
-        <ref name="entry.id"/>
+        <ref name="id.entry"/>
         <ref name="orth"/>
         <zeroOrMore>
           <choice>
@@ -258,7 +258,7 @@
       <element name="emph">
         <a:documentation>Mot en italique, sémantique en cours de résolution</a:documentation>
         <optional>
-          <ref name="xml.lang"/>
+          <ref name="lang"/>
         </optional>
         <oneOrMore>
           <choice>
@@ -274,7 +274,7 @@
       <element name="etym">
         <a:documentation>Séquence étymologique (de … et …) où les mots en italique ne sont pas des équivalents traductionnels.</a:documentation>
         <optional>
-          <ref name="xml.lang"/>
+          <ref name="lang"/>
         </optional>
         <oneOrMore>
           <choice>
@@ -302,7 +302,10 @@
     <define name="foreign">
       <element name="foreign">
         <a:documentation>Mot en langue étrangère, notamment les équivalenets traductionnels ou les glossaires</a:documentation>
-        <ref name="xml.lang"/>
+        <ref name="lang"/>
+        <optional>
+          <ref name="resp"/>
+        </optional>
         <oneOrMore>
           <choice>
             <ref name="damage"/>
@@ -398,7 +401,7 @@
       <element name="damage">
         <a:documentation>Partie non lisible ou non reconnue, notamment le grec</a:documentation>
         <optional>
-          <ref name="xml.lang"/>
+          <ref name="lang"/>
         </optional>
         <optional>
           <attribute name="type">
@@ -474,7 +477,7 @@
     </define>
     <define name="TEI">
       <element name="TEI">
-        <ref name="xml.lang"/>
+        <ref name="lang"/>
         <attribute name="n"/>
         <attribute name="ana"/>
         <ref name="teiHeader"/>
@@ -532,7 +535,7 @@
       <element name="unclear">
         <a:documentation>Partie non lisible ou non reconnue, notamment le grec</a:documentation>
         <optional>
-          <ref name="xml.lang"/>
+          <ref name="lang"/>
         </optional>
         <choice>
           <text/>
@@ -543,25 +546,10 @@
   </div>
   <div>
     <a:documentation>Attributs</a:documentation>
-    <define name="xml.id">
-      <attribute name="xml:id">
-        <a:documentation>Identifiant, au moins unique pour le document</a:documentation>
-        <data type="ID"/>
-      </attribute>
-    </define>
-    <define name="entry.id">
-      <a:documentation>Import, <a:el>entry</a:el>/<a:att>xml:id</a:att>, optionnel ou pas</a:documentation>
-      <ref name="xml.id"/>
-    </define>
-    <define name="target">
-      <attribute name="target">
-        <a:documentation>Renvoi à un article identifié</a:documentation>
-        <data type="IDREF"/>
-      </attribute>
-    </define>
-    <define name="n">
-      <attribute name="n">
-        <a:documentation>Numéro de page tel qu’imprimé</a:documentation>
+    <define name="corresp.pb">
+      <attribute name="corresp">
+        <a:documentation>Page, url de consultation</a:documentation>
+        <data type="anyURI"/>
       </attribute>
     </define>
     <define name="facs">
@@ -570,13 +558,17 @@
         <data type="anyURI"/>
       </attribute>
     </define>
-    <define name="corresp.pb">
-      <attribute name="corresp">
-        <a:documentation>Page, url de consultation</a:documentation>
-        <data type="anyURI"/>
+    <define name="id">
+      <attribute name="xml:id">
+        <a:documentation>Identifiant, au moins unique pour le document</a:documentation>
+        <data type="ID"/>
       </attribute>
     </define>
-    <define name="xml.lang">
+    <define name="id.entry">
+      <a:documentation>Pour import, <a:el>entry</a:el>/<a:att>xml:id</a:att>, optionnel ou pas</a:documentation>
+      <ref name="id"/>
+    </define>
+    <define name="lang">
       <attribute name="xml:lang">
         <a:documentation>Code normalisé de langue</a:documentation>
         <choice>
@@ -588,6 +580,22 @@
           <value>ita</value>
           <value>lat</value>
         </choice>
+      </attribute>
+    </define>
+    <define name="n">
+      <attribute name="n">
+        <a:documentation>Numéro de page tel qu’imprimé</a:documentation>
+      </attribute>
+    </define>
+    <define name="resp">
+      <attribute name="resp">
+        <a:documentation>Auteur d’une relecture</a:documentation>
+      </attribute>
+    </define>
+    <define name="target">
+      <attribute name="target">
+        <a:documentation>Renvoi à un article identifié</a:documentation>
+        <data type="IDREF"/>
       </attribute>
     </define>
   </div>

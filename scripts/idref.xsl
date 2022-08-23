@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
+<xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
   <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
   <!-- Upper case letters with diactitics, translate("L'État", $uc, $lc) = "l'état" -->
   <xsl:variable name="uc">ABCDEFGHIJKLMNOPQRSTUVWXYZÆŒÇÀÁÂÃÄÅÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝ</xsl:variable>
@@ -12,23 +12,40 @@
     'ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÄÉÈÊÏÎÔÖÛÜÇàâäéèêëïîöôüû_ ,.’ ',
     'abcdefghijklmnopqrstuvwxyzaaaeeeiioouucaaaeeeeiioouu_'
   )"/>
-  <xsl:key name="orth" match="tei:orth" use="translate(., 
-    'ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÄÉÈÊÏÎÔÖÛÜÇàâäéèêëïîöôüû_ ,.’ ',
-    'abcdefghijklmnopqrstuvwxyzaaaeeeiioouucaaaeeeeiioouu_'
-    )"/>
   <xsl:variable name="lf">
     <xsl:text>&#10;</xsl:text>
   </xsl:variable>
   <xsl:variable name="tab">
     <xsl:text>&#9;</xsl:text>
   </xsl:variable>
+  <xsl:variable name="grc" select="document('../corrections/37020d_grc-foreign.xml')/*/tei:foreign"/>
+  
+
+  
   <xsl:template match="node()|@*">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:ref">
+    
+  <xsl:template match="tei:dictScrap[tei:foreign[@xml:lang = 'grc']]">
+    <xsl:variable name="id" select="../@xml:id"/>
+    <xsl:variable name="ins" select="$grc[@entry = $id]"/>
+    <xsl:copy>
+      <xsl:apply-templates select="node()|@*"/>
+      <xsl:choose>
+        <xsl:when test="$ins = ''">
+          <ho/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:copy-of select="$ins"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:copy>
+  </xsl:template>
+  
+  <xsl:template match="tei:___ref">
     <xsl:copy>
       <xsl:copy-of select="@*"/>
       <xsl:variable name="value" select="normalize-space(.)"/>
