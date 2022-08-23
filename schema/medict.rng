@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar 
-  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
-  ns="http://www.tei-c.org/ns/1.0"
-  xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" 
-  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
-  xmlns:h="http://www.w3.org/1999/xhtml" 
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <start>
     <ref name="TEI"/>
   </start>
@@ -93,27 +87,6 @@
       <a:documentation>Permet de régler la rigueur du bloc étymologique en cours de travail à l’import</a:documentation>
       <empty/>
     </define>
-    <define name="sense">
-      <element name="sense">
-        <a:documentation>Un “sens”, ou au moins une section dans un article (la hiérarchie n’est pas nécessaire)</a:documentation>
-        <oneOrMore>
-          <choice>
-            <ref name="sense.lax"></ref>
-            <text/>
-            <ref name="damage"/>
-            <ref name="emph"/>
-            <ref name="foreign"/>
-            <ref name="form"/>
-            <ref name="formula"/>
-            <ref name="graphic"/>
-            <ref name="num"/>
-            <ref name="ref"/>
-            <ref name="pb"/>
-            <ref name="sc"/>
-          </choice>
-        </oneOrMore>
-      </element>
-    </define>
     <define name="sense.lax">
       <a:documentation>Permet de régler la rigueur d’un bloc de signification à l’import</a:documentation>
       <empty/>
@@ -132,6 +105,48 @@
           <choice>
             <text/>
             <ref name="emph"/>
+            <ref name="note"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    <define name="note">
+      <element name="note">
+        <a:documentation>Note</a:documentation>
+        <choice>
+          <oneOrMore>
+            <choice>
+              <text/>
+              <ref name="emph"/>
+            </choice>
+          </oneOrMore>
+          <oneOrMore>
+            <choice>
+              <ref name="p"/>
+              <ref name="pb"/>
+              <ref name="quote.l"/>
+            </choice>
+          </oneOrMore>
+        </choice>
+      </element>
+    </define>
+    <define name="p">
+      <element name="p">
+        <a:documentation>Un paragraphe libre</a:documentation>
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="damage"/>
+            <ref name="emph"/>
+            <ref name="foreign"/>
+            <ref name="form"/>
+            <ref name="formula"/>
+            <ref name="graphic"/>
+            <ref name="num"/>
+            <ref name="note"/>
+            <ref name="ref"/>
+            <ref name="pb"/>
+            <ref name="sc"/>
           </choice>
         </oneOrMore>
       </element>
@@ -153,6 +168,27 @@
           <choice>
             <text/>
             <ref name="emph"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    <define name="sense">
+      <element name="sense">
+        <a:documentation>Un “sens”, ou au moins une section dans un article (la hiérarchie n’est pas nécessaire)</a:documentation>
+        <oneOrMore>
+          <choice>
+            <ref name="sense.lax"/>
+            <text/>
+            <ref name="damage"/>
+            <ref name="emph"/>
+            <ref name="foreign"/>
+            <ref name="form"/>
+            <ref name="formula"/>
+            <ref name="graphic"/>
+            <ref name="num"/>
+            <ref name="ref"/>
+            <ref name="pb"/>
+            <ref name="sc"/>
           </choice>
         </oneOrMore>
       </element>
@@ -251,6 +287,39 @@
         </oneOrMore>
       </element>
     </define>
+    <define name="trad">
+      <element name="entryFree">
+        <a:documentation>Les entrées de glossaire consiste en au moins une vedette dans une autre langue que le français, en général un ou plusieurs équivalents traductionnels dans un élément <a:el>term</a:el>, parfois on ne peut extraire un terme simple, il s’agit d’une glose dans un un </a:documentation>
+        <a:example>
+          <entryFree>
+            <orth xml:lang="la">Abductor</orth>
+            <foreign xml:lang="fr">abducteur</foreign>
+          </entryFree>
+          <entryFree>
+            <orth xml:lang="it">Cavezza di Moro</orth>
+            <foreign xml:lang="fr">tête de More</foreign>
+            <gloss>en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</gloss>
+          </entryFree>
+        </a:example>
+        <optional>
+          <attribute name="type">
+            <value>tr</value>
+          </attribute>
+        </optional>
+        <optional>
+          <ref name="id"/>
+        </optional>
+        <oneOrMore>
+          <ref name="orth"/>
+        </oneOrMore>
+        <zeroOrMore>
+          <ref name="foreign"/>
+        </zeroOrMore>
+        <zeroOrMore>
+          <ref name="gloss"/>
+        </zeroOrMore>
+      </element>
+    </define>
   </div>
   <div>
     <a:documentation>Éléments lexicaux balisés dans un article</a:documentation>
@@ -320,6 +389,17 @@
         <text/>
       </element>
     </define>
+    <define name="gloss">
+      <element name="gloss">
+        <a:documentation>Glose qui n’est un équivalent traductionnel simple</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="emph"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
     <define name="gram">
       <element name="gram">
         <a:documentation>Information grammaticale sur une forme</a:documentation>
@@ -328,8 +408,7 @@
     </define>
     <define name="num">
       <element name="num">
-        <a:documentation>Nombre, en petites capitales, souvent des siècles, reconnu automatiquement.
-        <a:example>qui régna dans le milieu du <num>xivᵉ</num> siècle.</a:example></a:documentation>
+        <a:documentation>Nombre, en petites capitales, souvent des siècles, reconnu automatiquement. <a:example>qui régna dans le milieu du <num>xivᵉ</num> siècle.</a:example></a:documentation>
         <text/>
       </element>
     </define>
@@ -338,11 +417,13 @@
         <a:documentation>Forme graphique en vedette, généralement en gras et majuscules (accentuées)</a:documentation>
         <text/>
         <optional>
-          <attribute name="cert">
-            <choice>
-              <value>high</value>
-            </choice>
-          </attribute>
+          <ref name="resp"/>
+        </optional>
+        <optional>
+          <ref name="cert"/>
+        </optional>
+        <optional>
+          <ref name="lang"/>
         </optional>
       </element>
     </define>
@@ -357,8 +438,7 @@
     </define>
     <define name="sc">
       <element name="hi">
-        <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple
-        <a:example><orth>MÉTHYLOSPIROYLIQUE</orth> (<hi rend="sc">Acide</hi>).</a:example> </a:documentation>
+        <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple <a:example><orth>MÉTHYLOSPIROYLIQUE</orth> (<hi rend="sc">Acide</hi>).</a:example> </a:documentation>
         <attribute name="rend">
           <value>sc</value>
         </attribute>
@@ -546,6 +626,11 @@
   </div>
   <div>
     <a:documentation>Attributs</a:documentation>
+    <define name="cert">
+      <attribute name="cert">
+        <a:documentation>Information relue</a:documentation>
+      </attribute>
+    </define>
     <define name="corresp.pb">
       <attribute name="corresp">
         <a:documentation>Page, url de consultation</a:documentation>
