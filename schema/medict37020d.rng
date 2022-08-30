@@ -3,32 +3,14 @@
   <include href="medict.rng">
     <define name="body">
       <element name="body">
-        <element name="div">
-          <oneOrMore>
-            <choice>
-              <ref name="damage"/>
-              <ref name="graphic"/>
-              <ref name="entry"/>
-              <ref name="pb"/>
-              <ref name="table"/>
-            </choice>
-          </oneOrMore>
-        </element>
         <oneOrMore>
-          <element name="div">
-            <a:documentation>Chaque glossaire est dans <a:el>div</a:el> avec un idenfiant et un titre</a:documentation>
-            <ref name="id"/>
-            <optional>
-              <ref name="pb"/>
-            </optional>
-            <ref name="head"/>
-            <oneOrMore>
-              <choice>
-                <ref name="trad"/>
-                <ref name="pb"/>
-              </choice>
-            </oneOrMore>
-          </element>
+          <choice>
+            <ref name="damage"/>
+            <ref name="graphic"/>
+            <ref name="entry"/>
+            <ref name="pb"/>
+            <ref name="table"/>
+          </choice>
         </oneOrMore>
       </element>
     </define>

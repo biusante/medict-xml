@@ -189,6 +189,7 @@
             <ref name="ref"/>
             <ref name="pb"/>
             <ref name="sc"/>
+            <ref name="term"/>
           </choice>
         </oneOrMore>
       </element>
