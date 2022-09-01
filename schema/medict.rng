@@ -452,6 +452,7 @@
         <zeroOrMore>
           <choice>
             <text/>
+            <ref name="emph"/>
           </choice>
         </zeroOrMore>
       </element>
