@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
-  <xsl:output method="xml" encoding="UTF-8" indent="yes" omit-xml-declaration="yes"/>
+  <xsl:output method="xml" encoding="UTF-8" indent="no" omit-xml-declaration="yes"/>
   <!-- Upper case letters with diactitics, translate("L'État", $uc, $lc) = "l'état" -->
   <xsl:variable name="uc">ABCDEFGHIJKLMNOPQRSTUVWXYZÆŒÇÀÁÂÃÄÅÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝ</xsl:variable>
   <!-- Lower case letters with diacritics, for translate() -->
@@ -14,7 +14,7 @@
   <xsl:param name="mode" select="'html'"/>
   
   <xsl:template match="/">
-    <xsl:call-template name="tsv"/>
+    <xsl:call-template name="html"/>
   </xsl:template>
 
   <xsl:template name="html">
@@ -23,7 +23,9 @@
         <title>BIU santé dictionnaires, export pour relecture grec</title>
       </head>
       <body>
-        <xsl:call-template name="tsv"/>
+        <xsl:for-each select="/tei:TEI/tei:text/tei:body">
+          <xsl:apply-templates/>
+        </xsl:for-each>
       </body>
     </html>
   </xsl:template>
@@ -33,6 +35,7 @@
   <xsl:template match="tei:TEI | tei:text | tei:body">
     <xsl:apply-templates/>
   </xsl:template>
+
 
   <xsl:template name="tsv">
     <xsl:for-each select="/tei:TEI/tei:text/tei:body/tei:entryFree">
@@ -60,7 +63,49 @@
       </xsl:choose>
     </xsl:for-each>
   </xsl:template>
+
+  <xsl:template match="tei:entryFree">
+    <p>
+      <xsl:variable name="lb" select="tei:lb[2]"/>
+      <xsl:choose>
+        <xsl:when test="count($lb) = 1">
+          <xsl:apply-templates select="node()[following-sibling::tei:lb[count(.|$lb)=1]]"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:apply-templates/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </p>
+  </xsl:template>
+
+  <xsl:template match="tei:foreign">
+    <u lang="{@xml:lang}">
+      <xsl:apply-templates/>
+    </u>
+  </xsl:template>
   
+  <xsl:template match="tei:emph">
+    <em>
+      <xsl:apply-templates/>
+    </em>
+  </xsl:template>
+
+  <xsl:template match="tei:ref">
+    <a href="#{normalize-space(.)}">
+      <xsl:apply-templates/>
+    </a>
+  </xsl:template>
+
+  <xsl:template match="tei:orth">
+    <b>
+      <xsl:apply-templates/>
+    </b>
+  </xsl:template>
+
+  <xsl:template match="tei:lb">
+    <br/>
+  </xsl:template>
+
   <xsl:template name="foreign">
     <xsl:for-each select="//tei:entry[tei:dictScrap/tei:foreign[@xml:lang='grc']][not(@corresp)]">
       <div>
@@ -91,9 +136,6 @@
     </xsl:for-each>
   </xsl:template>
   
-  <xsl:template match="*[@xml:lang='grc']/tei:damage | *[@xml:lang='grc']/tei:unclear">
-    <span style="color:red">ΑαωΩ</span>
-  </xsl:template>
 
   <xsl:template match="tei:pb">
     <a class="pb">
@@ -126,6 +168,11 @@
     </xsl:choose>
   </xsl:template>
   
+  <xsl:template match="*">
+    <b style="color:red">[TAG <xsl:value-of select="name()"/>]</b>
+    <xsl:apply-templates/>
+    <b style="color:red">[/TAG<xsl:value-of select="name()"/>]</b>
+  </xsl:template>
 
   <xsl:template name="tsv2">
     <xsl:text>rang</xsl:text>
