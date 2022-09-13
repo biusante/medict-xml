@@ -67,6 +67,7 @@
   <xsl:template match="tei:entryFree">
     <p>
       <xsl:variable name="lb" select="tei:lb[2]"/>
+      <!--
       <xsl:choose>
         <xsl:when test="count($lb) = 1">
           <xsl:apply-templates select="node()[following-sibling::tei:lb[count(.|$lb)=1]]"/>
@@ -75,6 +76,8 @@
           <xsl:apply-templates/>
         </xsl:otherwise>
       </xsl:choose>
+      -->
+      <xsl:apply-templates/>
     </p>
   </xsl:template>
 
