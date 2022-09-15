@@ -8,7 +8,7 @@ include 'build.php';
 // Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
 // Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
 
-foreach (['medict37020d'] as $name) {
+foreach (['medict27898'] as $name) {
     $file = dirname(__DIR__) . "/xml/$name.xml";
     $xml = Tagger::orth_norm($file);
     file_put_contents($file, $xml);
@@ -78,13 +78,13 @@ class Tagger
     {
         $xml = file_get_contents($file);
         $xml = preg_replace_callback(
-            '/(<orth>\p{L})([\p{Lu}\-]+)(<\/orth>)/u',
+            '/(<orth>\p{L})([^<]+)/u',
             function($matches) {
                 $orth = $matches[1].mb_convert_case(
                     $matches[2], 
                     MB_CASE_LOWER, 
                     "UTF-8"
-                ).$matches[3];
+                );
                 $orth = Normalizer::normalize($orth);
                 return $orth;
             },
