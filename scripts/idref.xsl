@@ -8,9 +8,9 @@
   <!-- To produce a normalised id without diacritics translate("Déjà vu, 4", $idfrom, $idto) = "dejavu4"  To produce a normalised id -->
   <xsl:variable name="idfrom">ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÄÉÈÊÏÎÔÖÛÜÇàâäéèêëïîöôüû_ ,.'’ #</xsl:variable>
   <xsl:variable name="idto"  >abcdefghijklmnopqrstuvwxyzaaaeeeiioouucaaaeeeeiioouu_</xsl:variable>
-  <xsl:key name="id" match="tei:entry" use="translate(@xml:id, 
-    'ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÄÉÈÊÏÎÔÖÛÜÇàâäéèêëïîöôüû_ ,.’ ',
-    'abcdefghijklmnopqrstuvwxyzaaaeeeiioouucaaaeeeeiioouu_'
+  <xsl:key name="key" match="tei:entry" use="translate(tei:form/tei:orth, 
+    'ABCDEFGHIJKLMNOPQRSTUVWXYZÆŒÇÀÁÂÃÄÅÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝ_ ,.’ ',
+    'abcdefghijklmnopqrstuvwxyzæœçàáâãäåèéêëìíîïòóôõöùúûüý      '
   )"/>
   <xsl:variable name="lf">
     <xsl:text>&#10;</xsl:text>
@@ -18,7 +18,8 @@
   <xsl:variable name="tab">
     <xsl:text>&#9;</xsl:text>
   </xsl:variable>
-  <xsl:variable name="grc" select="document('../corrections/37020d_grc-foreign.xml')/*/tei:foreign"/>
+  <!-- byid -->
+  <xsl:key name="id" match="tei:entry" use="@xml:id" />
   
 
   
@@ -28,7 +29,8 @@
     </xsl:copy>
   </xsl:template>
   
-    
+  <!--
+  <xsl:variable name="grc" select="document('../corrections/37020d_grc-foreign.xml')/*/tei:foreign"/>
   <xsl:template match="tei:dictScrap[tei:foreign[@xml:lang = 'grc']]">
     <xsl:variable name="id" select="../@xml:id"/>
     <xsl:variable name="ins" select="$grc[@entry = $id]"/>
@@ -44,6 +46,7 @@
       </xsl:choose>
     </xsl:copy>
   </xsl:template>
+  -->
   
   <xsl:template match="tei:___ref">
     <xsl:copy>
@@ -125,36 +128,55 @@
     </xsl:copy>
   </xsl:template>
   
-  
-  
-  <xsl:template match="tei:___entry[not(@xml:id)]">
+  <!-- Corresp -->
+  <xsl:variable name="littre1873" select="document('medict37020d.xml', .)"/>
+  <xsl:template match="tei:entry[not(@corresp)]">
+    <xsl:variable name="id" select="@xml:id"/>
+    <xsl:variable name="corresp">
+      <xsl:for-each select="$littre1873">
+        <xsl:value-of select="key('id', $id)/tei:form/tei:orth"/>
+      </xsl:for-each>
+    </xsl:variable>
     <xsl:copy>
       <xsl:copy-of select="@*"/>
-      <xsl:variable name="key" select="translate(tei:form/tei:orth, $uc, $lc)"/>
+    <xsl:if test="$corresp != ''">
+      <xsl:attribute name="corresp">medict37020d.xml</xsl:attribute>
+    </xsl:if>
+      <xsl:apply-templates/>
+    </xsl:copy>
+  </xsl:template>
+
+  
+  <xsl:template match="tei:__entry[not(@xml:id)]">
+      <!-- identifiant -->
       <xsl:variable name="entry" select="."/>
-      <xsl:variable name="id">
-        <xsl:value-of select="$key"/>
+      <xsl:variable name="key" select="
+translate(
+  tei:form/tei:orth, 
+  concat($uc, '_ ,.’ #()°'), 
+  concat($lc, '          ')
+)
+"/>
         <!--
+        -->
+    <xsl:copy>
+      <xsl:copy-of select="@*"/>
+      <xsl:attribute name="xml:id">
+        <xsl:value-of select="translate(normalize-space($key), ' ', '_')"/>
         <xsl:choose>
-          <xsl:when test="count(key('ids', $key)) = 1">
-            <xsl:value-of select="$key"/>
-          </xsl:when>
-          <xsl:when test="count(key('ids', $key)[1]|$entry) = 1">
-            <xsl:value-of select="$key"/>
-          </xsl:when>
+          <!-- seul -->
+          <xsl:when test="count(key('key', $key)) = 1"/>
+          <!-- premier = bon -->
+          <xsl:when test="count(key('key', $key)[1]|$entry) = 1"/>
           <xsl:otherwise>
-            <xsl:value-of select="$key"/>
-            <xsl:for-each select="key('ids', $key)">
+            <!-- numéroter -->
+            <xsl:for-each select="key('key', $key)">
               <xsl:if test="count(.|$entry) = 1">
                 <xsl:value-of select="position()"/>
               </xsl:if>
             </xsl:for-each>
           </xsl:otherwise>
         </xsl:choose>
-        -->
-      </xsl:variable>
-      <xsl:attribute name="xml:id">
-        <xsl:value-of select="$id"/>
       </xsl:attribute>
       <xsl:apply-templates/>
     </xsl:copy>
