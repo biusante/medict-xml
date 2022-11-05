@@ -190,6 +190,7 @@
             <ref name="pb"/>
             <ref name="sc"/>
             <ref name="term"/>
+            <ref name="xr"/>
           </choice>
         </oneOrMore>
       </element>
@@ -371,7 +372,7 @@
     </define>
     <define name="foreign">
       <element name="foreign">
-        <a:documentation>Mot en langue étrangère, notamment les équivalenets traductionnels ou les glossaires</a:documentation>
+        <a:documentation>Mot en langue étrangère, notamment les équivalents traductionnels ou les glossaires</a:documentation>
         <ref name="lang"/>
         <optional>
           <ref name="resp"/>
@@ -457,6 +458,14 @@
         </zeroOrMore>
       </element>
     </define>
+    <define name="xr">
+      <element name="xr">
+        <a:documentation>Renvoi à une locution sous-entrée</a:documentation>
+        <ref name="ref"/>
+        <text/>
+      </element>
+    </define>
+
   </div>
   <div>
     <a:documentation>Structure générale du fichier</a:documentation>

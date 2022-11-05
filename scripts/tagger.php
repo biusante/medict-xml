@@ -10,8 +10,13 @@ include 'build.php';
 
 foreach (['medict07399'] as $name) {
     $file = dirname(__DIR__) . "/xml/$name.xml";
-    $xml = Tagger::orth_norm($file);
-    file_put_contents($file, $xml);
+    // prefix <emph>
+    $tag = '<emph';
+    $found = Tagger::prefix($file , $tag);
+    echo "mot $tag\tcompte\n";
+    foreach ($found as $k=>$v) {
+        echo "$k\t$v\n";
+    }
 }
 
 
@@ -72,6 +77,17 @@ class Tagger
     public function ids()
     {
         return Build::transformDoc($this->_dom, dirname(__FILE__) . '/idref.xsl');
+    }
+
+    public static function prefix($file, $tag)
+    {
+        $pattern = '@([\p{L}]+\.?) *'. $tag .'@u';
+        $subject = file_get_contents($file);
+        preg_match_all($pattern, $subject, $matches);
+        $found = $matches[1];
+        $found = array_count_values($found);
+        arsort($found);
+        return $found;
     }
 
     public static function orth_norm($file)
