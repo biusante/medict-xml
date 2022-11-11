@@ -8,7 +8,7 @@
     <define name="entry">
       <element name="entry">
         <a:documentation>Entrée, contenant au moins un bloc avec une vedette, un identifiant unique pour le fichier, et des “sens” (ou autres sections contenant gloses ou renvois)</a:documentation>
-        <ref name="id.entry"/>
+        <ref name="entry.xml_id"/>
         <optional>
           <attribute name="corresp"/>
         </optional>
@@ -34,19 +34,21 @@
     <define name="entryFree">
       <element name="entryFree">
         <a:documentation>Entrée non structurée (ex Castelli) avec texte mêlé</a:documentation>
-        <ref name="id.entry"/>
+        <ref name="entry.xml_id"/>
         <ref name="orth"/>
         <zeroOrMore>
           <choice>
             <text/>
             <ref name="cb"/>
             <ref name="damage"/>
-            <ref name="emph"/>
+            <ref name="foreign"/>
+            <ref name="i"/>
             <ref name="lb"/>
             <ref name="orth"/>
             <ref name="pb"/>
             <ref name="quote.c"/>
             <ref name="quote.l"/>
+            <ref name="ref"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -61,7 +63,7 @@
             <ref name="orth"/>
             <ref name="sc"/>
             <ref name="gram"/>
-            <ref name="emph"/>
+            <ref name="i"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -104,7 +106,7 @@
         <oneOrMore>
           <choice>
             <text/>
-            <ref name="emph"/>
+            <ref name="i"/>
             <ref name="note"/>
           </choice>
         </oneOrMore>
@@ -117,7 +119,7 @@
           <oneOrMore>
             <choice>
               <text/>
-              <ref name="emph"/>
+              <ref name="i"/>
             </choice>
           </oneOrMore>
           <oneOrMore>
@@ -137,7 +139,7 @@
           <choice>
             <text/>
             <ref name="damage"/>
-            <ref name="emph"/>
+            <ref name="i"/>
             <ref name="foreign"/>
             <ref name="form"/>
             <ref name="formula"/>
@@ -167,7 +169,7 @@
         <oneOrMore>
           <choice>
             <text/>
-            <ref name="emph"/>
+            <ref name="i"/>
           </choice>
         </oneOrMore>
       </element>
@@ -180,7 +182,7 @@
             <ref name="sense.lax"/>
             <text/>
             <ref name="damage"/>
-            <ref name="emph"/>
+            <ref name="i"/>
             <ref name="foreign"/>
             <ref name="form"/>
             <ref name="formula"/>
@@ -303,13 +305,11 @@
             <gloss>en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</gloss>
           </entryFree>
         </a:example>
+        <ref name="entry.xml_id"/>
         <optional>
           <attribute name="type">
             <value>tr</value>
           </attribute>
-        </optional>
-        <optional>
-          <ref name="id"/>
         </optional>
         <oneOrMore>
           <ref name="orth"/>
@@ -325,8 +325,8 @@
   </div>
   <div>
     <a:documentation>Éléments lexicaux balisés dans un article</a:documentation>
-    <define name="emph">
-      <element name="emph">
+    <define name="i">
+      <element name="hi">
         <a:documentation>Mot en italique, sémantique en cours de résolution</a:documentation>
         <optional>
           <ref name="lang"/>
@@ -350,7 +350,7 @@
         <oneOrMore>
           <choice>
             <text/>
-            <ref name="emph"/>
+            <ref name="i"/>
             <ref name="damage"/>
             <ref name="num"/>
             <ref name="pb"/>
@@ -374,9 +374,7 @@
       <element name="foreign">
         <a:documentation>Mot en langue étrangère, notamment les équivalents traductionnels ou les glossaires</a:documentation>
         <ref name="lang"/>
-        <optional>
-          <ref name="resp"/>
-        </optional>
+        <ref name="foreign.cert"/>
         <oneOrMore>
           <choice>
             <ref name="damage"/>
@@ -397,7 +395,7 @@
         <zeroOrMore>
           <choice>
             <text/>
-            <ref name="emph"/>
+            <ref name="i"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -453,7 +451,7 @@
         <zeroOrMore>
           <choice>
             <text/>
-            <ref name="emph"/>
+            <ref name="i"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -547,6 +545,9 @@
       <element name="lb">
         <a:documentation>Saut de ligne, parfois nécessaire pour des numérisations anciennes</a:documentation>
         <empty/>
+        <optional>
+          <attribute name="type"/>
+        </optional>
       </element>
     </define>
     <define name="pb">
@@ -561,9 +562,7 @@
         <optional>
           <ref name="facs"/>
         </optional>
-        <optional>
-          <ref name="corresp.pb"/>
-        </optional>
+        <ref name="pb.corresp"/>
       </element>
     </define>
     <define name="TEI">
@@ -600,7 +599,7 @@
               <oneOrMore>
                 <choice>
                   <text/>
-                  <ref name="emph"/>
+                  <ref name="i"/>
                 </choice>
               </oneOrMore>
             </element>
@@ -640,9 +639,18 @@
     <define name="cert">
       <attribute name="cert">
         <a:documentation>Information relue</a:documentation>
+        <choice>
+          <value>1</value>
+          <value>low</value>
+        </choice>
       </attribute>
     </define>
-    <define name="corresp.pb">
+    <define name="foreign.cert">
+      <optional>
+        <ref name="cert"/>
+      </optional>
+    </define>
+    <define name="pb.corresp">
       <attribute name="corresp">
         <a:documentation>Page, url de consultation</a:documentation>
         <data type="anyURI"/>
@@ -654,15 +662,17 @@
         <data type="anyURI"/>
       </attribute>
     </define>
-    <define name="id">
+    <define name="xml_id">
       <attribute name="xml:id">
         <a:documentation>Identifiant, au moins unique pour le document</a:documentation>
         <data type="ID"/>
       </attribute>
     </define>
-    <define name="id.entry">
+    <define name="entry.xml_id">
       <a:documentation>Pour import, <a:el>entry</a:el>/<a:att>xml:id</a:att>, optionnel ou pas</a:documentation>
-      <ref name="id"/>
+      <optional>
+        <ref name="xml_id"/>
+      </optional>
     </define>
     <define name="lang">
       <attribute name="xml:lang">

@@ -13,10 +13,8 @@
       </element>
     </define>
     
-    <define name="entry.id">
-      <optional>
-        <ref name="xml.id"/>
-      </optional>
+    <define name="foreign.cert">
+      <ref name="cert"/>
     </define>
   </include>
 </grammar>
