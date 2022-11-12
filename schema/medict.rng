@@ -649,6 +649,9 @@
       <optional>
         <ref name="cert"/>
       </optional>
+      <optional>
+        <ref name="resp"/>
+      </optional>
     </define>
     <define name="pb.corresp">
       <attribute name="corresp">
