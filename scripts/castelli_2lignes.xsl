@@ -19,9 +19,9 @@
   </xsl:template>
 
   <xsl:template match="tei:entryFree">
+    <xsl:variable name="lb" select="tei:lb[2]"/>
     <xsl:copy>
       <xsl:copy-of select="@*"/>
-      <xsl:variable name="lb" select="tei:lb[2]"/>
       <xsl:choose>
         <xsl:when test="count($lb) = 1">
           <xsl:apply-templates select="node()[following-sibling::tei:lb[count(.|$lb)=1]]"/>
@@ -31,6 +31,9 @@
         </xsl:otherwise>
       </xsl:choose>
     </xsl:copy>
+    <xsl:if test="count($lb) = 1">
+      <xsl:apply-templates select="tei:pb[preceding::tei:lb[count(.|$lb)=1]]"/>
+    </xsl:if>
   </xsl:template>
 
 </xsl:transform>
