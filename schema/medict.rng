@@ -459,8 +459,9 @@
     <define name="xr">
       <element name="xr">
         <a:documentation>Renvoi à une locution sous-entrée</a:documentation>
-        <ref name="ref"/>
-        <text/>
+        <mixed>
+          <ref name="ref"/>
+        </mixed>
       </element>
     </define>
 
@@ -640,6 +641,7 @@
       <attribute name="cert">
         <a:documentation>Information relue</a:documentation>
         <choice>
+          <value>0</value>
           <value>1</value>
           <value>low</value>
         </choice>
