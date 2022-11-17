@@ -424,20 +424,7 @@
         <optional>
           <ref name="lang"/>
         </optional>
-        <optional>
-          <attribute name="type">
-            <choice>
-              <value>locution</value>
-            </choice>
-          </attribute>
-        </optional>
-        <optional>
-          <attribute name="rend">
-            <choice>
-              <value>i</value>
-            </choice>
-          </attribute>
-        </optional>
+        <ref name="orth.type"/>
         <oneOrMore>
           <choice>
             <text/>
@@ -681,6 +668,9 @@
         <a:documentation>Page, url de consultation</a:documentation>
         <data type="anyURI"/>
       </attribute>
+    </define>
+    <define name="orth.type">
+      <empty/>
     </define>
     <define name="facs">
       <attribute name="facs">

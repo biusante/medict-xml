@@ -16,5 +16,12 @@
     <define name="foreign.cert">
       <ref name="cert"/>
     </define>
+    <define name="orth.type">
+      <optional>
+        <attribute name="type">
+          <value>orth.ital</value>
+        </attribute>
+      </optional>
+    </define>
   </include>
 </grammar>
