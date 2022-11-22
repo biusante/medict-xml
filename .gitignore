@@ -7,4 +7,5 @@ docx/
 rawx/
 test/
 *.sqlite
-james/
+james*/*
+!james*/*.docx
