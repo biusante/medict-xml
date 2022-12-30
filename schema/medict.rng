@@ -135,11 +135,15 @@
     <define name="p">
       <element name="p">
         <a:documentation>Un paragraphe libre</a:documentation>
+        <optional>
+          <attribute name="rend"/>
+        </optional>
         <oneOrMore>
           <choice>
             <text/>
             <ref name="damage"/>
             <ref name="i"/>
+            <ref name="lb"/>
             <ref name="foreign"/>
             <ref name="form"/>
             <ref name="formula"/>
@@ -492,6 +496,9 @@
     <define name="cb">
       <element name="cb">
         <a:documentation>Saut de colonne, parfois nécessaire pour des numérisations anciennes</a:documentation>
+        <optional>
+          <ref name="n"/>
+        </optional>
         <empty/>
       </element>
     </define>
