@@ -10,8 +10,8 @@ Log::setLogger(new LoggerCli(LogLevel::DEBUG));
 $source = new Docx();
 $source->template(__DIR__);
 
-$glob = dirname(__DIR__) . '/jamesfr-docx/*.docx';
-$dst_dir = dirname(__DIR__) . '/jamesfr-docx/';
+$glob = dirname(__DIR__) . '/jamesen-docx/*x02_401*.docx';
+$dst_dir = dirname(__DIR__) . '/jamesen-docx/';
 foreach (glob($glob) as $docx_file) {
     $src_name = pathinfo($docx_file, PATHINFO_FILENAME);
     $dst_file = $dst_dir . $src_name . ".xml";
