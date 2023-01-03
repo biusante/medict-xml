@@ -1,0 +1,7 @@
+search	replace	?comment
+
+<p>[1ÀA-Z] ?[1ÀA-Z] ?[1ÀA-Z].*([ιI0-9]+)\n<lb/>	<cb n="\1"/>\n<p>	<p>MER 1326\n<lb/>
+<p>[1ÀA-Z] ?[1ÀA-Z] ?[1ÀA-Z].*([ιI0-9]+)</p>	<cb n="\1"/>	<p>MUS<space type="tab">    </space>1416</p>
+\n<lb/>([1A-Z]+)	</p>\n<p><orth>$1</orth>
+(<p[^>]*>)[« '\.]+	\1	
+		Voyez\n<lb/><hi>Lora</hi>

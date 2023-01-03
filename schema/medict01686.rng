@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <include href="medict.rng">
+    <define name="body">
+      <element name="body">
+        <ref name="body.cont"/>
+      </element>
+    </define>
+    <define name="text">
+      <element name="text">
+        <element name="front">
+          <ref name="body.cont"/>
+        </element>
+        <ref name="body"/>
+      </element>
+    </define>
+    <define name="pb">
+      <element name="pb">
+        <ref name="n"/>
+        <optional>
+          <ref name="facs"/>
+        </optional>
+        <optional>
+          <ref name="pb.corresp"/>
+        </optional>
+      </element>
+    </define>
+  </include>
+  <define name="body.cont">
+      <oneOrMore>
+        <choice>
+          <ref name="cb"/>
+          <ref name="p"/>
+          <ref name="pb"/>
+        </choice>
+      </oneOrMore>
+  </define>
+</grammar>

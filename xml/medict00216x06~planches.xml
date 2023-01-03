@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/medict00216.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="medict.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>James FR</title>
+        <author key="{author}"/>
+      </titleStmt>
+      <publicationStmt>
+      <p>BIU Santé</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>…</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <creation>
+        <date when="{date}"/>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  
+  <text>
+    <body>
+      <pb n="1129"/>
+
+<p>1130</p>
+
+<p>EXPLICATION</p>
+
+<p><hi>Des Planches contenues dans ce sixième Volume</hi>.</p>
+
+<p rend="indent">PLANCHE PREMIERE.</p>
+
+<p><hi>Figure premiere</hi>.</p>
+
+<p rend="indent">E dessous de la feuille de l’<hi>asa-fœtida</hi> ; cette figure
+<lb/>I j est tirée de Kempser.</p>
+
+<p><hi>siig</hi>. 2. le dessus de la même feuille.</p>
+
+<p><hi>siig</hi>. 3. les femences de la même plante.</p>
+
+<p><hi>siig</hi>. 4. 5. et 6. les racines de <hi>Vasa foetida</hi>,</p>
+
+<p rend="hanging"><hi>Tig. y</hi>. Medaille d’Alexandre, fils d’Ammon. Le revers
+<lb/>est le <hi>Sylphiitm</hi> de Cyrene, en témoignage de l’oracle
+<lb/>de cette contrée qui le déclara fils d’Ammon.</p>
+
+<p rend="hanging"><hi>siig</hi>. 8. autre Medaille ou d’Ammon ou de Battus. On
+<lb/>voit au reVers comme dans la précédente le <hi>Sylphiurn</hi> ,
+<lb/>avec les lettres X, <hi>Y</hi>, c’est-à-dire, <hi>Cyrene</hi>.</p>
+
+<p rend="hanging"><hi>sseg. 9. Vasafoeelda</hi> , dans tout fon entier &amp; tel qu’on le
+<lb/>trotlVe dans un aneien manufcrit de Diofcoride, qui
+<lb/>est actuellement à Vienne dans la Bibliotheque impériale.
+<lb/></p>
+
+<p>PLANCHE II.</p>
+
+<p><hi>Tirée d’H</hi> <hi rend="sc">e</hi> 1 s T <hi rend="sc">e</hi> R.</p>
+
+<p rend="hanging"><hi>fig</hi>. 1.<space type="tab">    </space>aiguille triangulaire de l’invention de Μ. Petit,
+<lb/>pour faire une contre-ouverture dans les plaies ou les
+<lb/>ulceres.</p>
+
+<p rend="hanging"><hi>fig</hi>. 2.<space type="tab">    </space>autre aiguille courbe de l’invention d’Heister ,
+<lb/>dont on peut ufer dans quelques plaies ou ulceres auxquelles
+<lb/>la précédente n’est point si propre.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 3.<space type="tab">    </space>représente une plaie dont les levres scmt réunies
+<lb/>par une emplâtre agglutinative.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 4.<space type="tab">    </space>représente une plaie à laquelle on a appliqué deux
+<lb/>emplâtres agglutinatiVes avec des dentelures.</p>
+
+<p rend="hanging">Fig. 5-<space type="tab">    </space>plaie de même nature , à laquelle on a appliqué
+<lb/>deux emplâtres agglutinatives sans dentelures.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 6.<space type="tab">    </space>deux plaies qui <hi>se</hi> croisent, <hi>A. A. A. A</hi>. unies
+<lb/>par deux emplâtres, <hi>B. Β. B. Β</hi>. posiées en croix.</p>
+
+<p rend="hanging"><hi>Fig. y. A. A</hi>. plaie à laquelle on a appliqué une emplâtre
+<lb/>agglutinative avec deux ouvertures <hi>B. B</hi>. dans le
+<lb/>milieu.</p>
+
+<p rend="hanging">Fig. 8. plaie fermée au moyen de deux emplâtres à chacune
+<lb/>defquelles sont attachés des fils que l'on assure par
+<lb/>des nœuds coulans <hi>a. a. a</hi>,</p>
+
+<p rend="hanging"><hi>Fig</hi>. 9. la même plaie avec des emplâtres de mêmeespece,
+<lb/>munies de crochets <hi>a. a. a. a. a. a</hi>. au lieu de fils ,
+<lb/>par le moyen defiquels, avec le secours des fils qui y
+<lb/>font attachés, ou réunit les levres de la plaie.</p>
+
+<p rend="hanging">'Frg. 10. repréfiente de quelle maniere, par le moyen de
+<lb/>petits trous <hi>b. b. b. b. b. b</hi>. qui tiennent lieu des crochets
+<lb/>de la figure précédente, on peut former &amp; assurer
+<lb/>ces fortes d’emplâtres, fuivant la méthode de quelques
+<lb/>Anciens.</p>
+
+<p><hi>Fig</hi>. 11.<space type="tab">    </space>plaie tranfVerfale <hi>A. A</hi>, formée par une future à
+<lb/>double nœud <hi>B. B</hi>.</p>
+
+<p><hi>Fig</hi>. 12.<space type="tab">    </space>représente de quelle maniere une plaie cruciale
+<lb/>doit être cousue, &amp; les levres réunies en tirant les fils
+<lb/><hi>AÆ.CD</hi>.</p>
+
+<p><hi>Fig</hi>. 13.<space type="tab">    </space>repréfente la maniere de faire les futures dans
+<lb/>la plaie triangulaire <hi>A. Β. C</hi>.</p>
+
+<p><hi>Fig</hi>. 14.<space type="tab">    </space>repréfente la maniere dont on doit fermer une
+<lb/>plaie à deux angles avec une future nouée, d’abord
+<lb/>aux angles <hi>A. A</hi>, &amp; ensuite, s’il est nécessaire de chaque
+<lb/>côté aux points <hi>B. B</hi>.</p>
+
+<p><hi>Fig</hi>- 15. grosse aiguille courbe avec un double fil pour
+<lb/>faire la future emplumée.</p>
+
+<p><hi>Α s</hi> l’aiguille.</p>
+
+<p><hi>B</hi>,<space type="tab">    </space>le fil en double.</p>
+
+<p><hi>C</hi>,<space type="tab">    </space>le bout du fil.</p>
+
+<p><hi>Fig</hi>. 16.<space type="tab">    </space>grande plaie transversale <hi>A. A</hi>. formée par une
+<lb/>future <hi>B. B. B</hi>. à triple nœud.</p>
+
+<p><hi>Fig</hi>. 17.<hi><space type="tab">    </space>D. D</hi>. la même plaie, qui outre les fils de la figure
+<lb/>16 , est encore munie de petits bourlets de soie
+<lb/>cylindriques enduits de cire ou d’une emplâtre <hi>A. A,
+<lb/>8e B. B</hi>. les fils Eont arrêtés vers la partie fupérieure de
+<lb/>la plaie par des nœuds coulans C. <hi>C. C</hi>, tandis que le
+<lb/>bourlet qui est pofié Eur la leVte inférieure est placé entre
+<lb/>les extrémités des fils <hi>E, E, E</hi>, cette figure repréfente
+<lb/>la méthode dontle sert Palfin pour faire la future
+<lb/>emplumée.</p>
+
+<p><hi>Α. A</hi>. la plaie.</p>
+
+<p><hi>Β. B</hi>. le bourlet sijpérieur.</p>
+
+<p><hi>C.<space type="tab">    </space>C</hi>. le bourlet inférieur.</p>
+
+<p><hi>D.<space type="tab">    </space>D. D</hi>. le nœud qui retient le bourlet supérieur.</p>
+
+<p><hi>E.<space type="tab">    </space>E. E</hi>. les nœuds coulans qui assurent le bourlet inférieur.
+<lb/></p>
+
+<p><hi>Fig</hi>. 19. repréfente la silture de Cesse, dans laquelle ilfe
+<lb/>sert de deux aiguilles pour coudre les plaies du basi
+<lb/>ventre. Il enseigne la méthode de la faire dans le feizieme
+<lb/>Chapitre de sim feptieme Livre. On l'appelle
+<lb/>communément la <hi>Gastroraphie</hi> de Celfe ; mais on ne
+<lb/>s'en fert plus depuis que l’on a inventé des sutures plus
+<lb/>commodes.</p>
+
+<p><hi>Α. A</hi>. lepréfente le commencement de la future.</p>
+
+<p><hi>B</hi>.<space type="tab">    </space>son extrémité, où elle est assurée par un nœud.</p>
+
+<p rend="hanging"><hi>Fig</hi>- 20. la silture de Glover pour former les plaies des
+<lb/>intestins.</p>
+
+<p><hi>Α. A</hi>. l’intestin.</p>
+
+<p><hi>B-<space type="tab">    </space>B</hi>. la plaie.</p>
+
+<p rend="hanging">C.<space type="tab">    </space>le commencement de la future avec une partie du
+<lb/>fil.</p>
+
+<p><hi>D</hi>.<space type="tab">    </space>l’extrémité de la Euture assurée par un nœud.</p>
+
+<p>N. <hi>B</hi>. le nœud n’est point représenté dans la figure.</p>
+
+<p><hi>Fig</hi>. 21. &amp;2 2. la future pour le bec-de-lievre, qui <hi>se</hi> sait</p>
+
+<p rend="indent">aVec deux ou trois aiguilles.</p>
+
+<p><hi>A.<space type="tab">    </space>A</hi>. la plaie.
+</p>
+<pb/>
+
+<p rend="indent">I ΐ3 I</p>
+
+<p rend="indent"><hi>PI. B. B</hi>. aiguilles passées à travers les levres de la plaie.
+<lb/><hi>C C C</hi>. le fil roulé autour de l’aiguille.</p>
+
+<p>PLANCHE III.</p>
+
+<p><hi>Figure</hi> I,</p>
+
+<p rend="hanging">.Maniere dont Meekren dissipe les ganglions. Elle consiste
+<lb/>à frapper avec le poing fur la tumeur <hi>A</hi>.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 2. <hi>A. Α</hi>. aiguille foible, droite &amp; petite, dont la
+<lb/>pointe est plate. On s’en <hi>sert</hi> pour la suture des tendons
+<lb/>de la main.</p>
+
+<p rend="hanging"><hi>B B</hi> › un sil double , fort, ciré, à l’extrémité <hi>C</hi> duquel il
+<lb/>y a un nœud , qui arrête un morceau de cuir quarré.</p>
+
+<p rend="hanging">F/g-. 3. X&amp;B, deux morceaux de cuir percés au milieu ,
+<lb/>dont on fe fert dans la future du tendon d’Achile, comme
+<lb/>on voit en <hi>E, Enflg</hi>. 7.</p>
+
+<p rend="hanging">Fig. 4. On volt dans cette figure trois manières différens
+<lb/>tes de faire les futures des tendons, <hi>aa, aa, aa</hi>, les
+<lb/>endroits ou les tendons extérieurs des doigts sont coupés
+<lb/>si.lr le dos de la main.</p>
+
+<p rend="hanging"><hi>A</hi> , la maniere d’arrêter le nœud du double fil, à l’aide
+<lb/>d’un morceau quarré de cuir appliqué fur la partie supérieure
+<lb/>du tendon.</p>
+
+<p rend="hanging"><hi>B</hi>,<space type="tab">    </space>la maniere d’arrêter le fil par un nœud coulant fur
+<lb/>une petite compresse ronde appliquée à l’autre partie
+<lb/>du tendon.</p>
+
+<p rend="hanging"><hi>C</hi>,<space type="tab">    </space>le nœud du fil arrêté à l’extrémité du tendon coupé,
+<lb/>fur une compresse ronde, au lieu d’un morceau quarré
+<lb/>de cuir.</p>
+
+<p rend="hanging"><hi>D</hi>,<space type="tab">    </space>les autres extrémités du fil fixées à l'autre extrémité
+<lb/>du tendon par le moyen d’un nœud cculant, fait <hi rend="sc">Eut</hi>
+<lb/>une petite compresse, comme dans le cas précédent.</p>
+
+<p rend="hanging">T, la maniere de faire la suture de ces tendons, felon
+<lb/>Nuck. Elle consiste à percer en deux endroits différens
+<lb/><hi>bb</hi>, la partie supérieure du tendon, aVec deux petites
+<lb/>aiguilles , enfilées d’un fil. Le fil est arrêté par un petit
+<lb/>morceau de cuir ou par une compresse ronde appliquée
+<lb/>comme on Voit en <hi>Ε</hi> ; après quoi l'on perce aVec
+<lb/>les mêmes aiguilles la partie inférieure du tendon, en
+<lb/>deux différens endroits; on sait passer le fil par ces ouvertures
+<lb/>; &amp; on le fixe par un nœud fur un morceau de
+<lb/>peau ou sur une compresse.</p>
+
+<p>1</p>
+
+<p rend="hanging">Fig. 5. éclisse de bois foible ou du plus fort carton , dont
+<lb/>on fe fert dans la future des tendons du dos de la main :
+<lb/>cette eclisse appliquée dans la paume de la main, tient
+<lb/>les doigts dans l’extension nécessaire pour la réunion
+<lb/>des tendons.</p>
+
+<p><hi>Fig</hi>. 6. petite aiguille de Garengeot pour la future des
+<lb/>tendons. Les Modernes la préferent à l'aiguille droite,
+<lb/>parce qu’on la manie plus commodément &amp; qu’on la
+<lb/>fait passer plus facilement à traVers le tendon. Les
+<lb/>bords de fa pointe ne font pas tranchans , comme ils
+<lb/>le fiant communément dans les autres aiguilles courbes
+<lb/>, qu’on peut Voir <hi>Planche XXII</hi>, Car si <hi>ses</hi> bords
+<lb/>étoient tranchans, ils pourroient blesser les fibres tranf
+<lb/>versiales du tendon. Garengeot pensse qu’on pourroit
+<lb/>pratiquer fur la partie concaVe de cette aiguille une
+<lb/>éminersce tranchante : mais Heister prétend que cette
+<lb/>éminence sieroit mieux placée fur la conVexité. Cette
+<lb/>aiguille n’est paspereée de côté, comme le font communément
+<lb/>les aiguilles : mais S011 ouVerture repond à
+<lb/>sa concaVÎté ou à <hi>sa</hi> conVexité , pour l'extramission
+<lb/>plus saeile du fil. Cette petite aiguille est pour les
+<lb/>petits tendons, tels que ceux de la main. On la prendradela
+<lb/>même configuration, mais d’tme force proportionnée
+<lb/>à celle des tendons , lorsique ces tendons
+<lb/>feront plus considérables,comme dans la future du tendon
+<lb/>d’Achille. Voyez la <hi>figure</hi> 9.</p>
+
+<p><hi>Fige</hi> 7. Maniere de faire la réunion du tendon d’Achille '</p>
+
+<p rend="indent">II32
+<lb/>par la future. Cette figure est tirée de la dissection de
+<lb/>Kifner, <hi>deTendinttm laesionibus</hi>.</p>
+
+<p rend="indent"><hi>Α</hi>. le bas du gras de la jambe.</p>
+
+<p rend="indent"><hi>B</hi>.<space type="tab">    </space>le talon dont le tendon est diVlTé.</p>
+
+<p rend="indent">C.<space type="tab">    </space>le lieu de la blessure ou de la division du tendon.</p>
+
+<p rend="hanging"><hi>D</hi>.<space type="tab">    </space>le nœud sait aVec un fil double, aVec un morceau de
+<lb/>cuir par-dessous.</p>
+
+<p rend="hanging">F. le même fil fixé <hi>en G G</hi> fur un autre mOrceau quarré de
+<lb/>cuir , par le moyen d’un nœud coulant. La plupart
+<lb/>des Chirurgiens aiment mieux percer d’abord la partie
+<lb/>supérieure du tendon, &amp; faire le nœud coulant fur la
+<lb/>partie inférieure.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 8. Aiguille droite, large &amp; sorte, aVec une pointe
+<lb/>plate, recommandée par quelques Auteurs dans la future
+<lb/>du tendon d’Achille, &amp; du tendon des extenfeuss
+<lb/>du tibia.</p>
+
+<p rend="indent"><hi>B B</hi>. le fil doublé , ciré &amp; noué en <hi>c</hi>, à fon extrémité.</p>
+
+<p rend="indent"><hi>Fig. y</hi>. grande aiguille courbe, femblable à celle de la
+<lb/><hi>; figure</hi> 6- pour la future du tendon d’Achille.</p>
+
+<p rend="hanging">î <hi>Fig</hi>. 10. la maniere de faire la future du tendon d’Achille
+<lb/>, aVec deux aiguilles, selon Cowper.</p>
+
+<p rend="indent"><hi>AB</hi>. les deux extrémités du tendon divisil.</p>
+
+<p rend="indent">CD. les deux aiguilles droites aVec leurs fils.</p>
+
+<p rend="hanging"><hi>a b</hi>. l'incision des tégumens , faite pour opérer plus librement
+<lb/>fur les extrémités du tendon.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 11.<space type="tab">    </space>esipece de bottine de cuir ou de toile forte, qu’on
+<lb/>ferre sur la jambe nue par le moyen du lacet <hi>B</hi> &amp; des
+<lb/>œillets <hi>A</hi>.</p>
+
+<p rend="hanging">On fait pcrter ces bottines à ceux qui ont des Varices ou
+<lb/>des enflures œdémateuses aux jambes,surtout lorsqu’ellcs
+<lb/>Eont récentes.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 12.<space type="tab">    </space>Paire de cifeaux très-forts, pour l'extirpation
+<lb/>d’une partie de l'ongle du gros orteil, lorfqu’ils rentrent
+<lb/>dans la chair : on leur fait la pointe <hi>A</hi> obtufe,
+<lb/>afin qu’on puisse l’appliquer fur la chair fans blesser.</p>
+
+<p rend="hanging"><hi>B.<space type="tab">    </space>B</hi>. les branches : on fait trancher ces cifeaux en <hi>serrant</hi>
+<lb/>les branches aVec la main. Ils s’ouVrent derechefd’eux-mêmes
+<lb/>, si la comprefilon des branches cese
+<lb/>fe, &amp; cela par le moyen d’un ressort placé en c entre
+<lb/>ces branehes.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 13.<space type="tab">    </space>Paire de cifeaux décrite &amp; recommandée par Garengeotpour
+<lb/>le même tssage.</p>
+
+<p><hi>A.<space type="tab">    </space>A</hi>. les lames concaVes, pointues &amp; tranchantes.</p>
+
+<p rend="hanging"><hi>B.<space type="tab">    </space>B</hi>. les branches: elles font agir les lames, si elles sont 1
+<lb/>comprimées ; &amp; elles les écartent , par le moyen du
+<lb/>ressort qui leur est appliqué en c , si la compression
+<lb/>cesse.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 14.<space type="tab">    </space>Les bottes de Paré , ou Vertes, pour les enfans
+<lb/>qui ont lespiés trop tournés, foit en-dedans, foit endehors.
+<lb/></p>
+
+<p rend="hanging"><hi>Fig</hi>. 15.<space type="tab">    </space>Les mêmes bottines fermées avec trois petits
+<lb/>crochets.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 16.<space type="tab">    </space>Machine pour réduire dans leur état naturel les
+<lb/>jambes tortues. Hildanus en propofel’usage. <hi>Cent. VI.
+<lb/>Obs</hi>. 89. et 90.</p>
+
+<p rend="hanging"><hi>A.<space type="tab">    </space>A</hi>. les côtés faits de cuÎVre fort, ou de plaques defer
+<lb/>ou de cuÎVre ; ces plaques doÎVent être proportionnées
+<lb/>à la grandeur de la jambe, &amp; s’appliquer aVec beaucoup
+<lb/>d’exactitude.</p>
+
+<p rend="hanging"><hi>B.<space type="tab">    </space>B</hi>. morceau de cuir doux &amp; flexible, qui fert à réunir
+<lb/>les deux côtés de cette espece de bottine.</p>
+
+<p rend="hanging">C.<space type="tab">    </space>C. deux ligatures par lesquelles on tiendra la bottine
+<lb/>serrée Eur la jambe de l'enfant.</p>
+
+<p rend="hanging"><hi>Fig. ssp</hi>. la botine précédente appliquée <hi>fur</hi> une jambe.
+<lb/>On a employé les mêmes lettres dans cette <hi>figures</hi>
+</p>
+<pb n="1133"/>
+
+<p rend="indent">pour désigner les mêmes parties que dans la précédente.
+<lb/>Il n’xade différenee, sinon que dans celle-ci on Voyoit
+<lb/>l’intérieur de la bottine ; au lieu que dans celle-là on
+<lb/>voit l’extérieur.</p>
+
+<p>PLANCHE IV.</p>
+
+<p>Voyez l’Article <hi>Vena</hi>, &amp;</p>
+
+<p>PLANCHE V.</p>
+
+<p>Voyez <ref>Arteria</ref>,</p>
+
+<p><hi>Des Transactions Philosophiques</hi>.</p>
+
+<p rend="hanging"><hi>Fig</hi>. I. Les troncs de la veine-cave, avec leurs brandies,
+<lb/>disséquées dans un corps adulte.</p>
+
+<p rend="hanging"><hi>AA</hi>. l’orifice de la veine-caVe, comme elle paraît lorsiqu’elle
+<lb/>est séparée de l'oreille droite du cœur.</p>
+
+<p><hi>a</hi>. l’orifice de la veine coronaire du cœur.</p>
+
+<p><hi>B.A</hi>. le tronc supérieur ou descendant de la veine-cave.</p>
+
+<p rend="hanging"><hi>C. C. A</hi>. le tronc inférieur ou afcendant, ainsi nommés du
+<lb/>mouVement du fang dans ces troncs, qui est contraire
+<lb/>à leur position.</p>
+
+<p><hi>D.B</hi>. les Veines foûclavieres.</p>
+
+<p rend="hanging">f, la partie de la Veine foûclaviere gauche, qui reçoit le
+<lb/>canal thorachlque.</p>
+
+<p rend="hanging"><hi>b</hi>.<space type="tab">    </space>la Veine azygos, dont les branches aboutissent aux
+<lb/>côtes, &amp;c.</p>
+
+<p>c.<space type="tab">    </space>les Veines supérieures intercostales.</p>
+
+<p><hi>d.<space type="tab">    </space>d</hi>. les Veines mammaires internes.</p>
+
+<p><hi>E. E</hi>. les branches iliaques droites &amp; gauches.</p>
+
+<p>F. <hi>F</hi> les Veines jugulaires internes.</p>
+
+<p>C.C. les jugulaires externes.</p>
+
+<p rend="hanging"><hi>H. H</hi>. les Veines qui ramenent le sang de la mâchoire inférieure
+<lb/>&amp; de fies musdes.</p>
+
+<p rend="hanging">J. <hi>I</hi>. les troncs des jugulaires internes, coupés à la base du
+<lb/>cetVeau.</p>
+
+<p>s. les Veines du thym &amp; du médiastin.</p>
+
+<p>g.g. les Veines des glandes thyroïdales.</p>
+
+<p><hi>h</hi>. la Veine sacrée.</p>
+
+<p><hi>i</hi>. la branche iliaque interne.</p>
+
+<p>lq l’externe.</p>
+
+<p><hi>K.<space type="tab">    </space>K</hi>. les Veines occipitales.</p>
+
+<p><hi>L</hi>.<space type="tab">    </space>la Veine droite axillaire.</p>
+
+<p><hi>M</hi>.<space type="tab">    </space>la céphalique.</p>
+
+<p><hi>N</hi>.<space type="tab">    </space>la basilique.</p>
+
+<p><hi>O</hi>.<space type="tab">    </space>la Veine médiane.</p>
+
+<p><hi>P</hi>,<space type="tab">    </space>le tronc des Veines du soie.</p>
+
+<p><hi>Q</hi> la Veine phrénique du côté gauche.</p>
+
+<p>R.<space type="tab">    </space>la Veine phrénique droite.</p>
+
+<p rend="hanging">r. grande Veine de la glande rénale gauche &amp; des parties
+<lb/>adjacentes.</p>
+
+<p>S.<space type="tab">    </space>la Veine émulgente gauche.</p>
+
+<p rend="hanging"><hi>T</hi>.<space type="tab">    </space>la Veine émulgente droite , qui est dans ce sistet beaucoup
+<lb/>plus basse que la gauche contre l'ordinaire.</p>
+
+<p><hi>u</hi>. u. les deux Veines spermatiques.</p>
+
+<p rend="hanging">X.X. deux branches qui Communiquent du tronc asitendant
+<lb/>de la veine-CaVe à la Veine azygos , par le moyen
+<lb/>desquelles le Vent passe dans le trone descendant de la
+<lb/>caVe, lorsqu’on Eouffle dans l’ascendante aux points
+<lb/><hi>A. P. C</hi>. quoique le trone aux points <hi>A. P. &amp; G</hi>. soit
+<lb/>fortement attaché au chalumeau.</p>
+
+<p rend="hanging">* branche non-commune entre le tronc le plus bas de la
+<lb/>Veine-caVe , &amp; la Veine émulgente gauche.</p>
+
+<p rend="hanging"><hi>Y</hi>. Veine qui ramene le fang des muicles du bas-ventre à
+<lb/>la branehe iliaque externe.</p>
+
+<p rend="hanging">Z. la veine épigastrique du côté droit.</p>
+
+<p><hi>lel</hi>. la veine Eaphene.</p>
+
+<p><hi>m</hi>. la veine crurale.</p>
+
+<p rend="hanging"><hi>Fig</hi>. 2. Les troncs de la veine-porte disséqués &amp; développés.
+<lb/></p>
+
+<p><hi>A.<space type="tab">    </space>A. A</hi> les branches de la veine-porte séparées du foie.
+<lb/><hi>a</hi>, la veine ombilicale.</p>
+
+<p>1134</p>
+
+<p><hi>B</hi>.<space type="tab">    </space>la branche splénique.</p>
+
+<p rend="hanging">C.<hi><space type="tab">    </space>C</hi>. les branches mésentériques continuées depuis les
+<lb/>intestins.</p>
+
+<p rend="hanging"><hi>b</hi>.<space type="tab">    </space>le tronc de la Veine pancréatique, qui reçoit les bronches
+<lb/>qui Viennent du duodénum.</p>
+
+<p>c.<space type="tab">    </space>c. la Veine gastrique coronaire droite supérieure.</p>
+
+<p rend="hanging"><hi>D</hi>.<space type="tab">    </space>la Veine coronaire supérieure de l’estomac du côté
+<lb/>gauche.</p>
+
+<p rend="hanging"><hi>E</hi>.<space type="tab">    </space>la Veine coronaire inferieure de l’estomac du côté
+<lb/>droit, &amp;</p>
+
+<p rend="hanging"><hi>F</hi>.<space type="tab">    </space>la même Veine coronaire du côté gauche, hors de leur
+<lb/>situation naturelle. Les deux dernleres font unecontinuation
+<lb/>de celles là.</p>
+
+<p>1.<space type="tab">    </space>la Veine épiploïque supérieure droite, &amp;</p>
+
+<p>2.<space type="tab">    </space>la gauche, avec</p>
+
+<p>3.<space type="tab">    </space>la médiane.</p>
+
+<p><hi>G</hi>.<space type="tab">    </space>la veine appellée <hi>Vas-breve</hi>.</p>
+
+<p><hi>d</hi>. la veine du duodénum.</p>
+
+<p rend="hanging"><hi>H</hi> la veine hémorrhoïdale qui vient du rectum &amp; de
+<lb/>l’anus ; elle <hi>se</hi> décharge dans ce sujet dans la branche
+<lb/>mésentérique gauehe. Mais dans d’autres sujets ,
+<lb/>( surtout en préparant ces veines, ) j’ai trouic que le
+<lb/>tronc des veines hémorrhoïdales aboutissait au rameau
+<lb/>splénique.</p>
+
+<p>PLANCHE VI.</p>
+
+<p rend="hanging">Instrumens dont <hi>se</hi> sert M. Foubert , Chirurgien de
+<lb/>Paris , dans <hi>sa</hi> méthode de faire l’opération de la
+<lb/>taille.</p>
+
+<p><hi>Fig</hi>. 1.<space type="tab">    </space>le trocart avec sa cannule.</p>
+
+<p><hi>Fig</hi>. 2.<space type="tab">    </space>la cannule séparée du trocart.</p>
+
+<p rend="hanging">Fig. 3.<space type="tab">    </space>legorgeret formé de deux branches qui peuvent
+<lb/>sléearter pour servir de dilatatoire.</p>
+
+<p><hi>Fig</hi>. 4.<space type="tab">    </space>le bandage pour comprimer l’urethre,</p>
+
+<p><hi>Fig. y</hi>. le couteau mousse.</p>
+
+<p><hi>Fig</hi>. 6.<space type="tab">    </space>le lithotome.</p>
+
+<p><hi>Fig</hi>. 7.<space type="tab">    </space>la cannule flexible.</p>
+
+<p><hi>Fig</hi>. 8.<space type="tab">    </space>le gorgeret ouvert.</p>
+
+<p rend="hanging"><hi>Fig. 9.<space type="tab">    </space>et dernière s</hi> autre lithotome imaginé depuis l’invention
+<lb/>du premier, par M. Foubert ,&amp; dont on explique
+<lb/>l’utilité particulière en parlant de cette opération à
+<lb/>l’article <hi>Vesica</hi>.</p>
+
+<p>PLANCHE VII.</p>
+
+<p rend="hanging">Coupe latérale de l’hypogastre qui représente l’incision
+<lb/>de la vessie dans l’opération de la taille, selon la méthodede
+<lb/>M. Foubert.</p>
+
+<p>PLANCHE VIII.</p>
+
+<p>Voyez-en l’explication à l’art. <hi>Vinum</hi>.</p>
+
+<p>PLANCHE IX,</p>
+
+<p rend="hanging">Représentant différens muscles , pour la description desquels
+<lb/>on peut consulter leurs articles particuliers.</p>
+
+<p>1.<space type="tab">    </space>les deux muEcles quarrés d’Eustachi, fur l’occiput.</p>
+
+<p rend="hanging">2.<space type="tab">    </space>le trapeze du côté gauche, celui du côté droit étant
+<lb/>retranché.</p>
+
+<p>3.<space type="tab">    </space>le splénius.</p>
+
+<p>4.<space type="tab">    </space>le sterne-mastoïdien.</p>
+
+<p>5.<space type="tab">    </space>le muscle de patience ou releveur propre de l’épaule.</p>
+
+<p>6.<space type="tab">    </space>rhomboïde.
+</p>
+<pb/>
+
+<p>EXPLICATION DES PLANCHES.</p>
+
+<p>Ϊ135</p>
+
+<p>7.<space type="tab">    </space>articulation de la clavicule avec l’omoplate.</p>
+
+<p>8.<space type="tab">    </space>le deltoïde.</p>
+
+<p>9.<space type="tab">    </space>le petit rond.</p>
+
+<p>10.<space type="tab">    </space>le grand rond.</p>
+
+<p>II.<space type="tab">    </space>11. le très-large du dos de chaque côté.</p>
+
+<p>12.<space type="tab">    </space>le grand fessier.</p>
+
+<p>13.<space type="tab">    </space>le moyen fessier.</p>
+
+<p>14.<space type="tab">    </space>le petit fessier.</p>
+
+<p>13. le quarré de la cuifle.</p>
+
+<p>16. le biceps de la cuisse.</p>
+
+<p>17. le demi-membraneux.</p>
+
+<p>1136</p>
+
+<p rend="indent">18.<space type="tab">    </space>le membraneux suivant Lancisi.</p>
+
+<p rend="indent">19.<space type="tab">    </space>19. le vaste externe.</p>
+
+<p rend="indent">20.<space type="tab">    </space>les jumeaux.</p>
+
+<p rend="indent">21.<space type="tab">    </space>lefoléaire.</p>
+
+<p rend="indent">.22. le plantaire.</p>
+
+<p>PLANCHE Χ.</p>
+
+<p rend="hanging">Repréfente les différens os du crane, tant unis par le
+<lb/>moyen des Eutures, que séparés &amp; vus à part. On en
+<lb/>peut voir la description à l'article <hi>Capua</hi></p>
+
+<p rend="i">Fin de ΐexplication des Planches contenues dans ce Volumes</p>
+
+
+
+    </body>
+  </text>
+</TEI>

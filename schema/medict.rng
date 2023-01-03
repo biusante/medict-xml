@@ -587,9 +587,7 @@
         <attribute name="n"/>
         <attribute name="ana"/>
         <ref name="teiHeader"/>
-        <element name="text">
-          <ref name="body"/>
-        </element>
+        <ref name="text"/>
       </element>
     </define>
     <define name="teiHeader">
@@ -635,6 +633,11 @@
             </element>
           </oneOrMore>
         </element>
+      </element>
+    </define>
+    <define name="text">
+      <element name="text">
+        <ref name="body"/>
       </element>
     </define>
     <define name="unclear">
