@@ -6,6 +6,20 @@
         <oneOrMore>
           <choice>
             <ref name="cb"/>
+            <ref name="label"/>
+            <ref name="p"/>
+            <ref name="entryFree"/>
+            <ref name="pb"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    <define name="entryFree">
+      <element name="entryFree">
+        <oneOrMore>
+          <choice>
+            <ref name="cb"/>
+            <ref name="figure"/>
             <ref name="p"/>
             <ref name="pb"/>
           </choice>

@@ -1,7 +1,33 @@
 search	replace	?comment
 
-<p>[1ÀA-Z] ?[1ÀA-Z] ?[1ÀA-Z].*([ιI0-9]+)\n<lb/>	<cb n="\1"/>\n<p>	<p>MER 1326\n<lb/>
-<p>[1ÀA-Z] ?[1ÀA-Z] ?[1ÀA-Z].*([ιI0-9]+)</p>	<cb n="\1"/>	<p>MUS<space type="tab">    </space>1416</p>
-\n<lb/>([1A-Z]+)	</p>\n<p><orth>$1</orth>
+($cap)	[ÀÄÂÆŒ1ÎÏÔÖA-Z]
+
+xml:lang="fr"	xml:lang="lat"
 (<p[^>]*>)[« '\.]+	\1	
+<space type="tab">    </space>	  
+<hi rend="sup">[ty]</hi>	,
+<hi rend="sup">([^<][^<]+)</hi>	\1
+<p>\s*(<figure)	\1
+(</figure>)\s*</p>	\1
+<head>\s*</head>\s*(</figure>)	\1
+
+<p( [^>]+)?>($cap) ?($cap) ?($cap)[^ιI0-9\n]+([ιI0-9]+)\n<lb/>	<cb n="\2"/>\n<p>	<p>MER 1326\n<lb/>
+<p( [^>]+)?>($cap) ?($cap) ?($cap)[^ιI0-9\n]+([ιI0-9]+)</p>	<cb n="\2"/>	<p>MUS<space type="tab">    </space>1416</p>
+<p( [^>]+)?>(($cap) ($cap) ($cap))</p>	<label>\2</label>	<p>N E R</p>
+
+(<p( [^>]+)?>)([A-Z]($cap)+)([ ,\.])	$1<orth>$3</orth>$4
+</orth>( ($cap)+)	\1</orth>	
+(</orth>, )([A-Z]($cap)+)	\1<orth>\2</orth>
+(</orth>, )([A-Z]($cap)+)	\1<orth>\2</orth>
+
+(<p( [^>]+)?><orth>)	</entryFree>\n<entryFree>\n\1	<p rend="hanging"><orth>
+(.*</label>)\s+(</entryFree>)	\2\n\1	put <label> out article
+(<body>)	\1\n<entryFree>
+(</body>)	</entryFree>\n\1
+
+
 		Voyez\n<lb/><hi>Lora</hi>
+
+(<orth>[^<]*)[ÀÄÂ]	\1A
+(<orth>[^<]*)[1ÎÏ]	\1I
+(<orth>[^<]*)[ÖÔ]	\1O

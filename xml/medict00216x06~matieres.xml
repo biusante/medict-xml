@@ -9,10 +9,10 @@
         <author key="{author}"/>
       </titleStmt>
       <publicationStmt>
-      <p>BIU Santé</p>
+        <publisher>BIU Santé</publisher>
       </publicationStmt>
       <sourceDesc>
-        <p>…</p>
+        <bibl>…</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
