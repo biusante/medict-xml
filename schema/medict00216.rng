@@ -7,7 +7,6 @@
           <choice>
             <ref name="cb"/>
             <ref name="label"/>
-            <ref name="p"/>
             <ref name="entryFree"/>
             <ref name="pb"/>
           </choice>
@@ -22,6 +21,8 @@
             <ref name="figure"/>
             <ref name="p"/>
             <ref name="pb"/>
+            <ref name="table"/>
+            <ref name="term"/>
           </choice>
         </oneOrMore>
       </element>

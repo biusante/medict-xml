@@ -150,6 +150,7 @@
         <oneOrMore>
           <choice>
             <text/>
+            <ref name="cb"/>
             <ref name="damage"/>
             <ref name="i"/>
             <ref name="lb"/>
@@ -165,6 +166,7 @@
             <ref name="pb"/>
             <ref name="sc"/>
             <ref name="sup"/>
+            <ref name="term"/>
           </choice>
         </oneOrMore>
       </element>
@@ -353,6 +355,8 @@
             <ref name="cb"/>
             <ref name="lb"/>
             <ref name="pb"/>
+            <ref name="sc"/>
+            <ref name="sup"/>
           </choice>
         </oneOrMore>
       </element>
@@ -466,7 +470,14 @@
         <attribute name="rend">
           <value>sc</value>
         </attribute>
-        <text/>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="cb"/>
+            <ref name="lb"/>
+            <ref name="pb"/>
+          </choice>
+        </zeroOrMore>
       </element>
     </define>
     <define name="sup">
