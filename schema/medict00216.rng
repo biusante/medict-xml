@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  ns="http://www.tei-c.org/ns/1.0" 
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+  >
   <include href="medict.rng">
     <define name="body">
       <element name="body">
@@ -37,6 +40,13 @@
           <ref name="pb.corresp"/>
         </optional>
       </element>
+    </define>
+    <define name="n">
+      <attribute name="n">
+        <data type="string">
+          <param name="pattern">\d+</param>
+        </data>
+      </attribute>
     </define>
   </include>
 </grammar>
