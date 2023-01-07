@@ -22,6 +22,7 @@
           <choice>
             <ref name="cb"/>
             <ref name="figure"/>
+            <ref name="label"/>
             <ref name="p"/>
             <ref name="pb"/>
             <ref name="table"/>
