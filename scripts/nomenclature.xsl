@@ -3,7 +3,7 @@
   <xsl:output encoding="UTF-8" indent="yes" method="text"/>
   <xsl:template match="/">
     <xsl:text>cote&#9;entry&#9;term&#10;</xsl:text>
-    <xsl:apply-templates select="/*/tei:text/tei:body/tei:entryFree[tei:p/tei:orth = 'BOTANICA']"/>
+    <xsl:apply-templates select="/*/tei:text/tei:body/tei:entryFree[tei:p/tei:orth = 'BOTANY']"/>
   </xsl:template>
   <xsl:template match="tei:entryFree">
     <xsl:variable name="cote" select="/*/@n"/>

@@ -117,7 +117,7 @@
         <oneOrMore>
           <choice>
             <text/>
-            <ref name="hi"/>
+            <ref name="i"/>
             <ref name="lb"/>
             <ref name="sc"/>
           </choice>

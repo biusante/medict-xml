@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  ns="http://www.tei-c.org/ns/1.0" 
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+  >
   <include href="medict.rng">
     <define name="body">
       <element name="body">
-        <ref name="body.cont"/>
+        <oneOrMore>
+          <choice>
+            <ref name="cb"/>
+            <ref name="label"/>
+            <ref name="entryFree"/>
+            <ref name="pb"/>
+          </choice>
+        </oneOrMore>
       </element>
     </define>
-    <define name="text">
-      <element name="text">
-        <element name="front">
-          <ref name="body.cont"/>
-        </element>
-        <ref name="body"/>
+    <define name="entryFree">
+      <element name="entryFree">
+        <oneOrMore>
+          <choice>
+            <ref name="cb"/>
+            <ref name="figure"/>
+            <ref name="label"/>
+            <ref name="p"/>
+            <ref name="pb"/>
+            <ref name="table"/>
+            <ref name="term"/>
+          </choice>
+        </oneOrMore>
       </element>
     </define>
     <define name="pb">
@@ -25,14 +42,12 @@
         </optional>
       </element>
     </define>
+    <define name="n">
+      <attribute name="n">
+        <data type="string">
+          <param name="pattern">\d+</param>
+        </data>
+      </attribute>
+    </define>
   </include>
-  <define name="body.cont">
-      <oneOrMore>
-        <choice>
-          <ref name="cb"/>
-          <ref name="p"/>
-          <ref name="pb"/>
-        </choice>
-      </oneOrMore>
-  </define>
 </grammar>

@@ -1,7 +1,0 @@
-search	replace	?comment
-
-($atts)	( [^>]*)?	
-
-
-(<p($atts)>)[' \.]+	\1
-([Ss]ee *)(\p{Lu}\p{L}+)	\1<ref>\2</ref>
