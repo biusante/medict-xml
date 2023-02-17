@@ -8,15 +8,8 @@ include 'build.php';
 // Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
 // Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
 
-foreach (['medict07399'] as $name) {
-    $file = dirname(__DIR__) . "/xml/$name.xml";
-    // prefix <emph>
-    $tag = '<emph';
-    $found = Tagger::prefix($file , $tag);
-    echo "mot $tag\tcompte\n";
-    foreach ($found as $k=>$v) {
-        echo "$k\t$v\n";
-    }
+foreach (['00216x01'] as $cote) {
+    Tagger::orth_old($cote);
 }
 
 
@@ -110,57 +103,59 @@ class Tagger
     }
 
     /**
+     * Cette méthode doit être identique à celle utilisée à l’indexation
+     */
+    public static function deform($s)
+    {
+        // bas de casse
+        $s = mb_convert_case($s, MB_CASE_FOLD, "UTF-8");
+        // décomposer lettres et accents
+        $s = Normalizer::normalize($s, Normalizer::FORM_D);
+        // ne conserver que les lettres et les espaces, et les traits d’union
+        $s = preg_replace("/[^\p{L}\-\s]/u", '', $s);
+        // ligatures
+        $s = strtr(
+            $s,
+            array(
+                'œ' => 'oe',
+                'æ' => 'ae',
+            )
+        );
+        // normaliser les espaces
+        $s = preg_replace('/[\s\-]+/', ' ', trim($s));
+        return $s;
+    }
+
+    /**
      * Comparer avec l’ancienne indexation
      */
-    public function orthold()
+    public static function orth_old($cote)
     {
-        // charger l’indexation ancienne, méthode provisoire
-        $orth_sql = file(self::$HOME . "data/37020d_old.tsv", FILE_IGNORE_NEW_LINES);
-        $orth_sql = array_flip($orth_sql);
-        $desacc = array(
-            '-' => '',
-            ' ' => '',
-            '.' => '',
-            "'" => '',
-            '’' => '',
-            'Æ' => 'AE',
-            'Â' => 'A',
-            'À' => 'A',
-            'Ç' => 'C',
-            'É' => 'E',
-            'È' => 'E',
-            'Ê' => 'E',
-            'Ë' => 'E',
-            'Ï' => 'I',
-            'Î' => 'I',
-            'Œ' => 'OE',
-            'Ô' => 'O',
-            'Û' => 'U',
-        );
-        $orth_key = array();
-        foreach ($orth_sql as $key => $value) {
-            $orth_key[strtr($key, $desacc)] = $key;
+        $xml = file_get_contents(dirname(__DIR__)."/xml/medict$cote.xml");
+        $handle = fopen(__DIR__ . "/$cote.tsv", "r");
+        $entry = null;
+        $dic = [];
+        while (($row = fgetcsv($handle, null, "\t")) !== FALSE) {
+            $command = $row[0];
+            if ($command == 'entry') {
+                if ($entry) $dic[self::deform($entry)] = $entry;
+                $entry = $row[1];
+            }
+            else if ($command == 'orth') {
+                $entry = null;
+                $dic[self::deform($row[1])] = $row[1];
+            }
         }
-
-        echo "SQL\tXML\n";
-
         $re_callback = array(
-            '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) use (&$orth_sql, &$orth_key, &$desacc) {
-                $orth = strtr($matches[1], array(
-                    'Æ' => 'AE',
-                    'Œ' => 'OE',
-                ));
-                if (isset($orth_sql[$orth])) return;
-                $key = strtr($orth, $desacc);
-                if (isset($orth_key[$key])) {
-                    echo $orth_key[$key], "\t", $matches[1], "\n";
-                    return;
-                }
-
-                // echo $matches[1], "\n";
+            '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
+            use (&$dic) {
+                $key = self::deform($matches[1]);
+                if (isset($dic[$key])) return $matches[0];
+                echo $matches[1] . "\n";
+                return '<orth cert="low">' . $matches[1] . '</orth>';
             }
         );
-        $xml = preg_replace_callback_array($re_callback, $this->_xml);
+        $xml = preg_replace_callback_array($re_callback, $xml);
     }
 
 

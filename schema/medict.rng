@@ -114,6 +114,9 @@
     </define>
     <define name="label">
       <element name="label">
+        <optional>
+          <attribute name="rend"/>
+        </optional>
         <oneOrMore>
           <choice>
             <text/>
@@ -164,7 +167,6 @@
             <ref name="graphic"/>
             <ref name="num"/>
             <ref name="note"/>
-            <ref name="orth"/>
             <ref name="ref"/>
             <ref name="pb"/>
             <ref name="sc"/>
@@ -267,49 +269,58 @@
                 </attribute>
               </optional>
               <oneOrMore>
-                <element name="cell">
-                  <optional>
-                    <attribute name="role">
-                      <choice>
-                        <value>data</value>
-                        <a:documentation>(défaut) &lt;html5:td&gt;</a:documentation>
-                        <value>label</value>
-                        <a:documentation>&lt;html5:th&gt;</a:documentation>
-                        <text/>
-                      </choice>
-                    </attribute>
-                  </optional>
-                  <optional>
-                    <!-- TODO border ? -->
-                    <attribute name="rend">
-                      <list>
-                        <oneOrMore>
-                          <choice>
-                            <value>center</value>
-                            <value>bottom</value>
-                            <value>middle</value>
-                            <value>top</value>
-                            <value>left</value>
-                            <value>right</value>
-                            <value>border</value>
-                          </choice>
-                        </oneOrMore>
-                      </list>
-                    </attribute>
-                  </optional>
-                  <optional>
-                    <attribute name="rows"/>
-                  </optional>
-                  <optional>
-                    <attribute name="cols"/>
-                  </optional>
-                  <text/>
-                </element>
+                <ref name="cell"/>
               </oneOrMore>
             </element>
             <ref name="pb"/>
           </choice>
         </oneOrMore>
+      </element>
+    </define>
+    <define name="cell">
+      <element name="cell">
+        <optional>
+          <attribute name="role">
+            <choice>
+              <value>data</value>
+              <a:documentation>(défaut) &lt;html5:td&gt;</a:documentation>
+              <value>label</value>
+              <a:documentation>&lt;html5:th&gt;</a:documentation>
+              <text/>
+            </choice>
+          </attribute>
+        </optional>
+        <optional>
+          <!-- TODO border ? -->
+          <attribute name="rend">
+            <list>
+              <oneOrMore>
+                <choice>
+                  <value>center</value>
+                  <value>bottom</value>
+                  <value>middle</value>
+                  <value>top</value>
+                  <value>left</value>
+                  <value>right</value>
+                  <value>border</value>
+                </choice>
+              </oneOrMore>
+            </list>
+          </attribute>
+        </optional>
+        <optional>
+          <attribute name="rows"/>
+        </optional>
+        <optional>
+          <attribute name="cols"/>
+        </optional>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="lb"/>
+            <ref name="i"/>            
+          </choice>
+        </zeroOrMore>
       </element>
     </define>
     <define name="trad">
@@ -495,6 +506,9 @@
     <define name="term">
       <element name="term">
         <a:documentation>Terme en français, équivalent traductionnel dans un glossaire nultilingue avec entrée en langue étrangère, ou synonyme en section étymologique</a:documentation>
+        <optional>
+          <attribute name="rend"/>
+        </optional>
         <zeroOrMore>
           <choice>
             <text/>

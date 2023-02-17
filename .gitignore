@@ -6,6 +6,7 @@ work/
 docx/
 rawx/
 test/
+scripts/*.tsv
 *.sqlite
 james*/*
 !james*/*.docx

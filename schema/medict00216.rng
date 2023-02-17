@@ -18,7 +18,15 @@
     </define>
     <define name="entryFree">
       <element name="entryFree">
-        <oneOrMore>
+        <zeroOrMore>
+          <choice>
+            <ref name="cb"/>
+            <ref name="figure"/>
+            <ref name="pb"/>
+          </choice>
+        </zeroOrMore>
+        <ref name="p1"/>
+        <zeroOrMore>
           <choice>
             <ref name="cb"/>
             <ref name="figure"/>
@@ -28,7 +36,7 @@
             <ref name="table"/>
             <ref name="term"/>
           </choice>
-        </oneOrMore>
+        </zeroOrMore>
       </element>
     </define>
     <define name="pb">
@@ -50,4 +58,34 @@
       </attribute>
     </define>
   </include>
+  <define name="p1">
+    <element name="p">
+      <optional>
+        <attribute name="rend"/>
+      </optional>
+      <ref name="orth"/>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="cb"/>
+          <ref name="damage"/>
+          <ref name="i"/>
+          <ref name="lb"/>
+          <ref name="figure"/>
+          <ref name="foreign"/>
+          <ref name="form"/>
+          <ref name="formula"/>
+          <ref name="graphic"/>
+          <ref name="num"/>
+          <ref name="note"/>
+          <ref name="orth"/>
+          <ref name="ref"/>
+          <ref name="pb"/>
+          <ref name="sc"/>
+          <ref name="sup"/>
+          <ref name="term"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
 </grammar>
