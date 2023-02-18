@@ -57,11 +57,19 @@
         </data>
       </attribute>
     </define>
+    <define name="orth">
+      <element name="orth">
+        <text/>
+      </element>
+    </define>
   </include>
   <define name="p1">
     <element name="p">
       <optional>
         <attribute name="rend"/>
+      </optional>
+      <optional>
+        <text/>
       </optional>
       <ref name="orth"/>
       <oneOrMore>

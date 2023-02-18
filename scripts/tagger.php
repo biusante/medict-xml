@@ -131,7 +131,8 @@ class Tagger
      */
     public static function orth_old($cote)
     {
-        $xml = file_get_contents(dirname(__DIR__)."/xml/medict$cote.xml");
+        $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
+        $xml = file_get_contents($src_file);
         $handle = fopen(__DIR__ . "/$cote.tsv", "r");
         $entry = null;
         $dic = [];
@@ -150,12 +151,17 @@ class Tagger
             '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
             use (&$dic) {
                 $key = self::deform($matches[1]);
-                if (isset($dic[$key])) return $matches[0];
+                if (isset($dic[$key])) {
+                    unset($dic[$key]);
+                    return $matches[0];
+                }
                 echo $matches[1] . "\n";
                 return '<orth cert="low">' . $matches[1] . '</orth>';
             }
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
+        file_put_contents($src_file, $xml);
+        print_r($dic);
     }
 
 
