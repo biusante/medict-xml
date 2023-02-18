@@ -10,3 +10,4 @@ scripts/*.tsv
 *.sqlite
 james*/*
 !james*/*.docx
+list.txt

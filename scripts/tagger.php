@@ -160,8 +160,9 @@ class Tagger
             }
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
-        file_put_contents($src_file, $xml);
-        print_r($dic);
+        // file_put_contents($src_file, $xml);
+        echo "\n== NOT FOUND ==\n";
+        echo strtoupper(implode("\n", array_keys($dic)));
     }
 
 
