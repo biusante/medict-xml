@@ -8,7 +8,7 @@ include 'build.php';
 // Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
 // Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
 
-foreach (['00216x02'] as $cote) {
+foreach (['00216x04'] as $cote) {
     Tagger::orth_old($cote);
 }
 
@@ -160,9 +160,22 @@ class Tagger
             }
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
-        // file_put_contents($src_file, $xml);
+        
+        file_put_contents($src_file, $xml);
+        
         echo "\n== NOT FOUND ==\n\n";
-        echo strtoupper(implode("|", array_keys($dic)));
+        // AE > Æ
+        $notfound = implode("|", array_keys($dic));
+        $notfound = strtr(
+            $notfound,
+            array(
+                'oe' => 'œ',
+                'ae' => 'æ',
+                ' ' => '[ \-]'
+            )
+        );
+        $notfound = mb_strtoupper($notfound, "UTF-8");
+        echo $notfound;
     }
 
 
