@@ -3,6 +3,7 @@
 .~*
 _*.xml
 work/
+out/
 docx/
 rawx/
 test/
