@@ -2,8 +2,8 @@
 Download a book fron the iiif of Gallica with a workaroud
 to avoir limits of the server.
 proxy_randomizer does not work
-A delay, stable or random, is not sufficient.
-Use of anonymous proxies.
+A delay of 3s is not sufficient.
+This random delay between 7s to 25s seems OK (but slow)
 This is not a a generic script.
 """
 
