@@ -7,10 +7,12 @@ include 'build.php';
 
 // Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
 // Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
-
-foreach (['00216x01', '00216x02', '00216x03', '00216x04', '00216x05', '00216x06'] as $cote) {
-    Tagger::orth_old($cote);
-}
+// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x01.xml", "00216x01", 150);
+// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x02.xml", "00216x02", 2);
+// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x03.xml", "00216x03", 6);
+// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x04.xml", "00216x04", 2);
+Tagger::facs(dirname(__DIR__) . "/xml/medict00216x05.xml", "00216x05", 2);
+Tagger::facs(dirname(__DIR__) . "/xml/medict00216x06.xml", "00216x06", 2);
 
 
 /*
@@ -300,10 +302,10 @@ class Tagger
         $xml = file_get_contents($file);
         $re_callback = array(
             '@<pb n="(\d+)"/>@u' => function ($matches) use ($cote, $delta) {
-                $refimg = sprintf('%04d', $delta + $matches[1]);
+                $refimg = sprintf('%04d', $delta + 1 + ($matches[1]-1) / 2); // ! james FR cols
                 $ret = '<pb n="' . $matches[1] . '"
     facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:' . $cote . ':' . $refimg . '/full/full/0/default.jpg"
-    corresp="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&amp;cote=' . $cote . '&amp;p=' . $refimg . '"/>';
+    corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?' . $cote . '&amp;p=' . $refimg . '"/>';
                 return $ret;
             },
         );
