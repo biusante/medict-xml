@@ -8,7 +8,7 @@ include 'build.php';
 // Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
 // Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
 
-foreach (['00216x05'] as $cote) {
+foreach (['00216x06'] as $cote) {
     Tagger::orth_old($cote);
 }
 
