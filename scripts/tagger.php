@@ -8,7 +8,7 @@ include 'build.php';
 // Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
 // Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
 
-foreach (['00216x06'] as $cote) {
+foreach (['00216x01', '00216x02', '00216x03', '00216x04', '00216x05', '00216x06'] as $cote) {
     Tagger::orth_old($cote);
 }
 
@@ -28,18 +28,19 @@ exit();
 <persName>COWPER</persName>
 <persName>DALE</persName>
 <persName>DIOSCORIDE</persName>
+<persName>FŒSIUS</persName>
 <persName>GALIEN</persName>
-<persName>HOFFMAN</persName>
+<persName>GEOFFROY</persName>
+<persName>GORRÆUS</persName>
+<persName>HIPPOCRATE</persName>
+<persName>HOFFMAN, F.</persName>
 <persName>JOHNSON</persName>
+<persName>LEMERY</persName>
 <persName>PARACELSE</persName>
 <persName>RULAND</persName>
 <persName>TOURNEFORT</persName>
 <persName>WINSLOW</persName>
 
-<persName>GEOFFROY</persName>
-<persName>GORRÆUS</persName>
-<persName>HIPPOCRATE</persName>
-<persName>LEMERY</persName>
 */
 
 class Tagger
@@ -175,13 +176,15 @@ class Tagger
                     unset($dic[$key]);
                     return $matches[0];
                 }
-                echo $matches[1] . "\n";
+                if (preg_match('/[^A-ZÆŒ\- ]/u', $matches[1])) {
+                    echo $matches[1] . "\n";
+                }
                 return '<orth cert="low">' . $matches[1] . '</orth>';
             }
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
         
-        file_put_contents($src_file, $xml);
+        // file_put_contents($src_file, $xml);
         
         echo "\n== NOT FOUND ==\n\n";
         // AE > Æ
