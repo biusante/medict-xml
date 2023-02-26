@@ -167,6 +167,7 @@
             <ref name="graphic"/>
             <ref name="num"/>
             <ref name="note"/>
+            <ref name="persName"/>
             <ref name="ref"/>
             <ref name="pb"/>
             <ref name="sc"/>
@@ -369,6 +370,7 @@
             <ref name="cb"/>
             <ref name="lb"/>
             <ref name="pb"/>
+            <ref name="persName"/>
             <ref name="sc"/>
             <ref name="sup"/>
           </choice>
@@ -467,6 +469,12 @@
             </element>
           </choice>
         </oneOrMore>
+      </element>
+    </define>
+    <define name="persName">
+      <element name="persName">
+        <a:documentation>Nom de personne, principalement auteur cité</a:documentation>
+        <text/>
       </element>
     </define>
     <define name="ref">

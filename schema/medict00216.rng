@@ -87,6 +87,7 @@
           <ref name="num"/>
           <ref name="note"/>
           <ref name="orth"/>
+          <ref name="persName"/>
           <ref name="ref"/>
           <ref name="pb"/>
           <ref name="sc"/>
