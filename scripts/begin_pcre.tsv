@@ -1,0 +1,47 @@
+search	replace	?comment
+
+($cap)	[01ÀÄÂÆŒÎÏÔÖA-Z]
+
+
+<space type="tab">    </space>	  
+<hi rend="sup">([^<]*)</hi>	\1
+<p( [^>]+)?>	<p>
+# garder les bordures |, séparateur de de sens
+(\-)</p>\s*<p>(\p{Ll})	\1\n\2	mauvaise césure
+
+(\p{Ll})S	\1s
+
+(\p{Lu})0	\1O
+(\p{Lu})1	\1I
+(\p{Lu})i	\1I
+(\p{Lu})ι	\1I
+(\p{Lu})o	\1O
+(\p{Lu})s	\1S
+(\p{Lu})u	\1U
+(\p{Lu})v	\1V
+(\p{Lu})ν	\1V	grec
+I\.(\p{Lu})	L\1
+
+(\p{Lu}) +- +(\p{Lu})	\1-\2	espaces en trop autour d’un trait d’union
+( *)<hi>([Ffm]\., *)	\1\2<hi>	libérer l’info gram de typo
+[Ss]\. *L,|[Ss][,.] f\.,	<gram>s. f.</gram>,
+[Ss]\. *m\.,	<gram>s. m.</gram>,
+adj\.	<gram>adj.</gram>
+(<hi>)(\s*<gram>.*?</gram>[, \.]*)	\2\1
+
+</p>\s*(<pb n="[^"]*"/>)\s*<p>(\p{Ll})	\n\n\1\n\n\2
+
+<p><hi>([^,\.\n<]+)(.*?)</hi>	<p><term>$1</term> <hi>$2</hi>
+<p><hi>([^<\n]*) V\. *	<p><term>\1</term> V. <hi>
+<hi>V</hi>\. ([^\.,<\n]+)	V. <ref>\1</ref>
+ V</hi>\. ([^\.,<\n]+)	</hi> V. <ref>\1</ref>
+<p>(\p{Lu}[^.,\n<]*)	<p><orth>$1</orth>
+\s*<p><orth>	\n</entryFree>\n\n<entryFree>\n<p><orth>
+(<pb n="[^"]*"/>)\s*(</entryFree>)	\2\n\1
+(</entryFree>)\s*(<pb n="[^"]*"/>)	\2\n\1
+
+ +</orth>	</orth> 
+# </orth>, S. L
+<body>	<body>\n<entryFree>
+</body>	</entryFree>\n</body>
+

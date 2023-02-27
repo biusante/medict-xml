@@ -674,12 +674,12 @@
             </oneOrMore>
           </element>
           <element name="publicationStmt">
-            <element name="p">
+            <element name="publisher">
               <text/>
             </element>
           </element>
           <element name="sourceDesc">
-            <element name="p">
+            <element name="bibl">
               <oneOrMore>
                 <choice>
                   <text/>

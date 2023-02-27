@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/medict61157.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="medict.css"?>
+<TEI ana="Bégin" n="61157" xml:lang="fra" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bégin</title>
+        <author key="{author}"/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>BIU Santé</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>…</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="{date}"/>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>[Fait] Conversion docx &gt; TEI brut</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+    </body>
+  </text>
+</TEI>
