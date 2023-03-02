@@ -174,9 +174,12 @@ class Tagger
                     unset($notfound[$key]);
                     return $matches[0];
                 }
+                /*
                 if (preg_match('/[^A-ZÆŒ\- ]/u', $matches[1])) {
                     echo $matches[1] . "\n";
                 }
+                */
+                echo $matches[1] . "\n";
                 return '<orth cert="low">' . $matches[1] . '</orth>';
             }
         );
