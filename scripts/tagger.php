@@ -168,7 +168,7 @@ class Tagger
         $notfound = $dic;
         $re_callback = array(
             '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
-            use (&$dic) {
+            use (&$dic, &$notfound) {
                 $key = self::deform($matches[1]);
                 if (isset($dic[$key])) {
                     unset($notfound[$key]);
