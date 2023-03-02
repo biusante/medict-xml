@@ -11,3 +11,4 @@ test/
 james*/*
 !james*/*.docx
 list.txt
+scripts/61157.tsv

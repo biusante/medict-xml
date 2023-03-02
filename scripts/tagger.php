@@ -4,16 +4,8 @@
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
 include 'build.php';
-
-// Tagger::facs(dirname(__DIR__) . "/xml/medict07399.xml", "07399", 8);
-// Tagger::facs(dirname(__DIR__) . "/xml/medict27898.xml", "27898", 10);
-// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x01.xml", "00216x01", 150);
-// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x02.xml", "00216x02", 2);
-// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x03.xml", "00216x03", 6);
-// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x04.xml", "00216x04", 2);
-Tagger::facs(dirname(__DIR__) . "/xml/medict00216x05.xml", "00216x05", 2);
-Tagger::facs(dirname(__DIR__) . "/xml/medict00216x06.xml", "00216x06", 2);
-
+Tagger::orth_old('61157', $cert=true);
+exit();
 
 /*
 $tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
@@ -21,9 +13,12 @@ $tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
 $xml = $tagger->ids();
 file_put_contents(Tagger::$HOME . "xml/medict37020d.xml.xml", $xml);
 */
-exit();
 
-/*
+
+// Tagger::facs(dirname(__DIR__) . "/xml/medict00216x06.xml", "00216x06", 2);
+
+/* James authors
+
 <persName>BLANCARD</persName>
 <persName>BOERHAAVE</persName>
 <persName>CASTELLI</persName>
@@ -152,7 +147,7 @@ class Tagger
     /**
      * Comparer avec l’ancienne indexation
      */
-    public static function orth_old($cote)
+    public static function orth_old($cote, $cert=false)
     {
         $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
         $xml = file_get_contents($src_file);
@@ -170,12 +165,13 @@ class Tagger
                 $dic[self::deform($row[1])] = $row[1];
             }
         }
+        $notfound = $dic;
         $re_callback = array(
             '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
             use (&$dic) {
                 $key = self::deform($matches[1]);
                 if (isset($dic[$key])) {
-                    unset($dic[$key]);
+                    unset($notfound[$key]);
                     return $matches[0];
                 }
                 if (preg_match('/[^A-ZÆŒ\- ]/u', $matches[1])) {
@@ -186,11 +182,11 @@ class Tagger
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
         
-        // file_put_contents($src_file, $xml);
+        if ($cert) file_put_contents($src_file, $xml);
         
         echo "\n== NOT FOUND ==\n\n";
         // AE > Æ
-        $notfound = implode("|", array_keys($dic));
+        $notfound = implode("|", array_keys($notfound));
         $notfound = strtr(
             $notfound,
             array(

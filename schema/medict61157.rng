@@ -40,6 +40,16 @@
         </optional>
       </element>
     </define>
+    <define name="orth">
+      <element name="orth">
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="i"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
   </include>
   
   

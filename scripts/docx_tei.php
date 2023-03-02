@@ -8,12 +8,12 @@ use Oeuvres\Teinte\Format\{Docx};
 
 Log::setLogger(new LoggerCli(LogLevel::DEBUG));
 
-// begin_docx();
-begin_norm();
+
 
 function begin_docx()
 {
-    $source = new Docx();
+    $docx = new Docx();
+    $docx->user_template(__DIR__ . "/begin_tmpl.xml");
     
     $dst_dir = dirname(__DIR__) . '/work/';
     Filesys::mkdir($dst_dir);
