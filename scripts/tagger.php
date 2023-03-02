@@ -172,7 +172,7 @@ class Tagger
                 $key = self::deform($matches[1]);
                 if (isset($dic[$key])) {
                     unset($notfound[$key]);
-                    return $matches[0];
+                    return '<orth>' . $matches[1] . '</orth>';
                 }
                 /*
                 if (preg_match('/[^A-ZÆŒ\- ]/u', $matches[1])) {
