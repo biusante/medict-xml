@@ -4,7 +4,7 @@
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
 include 'build.php';
-Tagger::orth_old('61157', $cert=true);
+Tagger::orth_diff('61157');
 exit();
 
 /*
@@ -125,6 +125,7 @@ class Tagger
      */
     public static function deform($s)
     {
+        $s = trim($s);
         // bas de casse
         $s = mb_convert_case($s, MB_CASE_FOLD, "UTF-8");
         // décomposer lettres et accents
@@ -137,6 +138,7 @@ class Tagger
             array(
                 'œ' => 'oe',
                 'æ' => 'ae',
+                '’' => "'",
             )
         );
         // normaliser les espaces
@@ -153,34 +155,49 @@ class Tagger
         $xml = file_get_contents($src_file);
         $handle = fopen(__DIR__ . "/$cote.tsv", "r");
         $entry = null;
-        $dic = [];
+        $deform_nb = []; // record a number by key
+        $nb_form = []; // get the old form by number
+        $notfound = [];
         while (($row = fgetcsv($handle, null, "\t")) !== FALSE) {
             $command = $row[0];
             if ($command == 'entry') {
-                if ($entry) $dic[self::deform($entry)] = $entry;
+                // TODO, test if already seen because of <ref>
+                // insert last entry if no form found before
+                if ($entry) {
+                    $form = $entry;
+                    $nb_form[] = $form;
+                    end($nb_form);
+                    $nb = key($nb_form);
+                    $deform_nb[self::deform($form)] = $nb;
+                    $notfound[self::deform($form)] = $form;
+                } 
                 $entry = $row[1];
             }
             else if ($command == 'orth') {
                 $entry = null;
-                $dic[self::deform($row[1])] = $row[1];
+                $form = $row[1];
+                $nb_form[] = $form;
+                end($nb_form);
+                $nb = key($nb_form);
+                $deform_nb[self::deform($form)] = $nb;
+                $notfound[self::deform($form)] = $form;
             }
         }
-        $notfound = $dic;
+        $nb = 0;
         $re_callback = array(
             '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
-            use (&$dic, &$notfound) {
+            use (&$nb, &$deform_nb, &$nb_form, &$notfound) {
                 $key = self::deform($matches[1]);
-                if (isset($dic[$key])) {
+                if (isset($deform_nb[$key])) {
                     unset($notfound[$key]);
+                    $nb = $deform_nb[$key];
                     return '<orth>' . $matches[1] . '</orth>';
                 }
-                /*
-                if (preg_match('/[^A-ZÆŒ\- ]/u', $matches[1])) {
-                    echo $matches[1] . "\n";
-                }
-                */
-                echo $matches[1] . "\n";
-                return '<orth cert="low">' . $matches[1] . '</orth>';
+                $nb++;
+                return '<!-- ' . $matches[1] .' -->'
+                 . '<orth cert="low">' 
+                 . mb_strtoupper($nb_form[$nb], "UTF-8") 
+                 . '</orth>';
             }
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
@@ -202,6 +219,60 @@ class Tagger
         echo $notfound;
     }
 
+    /**
+     * Comparer avec l’ancienne indexation
+     */
+    public static function orth_diff($cote)
+    {
+        $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
+        $xml = file_get_contents($src_file);
+        $handle = fopen(__DIR__ . "/$cote.tsv", "r");
+
+        $entry = null;
+        $old = []; // record a number by key
+        while (($row = fgetcsv($handle, null, "\t")) !== FALSE) {
+            $command = $row[0];
+            if ($command == 'entry') {
+                // insert last entry if no form found before
+                if ($entry) {
+                    $form = $entry;
+                    $old[self::deform($form)] = $form;
+                } 
+                $entry = $row[1];
+            }
+            else if ($command == 'orth') {
+                $entry = null;
+                $form = $row[1];
+                $old[self::deform($form)] = $form;
+            }
+        }
+        $new = [];
+        $re_callback = array(
+            '@<orth[^>]*>(.+?)</orth>@' => function ($matches) 
+            use (&$old, &$new) {
+                $key = preg_replace('@</?[^>]+>@', '', $matches[1]);
+                $key = self::deform($key);
+                // echo $key."\n";
+                if (isset($old[$key])) {
+                    unset($old[$key]);
+                }
+                else {
+                    $new[] = $matches[1];
+                }
+                return $matches[0];
+            }
+        );
+        $xml = preg_replace_callback_array($re_callback, $xml);
+        // merge not found in old with new, and sort
+        $tsv = "Indexation\tVedette";
+        $tsv .= "\nancienne\t";
+        $tsv .= implode("\nancienne\t", $old);
+        $tsv .= "\nnouvelle\t";
+        $tsv .= implode("\nnouvelle\t", $new);
+
+        // $merge = array_merge(array_values($old), $new);
+        file_put_contents($cote . "_diff.tsv", $tsv);
+    }
 
     /**
      * Vérifier l’ordre alphabétique des entrées
