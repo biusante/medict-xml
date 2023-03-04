@@ -228,6 +228,7 @@ class Tagger
         $xml = file_get_contents($xml_file);
         $deform = [];
         $form = [];
+        // load <orth>
         preg_replace_callback(
             '@<orth>(.+?)</orth>@',
             function ($matches) 
@@ -239,6 +240,7 @@ class Tagger
             },
             $xml
         );
+        // work <ref>
         $xml = preg_replace_callback(
             '@<ref>(.+?)</ref>@',
             function ($matches) 
@@ -255,16 +257,22 @@ class Tagger
                 }
                 $input =  mb_strtoupper($matches[1], "UTF-8") ;
                 echo $input;
+                $targets = [];
                 foreach($form as $word => $v) {
                     $lev = levenshtein($input, $word);  
-                    if ($lev > 2) continue;
+                    if ($lev > 1) continue;
+                    $targets[] = $word;
                     echo ", $word $lev";
                 }
                 echo "\n";
+                if (count($targets) == 1) {
+                    return "<ref>" . $targets[0] . "</ref>"; 
+                }
+                return "<ref>" . $input . "</ref>";
             },
             $xml
         );
-
+        file_put_contents($xml_file, $xml);
     }
     /**
      * Comparer avec l’ancienne indexation
