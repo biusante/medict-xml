@@ -226,18 +226,45 @@ class Tagger
     {
         $xml_file = dirname(__DIR__)."/xml/medict$cote.xml";
         $xml = file_get_contents($xml_file);
-        $dic = [];
+        $deform = [];
+        $form = [];
         preg_replace_callback(
             '@<orth>(.+?)</orth>@',
             function ($matches) 
-            use (&$dic) {
+            use (&$form, &$deform) {
+                $form[$matches[1]] = true;
                 $key = preg_replace('@</?[^>]+>@', '', $matches[1]);
                 $key = self::deform($key);
-                $dic[$key] = $matches[1];
+                $deform[$key] = $matches[1];
             },
             $xml
         );
-        print_r($dic);
+        $xml = preg_replace_callback(
+            '@<ref>(.+?)</ref>@',
+            function ($matches) 
+            use (&$form, &$deform) {
+                if (isset($form[$matches[1]])) {
+                    return $matches[0];
+                }
+                $key = preg_replace('@</?[^>]+>@', '', $matches[1]);
+                $key = self::deform($key);
+                if (isset($deform[$key])) {
+                    $ret = "<ref>" . $deform[$key] . "</ref>";
+                    // echo $ret . "\n";
+                    return $ret;
+                }
+                $input =  mb_strtoupper($matches[1], "UTF-8") ;
+                echo $input;
+                foreach($form as $word => $v) {
+                    $lev = levenshtein($input, $word);  
+                    if ($lev > 2) continue;
+                    echo ", $word $lev";
+                }
+                echo "\n";
+            },
+            $xml
+        );
+
     }
     /**
      * Comparer avec l’ancienne indexation
