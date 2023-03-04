@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xs:schema PUBLIC "-//W3C//DTD XMLSCHEMA 200102//EN" "XMLSchema.dtd" >
+<xs:schema 
+  xmlns:xml="http://www.w3.org/XML/1998/namespace"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.tei-c.org/ns/1.0">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace"
+schemaLocation="http://www.w3.org/2001/03/xml.xsd"/>
+  <xs:element name="entry">
+    <xs:annotation>
+      <xs:documentation>Entrée, contenant au moins un bloc avec une vedette, un identifiant unique pour le fichier, et des “sens” (ou autres sections contenant gloses ou renvois)</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:group ref="ns1:form1"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="ns1:code"/>
+          <xs:element ref="ns1:dictScrap"/>
+          <xs:element ref="ns1:damage"/>
+          <xs:element ref="ns1:graphic"/>
+          <xs:element ref="ns1:pb"/>
+          <xs:element ref="ns1:sense"/>
+          <xs:element ref="ns1:table"/>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attribute name="corresp"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="form1">
+    <xs:sequence>
+      <xs:element name="form">
+        <xs:annotation>
+          <xs:documentation>Bloc identifiant l’entrée, contenant au moins un mot en vedette, plusieurs sont possibles, avec des indications de flexion ou de nature (ex : s. f. « substantif féminin »)</xs:documentation>
+        </xs:annotation>
+        <xs:complexType mixed="true">
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element ref="ns1:orth"/>
+            <xs:element ref="ns1:rs"/>
+            <xs:element ref="ns1:gram"/>
+            <xs:element ref="ns1:hi"/>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="dictScrap">
+    <xs:annotation>
+      <xs:documentation>Section mêlée, contenant de l’étymologie et des traductions</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:damage"/>
+        <xs:element ref="ns1:etym"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:num"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:ref"/>
+        <xs:element ref="ns1:term"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="code">
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:space" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="head">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:note"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="label">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:rs"/>
+      </xs:choice>
+      <xs:attribute name="rend"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="note">
+    <xs:annotation>
+      <xs:documentation>Note</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:choice>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:hi"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="ns1:p"/>
+          <xs:element ref="ns1:pb"/>
+          <xs:group ref="ns1:quote.l"/>
+        </xs:choice>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="p">
+    <xs:annotation>
+      <xs:documentation>Un paragraphe libre</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:cb"/>
+        <xs:element ref="ns1:damage"/>
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:figure"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:group ref="ns1:form"/>
+        <xs:element ref="ns1:formula"/>
+        <xs:element ref="ns1:gram"/>
+        <xs:element ref="ns1:graphic"/>
+        <xs:element ref="ns1:num"/>
+        <xs:element ref="ns1:note"/>
+        <xs:element ref="ns1:persName"/>
+        <xs:element ref="ns1:ref"/>
+        <xs:element ref="ns1:orth"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:rs"/>
+        <xs:element ref="ns1:sup"/>
+        <xs:element ref="ns1:term"/>
+      </xs:choice>
+      <xs:attribute name="rend"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="quote.l">
+    <xs:sequence>
+      <xs:element name="quote">
+        <xs:annotation>
+          <xs:documentation>Citation de vers</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element maxOccurs="unbounded" ref="ns1:l"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="l" type="xs:string"/>
+  <xs:group name="quote.c">
+    <xs:sequence>
+      <xs:element name="quote">
+        <xs:annotation>
+          <xs:documentation>Citation texte</xs:documentation>
+        </xs:annotation>
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:hi"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="sense">
+    <xs:annotation>
+      <xs:documentation>Un “sens”, ou au moins une section dans un article (la hiérarchie n’est pas nécessaire)</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:damage"/>
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:group ref="ns1:form"/>
+        <xs:element ref="ns1:formula"/>
+        <xs:element ref="ns1:graphic"/>
+        <xs:element ref="ns1:num"/>
+        <xs:element ref="ns1:ref"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:rs"/>
+        <xs:element ref="ns1:term"/>
+        <xs:element ref="ns1:xr"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="table">
+    <xs:annotation>
+      <xs:documentation>Table, &lt;html5:table&gt;. Avant essaiera de limiter l'usage des tables aux structures de contenu qui ne peuvent pas être ramenées à une liste &lt;list&gt; (penser notamment aux listes de définitions qui correspondent à des tableaux à deux colonnes)</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="ns1:head"/>
+        <xs:element minOccurs="0" ref="ns1:spanGrp"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="ns1:row"/>
+          <xs:element ref="ns1:pb"/>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attribute name="rend">
+        <xs:simpleType>
+          <xs:restriction>
+            <xs:simpleType>
+              <xs:list>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="center"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:list>
+            </xs:simpleType>
+            <xs:length value="1"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="spanGrp">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:span"/>
+      </xs:sequence>
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="colgroup"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="span">
+    <xs:complexType>
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="col"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="rend"/>
+      <xs:attribute name="style"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="row">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:cell"/>
+      </xs:sequence>
+      <xs:attribute name="role">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="data">
+              <xs:annotation>
+                <xs:documentation>(défaut) &lt;html5:tbody&gt;</xs:documentation>
+              </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="label">
+              <xs:annotation>
+                <xs:documentation>&lt;html5:thead&gt; ou &lt;html5:tfoot&gt;</xs:documentation>
+              </xs:annotation>
+            </xs:enumeration>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cell">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:hi"/>
+      </xs:choice>
+      <xs:attribute name="role"/>
+      <xs:attribute name="rend">
+        <xs:simpleType>
+          <xs:restriction>
+            <xs:simpleType>
+              <xs:list>
+                <xs:simpleType>
+                  <xs:restriction base="xs:token">
+                    <xs:enumeration value="center"/>
+                    <xs:enumeration value="bottom"/>
+                    <xs:enumeration value="middle"/>
+                    <xs:enumeration value="top"/>
+                    <xs:enumeration value="left"/>
+                    <xs:enumeration value="right"/>
+                    <xs:enumeration value="border"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:list>
+            </xs:simpleType>
+            <xs:minLength value="1"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="rows"/>
+      <xs:attribute name="cols"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="trad">
+    <xs:sequence>
+      <xs:element name="entryFree">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element maxOccurs="unbounded" ref="ns1:orth"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:foreign"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:gloss"/>
+          </xs:sequence>
+          <xs:attribute name="type">
+            <xs:simpleType>
+              <xs:restriction base="xs:token">
+                <xs:enumeration value="tr"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="hi">
+    <xs:annotation>
+      <xs:documentation>Mot en italique, sémantique en cours de résolution</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:cb"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:persName"/>
+        <xs:element ref="ns1:rs"/>
+        <xs:element ref="ns1:sup"/>
+      </xs:choice>
+      <xs:attribute ref="xml:lang"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="etym">
+    <xs:annotation>
+      <xs:documentation>Séquence étymologique (de … et …) où les mots en italique ne sont pas des équivalents traductionnels.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:damage"/>
+        <xs:element ref="ns1:num"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:ref"/>
+      </xs:choice>
+      <xs:attribute ref="xml:lang"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:group name="form">
+    <xs:sequence>
+      <xs:element name="form">
+        <xs:annotation>
+          <xs:documentation>Sous-entrée, notamment la phraséologie (locutions, expressions)</xs:documentation>
+        </xs:annotation>
+        <xs:complexType mixed="true">
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:unclear"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:group>
+  <xs:element name="foreign">
+    <xs:annotation>
+      <xs:documentation>Mot en langue étrangère, notamment les équivalents traductionnels ou les glossaires</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:damage"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="ns1:lang"/>
+      <xs:attributeGroup ref="ns1:foreign.cert"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="formula" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Formule chimique ou mathématique, possiblement mal retranscrite</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="gloss">
+    <xs:annotation>
+      <xs:documentation>Glose qui n’est un équivalent traductionnel simple</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:hi"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gram" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Information grammaticale sur une forme</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="num" type="xs:string"/>
+  <xs:element name="orth">
+    <xs:annotation>
+      <xs:documentation>Forme graphique en vedette, généralement en gras et majuscules (accentuées)</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="hi" type="xs:string"/>
+      </xs:sequence>
+      <xs:attribute name="resp">
+        <xs:annotation>
+          <xs:documentation>Auteur d’une relecture</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="cert">
+        <xs:annotation>
+          <xs:documentation>Information relue</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="0"/>
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="low"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute ref="xml:lang"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="persName" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Nom de personne, principalement auteur cité</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="rs">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:cb"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:pb"/>
+      </xs:choice>
+      <xs:attribute name="rend" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="sc"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sup" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Exposants (souvent scorie d’OCR)</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="term">
+    <xs:annotation>
+      <xs:documentation>Terme en français, équivalent traductionnel dans un glossaire nultilingue avec entrée en langue étrangère, ou synonyme en section étymologique</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:hi"/>
+      </xs:sequence>
+      <xs:attribute name="rend"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="xr">
+    <xs:annotation>
+      <xs:documentation>Renvoi à une locution sous-entrée</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element ref="ns1:ref"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cb">
+    <xs:annotation>
+      <xs:documentation>Saut de colonne, parfois nécessaire pour des numérisations anciennes</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:attribute name="n">
+        <xs:annotation>
+          <xs:documentation>Numéro de page tel qu’imprimé</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="damage">
+    <xs:annotation>
+      <xs:documentation>Partie non lisible ou non reconnue, notamment le grec</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang"/>
+      <xs:attribute name="type">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="table"/>
+            <xs:enumeration value="fig"/>
+            <xs:enumeration value="formula"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="figure">
+    <xs:annotation>
+      <xs:documentation>Illustration insérée dans la page</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:graphic"/>
+        <xs:element minOccurs="0" ref="ns1:head"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="graphic">
+    <xs:annotation>
+      <xs:documentation>Illustration insérée dans la page (possiblement découpée par l’OCR)</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:attribute name="url"/>
+      <xs:attribute name="n"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lb">
+    <xs:annotation>
+      <xs:documentation>Saut de ligne, parfois nécessaire pour des numérisations anciennes</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:attribute name="type"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pb">
+    <xs:annotation>
+      <xs:documentation>Saut de page (n° et url de l’image de page doivent devenir obligatoire)</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute name="n">
+        <xs:annotation>
+          <xs:documentation>Numéro de page tel qu’imprimé</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attributeGroup ref="ns1:pb.corresp"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TEI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:teiHeader"/>
+        <xs:element ref="ns1:text"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="ns1:lang"/>
+      <xs:attribute name="n" use="required"/>
+      <xs:attribute name="ana" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teiHeader">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:fileDesc"/>
+        <xs:element ref="ns1:profileDesc"/>
+        <xs:element ref="ns1:revisionDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:titleStmt"/>
+        <xs:element ref="ns1:publicationStmt"/>
+        <xs:element ref="ns1:sourceDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titleStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:title"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:author"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:string"/>
+  <xs:element name="author" type="xs:string"/>
+  <xs:element name="publicationStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:publisher"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="publisher" type="xs:string"/>
+  <xs:element name="sourceDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:bibl"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bibl">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:hi"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="profileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:creation"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="creation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:date"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="date">
+    <xs:complexType>
+      <xs:attribute name="when" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="revisionDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:change"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="change" type="xs:string"/>
+  <xs:element name="text" type="ns1:body"/>
+  <xs:element name="unclear">
+    <xs:annotation>
+      <xs:documentation>Partie non lisible ou non reconnue, notamment le grec</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="cert">
+    <xs:attribute name="cert" use="required">
+      <xs:annotation>
+        <xs:documentation>Information relue</xs:documentation>
+      </xs:annotation>
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="0"/>
+          <xs:enumeration value="1"/>
+          <xs:enumeration value="low"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="foreign.cert">
+    <xs:attribute name="cert">
+      <xs:annotation>
+        <xs:documentation>Information relue</xs:documentation>
+      </xs:annotation>
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="0"/>
+          <xs:enumeration value="1"/>
+          <xs:enumeration value="low"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="resp">
+      <xs:annotation>
+        <xs:documentation>Auteur d’une relecture</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="pb.corresp">
+    <xs:attribute name="corresp" use="optional" type="xs:anyURI">
+      <xs:annotation>
+        <xs:documentation>Page, url de consultation</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="facs">
+    <xs:attribute name="facs" use="required" type="xs:anyURI">
+      <xs:annotation>
+        <xs:documentation>Lien a une image de page de référence</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+
+  <xs:attributeGroup name="lang">
+    <xs:attribute ref="xml:lang" use="required"/>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="n">
+    <xs:attribute name="n" use="required">
+      <xs:annotation>
+        <xs:documentation>Numéro de page tel qu’imprimé</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="resp">
+    <xs:attribute name="resp" use="required">
+      <xs:annotation>
+        <xs:documentation>Auteur d’une relecture</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:attributeGroup name="target">
+    <xs:attribute name="target" use="required" type="xs:IDREF">
+      <xs:annotation>
+        <xs:documentation>Renvoi à un article identifié</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+</xs:schema>

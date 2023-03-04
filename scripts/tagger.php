@@ -4,7 +4,7 @@
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
 include 'build.php';
-Tagger::orth_diff('61157');
+Tagger::ref('61157');
 exit();
 
 /*
@@ -219,6 +219,26 @@ class Tagger
         echo $notfound;
     }
 
+        /**
+     * Comparer avec l’ancienne indexation
+     */
+    public static function ref($cote)
+    {
+        $xml_file = dirname(__DIR__)."/xml/medict$cote.xml";
+        $xml = file_get_contents($xml_file);
+        $dic = [];
+        preg_replace_callback(
+            '@<orth>(.+?)</orth>@',
+            function ($matches) 
+            use (&$dic) {
+                $key = preg_replace('@</?[^>]+>@', '', $matches[1]);
+                $key = self::deform($key);
+                $dic[$key] = $matches[1];
+            },
+            $xml
+        );
+        print_r($dic);
+    }
     /**
      * Comparer avec l’ancienne indexation
      */

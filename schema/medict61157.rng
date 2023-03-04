@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fra">
+  <include href="medict61157_orth.rng"/>
   <include href="medict.rng">
     <define name="body">
       <element name="body">
@@ -14,7 +15,6 @@
     </define>
     <define name="entryFree">
       <element name="entryFree">
-        <ref name="p1"/>
         <zeroOrMore>
           <choice>
             <ref name="cb"/>
@@ -24,59 +24,20 @@
         </zeroOrMore>
       </element>
     </define>
-    <define name="p">
-      <element name="p">
-        <ref name="p_cont"/>
+    
+
+<!--
+    <define name="ref">
+      <element name="ref">
+        <attribute name="target">
+          <ref name="orth61157"/>
+        </attribute>
+        <text/>
       </element>
     </define>
-    <define name="pb">
-      <element name="pb">
-        <ref name="n"/>
-        <optional>
-          <ref name="facs"/>
-        </optional>
-        <optional>
-          <ref name="pb.corresp"/>
-        </optional>
-      </element>
-    </define>
-    <define name="orth">
-      <element name="orth">
-        <zeroOrMore>
-          <choice>
-            <text/>
-            <ref name="i"/>
-          </choice>
-        </zeroOrMore>
-      </element>
-    </define>
+-->
   </include>
   
   
-  <define name="p1">
-    <element name="p">
-      <ref name="orth"/>
-      <ref name="p_cont"/>
-    </element>
-  </define>
-  <define name="p_cont">
-    <oneOrMore>
-      <choice>
-        <text/>
-        <ref name="cb"/>
-        <ref name="damage"/>
-        <ref name="i"/>
-        <ref name="lb"/>
-        <ref name="figure"/>
-        <ref name="foreign"/>
-        <ref name="gram"/>
-        <ref name="orth"/>
-        <ref name="persName"/>
-        <ref name="ref"/>
-        <ref name="pb"/>
-        <ref name="sc"/>
-        <ref name="term"/>
-      </choice>
-    </oneOrMore>
-  </define>
+  
 </grammar>

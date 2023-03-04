@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0" xml:lang="fra" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <start>
     <ref name="TEI"/>
   </start>
@@ -13,15 +13,10 @@
           <attribute name="corresp"/>
         </optional>
         <ref name="form1"/>
-        <optional>
-          <ref name="pb"/>
-        </optional>
-        <optional>
-          <ref name="dictScrap"/>
-        </optional>
         <zeroOrMore>
           <choice>
             <ref name="code"/>
+            <ref name="dictScrap"/>
             <ref name="damage"/>
             <ref name="graphic"/>
             <ref name="pb"/>
@@ -56,7 +51,6 @@
     <define name="form1">
       <element name="form">
         <a:documentation>Bloc identifiant l’entrée, contenant au moins un mot en vedette, plusieurs sont possibles, avec des indications de flexion ou de nature (ex : s. f. « substantif féminin »)</a:documentation>
-        <ref name="orth"/>
         <zeroOrMore>
           <choice>
             <text/>
@@ -112,6 +106,7 @@
         </oneOrMore>
       </element>
     </define>
+
     <define name="label">
       <element name="label">
         <optional>
@@ -164,11 +159,13 @@
             <ref name="foreign"/>
             <ref name="form"/>
             <ref name="formula"/>
+            <ref name="gram"/>
             <ref name="graphic"/>
             <ref name="num"/>
             <ref name="note"/>
             <ref name="persName"/>
             <ref name="ref"/>
+            <ref name="orth"/>
             <ref name="pb"/>
             <ref name="sc"/>
             <ref name="sup"/>
@@ -487,7 +484,7 @@
       </element>
     </define>
     <define name="sc">
-      <element name="hi">
+      <element name="rs">
         <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple <a:example><orth>MÉTHYLOSPIROYLIQUE</orth> (<hi rend="sc">Acide</hi>).</a:example> </a:documentation>
         <attribute name="rend">
           <value>sc</value>
@@ -503,11 +500,8 @@
       </element>
     </define>
     <define name="sup">
-      <element name="hi">
+      <element name="sup">
         <a:documentation>Exposants (souvent scorie d’OCR)</a:documentation>
-        <attribute name="rend">
-          <value>sup</value>
-        </attribute>
         <text/>
       </element>
     </define>
@@ -580,29 +574,7 @@
         </choice>
       </element>
     </define>
-    <define name="elany">
-      <a:documentation>Motif provisoire, n’importe quel élément</a:documentation>
-      <element>
-        <anyName>
-          <except>
-            <nsName/>
-          </except>
-        </anyName>
-        <zeroOrMore>
-          <choice>
-            <attribute>
-              <anyName>
-                <except>
-                  <name>xml:id</name>
-                </except>
-              </anyName>
-            </attribute>
-            <text/>
-            <ref name="elany"/>
-          </choice>
-        </zeroOrMore>
-      </element>
-    </define>
+
     <define name="figure">
       <element name="figure">
         <a:documentation>Illustration insérée dans la page</a:documentation>
@@ -648,7 +620,9 @@
         <optional>
           <ref name="facs"/>
         </optional>
-        <ref name="pb.corresp"/>
+        <optional>
+          <ref name="pb.corresp"/>
+        </optional>
       </element>
     </define>
     <define name="TEI">
@@ -797,7 +771,9 @@
     <define name="target">
       <attribute name="target">
         <a:documentation>Renvoi à un article identifié</a:documentation>
+        <!--
         <data type="IDREF"/>
+        -->
       </attribute>
     </define>
   </div>
