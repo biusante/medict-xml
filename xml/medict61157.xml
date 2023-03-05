@@ -24,6 +24,8 @@
       <change>[Fait] Conversion docx &gt; TEI brut</change>
       <change>[Fait] Schéma XML/TEI spécifique</change>
       <change>[Fait] Structure XML validée</change>
+      <change>[Fait] vedettes (//orth) vérifiées</change>
+      <change>[Fait] renvois (//ref) vérifiés</change>
       <change>=== À FAIRE ===</change>
 
     </revisionDesc>
@@ -6789,7 +6791,7 @@ ment comprlmées qu’elles offrent deux
 </entryFree>
 
 <entryFree>
-<p><orth>ANCYLOBLÉPHARON</orth>. V. <ref>ANKYLORLÉPHAROM</ref>.</p>
+<p><orth>ANCYLOBLÉPHARON</orth>. V. <ref>ANKYLOBLÉPHARON</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -7428,7 +7430,7 @@ on les reconnaît à une tumeur plus ou
 <lb/>auxquelles ce botaniste accordait faussemeut
 <lb/>pour fruit quatre graines nues au
 <lb/>fond du calice. RIchard a changé ce mot
-<lb/>en celui de <hi>tomogynie.</hi> V. <ref>TOMOGYNIE</ref>.</p>
+<lb/>en celui de <ref>TOMOGYNIE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -7473,13 +7475,19 @@ on les reconnaît à une tumeur plus ou
 </entryFree>
 
 <entryFree>
-<p><orth>ANGUILLE</orth>, <gram>s. f.</gram>, <hi>anguilla.</hi> V. <ref>MURÈNE</ref>.
-<lb/>ANGUILLE <hi>de mer.</hi> V. <ref>CONGRE</ref>.</p>
+<p><orth>ANGUILLE</orth>, <gram>s. f.</gram>, <hi>anguilla.</hi> V. <ref>MURÈNE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>ANGUILLE</orth> <hi>électrique.</hi> V. <ref>GYMNOTE</ref>.
-<lb/>ANGUILLE <hi>de haie.</hi> V. <ref>COULEUVRE</ref>.</p>
+<p><orth>ANGUILLE <hi>de mer</hi></orth>. V. <ref>CONGRE</ref>.</p>
+</entryFree>
+
+<entryFree>
+<p><orth>ANGUILLE</orth> <hi>électrique.</hi> V. <ref>GYMNOTE</ref>.</p>
+</entryFree>
+
+<entryFree>
+<p><orth>ANGUILLE <hi>de haie</hi></orth>. V. <ref>COULEUVRE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -9024,7 +9032,7 @@ tarrhe) ; employé dans le traitement du
 </entryFree>
 
 <entryFree>
-<p><orth>ANTI-VÉROLIQUE</orth>. V. <ref>ANTI-SYRHILITIQDE</ref>.</p>
+<p><orth>ANTI-VÉROLIQUE</orth>. V. <ref>ANTI-SYPHILITIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -9326,7 +9334,7 @@ tarrhe) ; employé dans le traitement du
 </entryFree>
 
 <entryFree>
-<p><orth>APHRONITRE</orth>. V. <ref>HALONITRE</ref>.</p>
+<p><orth>APHRONITRE</orth>. V. <ref>HALINITRE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -10268,7 +10276,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>ARBUSTE</orth>. V. <ref>ARRBE</ref>.</p>
+<p><orth>ARBUSTE</orth>. V. <ref>ARBRE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -12691,7 +12699,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>AUTOPHIE</orth> ; synonymE <ref>D’AUTOPSIE</ref>.</p>
+<p><orth>AUTOPHIE</orth> ; synonymE d’<ref>AUTOPSIE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -12852,7 +12860,7 @@ une maladie quelconque va se déclarer.</p>
 <p><orth>AVEUGLEMENT</orth>, s, m., <hi>caecitas</hi>, τυφλότης,
 <lb/>τύφλωσις ; perte ou privation de la vue.</p>
 
-<p><term>AVeuglement de jour</term>. V. <ref>NYCTAJ</ref>.oPIE.</p>
+<p><term>AVeuglement de jour</term>. V. <ref>NYCTALOPIE</ref>.</p>
 
 <p><term>AVeuglement de nuit</term>, V. <ref>HÉMÉRALOPIE</ref>.</p>
 </entryFree>
@@ -16038,7 +16046,7 @@ légère, aromatique et très-délicate,
 </entryFree>
 
 <entryFree>
-<p><orth>BISEXUEL</orth>. V. <ref>IBSEXE</ref>.</p>
+<p><orth>BISEXUEL</orth>. V. <ref>BISEXE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -16363,7 +16371,7 @@ la coquille de l’huître, de la moule, sont
 <lb/>et de Scs variétés, est celle dont on
 <lb/>fait usage le plus communément.</p>
 
-<p><term>Blè-parler</term>. V. <ref>RLÉSLTÉ</ref>.</p>
+<p><term>Blè-parler</term>. V. <ref>BLÉSITÉ</ref>.</p>
 
 <p><term>Blé cornu</term>. V. <ref>ERGOT</ref>.
 </p>
@@ -17502,7 +17510,7 @@ dans rurètre, afin de rétablir la liberté
 <lb/>d’étain, auquel on donnait une forme
 <lb/>globuleuse.</p>
 
-<p><term>BOUle de MOlsheim</term>. V. <ref>ROULE</ref> <hi>de Mars</hi>.</p>
+<p><term>BOUle de MOlsheim</term>. V. <ref>BOULE</ref> <hi>de Mars</hi>.</p>
 </entryFree>
 
 <entryFree>
@@ -17747,7 +17755,7 @@ célèbre à cause de ses eaux minérales salines,
 <p><orth>BOUTEILLE</orth>, s. L C’est une infiltration
 <lb/>qui vient au-des.sous de la ganache des
 <lb/>moutons affectés de la pouriture. SOUVent
-<lb/>synonyme de <hi>pouriture.</hi> V. <ref>CE DERNIER</ref>
+<lb/>synonyme de <ref>POURRITURE</ref>
 <lb/>mot.</p>
 
 <p><term>BOUteille d’Ingenhousz</term> ; petite bouteille
@@ -19146,7 +19154,7 @@ les plus cachées des corps, et de découvrir
 <lb/>nosologiques de Sauvages et de CUllen.
 <lb/>Dans la médecine hippiatnque, la ça<hi>chrxipa</hi>
 <lb/>été mal à propos confondue avec
-<lb/>la pouriture des moutons. V. <ref>POURLTURE</ref>.</p>
+<lb/>la pouriture des moutons. V. <ref>POURRITURE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -20756,7 +20764,7 @@ taine quantité d’oxigène ; c’est ou un
 <lb/>plantes de la syngénésie polygamie superflue
 <lb/>et de la famille des corymbifères,
 <lb/>dont on emploie en médecine plusieurs
-<lb/>espèces, telles que la <hi>pyrètre</hi> V. <ref>PYRÈTRE</ref>,
+<lb/>espèces, telles que la <hi>pyrètre</hi> V. <ref>PYRÈTHRE</ref>,
 <lb/>la <hi>camomille romaine</hi>, la <hi>fétide</hi> et
 <lb/>celle des <hi>teinturiers</hi>.</p>
 
@@ -21308,7 +21316,7 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 <lb/>moine SUave que celle de Ceylan ; elle
 <lb/>croît SUr’les montagnee de la Chine.</p>
 
-<p><term>Cannelle fausse</term>. V. <ref>EAUSSE</ref> <hi>cannelle</hi>.</p>
+<p><term>Cannelle fausse</term>. V. <ref>FAUSSE</ref> <hi>cannelle</hi>.</p>
 
 <p><term>Cannelle giroflée</term> <hi>, cortex caryophyllata ;</hi>
 <lb/>écorce mince, peu roulée, trés-friable,
@@ -21316,7 +21324,7 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 <lb/>méridionale, où ellè est fournie
 <lb/>par le <hi>myrtus caryophyllata</hi>.</p>
 
-<p><term>Cannelle poivrée</term>. V. <ref>FAUSSB</ref> <hi>écorce de
+<p><term>Cannelle poivrée</term>. V. <ref>FAUSSE</ref> <hi>écorce de
 <lb/>WInter</hi>.</p>
 </entryFree>
 
@@ -22293,9 +22301,8 @@ dans reau, à moins qu’elle ne contienne
 <lb/>des bronches ; il est formé par les
 <lb/>nerfs cardiaques, unis à des rameaux
 <lb/>considérables des pncumo-gastriqucs.—
-<lb/><hi>Passion cardiaque, l</hi>. CARDIALGIE.    <hi>lle-</hi></p>
-
-<p><term>médis cardiaques</term>. V. <ref>COILDIAL</ref>.
+<lb/><hi>Passion cardiaque</hi>. V. <ref>CARDIALGIE</ref>.
+<lb/>– <term>Remèdes cardiaques</term>. V. <ref>CORDIAL</ref>.
 </p>
 <pb n="126"/>
 </entryFree>
@@ -25643,7 +25650,7 @@ vomissement avec délire furieux qui Se
 <p><term>Charbon</term>. Cette maladie a été confondue
 <lb/>avec le furoncle javart. C’est une
 <lb/>affection gangréneuse analogue à la pustule
-<lb/>maligne. V. <ref>CE DERNIER MOT</ref>.</p>
+<lb/><ref>MALIGNE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -27733,7 +27740,7 @@ gulières. | FInes lanières qu’on voit à la
 </entryFree>
 
 <entryFree>
-<p><orth>CILIER</orth>. V. <ref>CLLIAIRE</ref>.</p>
+<p><orth>CILIER</orth>. V. <ref>CILIAIRE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -28571,7 +28578,7 @@ baisse) ; mouvement par lequel les deux
 </entryFree>
 
 <entryFree>
-<p><orth>CLINANTHE</orth>. V. <ref>PHYBANTHE</ref>.</p>
+<p><orth>CLINANTHE</orth>. V. <ref>PHORANTHE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -36643,7 +36650,7 @@ touri en <hi>dedolant</hi>, lorsque cet instrument
 <entryFree>
 <p><orth>DÉFENDRE (SE)</orth>, v. n, <hi>obniti</hi> ; S’entend
 <lb/>d’un cheval qui résiste, refuse de Sauter
-<lb/>ou de reculer. – <hi>des lèvres.</hi> V. <ref>S’ARMEB</ref>
+<lb/>ou de reculer. – <hi>des lèvres.</hi> V. <ref>ARMER (S’)</ref>
 <lb/><hi>des lèvres</hi>.</p>
 </entryFree>
 
@@ -39633,7 +39640,7 @@ parties fixes d’un corps, dans la vue
 
 <entryFree>
 <p><orth>DITRACHYCEROS</orth>, s. L (δὶς, deuX, Tpay^,
-<lb/>rude, κερας, corne). V. <ref>BTCOÀNE</ref>.</p>
+<lb/>rude, κερας, corne). V. <ref>BICORNE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -40133,15 +40140,7 @@ quement placée les uns sur les autres,
 <lb/>Ch.) pair, allonge, renfermé dans une
 <lb/>enveloppe fibreuse que forment les deux
 <lb/>lames principales de raponévIOSe abdominale,
-<lb/>et étendu depuis la symphyse</p>
-
-<p>
-<figure xml:id="fig1">
-  <graphic url="media/image1.jpeg"/>
-  <head>
-  
-</head>
-</figure>
+<lb/>et étendu depuis la symphyse
 
 
 <pb n="226"/>
@@ -41210,12 +41209,12 @@ mères contiennent encore du sel, mais
 <lb/>des chevaux. Cette maladie est quelquefois
 <lb/>accompagnée d’ulcères.</p>
 
-<p><term>Eaux-bonnes</term>. V. <ref>RONNE</ref>.s.</p>
+<p><term>Eaux-bonnes</term>. V. <ref>BONNEs</ref>.</p>
 
 <p><term>Eaux carboniques</term>. V. <ref>EAUX</ref> <hi>acidulés</hi>.</p>
 
 <p><term>Eaux chalybées.</term> V. <hi>Eaux ferrugineuses.
-<lb/>Eaux-chaudes.</hi> V. <ref>ALGUES-CAUDES</ref>.</p>
+<lb/>Eaux-chaudes.</hi> V. <ref>AIGUES-CAUDES</ref>.</p>
 
 <p><term>Eaux de l’amnios</term> <hi>, aquae amnii</hi>, sérosité
 <lb/>qui remplit la portion de la cavité
@@ -42413,7 +42412,7 @@ quefois dans l’estomac et le cæcum des
 </entryFree>
 
 <entryFree>
-<p><orth>ELÆOMEL</orth>. V. <ref>ELEOMEL</ref>.</p>
+<p><orth>ELÆOMEL</orth>. V. <ref>ELÉOMEL</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -42864,13 +42863,12 @@ pointe placée sur le conducteur d’une
 
 <p><term>Electuaire catholicon double</term>. V. <ref>CATHOLICON</ref>.</p>
 
-<p><term>Electuaire diaphaeniX</term>. V. <ref>DIAPHÆNIX</ref>.</p>
+<p><term>Electuaire diaphaeniX</term>. V. <ref>DIAPHŒNIX</ref>.</p>
 
 <p><term>Electuaire diaprun simple</term>. V. <ref>DIAPRUN</ref>.
 <lb/><hi>Electuaire diaprun solutif r</hi>. DIAPRUN.
 <lb/><hi>Electuaire de Galien.</hi> V. <ref>HIERA</ref> <hi>picra.
-<lb/>Electuaire de Mèsue.</hi> V. <ref>ELECTU</ref>. IRE <hi>de
-<lb/>psyllium</hi>.</p>
+<lb/>Electuaire de Mèsue.</hi> V. <ref>ELECTUAIRE</ref> <hi>de psyllium</hi>.</p>
 
 <p><term>Electuaire de NIcolas de Saterne.</term> V. <hi>
 <lb/>Electuaire bénit laxatif</hi>.</p>
@@ -43237,7 +43235,7 @@ degrés sur des aulx pilés, dans lequel On
 <lb/>d’aloès, à laquelle on ajoute souvent un
 <lb/>peu d’acide SUlfurique.</p>
 
-<p><term>Elixir de Spiua</term>. V. <ref>RAUME</ref> <hi>de rie</hi>.</p>
+<p><term>Elixir de Spiua</term>. V. <ref>BAUME</ref> <hi>de rie</hi>.</p>
 
 <p><term>Elixir odonlalgique de la Faudiguère</term>,
 <lb/>teinture alcoolique de gayac, de pyrèthre,
@@ -43310,7 +43308,7 @@ degrés sur des aulx pilés, dans lequel On
 </entryFree>
 
 <entryFree>
-<p><orth>ELUXATION</orth>. V. <ref>EUXATION</ref>.</p>
+<p><orth>ELUXATION</orth>. V. <ref>LUXATION</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -43910,7 +43908,7 @@ rechercher les différences qui existent
 <lb/>de pieiï-e calaminaire, de vert-de-gris et
 <lb/>de cire jaune.</p>
 
-<p><term>Emplâtre de la mère Thècle</term>. V. <ref>OVCUENT</ref>
+<p><term>Emplâtre de la mère Thècle</term>. V. <ref>ONGUENT</ref>
 <lb/><hi>brun</hi>.</p>
 
 <p><term>Emplâtre de mélilot simple</term> ; suif chauffé
@@ -43933,7 +43931,7 @@ rechercher les différences qui existent
 <lb/>d’olives, d’oxide de plomb rouge, de cire
 <lb/>jaune et d’eau.</p>
 
-<p><term>Emplâtre de m inium mou</term>. V. <ref>CÉRAT</ref> <hi>de
+<p><term>Emplâtre de m inium mou</term>. V. <ref>CERAT</ref> <hi>de
 <lb/>minium</hi>.</p>
 
 <p><term>Em'lâtre de mucilage</term> ; mélange liquéfié
@@ -44023,7 +44021,7 @@ rechercher les différences qui existent
 
 <p><term>Emplâtre diachylon</term>. V. <ref>DIACHYLON</ref>.</p>
 
-<p><term>Emplâtre diapalme</term>. V. <ref>DIAPAI</ref>. ME.</p>
+<p><term>Emplâtre diapalme</term>. V. <ref>DIAPALME</ref>.</p>
 
 <p><term>Emplâtre divin</term> ; combinaison de li-
 tharge, de vert-de-gris, d’huile d’olives,
@@ -44090,7 +44088,7 @@ tharge, de vert-de-gris, d’huile d’olives,
 <lb/>de safran de mars astringent, de
 <lb/>camphre Ut d’liuilc volatile de genièvre,</p>
 
-<p><term>Emplâtre triapharmacum</term>. V. <ref>IRIAPHARMACUM</ref>.</p>
+<p><term>Emplâtre triapharmacum</term>. V. <ref>TRIAPHARMACUM</ref>.</p>
 
 <p><term>Emplâtre vésicatoire</term> ; mélange de poix,
 <lb/>de cire et de térébenthine, qu’en lait liquéfier
@@ -47642,8 +47640,8 @@ gé de phosphore, qu’il tient en dissolution.</p>
 <lb/>son mélange avec l’alcool, et qui, à
 <lb/>haute dose, peut devenir un poison corrosif.</p>
 
-<p><term>Ether sulfurique étendu d’alcool</term>. V. <ref>LIQUEI</ref>
-<lb/>R <hi>minérale anodine d’HOffmann</hi>.</p>
+<p><term>Ether sulfurique étendu d’alcool</term>. V. <ref>LIQUEUR</ref>
+<lb/><hi>minérale anodine d’HOffmann</hi>.</p>
 
 <p><term>Ether tartarique</term> ; liquide syrup ; ux,
 <lb/>brun, inodore et d’une Saveur amère,
@@ -49709,7 +49707,7 @@ circonscrite de la superficie d’un
 <lb/>les fois que restomac se trouve vide depuis
 <lb/>quelque temps.</p>
 
-<p><term>Faim bovine</term>. V. <ref>ROULIMIÉ</ref>.</p>
+<p><term>Faim bovine</term>. V. <ref>BOULIMIE</ref>.</p>
 
 <p><term>Faim canine</term>. V. <ref>BOULIMIE</ref>.</p>
 
@@ -51290,7 +51288,7 @@ l’encéphale ; que la quatrième, aussi
 <lb/>signes de la dysenterie, c’est-à-dire des
 <lb/>déjections sanguinolentes avec vives coliques.</p>
 
-<p><term>FIèvre élode</term>. V. <ref>ELOUE</ref>.</p>
+<p><term>FIèvre élode</term>. V. <ref>ELODE</ref>.</p>
 
 <p><term>FIèvre endémique</term>. V. <ref>ENDÉMIQUE</ref>.</p>
 
@@ -51341,7 +51339,7 @@ l’encéphale ; que la quatrième, aussi
 
 <p><term>FIèvre gastro-adynamiqne</term>. V. <ref>GASTRO-ADYNAMIQUE</ref>.</p>
 
-<p><term>FIèvre gastro-angiotènique</term>. V. <ref>GASTROANGIOTÉNIQUE</ref>.</p>
+<p><term>FIèvre gastro-angiotènique</term>. V. <ref>GASTRO-ANGIOTÉNIQUE</ref>.</p>
 
 <p><term>FIèvre hebdomadaire</term> <hi>, febris septimana ;</hi>
 <lb/>fièvre qui revient chaque septième jour.</p>
@@ -51512,7 +51510,7 @@ lération de la circulation qui s’établit à
 <p><term>FIérre pétéchiale</term> ; synonyme de <hi>typhus</hi>
 <lb/>avec pétéchies.</p>
 
-<p><term>FIèvre phrieode</term>. V. <ref>PITRICODE</ref>.</p>
+<p><term>FIèvre phrieode</term>. V. <ref>PHRICODE</ref>.</p>
 
 <p><term>FIèvre pituiteuse</term> ; synonyme de <hi>fièvre
 <lb/>muqueuse</hi>.</p>
@@ -51618,7 +51616,7 @@ nonyme de <hi>typhus carcèraire</hi>. | FIèvre
 
 <p><term>FIévre sporadique</term>. V. <ref>SPORADIQUE</ref>.</p>
 
-<p><term>FIèvre stationnaire</term>. V. <ref>EIÈARE</ref>.</p>
+<p><term>FIèvre stationnaire</term>. V. <ref>FIÈVRE</ref>.</p>
 
 <p><term>FIèvre stercorale</term> <hi>, febris stercoralis ;</hi>
 <lb/>nom ridicule donné à racçéleration du
@@ -51873,7 +51871,7 @@ nonyme de <hi>typhus carcèraire</hi>. | FIèvre
 Cette dernière a reçu le nom spécial
 <lb/>de <hi>rhagade</hi>.</p>
 
-<p><term>FISsure de Glaser</term>. V. <ref>SGISSURR</ref> <hi>de Glaser</hi>.</p>
+<p><term>FISsure de Glaser</term>. V. <ref>SCISSURRE</ref> <hi>de Glaser</hi>.</p>
 </entryFree>
 
 <entryFree>
@@ -52185,7 +52183,7 @@ eûtes.] Région du corps du cheval située
 </entryFree>
 
 <entryFree>
-<p><orth>FLEGMATIQUE</orth>. V. <ref>L’HLEGMATIQUB</ref>.</p>
+<p><orth>FLEGMATIQUE</orth>. V. <ref>PHLEGMATIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -52477,7 +52475,7 @@ eûtes.] Région du corps du cheval située
 <p><term>Flux de bouche</term> ; Synonyme vulgaire de
 <lb/>salivation.</p>
 
-<p><term>Flux cœliaque</term>. V. <ref>COTLIAQUE</ref>.</p>
+<p><term>Flux cœliaque</term>. V. <ref>CŒLIAQUE</ref>.</p>
 
 <p><term>Flux colliquaUf</term>. V. <ref>COLLIQUATIF</ref>.</p>
 
@@ -52487,9 +52485,9 @@ eûtes.] Région du corps du cheval située
 
 <p><term>Flux hépatique</term>. V. <ref>HÉPATIQUE</ref>.</p>
 
-<p><term>Flux de lait</term>. V. <ref>GALACTHIRHÉE</ref>.</p>
+<p><term>Flux de lait</term>. V. <ref>GALACTIRRHÉE</ref>.</p>
 
-<p><term>Flux lientèrique</term>. V. <ref>LIENTÉRIB</ref>.</p>
+<p><term>Flux lientèrique</term>. V. <ref>LIENTÉRIE</ref>.</p>
 
 <p><term>Flux menstruel</term>. V. <ref>MENSTRUES</ref>.</p>
 
@@ -52538,7 +52536,7 @@ eûtes.] Région du corps du cheval située
 <p><term>Fluxion de poitrine</term>. V. <ref>PÉRIPNEUMONIE</ref>,
 <lb/>PLEURÉSIE.</p>
 
-<p><term>Fluxion hèmorrhoîdale</term>. V. <ref>HÉMORRHOÏDES</ref>.</p>
+<p><term>Fluxion hèmorrhoîdale</term>. V. <ref>HÉMORRHOÏDE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -55614,7 +55612,7 @@ nom sous lequel on désignait les organes
 
 <entryFree>
 <p><orth>GENOU</orth>, <gram>s. m.</gram>, <hi>genu, yivo</hi> ; articulation
-<lb/>de la cuisse avec la jambe. V. <ref>EÉMOROTIBIAL</ref>.
+<lb/>de la cuisse avec la jambe. V. <ref>FÉMORO-TIBIAL</ref>.
 <lb/>I Articulation composée d’une
 <lb/>tête osseu.se reçue dans une cavité où elle
 <lb/>roule et se meut en tous sens. I Région
@@ -56631,7 +56629,7 @@ philis, parce que si on les ouvre de bonne
 <lb/>aromatique, que l’on trouve clans le com
 <lb/>nxîrce sous la forme de masses impures
 <lb/>plus ou moins consistantes.</p>
-<p><term>Gomme</term> <hi>eopal.</hi> V. <ref>COPAI</ref>,.</p>
+<p><term>Gomme</term> <hi>eopal.</hi> V. <ref>COPAL</ref>,.</p>
 
 <p><term>comme de Bassora</term>. V. <ref>BASSORINE</ref>.</p>
 
@@ -56662,7 +56660,7 @@ philis, parce que si on les ouvre de bonne
 <lb/>que</hi>.</p>
 
 <p><term>GOmme élastique</term>. <hi>I</hi>. CAOUTCHOUC.
-<lb/><hi>GOmme élemi.</hi> V. <ref>ELÉMI</ref>.</p>
+<lb/><hi>GOmme élemi.</hi> V. <ref>ELEMI</ref>.</p>
 
 <p><term>GOmme en larmes</term>. V. <ref>GALBANUM</ref>.</p>
 
@@ -56700,7 +56698,7 @@ essentielle et de diversCS autres matières
 <lb/>Slimulans de l’économie ; quelques-unes
 <lb/>SOnt de violens purgatifs.</p>
 
-<p><term>GOmme verrniculaire</term>. V. <ref>ADRAC</ref>. ANT.</p>
+<p><term>GOmme verrniculaire</term>. V. <ref>ADRAGANT</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -57361,7 +57359,7 @@ ou moins profond et plus ou moins large,
 
 <p><term>Graines d’écarlate</term>. V. <ref>KERMÈS</ref> <hi>animal</hi>.</p>
 
-<p><term>Graines musquées</term>. V. <ref>AMBBETTE</ref>.</p>
+<p><term>Graines musquées</term>. V. <ref>AMBRETTE</ref>.</p>
 
 <p><term>Graines de paradis</term> <hi>, grana paradis i ;</hi>
 <lb/>Semences de <hi>Vamomum granum paradisi.</hi>
@@ -57682,7 +57680,7 @@ espece de diarrhée ou de dysenterie. Les
 <lb/>cuisse</hi>.</p>
 
 <p><term>Gréle interne</term>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>graeilis
-<lb/>internus femoris.</hi> V. <ref>DUOIR</ref> <hi>interne de la
+<lb/>internus femoris.</hi> V. <ref>DROIT</ref> <hi>interne de la
 <lb/>cuisse</hi>.</p>
 </entryFree>
 
@@ -58655,11 +58653,11 @@ l’hellébore, fort usité cheA les anciens
 
 <entryFree>
 <p><orth>HELMINTHIQUE</orth>. V. <ref>ANTHELMINTIQUE</ref>,
-<lb/>HE LM INTH A GOG U E.</p>
+<lb/><ref>HELMINTHAGOGUE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>HELMINTHOCORTON</orth>. V. <ref>MOUSSECIE</ref> <hi>COrse</hi>.</p>
+<p><orth>HELMINTHOCORTON</orth>. V. <ref>MOUSSE</ref> <hi>de Corse</hi>.</p>
 </entryFree>
 
 <entryFree>
@@ -58982,7 +58980,7 @@ puytren, <hi>hèmatoncies</hi> par Alibert, <hi>télangicctasics</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>HÉMOPHOBE</orth>. V. <ref>HÉMAFHORE</ref>.</p>
+<p><orth>HÉMOPHOBE</orth>. V. <ref>HÉMAPHOBE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -59213,7 +59211,7 @@ l’intestin rectum. Alibert lui fait occuper,
 <lb/>et s’unissant au cystique, pour
 <lb/>former le canal cholédoque. – <hi>Eau hépatique</hi>,
 <lb/>eau chargée d’acide hydrosulfurique.
-<lb/>– <hi>Flux hépatique,</hi> V. <ref>HÉPATISRHER</ref>.
+<lb/>– <hi>Flux hépatique,</hi> V. <ref>HÉPATIRRHÉE</ref>.
 <lb/>– <hi>Gaz hépatique</hi>, ancien nom de
 <lb/><hi>racide hydrosulfurique</hi>, parce qu’il a l’odeur
 <lb/>du foie de soufre. – <hi>Plexus hépatique</hi>,
@@ -61456,7 +61454,7 @@ dans le précédent. C’est la <hi>poudre d’Algaroth</hi>,
 </entryFree>
 
 <entryFree>
-<p><orth>HYDRO-ENTÉROMPHALE</orth>. V. <ref>LLYDRENTÉROMPHALE</ref>.</p>
+<p><orth>HYDRO-ENTÉROMPHALE</orth>. V. <ref>HYDRENTÉROMPHALE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -61540,7 +61538,7 @@ et nauséabonde, inflammable et trèsvénéneux,
 <lb/>qu’il s’enflamme Spontanément lots qu’on
 <lb/>le met en contact avec l’air.</p>
 
-<p><term>Hydrogène sèléniè</term>. V. <ref>HYDROSÉLENIQUE</ref>.</p>
+<p><term>Hydrogène sèléniè</term>. V. <ref>HYDRO-SÉLÉNIQUE</ref>.</p>
 
 <p><term>Hydrogène sulfuré</term> ; nom donné naguère
 <lb/>encore au gaz <hi>acide hydrosulfurique</hi>.</p>
@@ -62369,7 +62367,7 @@ donne par DUmas au muscle constricteur
 </entryFree>
 
 <entryFree>
-<p><orth>HYPEROXIMURIATIQUE</orth>. V. <ref>CULORIQUE</ref>.</p>
+<p><orth>HYPEROXIMURIATIQUE</orth>. V. <ref>CHLORIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -63434,7 +63432,7 @@ tlonnè par quelques anatomlstes à l’artère
 </entryFree>
 
 <entryFree>
-<p><orth>ILÉOSIE</orth>. V. <ref>FLEUS</ref>.</p>
+<p><orth>ILÉOSIE</orth>. V. <ref>ILEUS</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -64914,7 +64912,7 @@ appelle improprement <hi>sièvre adynamique</hi>
 <lb/>trausversalis</hi> en arrière, et livre passage,
 <lb/>chez l’homme, au cordon spermatique,
 <lb/>chez, la femme, au ligament rond de la
-<lb/>matrice.—<hi>Hernie inguinale.</hi> V. <ref>BURONOGÈLE</ref>.—
+<lb/>matrice.—<hi>Hernie inguinale.</hi> V. <ref>BUBONOCÈLE</ref>.—
 <lb/><hi>LIgament inguinal.</hi> V. <ref>ARCADE</ref>
 <lb/><hi>crurale</hi>. <hi>– tiegion inguinale</hi>, ou <hi>aine</hi>. <hi>V.</hi>
 <lb/>ce mot.</p>
@@ -65010,7 +65008,7 @@ appelle improprement <hi>sièvre adynamique</hi>
 <p><orth>INNOMINÉ</orth>, <gram>adj.</gram>, <hi>innominatus</hi> ; qui n’a
 <lb/>pas de nom.—<hi>Artère innommée.</hi> V. <ref>BRACHIO-CÉPHALIQUE</ref>.
 <lb/>– <hi>Cartilage innominé,</hi>
-<lb/>nom donné par Fallope au <ref>CRICOIDE</ref>.
+<lb/>nom donné par Fallope au <ref>CRICOÏDE</ref>.
 <lb/>– <hi>Glande innommée</hi>, ou <hi>glande lacrymale</hi>.
 <lb/>– <hi>Nerf innominé</hi>, nom impose
 <lb/>par quelques anatomistes à celui de la
@@ -65065,7 +65063,7 @@ appelle improprement <hi>sièvre adynamique</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>INQUIET</orth>, <gram>adj.</gram>, <hi>anxius,</hi> V. <ref>AHDBUH</ref>.</p>
+<p><orth>INQUIET</orth>, <gram>adj.</gram>, <hi>anxius,</hi> V. <ref>ARDEUR</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -68488,7 +68486,7 @@ orientales. | COmbinaison d’un oxide ou
 <p>et qui est principalement formée de SOU
 <lb/>de caustique.</p>
 
-<p><term>Lessive de tartre</term>. V. <ref>CARBONATB (SOUS-)</ref>
+<p><term>Lessive de tartre</term>. V. <ref>CARBONATE (SOUS-)</ref>
 <lb/><hi>de potasse</hi>.</p>
 </entryFree>
 
@@ -70555,7 +70553,7 @@ Canada, et qu’on rapproche de la syphilis.</p>
 
 <p><term>Mal sacré</term>. V. <ref>EPILEPSIE</ref>.</p>
 
-<p><term>Mal sarmate</term>. V. <ref>L’LIQUE</ref>.</p>
+<p><term>Mal sarmate</term>. V. <ref>PLIQUE</ref>.</p>
 
 <p><term>Mal Saint-Antoine</term>. V. <ref>ÉRYSIPÈLE</ref>.</p>
 
@@ -71729,7 +71727,7 @@ ration, soit pour empêcher que leur ouverture
 
 <p><term>Médecine opératoire</term>. V. <ref>CHIRURGIE</ref>.</p>
 
-<p><term>Médecine vétérinaire</term>. V. <ref>VÉTEEINAIRE</ref>.</p>
+<p><term>Médecine vétérinaire</term>. V. <ref>VÉTÉRINAIRE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -74494,8 +74492,8 @@ jir. I Excroissance charnue et marneInnée
 <p><orth>MURIATE</orth>, <gram>s. m.</gram>, <hi>marias</hi> ; ancien nom
 <lb/>e certains hydrochlorates et chlorures.</p>
 
-<p><term>MUriate ammoniaeo-rnexcuriel</term>. V. <ref>HYROCHI</ref>.
-<lb/>ORATE <hi>de deutoxide de mercure et
+<p><term>MUriate ammoniaeo-rnexcuriel</term>. V. <ref>HYROCHLORATE</ref>.
+<lb/><hi>de deutoxide de mercure et
 <lb/>‘ammoniaque</hi>.</p>
 
 <p><term>MUriate d’ammoniaque</term>. V. <ref>HYDROCHLORATE</ref>
@@ -76127,7 +76125,7 @@ ron forme en passant le fil deux fois dans
 
 <p><term>NOix d’urèque</term>. V. <ref>AREC</ref>.</p>
 
-<p><term>NOix de ben</term>. V. <ref>REN</ref>.</p>
+<p><term>NOix de ben</term>. V. <ref>BEN</ref>.</p>
 
 <p><term>NOix de cyprès</term> ; nom pharmaceutique
 <lb/>de.s cônes du cyprés.</p>
@@ -77370,7 +77368,7 @@ des cinq Sens, celul par lequel nous percevons
 </entryFree>
 
 <entryFree>
-<p><orth>OLÉO-SACCHARUM</orth>. V. <ref>ÉLÆO-SACCHAROM</ref>.</p>
+<p><orth>OLÉO-SACCHARUM</orth>. V. <ref>ÉLÆOSACCHAROM</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -77921,7 +77919,7 @@ tance molle, et qu’on applique à rextéricur
 <p><term>Onguent brun</term> ; basilicon auquel οη a
 <lb/>mêlé du précipité rouge.</p>
 
-<p><term>Onguent d’Agrippa</term>. V. <ref>ONGUENT DE BRYONE</ref>.</p>
+<p><term>Onguent d’Agrippa</term>. V. <ref>ONGUENT</ref> DE BRYONE.</p>
 
 <p><term>Onguent d’Althaea</term> ; mélange d’huile
 <lb/>de lin ou de mucilage, de cire jaune, de
@@ -79793,7 +79791,7 @@ boursouflement, à moins que l’inffammation
 <lb/>à une douce chaleur, et lorsqu’elle
 <lb/>est levée on la fait cuire.</p>
 
-<p><term>Pain de coucou</term>. V. <ref>ALLELUIA</ref>.</p>
+<p><term>Pain de coucou</term>. V. <ref>ALLÉLUIA</ref>.</p>
 
 <p><term>Pain de pourceau</term>. V. <ref>CYCLAME</ref>.</p>
 
@@ -80107,7 +80105,7 @@ dive d’une maladie. QUelques auteurs
 <lb/>leux, la <hi>supérieure</hi> et <hi>VInferieure</hi>, qui
 <lb/>IaisSent de rophtbalmique, et Se distriIUent
 <lb/>chacune à la paupière correspunlante.—
-<lb/><hi>FOllicules palpébraux.</hi> V. <ref>GLANIES</ref>
+<lb/><hi>FOllicules palpébraux.</hi> V. <ref>GLANDES</ref>
 <lb/><hi>de Meibomius</hi>. <hi>– Flux palpébral puriirme</hi>,
 <lb/>écoulement puriforme fourni par
 <lb/>es glandes de Meihomitis enflammées,
@@ -80170,7 +80168,7 @@ cement que les artères et surtout les veines
 <p><term>Panacée anglaise</term> ; carbonate de magnésie
 <lb/>mêlé de carbonate calcaire.</p>
 
-<p><term>Panacée de Kermann</term>. V. <ref>POUDER</ref> <hi>d’or
+<p><term>Panacée de Kermann</term>. V. <ref>POUDRE</ref> <hi>d’or
 <lb/>de Zcll</hi>.</p>
 
 <p><term>Panacée mercurielle</term> ; proto-chlorure de
@@ -80334,7 +80332,7 @@ cement que les artères et surtout les veines
 </entryFree>
 
 <entryFree>
-<p><orth>PANDURÉ</orth>. V. <ref>PANDUHIFORMB</ref>.</p>
+<p><orth>PANDURÉ</orth>. V. <ref>PANDURIFORME</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -81152,7 +81150,7 @@ flammation de la glande parotide, quatrième
 
 <p><term>Passion bovine</term>. V. <ref>CLAVEAU</ref>.</p>
 
-<p><term>Passion cœliaque</term>. V. <ref>CUEITAQUE</ref>.</p>
+<p><term>Passion cœliaque</term>. V. <ref>CŒLIAQUE</ref>.</p>
 
 <p><term>Passion hypocondriaque</term>. V. <ref>HYPOCONCRIE</ref>.</p>
 
@@ -82547,8 +82545,7 @@ temps marquée : telles sont les règles. Se
 <lb/>répaisSeur du voile du palais, qu’il Sert
 <lb/>à tendre.</p>
 
-<p><term>Pèristaphylin inferieur</term>. V. <ref>PERISTAPHY</ref>.
-<lb/>LIN EXTERNE.</p>
+<p><term>Pèristaphylin inferieur</term>. V. <ref>PERISTAPHYLIN</ref> EXTERNE.</p>
 
 <p><hi>Pèristaphylin interne, levator palati
 <lb/>mollis</hi> ; muscle (pétro – staphylin, Ch.)
@@ -82558,7 +82555,7 @@ temps marquée : telles sont les règles. Se
 <lb/>se perdre dans l’épaisseur du voile du
 <lb/>palais, qu’il sert à relever,</p>
 
-<p><term>Pèristaphylin supérieur</term>. V. <ref>PÉHISTAPHYLIN</ref>
+<p><term>Pèristaphylin supérieur</term>. V. <ref>PÉRISTAPHYLIN</ref>
 <lb/>INTERNE.</p>
 </entryFree>
 
@@ -82837,7 +82834,7 @@ selden a donné cette dénomination au I
 <lb/>dont la marche est la même que
 <lb/>celle de l’artère.</p>
 
-<p><term>Péronier antérieur</term>. V. <ref>PERONIER</ref> <hi>petit</hi>.</p>
+<p><term>Péronier antérieur</term>. V. <ref>PÉRONIER</ref> <hi>petit</hi>.</p>
 
 <p><term>Péronier grand</term>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>peronaeus
 <lb/>longus</hi> ; muscle (péronéo-SOUs-tarsien,
@@ -83565,7 +83562,7 @@ térisé par leur présence. <hi>Éruption, sièvre
 </entryFree>
 
 <entryFree>
-<p><orth>PHÉNIGME</orth>. V. <ref>RHOENIGME</ref>.</p>
+<p><orth>PHÉNIGME</orth>. V. <ref>PHŒNIGME</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -84277,7 +84274,7 @@ et à la SUite de laquelle on ne trouve
 </entryFree>
 
 <entryFree>
-<p><orth>PHTHOROBORIQUE</orth>. V. <ref>FLUORORIQUE</ref>.</p>
+<p><orth>PHTHOROBORIQUE</orth>. V. <ref>FLUOBORIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -84588,7 +84585,7 @@ gai. On ra donné aussi au gonflement
 <lb/>antérieurement, près de la couronne,
 <lb/>une fente plus ou moins grande.</p>
 
-<p><term>PIed de cheval marin</term>. V. <ref>COBNE</ref> <hi>d’Amman</hi>.
+<p><term>PIed de cheval marin</term>. V. <ref>CORNE</ref> <hi>d’Amman</hi>.
 </p>
 <pb n="466"/>
 
@@ -86248,7 +86245,7 @@ locale reçoit les noms de <hi>cérébrale, pulmonaire,
 <p><term>POivre blanc</term> ; poivre noir dépouillé de
 <lb/>a couche extérieure.</p>
 
-<p><term>POirre cubebe</term>. V. <ref>CUREBE</ref>.</p>
+<p><term>POirre cubebe</term>. V. <ref>CUBÈBE</ref>.</p>
 
 <p><term>POivre long</term> ; fruit du <hi>capsicum anuum</hi>.</p>
 
@@ -89351,7 +89348,7 @@ ce dernier corps peut se combiner avec
 </entryFree>
 
 <entryFree>
-<p><orth>PULSATILLE</orth>, V. <ref>COQUELOURJIE</ref>.</p>
+<p><orth>PULSATILLE</orth>, V. <ref>COQUELOURDE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -90302,8 +90299,8 @@ talons. On dit <hi>quartier défectueux, faible,
 <lb/>jour ; mais toute fièvre intermittente
 <lb/>dont 1 accès revient chaque jOUr n’cst
 <lb/>pas appelée <hi>quotidienne</hi> ; elle peut être
-<lb/><hi>double tierce</hi> on <hi>triple quarte.</hi> V. <ref>TLERCR</ref>,
-<lb/>QUAaTE. On dit aussi <hi>accès quotidien, type
+<lb/><hi>double tierce</hi> on <hi>triple quarte.</hi> V. <ref>TIERCE</ref>,
+<lb/><ref>QUARTE</ref>. On dit aussi <hi>accès quotidien, type
 <lb/>quotidien</hi>.</p>
 </entryFree>
 
@@ -91680,17 +91677,8 @@ accroissement ou activite plus grande des
 <lb/>du nitrate trés-acide de protoxyde de
 <lb/>mercure.
 </p>
-<pb n="503"/>
-
-<p>
-<figure xml:id="fig3">
-  <graphic url="media/image3.jpeg"/>
-  <head>
-  
-</head>
-</figure>
-</p>
 </entryFree>
+<pb n="503"/>
 
 <entryFree>
 <p><orth>RÉMISSION</orth>, <gram>s. f.</gram>, <hi>remis.no</hi> ; cessation
@@ -91915,9 +91903,9 @@ accroissement ou activite plus grande des
 
 <p><term>Bésine animée</term>. V. <ref>ACMÉ</ref>.</p>
 
-<p><term>lièsine de bile</term>. V. <ref>PLCROMBL</ref>.</p>
+<p><term>lièsine de bile</term>. V. <ref>PICROMEL</ref>.</p>
 
-<p><term>Résine caragne</term>. V. <ref>CAHAGNE</ref>.</p>
+<p><term>Résine caragne</term>. V. <ref>CARAGNE</ref>.</p>
 
 <p><term>Bésine-copal</term>. V. <ref>COXAL</ref>.</p>
 
@@ -94936,11 +94924,11 @@ coit dans la partie la plus profonde de la
 </entryFree>
 
 <entryFree>
-<p><orth>SCOTOMIE</orth>. V. <ref>SCOTODYME</ref>.</p>
+<p><orth>SCOTOMIE</orth>. V. <ref>SCOTODYNIE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>SCROBICULE <hi>du cœur</hi></orth>. V. <ref>FOSSIRRTE</ref> <hi>du
+<p><orth>SCROBICULE <hi>du cœur</hi></orth>. V. <ref>FOSSETTE</ref> <hi>du
 <lb/>caeur</hi>.</p>
 </entryFree>
 
@@ -95502,7 +95490,7 @@ truie) ; inflammation chronique, dégénérescence
 <p><term>Sel microcosmique</term> ; phosphate de soude
 <lb/>et d’ammoniaque.</p>
 
-<p><term>Sel mural</term>. V. <ref>HALONITRE</ref>.</p>
+<p><term>Sel mural</term>. V. <ref>HALINITRE</ref>.</p>
 
 <p><term>Sel narcotique</term> ; acide borique.</p>
 
@@ -96973,7 +96961,7 @@ algalie ordinaire, ouvert à.ses deux extrémités,
 </entryFree>
 
 <entryFree>
-<p><orth>SOPORATIF</orth>. V. <ref>SOPORIHQUE</ref>.</p>
+<p><orth>SOPORATIF</orth>. V. <ref>SOPORIFIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -97713,7 +97701,7 @@ très-compliqué dont on faisait usage pour
 <lb/>chez la femme. – <hi>Canal</hi> ou <hi>conduit spermatique.
 <lb/>V</hi>. CANAL <hi>déférent</hi>. <hi>   COrdon</hi></p>
 
-<p><term>spermatique</term>  ou <hi>testiculaire.</hi> V. <ref>CORDÛN</ref>.
+<p><term>spermatique</term>  ou <hi>testiculaire.</hi> V. <ref>CORDON</ref>.
 <lb/>— <hi>Plexus spermatiques</hi>, au nombre de
 <lb/>deux, fournis par les rénaux.— <hi>Veines
 <lb/>spermatiques</hi>, au nombre de deux ou trois
@@ -99847,7 +99835,7 @@ amère, et très-SOluble dans l’eau, qui
 <lb/>et trè.S-SOluble dans reau, d’une Saveur
 <lb/>vive et piquante.</p>
 
-<p><term>SUlsite sulfuré</term>. V. <ref>HYPO-SULHTE</ref>.</p>
+<p><term>SUlsite sulfuré</term>. V. <ref>HYPOSULFITE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -101481,7 +101469,7 @@ cine, dont l’une découle du calaba, et
 </entryFree>
 
 <entryFree>
-<p><orth>TALPA</orth>. V. <ref>TAIJPE</ref>.</p>
+<p><orth>TALPA</orth>. V. <ref>TAUPE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -102383,7 +102371,7 @@ trémité, elles se terminent par des anneaux
 <p><term>Térébenthine de Chypre.</term> V. <hi>Térébenthine
 <lb/>de S cio</hi>.</p>
 
-<p><term>Tèrésenttùne commune</term>. V. <ref>GANPOT</ref>.</p>
+<p><term>Tèrésenttùne commune</term>. V. <ref>GALIPOT</ref>.</p>
 
 <p><term>Térébenthine de COpahu</term> ; résine liquide,
 <lb/>d’un blanc jaunâtre, d’une odeur forte
@@ -102993,7 +102981,7 @@ de catemant ae montagne, teuitles ae
 </entryFree>
 
 <entryFree>
-<p><orth>THLASMIE</orth>. V. <ref>TULASLE</ref>.</p>
+<p><orth>THLASMIE</orth>. V. <ref>THLASIE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -105201,7 +105189,7 @@ cère), nom donné par ChausSIer RU nerf
 <p><term>TUrbith noir</term> ; nom vulgaire de l’euphorbe
 <lb/>des marais.</p>
 
-<p><term>TUrbith végétal</term>. V. <ref>ALYPOT</ref>.</p>
+<p><term>TUrbith végétal</term>. V. <ref>ALYPON</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -105698,7 +105686,7 @@ cère), nom donné par ChausSIer RU nerf
 </entryFree>
 
 <entryFree>
-<p><orth>URIASE</orth>. V. <ref>LITHIASE</ref>. -</p>
+<p><orth>URIASE</orth>. V. <ref>LITHIASE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -106664,7 +106652,7 @@ coups de verges, et dont les tégumens
 </entryFree>
 
 <entryFree>
-<p><orth>VERS <hi>intestinaux</hi></orth>. V. <ref>ENTOZOAIRE</ref>.</p>
+<p><orth>VERS <hi>intestinaux</hi></orth>. V. <ref>ENTOZOAIRES</ref>.</p>
 </entryFree>
 
 <entryFree>
