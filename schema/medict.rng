@@ -485,10 +485,12 @@
     </define>
     <define name="sc">
       <element name="rs">
-        <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple <a:example><orth>MÉTHYLOSPIROYLIQUE</orth> (<hi rend="sc">Acide</hi>).</a:example> </a:documentation>
-        <attribute name="rend">
-          <value>sc</value>
-        </attribute>
+        <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple <a:example><orth>MÉTHYLOSPIROYLIQUE</orth> (<rs rend="sc">Acide</rs>).</a:example></a:documentation>
+        <optional>
+          <attribute name="rend">
+            <value>sc</value>
+          </attribute>
+        </optional>
         <zeroOrMore>
           <choice>
             <text/>
