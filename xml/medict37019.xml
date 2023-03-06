@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/medict61157.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/medict37019.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="medict.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Bégin" n="61157" xml:lang="fra">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
   <teiHeader>
     <fileDesc>
-      <titlestmt>
-        <title>Bégin</title>
-        <author key="{author}"/>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>BIU Santé</publisher>
-      </publicationstmt>
+      <titleStmt>
+        <title>Nouveau dictionnaire de médecine, de chirurgie, de physique, de chimie et d'histoire naturelle, où l'on trouve l'étymologie et l'explication des termes de ces sciences avec deux vocabulaires, l'un grec, l'autre latin</title>
+        <author>Capuron, Joseph</author>
+        <respStmt>
+          <name>Cahal Taaffe</name>
+          <resp>OCR imprimés XVIIIe s.</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) </licence>
+        </availability>
+      </publicationStmt>
       <sourceDesc>
         <bibl>…</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="{date}"/>
+        <date when="1806"/>
       </creation>
     </profileDesc>
     <revisionDesc>
@@ -55,7 +66,7 @@
 <p><orth>ABARTICULATION</orth>, <gram>s. f.</gram> <hi>abarticIIlatio</hi>,
 <lb/>espèce d’articulation évidemment
 <lb/>mobile, que les anatomistes
-<lb/>appellentDIARTHROsE.UOy.
+<lb/>appellent DIARTHROsE.UOy.
 <lb/>ce mot.</p>
 </entryFree>
 
@@ -184,7 +195,7 @@ mètre, causé par le mouvement de
 </entryFree>
 
 <entryFree>
-<p><orth>AIBLUTION 0ULOTION</orth>, <gram>s. f.</gram> <hi>abluiio</hi>
+<p><orth>AIBLUTION</orth> ou <orth>LOTION</orth>, <gram>s. f.</gram> <hi>abluiio</hi>
 <lb/>, du verbe latin <hi>abluere</hi>, laver,
 <lb/>nettoyer, purifier en lavant;nom
 <lb/>deplusieurs opérations qui se font
@@ -205,7 +216,7 @@ mètre, causé par le mouvement de
 </entryFree>
 
 <entryFree>
-<p><orth>AhOMASUs ou AboMASüm</orth>, mots
+<p><orth>AhOMASUs</orth> ou <orth>AboMASüm</orth>, mots
 <lb/>latins qui signifient panse, tripaille
 <lb/>; nom.du dernier estomac
 <lb/>des animaux ruminans : vulgairèment
@@ -369,7 +380,7 @@ qttes, potir la reporter dans le torreht
 </entryFree>
 
 <entryFree>
-<p><orth>AbsTR ACTION</orth>, S. f’. <hi>abstractio</hi>,
+<p><orth>AbsTRACTION</orth>, S. f’. <hi>abstractio</hi>,
 <lb/>opération de l’entendement humain,
 <lb/>par laquelle on considè/e
 <lb/>séparément des objfts pour en
@@ -394,7 +405,7 @@ qttes, potir la reporter dans le torreht
 </entryFree>
 
 <entryFree>
-<p><orth>ACANTHABOLE S m</orth>. <hi>acarlthabolits</hi>
+<p><orth>ACANTHABOLE</orth> S. m. <hi>acarlthabolits</hi>
 <lb/>, du mot grec ἄκανθα, épine, et
 <lb/>tlu yerbe chaaser, expul-
 ser ; sorte de pincettes dont les
@@ -447,7 +458,7 @@ ser ; sorte de pincettes dont les
 </entryFree>
 
 <entryFree>
-<p><orth>ACCÉLÉR ατιον</orth>, <gram>s. f.</gram> <hi>accelexado</hi>,
+<p><orth>ACCÉLÉRατιον</orth>, <gram>s. f.</gram> <hi>accelexado</hi>,
 <lb/>auginentation de mouvement ou de
 <lb/>vitesse dans les corps : Phys.</p>
 </entryFree>
@@ -513,7 +524,7 @@ terme est plus en ttsage en chirurgie
 </entryFree>
 
 <entryFree>
-<p><orth>ACCOUCHEMENT ΟΙΙ ENFANTEMBNT</orth>
+<p><orth>ACCOUCHEMENT</orth> ou <orth>ENFANTEMBNT</orth>
 <lb/>, <gram>s. m.</gram> <hi>partus, partio,
 <lb/>puerperium</hi> ; l’expulsion d’un fœtiu
 <lb/>vivant et â terme hors clu seiu
@@ -548,7 +559,7 @@ terme est plus en ttsage en chirurgie
 </entryFree>
 
 <entryFree>
-<p><orth>ACCOUCHEUSE ousàGE-EEMME</orth>,
+<p><orth>ACCOUCHEUSE</orth> ou <orth>sàGE-EEMME</orth>,
 <lb/>$. f. <hi>obstetrix, hyperetria</hi>, femme
 <lb/>qui pratique les accouchemens.</p>
 </entryFree>
@@ -1029,7 +1040,7 @@ ratif et de χρωμα, cnuleur; décoloré,
 </entryFree>
 
 <entryFree>
-<p><orth>AbÉno - NERVEUSE ( fîevie )</orth>,
+<p><orth>AbÉno-NERVEUSE (fîevie)</orth>,
 <lb/>adj. f. <hi>febris adeno - IIervosa</hi>, du
 <lb/>βΐ-βοἀδὴν, glande, et de νεῦρον, nerf j
 <lb/>tièvrecausée par un principe contagieux
@@ -1162,7 +1173,7 @@ tiable ; déesse de la gournwtndise.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>AdRAGANT ouTrAGACANTHE</orth>,
+<p><orth>AdRAGANT</orth> ou <orth>TrAGACANTHE</orth>,
 <lb/>s. m. <hi>tragacantha</hi> T. en grec
 <lb/>τραγάκανθος, composé de τράγος, bouc,
 <lb/>ou (ie τραχύς, âpre, henssé, et
@@ -1225,7 +1236,7 @@ tiable ; déesse de la gournwtndise.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>AEdob AGR APHle</orth>. <gram>s. f.</gram> <hi>aedœagtaphia</hi>
+<p><orth>AEdobAGRAPHle</orth>. <gram>s. f.</gram> <hi>aedœagtaphia</hi>
 <lb/>, Α’ἀιδοῖἀ, parties de la génération
 <lb/>, etde γράφεὡ, clécrire. Description
 <lb/>des organes quiservent a l«t
@@ -1328,7 +1339,7 @@ tiable ; déesse de la gournwtndise.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>AÉ ROPHOBIE</orth>, <gram>s. f.</gram> <hi>aërophobia</hi>,
+<p><orth>AÉROPHOBIE</orth>, <gram>s. f.</gram> <hi>aërophobia</hi>,
 <lb/>Α’ἀὴρ, air, et de φόβος, crainte ;
 <lb/>trainte de l’air ; symptôme de
 <lb/>frénésie.</p>
@@ -1706,7 +1717,7 @@ tiable ; déesse de la gournwtndise.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>A IgreTTÉ</orth>. Ée, <gram>adj.</gram> <hi>pappasus ;</hi>
+<p><orth>AIgreTTÉ</orth>. Ée, <gram>adj.</gram> <hi>pappasus ;</hi>
 <lb/>se dit des graines terminées par
 <lb/>ime aigrette, ou de toute autre
 <lb/>partie de plante dont le couron?)ement
@@ -1834,7 +1845,7 @@ corps fluide, invisible, insipide,
 </entryFree>
 
 <entryFree>
-<p><orth>AtR AIN</orth>, <gram>s. m.</gram> <hi>œs, œris</hi>, bronze,
+<p><orth>AtRAIN</orth>, <gram>s. m.</gram> <hi>œs, œris</hi>, bronze,
 <lb/>ou alliage decuivre ou d’étain.</p>
 </entryFree>
 
@@ -1884,7 +1895,7 @@ corps fluide, invisible, insipide,
 </entryFree>
 
 <entryFree>
-<p><orth>AjuTAgk 011 AjUTOtR</orth>, <gram>s. m.</gram>
+<p><orth>AjuTAgk</orth> ou <orth>AjUTOtR</orth>, <gram>s. m.</gram>
 <lb/>petit tuyau de cuivre soudé au
 <lb/>tuyau d’une fontaine pour former
 <lb/>le jet.</p>
@@ -2013,7 +2024,7 @@ froment et dans les sucs dc plantes
 </entryFree>
 
 <entryFree>
-<p><orth>ALCALI ou ALKAm</orth>, <gram>s. m.</gram> dcla
+<p><orth>ALCALI</orth> ou <orth>ALKAm</orth>, <gram>s. m.</gram> dcla
 <lb/>part-icule arabe <hi>al</hi>, qui désigne
 <lb/>quelque chose de releve oii d’exeellent,
 <lb/>et de <hi>lccdi</hi>, plante marine
@@ -2145,7 +2156,7 @@ ritable philosophie, de philosophie
 </entryFree>
 
 <entryFree>
-<p><orth>ALÈse ou ΑI</orth>.εζε, <gram>s. f.</gram> <hi>linteum</hi>,
+<p><orth>ALÈse</orth> ou <orth>ΑI</orth>.εζε, <gram>s. f.</gram> <hi>linteum</hi>,
 <lb/>drap servant âenvelopperouchauffer
 <lb/>un malade, et fait ordinairement
 <lb/>d’un seiil lé de toile, d’où il
@@ -2188,7 +2199,7 @@ ritable philosophie, de philosophie
 </entryFree>
 
 <entryFree>
-<p><orth>ALGAROTH ( poudre d' )</orth>, <gram>s. f.</gram>
+<p><orth>ALGAROTH (poudre d')</orth>, <gram>s. f.</gram>
 <lb/>oxydeblanc d’antimoine.</p>
 </entryFree>
 
@@ -2251,7 +2262,7 @@ ritable philosophie, de philosophie
 </entryFree>
 
 <entryFree>
-<p><orth>A LIM E Ν T AIR E</orth>, a d j. <hi>a limenta</hi> lÏUs,
+<p><orth>ALIMEΝTAIRE</orth>, a d j. <hi>a limenta</hi> lÏUs,
 <lb/>destiné pour les aiimens.</p>
 </entryFree>
 
@@ -2756,7 +2767,7 @@ odorant; <hi>Vambre jaune</hi> est le succin
 </entryFree>
 
 <entryFree>
-<p><orth>AwER γ ÉRE</orth>, aclj. <hi>amarus</hi>, qui a
+<p><orth>AwERγÉRE</orth>, aclj. <hi>amarus</hi>, qui a
 <lb/>de Pamertume; nom des médicaInens
 <lb/>ou nutres substances qui ont
 <lb/>nne savcur scrnblable à cclle de la
@@ -3099,7 +3110,7 @@ une humeur âcre. <hi>Voy.</hi> <ref></ref>. DïabROsE</p>
 </entryFree>
 
 <entryFree>
-<p><orth>ΑVαεμιε ouANÉMIE</orth>, s. <hi>f</hi>. <hi>anœrtiia</hi>
+<p><orth>ΑVαεμιε</orth> ou <orth>ANÉMIE</orth>, s. <hi>f</hi>. <hi>anœrtiia</hi>
 <lb/>, d’a privatif, et ιΐ’αἷμα, génitif
 <lb/>αἶματος, sang ; mot a mot, privation
 <lb/>de sang ; maladie qui a attaqué
@@ -3278,7 +3289,7 @@ une humeur âcre. <hi>Voy.</hi> <ref></ref>. DïabROsE</p>
 </entryFree>
 
 <entryFree>
-<p><orth>ΑV ASTOMOTIQUES</orth>, ad. pl. <hi>aIIastomotica</hi>,
+<p><orth>ΑVASTOMOTIQUES</orth>, ad. pl. <hi>aIIastomotica</hi>,
 <lb/>du Verbé ἀναστομόω, j'otlvre
 <lb/>la bouche; remèdes qui ont
 <lb/>la vertu de dilater les vaisseaux, et
@@ -3356,7 +3367,7 @@ une humeur âcre. <hi>Voy.</hi> <ref></ref>. DïabROsE</p>
 </entryFree>
 
 <entryFree>
-<p><orth>AnC YLOMÉLE</orth>, <gram>s. m.</gram> ΐνἀγκὑλος, courbé
+<p><orth>AnCYLOMÉLE</orth>, <gram>s. m.</gram> ΐνἀγκὑλος, courbé
 <lb/>, crochu, et de μήλη, sonde ;
 <lb/>sonde recourbée : Chir.</p>
 </entryFree>
@@ -3439,7 +3450,7 @@ aorts et de machines. <hi>VOyez</hi> AUTOJIATE.
 </entryFree>
 
 <entryFree>
-<p><orth>ANÉMASE ou ΑVΕΜΙΕ</orth>, <gram>s. f.</gram> <hi>anœmasis,
+<p><orth>ANÉMASE</orth> ou <orth>ΑVΕΜΙΕ</orth>, <gram>s. f.</gram> <hi>anœmasis,
 <lb/>anœmia</hi>, (Γἀ privatif, et
 <lb/>εΐ’αιμα, sang ; maladie qui paroit
 <lb/>consister dans un manqwe de sang.</p>
@@ -3501,7 +3512,7 @@ aorts et de machines. <hi>VOyez</hi> AUTOJIATE.
 </entryFree>
 
 <entryFree>
-<p><orth>ANGÉIOGRAPHIE 011 ANGIOGRAPHIE</orth>
+<p><orth>ANGÉIOGRAPHIE</orth> ou <orth>ANGIOGRAPHIE</orth>
 <lb/>, S. <hi>ï</hi>. <hi>angeiographia</hi> OU <hi>angiographia</hi>
 <lb/>, d’àyyfïov, vaisseau, et de
 <lb/>γραφείν, clecrirc ; partic de l’anatomie
@@ -3536,7 +3547,7 @@ aorts et de machines. <hi>VOyez</hi> AUTOJIATE.
 </entryFree>
 
 <entryFree>
-<p><orth>ANGÉIOLOGIE OU ANGIOLOGIE</orth>,
+<p><orth>ANGÉIOLOGIE</orth> ou <orth>ANGIOLOGIE</orth>,
 <lb/>s. f. <hi>angeiologia</hi> ou <hi>angiologia</hi>,
 <lb/>d’ἀγγεῖov, vaisseau, et de λόγος, discours;
 <lb/>traité des vaisseaux.</p>
@@ -3699,7 +3710,7 @@ tesse des vaisseaux et des émouctoires
 </entryFree>
 
 <entryFree>
-<p><orth>ANIMALISER ( s’ )</orth>, v. pron. acquérir
+<p><orth>ANIMALISER (s’)</orth>, v. pron. acquérir
 <lb/>les propriétés qui caractérisent
 <lb/>l’animal.</p>
 </entryFree>
@@ -3904,7 +3915,7 @@ tesse des vaisseaux et des émouctoires
 </entryFree>
 
 <entryFree>
-<p><orth>ANTÉMÉTIQUE 011 AhTIÉmÉTÏQUE</orth>,
+<p><orth>ANTÉMÉTIQUE</orth> ou <orth>AhTIÉmÉTÏQUE</orth>,
 <lb/>adj. <hi>antemeticus</hi>, ΐΓἀντὶ, contre
 <lb/>, et εΐ,εμετος, vomissement ; remède
 <lb/>contre le vomissement excessifi
@@ -4123,7 +4134,7 @@ tant qnelques parties du corps humain
 </entryFree>
 
 <entryFree>
-<p><orth>ANTHROPOTOMIE S</orth>. f’. <hi>anthropotomia,
+<p><orth>ANTHROPOTOMIE</orth> S. f’. <hi>anthropotomia,
 <lb/>d’ta^uv^s</hi>, liomme, et de‘^voo,
 <lb/>je coupe, je dissèqne; dissection
 <lb/>du corps bumain. <hi>VOyez</hi> AkDROτομιε.
@@ -4151,7 +4162,7 @@ nom des remèdes contre l’hypocondrie.
 </entryFree>
 
 <entryFree>
-<p><orth>ANTHYSTÉRIQUE 011 ANTIIIYS’TÉRI'QUE</orth>
+<p><orth>ANTHYSTÉRIQUE</orth> ou <orth>ANTIIIYS’TÉRI'QUE</orth>
 <lb/>, <gram>adj.</gram> et <gram>s. m.</gram> <hi>antihystericus</hi>
 <lb/>, ΰ’ἀντὶ^ contre, et d^ripa, la
 <lb/>matrice ; remède contre l’hysterie.</p>
@@ -4186,7 +4197,7 @@ nom des remèdes contre l’hypocondrie.
 </entryFree>
 
 <entryFree>
-<p><orth>ÂNTl ASTHMATIQUE «</orth> <gram>adj.</gram> et S.
+<p><orth>ÂNTlASTHMATIQUE</orth> <gram>adj.</gram> et S.
 <lb/>m. <hi>antiasthmaticus</hi>, d’ivTI, contre,
 <lb/>et Α,ἆσθμα, asthme ; remèdc contie
 <lb/>l’asthme.</p>
@@ -4556,7 +4567,7 @@ mède contre la goutte qui attaque
 </entryFree>
 
 <entryFree>
-<p><orth>ANTïsPASTI QUE</orth>, <gram>adj.</gram> et <gram>s. m.</gram>
+<p><orth>ANTïsPASTIQUE</orth>, <gram>adj.</gram> et <gram>s. m.</gram>
 <lb/><hi>antispasticus</hi>, ιΐ’ἀντὶ, contre, ct de
 <lb/>σπάω, je tire ; remede qui tire ou
 <lb/>opère par révuision. <hi>V.</hi> <ref></ref>. RÉVULSIF.</p>
@@ -4580,7 +4591,7 @@ mède contre la goutte qui attaque
 </entryFree>
 
 <entryFree>
-<p><orth>ANTIVÉNÉR 1ΕΝ</orth>, ENNE, <gram>adj.</gram> et
+<p><orth>ANTIVÉNÉR1ΕΝ</orth>, ENNE, <gram>adj.</gram> et
 <lb/>s. m. <hi>antwenereus</hi>, ιΐ’ἀντὶ, contre,
 <lb/>et dn rnot <hi>\atiuVenus,gen.Veneus</hi>,
 <lb/>deesse de la volnpté ; remède conIre
@@ -4589,7 +4600,7 @@ mède contre la goutte qui attaque
 </entryFree>
 
 <entryFree>
-<p><orth>ΑVΤΙ VERMINEUN</orth>, EUSE, ndj. <hi>antiverminosus</hi>,
+<p><orth>ΑVΤΙVERMINEUN</orth>, EUSE, ndj. <hi>antiverminosus</hi>,
 <lb/>bon contre les vers.</p>
 </entryFree>
 
@@ -4774,7 +4785,7 @@ la solitude ; premier clegré de la
 </entryFree>
 
 <entryFree>
-<p><orth>APHTHES ou ArHTES</orth>, <gram>s. m.</gram> <hi>aphtœ</hi>,
+<p><orth>APHTHES</orth> ou <orth>ArHTES</orth>, <gram>s. m.</gram> <hi>aphtœ</hi>,
 <lb/>en grec ἄφθαι, qui vient sans
 <lb/>doute d’i'nTIO, j’enflamme ; petits
 <lb/>nlcères ou tubercules qui affectent
@@ -4906,7 +4917,7 @@ la solitude ; premier clegré de la
 </entryFree>
 
 <entryFree>
-<p><orth>ÀPONÊYROSE J</orth> <gram>s. f.</gram> <hi>aponevrosis9</hi>
+<p><orth>ÀPONÊYROSE</orth>, <gram>s. f.</gram> <hi>aponevrosis9</hi>
 
 
 <pb n="28"/>
@@ -5243,7 +5254,7 @@ de cet organe ; ainsi la corolle de
 </entryFree>
 
 <entryFree>
-<p><orth>AOüATILE '</orth>, adj, <hi>aquaülis</hi>, qui
+<p><orth>AOüATILE</orth>, adj, <hi>aquaülis</hi>, qui
 <lb/>vit dans Pcau.</p>
 </entryFree>
 
@@ -5261,7 +5272,7 @@ de cet organe ; ainsi la corolle de
 </entryFree>
 
 <entryFree>
-<p><orth>AQUILA- ALBA</orth>, <gram>s. f.</gram> mercnre
+<p><orth>AQUILA-ALBA</orth>, <gram>s. f.</gram> mercnre
 <lb/>doux : Anc. chim. MUriate doux de
 <lb/>rnercure: NOUV. nonieiiclature chimique.
 <lb/></p>
@@ -5446,7 +5457,7 @@ de la dignité de son objet ; la <hi>magieeu
 </entryFree>
 
 <entryFree>
-<p><orth>ARCHIMIE OUAbCHYMIB</orth>, s. l’.
+<p><orth>ARCHIMIE</orth> ou <orth>AbCHYMIB</orth>, s. l’.
 <lb/><hi>arëhitnia</hi>, (Ι’ἀρχὴ, excellence, et
 <lb/>deXdv, foudre; partie de la chimie
 <lb/>qui s’occupe de la transmutation
@@ -5461,7 +5472,7 @@ de la dignité de son objet ; la <hi>magieeu
 </entryFree>
 
 <entryFree>
-<p><orth>ArCTüRe ou ARCTURUs</orth>, <gram>s. m.</gram>
+<p><orth>ArCTüRe</orth> ou <orth>ARCTURUs</orth>, <gram>s. m.</gram>
 <lb/><hi>arcturus</hi>, du grec ἄρκτὸς, oursc, et
 <lb/>d’oüpà, qiieue ; étoile de la constellation
 <lb/>du bouvier, voisine de
@@ -5592,7 +5603,7 @@ de la dignité de son objet ; la <hi>magieeu
 </entryFree>
 
 <entryFree>
-<p><orth>ARGILE ΟΠ ARGILLE</orth>, s. L <hi>argilla</hi>
+<p><orth>ARGILE</orth> ou <orth>ARGILLE</orth>, s. L <hi>argilla</hi>
 <lb/>, en grec ἄ'ργιλος ou ἀργιλλος »
 <lb/>d'apyiç,ι blauc ; substance minérale
 <lb/>qui résnlte d’un niélange naturel
@@ -6029,7 +6040,7 @@ nique, de toute partie qui a une ou
 </entryFree>
 
 <entryFree>
-<p><orth>ARYTHME OII AhHYTHME</orth>, <gram>s. m.</gram>
+<p><orth>ARYTHME</orth> ou <orth>AhHYTHME</orth>, <gram>s. m.</gram>
 <lb/><hi>arhythmus</hi>, d’a privatif, et de
 <lb/>ῥυθμὸς, régularité ; irrégulaliité du
 <lb/>pouls.</p>
@@ -6114,7 +6125,7 @@ nique, de toute partie qui a une ou
 </entryFree>
 
 <entryFree>
-<p><orth>AsoDES ou AssoDES</orth>, <gram>adj.</gram> et s.
+<p><orth>AsoDES</orth> ou <orth>AssoDES</orth>, <gram>adj.</gram> et s.
 <lb/>ασωδης, dégoûtant, du grec ἄση 0U
 <lb/>ἆσση, anxiété autour de FOrifice de
 <lb/>l’estornac ; — nom que les anciens
@@ -6144,7 +6155,7 @@ nique, de toute partie qui a une ou
 </entryFree>
 
 <entryFree>
-<p><orth>F AsPHALITE</orth>, <gram>s. f.</gram> <hi>asphalitus</hi>, du
+<p><orth>FAsPHALITE</orth>, <gram>s. f.</gram> <hi>asphalitus</hi>, du
 <lb/>verbe ἀσφαλίζω, je fortifie ; cinquième
 <lb/>vertèbre des lombes, ainsî
 <lb/>appelée, parce qu’on la regarde
@@ -6323,7 +6334,7 @@ dur, inllammable, mais luisant,
 </entryFree>
 
 <entryFree>
-<p><orth>ASTHM ATIQUE</orth>, <gram>adj.</gram> <hi>asthmaticus</hi>,
+<p><orth>ASTHMATIQUE</orth>, <gram>adj.</gram> <hi>asthmaticus</hi>,
 <lb/>en grec ἀσθματικὸς, qui respire avee
 <lb/>peine omdifficulté,qui cst essoufflé.</p>
 </entryFree>
@@ -6511,7 +6522,7 @@ plusgros des os du tarse, qui forme
 </entryFree>
 
 <entryFree>
-<p><orth>ATLAS ou ATLQïDE</orth>, <gram>s. m.</gram> (Ι’ἀ
+<p><orth>ATLAS</orth> ou <orth>ATLQïDE</orth>, <gram>s. m.</gram> (Ι’ἀ
 <lb/>pmticule augmentative, etde θαλάἀ
 <lb/>ou τλαω, je supporte. NOm de la
 <lb/>première vertèbre du cou, qui supporte
@@ -6786,7 +6797,7 @@ qui appartient ou a du rapport a
 </entryFree>
 
 <entryFree>
-<p><orth>AVoRTON ou AVoRTtN</orth>, <gram>s. m.</gram>
+<p><orth>AVoRTON</orth> ou <orth>AVoRTtN</orth>, <gram>s. m.</gram>
 <lb/><hi>aborüvus</hi>, qui est né avant terme,
 <lb/>avant d’être viable.</p>
 </entryFree>
@@ -6954,11 +6965,8 @@ qui appartient ou a du rapport a
 <lb/>ou quelqu’une de ses parties. Eniin,
 <lb/>les <hi>bains</hi> sont chauds, tièdes
 <lb/>ou froids, selon leur degré de température
-<lb/>naturelle ou artificiellc.—</p>
-</entryFree>
-
-<entryFree>
-<p><orth>Les chimistes donnent le nom de</orth>
+<lb/>naturelle ou artificiellc.—
+<lb/>Les chimistes donnent le nom de
 <lb/><hi>bain de sable, de limaille de fer9
 <lb/></hi>ou <hi>de cendres</hi>, a un appareil disposé
 <lb/>de maniere que le vaisseau où

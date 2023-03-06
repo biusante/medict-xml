@@ -648,10 +648,27 @@
                 <text/>
               </element>
             </oneOrMore>
+            <oneOrMore>
+              <element name="respStmt">
+                <element name="name">
+                  <text/>
+                </element>
+                <element name="resp">
+                  <text/>
+                </element>
+              </element>
+            </oneOrMore>
           </element>
           <element name="publicationStmt">
             <element name="publisher">
               <text/>
+            </element>
+            <element name="availability">
+              <attribute name="status"/>
+              <element name="licence">
+                <attribute name="target"/>
+                <text/>
+              </element>
             </element>
           </element>
           <element name="sourceDesc">

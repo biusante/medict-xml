@@ -10,10 +10,13 @@
         <author>Charles Robin</author>
       </titleStmt>
       <publicationStmt>
-        <p>BIU Santé</p>
+        <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)</licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <p> Littré 1873, https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=chapitre&amp;cote=37020d </p>
+        <bibl>Littré 1873, https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=chapitre&amp;cote=37020d </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

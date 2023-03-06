@@ -5,11 +5,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Bégin</title>
-        <author key="{author}"/>
+        <title>Dictionnaire des termes de médecine, chirurgie, art vétérinaire, pharmacie, histoire naturelle, botanique, physique, chimie, etc.</title>
+        <author>Bégin, Louis-Jacques et al.</author>
       </titleStmt>
       <publicationStmt>
-        <publisher>BIU Santé</publisher>
+        <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>…</bibl>
@@ -17,7 +20,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="{date}"/>
+        <date when="1823"/>
       </creation>
     </profileDesc>
     <revisionDesc>
@@ -26,8 +29,6 @@
       <change>[Fait] Structure XML validée</change>
       <change>[Fait] vedettes (//orth) vérifiées</change>
       <change>[Fait] renvois (//ref) vérifiés</change>
-      <change>=== À FAIRE ===</change>
-
     </revisionDesc>
   </teiHeader>
   <text>

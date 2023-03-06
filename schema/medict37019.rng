@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fra">
-  <include href="medict61157_orth.rng"/>
   <include href="medict.rng">
     <define name="body">
       <element name="body">

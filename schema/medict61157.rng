@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fra">
-  <include href="medict61157_orth.rng"/>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  ns="http://www.tei-c.org/ns/1.0" xml:lang="fra"
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  xmlns:h="http://www.w3.org/1999/xhtml"
+  >
+  <a:documentation>Bégin &amp; al. (1823) Dictionnaire des termes de médecine, chirurgie, art vétérinaire, pharmacie, histoire naturelle, botanique, physique, chimie, etc. Schéma XML</a:documentation>
   <include href="medict.rng">
     <define name="body">
       <element name="body">
