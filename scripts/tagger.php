@@ -260,13 +260,13 @@ class Tagger
                 $targets = [];
                 foreach($form as $word => $v) {
                     $lev = levenshtein($input, $word);  
-                    if ($lev > 1) continue;
+                    if ($lev > 2) continue;
                     $targets[] = $word;
                     echo ", $word $lev";
                 }
                 echo "\n";
                 if (count($targets) == 1) {
-                    return "<ref>" . $targets[0] . "</ref>"; 
+                    // return "<ref>" . $targets[0] . "</ref>"; 
                 }
                 return "<ref>" . $input . "</ref>";
             },

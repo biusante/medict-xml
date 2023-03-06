@@ -8,33 +8,36 @@ use Oeuvres\Teinte\Format\{Docx};
 
 Log::setLogger(new LoggerCli(LogLevel::DEBUG));
 
+capuron_docx();
 
-
-function begin_docx()
+function capuron_docx()
 {
     $docx = new Docx();
-    $docx->user_template(__DIR__ . "/begin_tmpl.xml");
+    $docx->user_template(__DIR__ . "/tmpl.xml");
     
-    $dst_dir = dirname(__DIR__) . '/work/';
+    $dst_dir = dirname(__DIR__) . '/xml/';
     Filesys::mkdir($dst_dir);
-    $docx_file = dirname(__DIR__) . '/begin_docx/medict61157.docx';
+    $docx_file = dirname(__DIR__) . '/work/capuron_docx/medict37019.docx';
     
     $src_name = pathinfo($docx_file, PATHINFO_FILENAME);
 
     Log::info('Load: ' . $docx_file);
-    $source->load($docx_file);
+    $docx->load($docx_file);
     // for debug
-    $source->pkg();
-    $source->teilike();
+    $docx->pkg();
+    $docx->teilike();
     Log::info('docx -> “tei like”');
-    $source->pcre();
-    file_put_contents($dst_dir . $src_name . "_pcre.xml", $source->xml());
-    $source->tmpl();
+    $docx->pcre();
+    // file_put_contents($dst_dir . $src_name . "_pcre.xml", $source->xml());
+    $docx->tmpl();
     Log::info('“tei like” -> pcre');
 
     $dst_file = $dst_dir . $src_name . ".xml";
     Log::info('Generate: ' . $dst_file);
-    $xml = $source->xml();
+    $xml = $docx->xml();
+    $preg = Parse::pcre_tsv(__DIR__ . '/capuron_pcre.tsv');
+    $xml = preg_replace($preg[0], $preg[1], $xml);
+
     file_put_contents($dst_file, $xml);
 }
 
