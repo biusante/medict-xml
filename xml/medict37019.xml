@@ -9,7 +9,7 @@
         <author>Capuron, Joseph</author>
         <respStmt>
           <name>Cahal Taaffe</name>
-          <resp>OCR imprimés XVIIIe s.</resp>
+          <resp>OCR imprimés anciens et grec.</resp>
         </respStmt>
         <respStmt>
           <name>Frédéric Glorieux</name>
@@ -524,7 +524,7 @@ terme est plus en ttsage en chirurgie
 </entryFree>
 
 <entryFree>
-<p><orth>ACCOUCHEMENT</orth> ou <orth>ENFANTEMBNT</orth>
+<p><orth>ACCOUCHEMENT</orth> ou <orth>ENFANTEMENT</orth>
 <lb/>, <gram>s. m.</gram> <hi>partus, partio,
 <lb/>puerperium</hi> ; l’expulsion d’un fœtiu
 <lb/>vivant et â terme hors clu seiu
@@ -850,8 +850,10 @@ ratif et de χρωμα, cnuleur; décoloré,
 <p><orth>ACRIDOPHAGE</orth>, <gram>adj.</gram> ίΓἀκρὶς, ίδος,
 <lb/>sauterclie, et de φάγω, je mange ;
 <lb/>mangeur de sauterehes.</p>
+</entryFree>
 
-<p><hi>Ac</hi> RIMONIE, <gram>s. f.</gram> <hi>acrirnonia,
+<entryFree>
+<p><orth>ACRIMONIE</orth>, <gram>s. f.</gram> <hi>acrirnonia,
 <lb/>acritas, acritudo</hi>, âcreté ; qualité
 <lb/>des alcalis, des acides, et de tous
 <lb/>les corps corrosifs ou caustiques.</p>
@@ -1040,7 +1042,7 @@ ratif et de χρωμα, cnuleur; décoloré,
 </entryFree>
 
 <entryFree>
-<p><orth>AbÉno-NERVEUSE (fîevie)</orth>,
+<p><orth>ADÉno-NERVEUSE (fîevie)</orth>,
 <lb/>adj. f. <hi>febris adeno - IIervosa</hi>, du
 <lb/>βΐ-βοἀδὴν, glande, et de νεῦρον, nerf j
 <lb/>tièvrecausée par un principe contagieux
@@ -4850,7 +4852,7 @@ la solitude ; premier clegré de la
 </entryFree>
 
 <entryFree>
-<p><orth>Αροοορε</orth>, <hi>apocope</hi>, ά’ἀπὸ, de,
+<p><orth>APOCOPE</orth>, <hi>apocope</hi>, ά’ἀπὸ, de,
 <lb/>et de κόπτω, je coupe; coupure,
 <lb/>retranchement. — oorte de fracture
 <lb/>dans laquelle une. pièce de l’os
@@ -4858,14 +4860,14 @@ la solitude ; premier clegré de la
 </entryFree>
 
 <entryFree>
-<p><orth>AIOCROUsTIQUE</orth>, <gram>s. m.</gram> et adj-
+<p><orth>APOCROUSTIQUE</orth>, <gram>s. m.</gram> et adj-
 <lb/><hi>apocroustica</hi>, εΐ’ἀποκριιω, je repousse,
 <lb/>je réprime ; lemède propre à repercuter
 <lb/>les humeurs qui se jettent
 <lb/>sur quelque partie. <hi>VOyez</hi> RÉpERCUSSIF.
 <lb/></p>
 
-<p><hi>A</hi>IODACRY'nQUE, <gram>adj.</gram> et <gram>s. m.</gram>
+<p><orth>APODACRYTIQUE</orth>, <gram>adj.</gram> et <gram>s. m.</gram>
 <lb/><hi>apodacryticus</hi>, d’αποδακρυω, je
 <lb/>pleure ou verse des larrnes; r.emède
 <lb/>qui excite d’abonl les larmes
@@ -7198,13 +7200,9 @@ animàl fournit quelquefois plus de
 <lb/>promptemtnt que la chaux ; dissoluble
 <lb/>dans vingt l’ois son poids
 <lb/>d’eau, qu’elle absorbe avec sifflement;
-<lb/>adhérant plus que toute aü-
-</p>
+<lb/>adhérant plus que toute autre
 <pb n="41"/>
-</entryFree>
-
-<entryFree>
-<p><orth>Ire base aux acides ; nc devant</orth>
+Ire base aux acides ; nc devant
 <lb/>étre employée cn inédccine qu’avec
 <lb/>beaucoup de prudcnce.</p>
 </entryFree>
@@ -7293,9 +7291,11 @@ animàl fournit quelquefois plus de
 </entryFree>
 
 <entryFree>
-<p><orth>BA</orth>.s-vENTRE, <gram>s. m.</gram> <hi>alvus</hi>. <hi>Voyez</hi> <ref>AbDOMEN</ref>,</p>
+<p><orth>BAS-vENTRE</orth>, <gram>s. m.</gram> <hi>alvus</hi>. <hi>Voyez</hi> <ref>AbDOMEN</ref>,</p>
+</entryFree>
 
-<p>l.iATlTURES, <gram>s. f.</gram> <hi>PI.batitura</hi>, parcelles
+<entryFree>
+<p><orth>BATITURES</orth>, <gram>s. f.</gram> <hi>PI.batitura</hi>, parcelles
 <lb/>011 écailles des métaux qui
 <lb/>se détachent de la masse, qu ind
 <lb/>elle est battne a coups dc marleau.
@@ -7846,7 +7846,7 @@ tal d’nn blanc jaunâlre, d’une odeur
 </entryFree>
 
 <entryFree>
-<p><orth>BLANC-DE-CH AAIPIGNON</orth>, <gram>s. m.</gram>
+<p><orth>BLANC-DE-CHAMPIGNON</orth>, <gram>s. m.</gram>
 <lb/>petits plants enracinés que les maraichers
 <lb/>trouvent tous fonnés sur
 <lb/>du fumier ou sur d’nnciennes couches,
@@ -7861,7 +7861,7 @@ tal d’nn blanc jaunâlre, d’une odeur
 </entryFree>
 
 <entryFree>
-<p><orth>BLENDE ou F-AUSSE GALÈNE</orth>,
+<p><orth>BLENDE</orth> ou <orth>FAUSSE GALÈNE</orth>,
 <lb/>s. m. sulfure de zinc.</p>
 </entryFree>
 
@@ -8086,7 +8086,7 @@ de Eabelines recherchent beaucoup
 </entryFree>
 
 <entryFree>
-<p><orth>Βοηοζαιε ou le Ζαιε des Erhiopiens</orth>,
+<p><orth>BOROZAIL</orth> ou le <orth>ZAIL</orth> des Erhiopiens,
 <lb/>s. m. inaladie épidémiqiie
 <lb/>xlans les contrées qui bordent le
 <lb/>Sénégal, atraquant particulièreincnt
@@ -8114,7 +8114,7 @@ de Eabelines recherchent beaucoup
 </entryFree>
 
 <entryFree>
-<p><orth>BOsTIi YCHITE</orth>, <gram>s. f.</gram> <hi>bostrychiies</hi>,
+<p><orth>BOSTRYCHITE</orth>, <gram>s. f.</gram> <hi>bostrychiies</hi>,
 <lb/>du grec βόστρυχος, chevelure ; pierre
 
 
@@ -8401,7 +8401,7 @@ poussent au visage de ceux quî
 </entryFree>
 
 <entryFree>
-<p><orth>BRACTÉIFÉRE 0Π BRACTETÉ</orth>, ÉE,
+<p><orth>BRACTÉIFÈRE</orth> ou <orth>BRACTETÉ</orth>, ÉE,
 <lb/>adj, <hi>bracteifer, bracteatus</hi>, qui
 <lb/>porte ou est accompagné d'une 011
 <lb/>de plnsieurs bractées.</p>
@@ -8771,7 +8771,7 @@ ronclie oblongue, couverte d’une
 </entryFree>
 
 <entryFree>
-<p><orth>CACHOU ou TERRE DU JAPON</orth>,
+<p><orth>CACHOU</orth> ou <orth>TERRE DU JAPON</orth>,
 <lb/><hi>catechu, terra Japondca</hi>; substance
 <lb/>solide, il’un rouge brun, opaque,
 <lb/>inodore; d’un goût acerbe, arner;
@@ -8816,7 +8816,7 @@ ronclie oblongue, couverte d’une
 </entryFree>
 
 <entryFree>
-<p><orth>CACOÉTE ΟΠ CACOÈTHE</orth>, adject.
+<p><orth>CACOÉTE</orth> ou <orth>CACOÈTHE</orth>, adject.
 <lb/><hi>cacoethes</hi>, de κακὸς, niauvais, et
 <lb/>οΐ’ὴ^ος, éfat, habittide, caractcre,
 <lb/>nature ; se dit d’un ulcère de inauvais
@@ -8981,15 +8981,11 @@ ronclie oblongue, couverte d’une
 </entryFree>
 
 <entryFree>
-<p><orth>C-AISSE</orth>, <gram>s. f.</gram> <hi>capsa</hi>, d e χάσις, séparation,
+<p><orth>CAISSE</orth>, <gram>s. f.</gram> <hi>capsa</hi>, d e χάσις, séparation,
 <lb/>ou du verbe χάζω, je contiens,
 <lb/>d’où l’on a fait Κάψα, —
-</p>
 <pb n="51"/>
-</entryFree>
-
-<entryFree>
-<p><orth>Caisse du tambour ou du tympan</orth>,
+Caisse du tambour ou du tympan,
 <lb/><hi>tympanum</hi>, en grec τύμπαιον, du
 <lb/>verbe τυπτω, je frappe; cavité demi-spliérique
 <lb/>au fond du trou auditif
@@ -9010,7 +9006,7 @@ ronclie oblongue, couverte d’une
 </entryFree>
 
 <entryFree>
-<p><orth>Càl</orth>, s. jil. <hi>callus, callurn</hi> ; durillon
+<p><orth>CAL</orth>, s. jil. <hi>callus, callurn</hi> ; durillon
 <lb/>qui vient aux pieds, aux
 <lb/>mains et aux genoux, par une lcnte
 <lb/>compression que souffrent ces parties.
@@ -9019,7 +9015,7 @@ ronclie oblongue, couverte d’une
 </entryFree>
 
 <entryFree>
-<p><orth>CALAMINE OU PIERRE CALAMINAIRE</orth>
+<p><orth>CALAMINE</orth> ou <orth>PIERRE CALAMINAIRE</orth>
 <lb/>, <gram>s. f.</gram> <hi>cadmia</hi> Plin., <hi>cadrnea
 <lb/>terra</hi> Fest., <hi>œrarius lapis</hi>
 <lb/>Plin., <hi>oxys zinci</hi>, mine ou oxyde
@@ -9177,7 +9173,7 @@ qui couvre lesbordsetles parois des
 </entryFree>
 
 <entryFree>
-<p><orth>CALOMÉLAS ou CALOMEL</orth>, 8. Hl.
+<p><orth>CALOMÉLAS</orth> ou <orth>CALOMEL</orth>, 8. Hl.
 <lb/>clu grec καλὸς, hon, et de μέλας,
 <lb/>noir; muriate de mercure doux.
 <lb/>Le nom de <hi>calomélas</hi> lui vient de
@@ -9292,7 +9288,7 @@ qui couvre lesbordsetles parois des
 </entryFree>
 
 <entryFree>
-<p><orth>CAMPANIFORME ΟΙΙ CAMPANULÉ</orth>,
+<p><orth>CAMPANIFORME</orth> ou <orth>CAMPANULÉ</orth>,
 <lb/>adj. <hi>campaTIiformis, campanulatus</hi>
 <lb/>; se dit de toute partie creuse,
 <lb/>dont la forme a plus ou moins de
@@ -9775,7 +9771,7 @@ la.qdlelle sg trouve l’écaille propreinent
 </entryFree>
 
 <entryFree>
-<p><orth>C ARDIALGIE</orth>, <gram>s. f.</gram> <hi>cardialgia</hi>, de
+<p><orth>CARDIALGIE</orth>, <gram>s. f.</gram> <hi>cardialgia</hi>, de
 <lb/>καρδία, qui se prend ici potir l’orifice
 <lb/>supérieur de l’estomac, ct ιΐ’ἄλγος,
 <lb/>douleur ; vive douleur versPOrifice
@@ -9890,7 +9886,7 @@ fleurd’eau;—partieinférieure d’une
 </entryFree>
 
 <entryFree>
-<p><orth>CARNIFICATK N</orth>, S. L <hi>carnificatio</hi>,
+<p><orth>CARNIFICATION</orth>, S. L <hi>carnificatio</hi>,
 <lb/>changernent en chair ; rnaladie
 <lb/>dans laqnelie les os se convertissent
 <lb/>en cbair.</p>
@@ -10376,7 +10372,7 @@ mations aigues ou chroniques desfc
 </entryFree>
 
 <entryFree>
-<p><orth>CATOCHE ou CATOCHUS</orth>,8. ΙΠ.
+<p><orth>CATOCHE</orth> ou <orth>CATOCHUS</orth>,8. ΙΠ.
 <lb/>dti grcc κατοχος, οιι κατοχη, dérivé
 <lb/>de κατεχω, jeretiens; catalepsie, seΙυη
 <lb/>queiques uns; sclûn d’autres,
@@ -10538,7 +10534,7 @@ mations aigues ou chroniques desfc
 </entryFree>
 
 <entryFree>
-<p><orth>C A YE U</orth>. <hi>VOyez</hi> C AïEU.</p>
+<p><orth>CAYEU</orth>. <hi>VOyez</hi> <ref>CAÏEU</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -10548,7 +10544,7 @@ mations aigues ou chroniques desfc
 </entryFree>
 
 <entryFree>
-<p><orth>CÉLIAQUE</orth>, 011 COELTAQUE, <gram>adj.</gram>
+<p><orth>CÉLIAQUE</orth> ou <orth>CŒLIAQUE</orth>, <gram>adj.</gram>
 <lb/><hi>cœliacus</hi>, du grec <hi>MOJz</hi> ou κοιλίη,
 <lb/>estom.ic, bas-ventre, conduit intestinal;
 <lb/>— llux de bas-ventre où les
@@ -10768,7 +10764,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CÉPHAL ARTIQUE</orth>, <gram>adj.</gram> <hi>cephalarticus</hi>,
+<p><orth>CÉPHALARTIQUE</orth>, <gram>adj.</gram> <hi>cephalarticus</hi>,
 <lb/>ile χεφαλὴ, tète, et Α’αρτίζω, je
 <lb/>rends parfait ; propré à purger la
 <lb/>tete : Méd.</p>
@@ -10792,7 +10788,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CÉPHALITIS ouCÉPHALITE</orth>, <gram>s. f.</gram>
+<p><orth>CÉPHALITIS</orth> ou <orth>CÉPHALITE</orth>, <gram>s. f.</gram>
 <lb/>de κεφαλὴ, téte; inflammation du
 <lb/>cerveau, caractérisée par une pyrexie
 <lb/>considérable, nn mal de tére
@@ -10912,7 +10908,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CERCOSIS ou CeRCOsE</orth>, <gram>s. m.</gram> de
+<p><orth>CERCOSIS</orth> ou <orth>CeRCOsE</orth>, <gram>s. m.</gram> de
 <lb/>κέρκος, queiie ; excroissance de chair
 <lb/>qui sort de l’orifice de lâ matrice.</p>
 </entryFree>
@@ -11083,7 +11079,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CHALCÉDOINE 011 CaLCÉDQINE</orth>,
+<p><orth>CHALCÉDOINE</orth> ou <orth>CaLCÉDOINE</orth>,
 <lb/>s. t. <hi>lapis clialcedontüs</hi>, du grec
 <lb/>χαΛκηδών, espèce d’agatc d’un blanc
 <lb/>laiteux ct demi-transparente, ainsi
@@ -11376,7 +11372,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CfiAUSSE d’HIPPOcRATE</orth>, <gram>s. f.</gram></p>
+<p><orth>CHAUSSE d’HIPPOCRATE</orth>, <gram>s. f.</gram></p>
 
 <p><hi>manica HIppocratts</hi>, sac en forme
 <lb/>de cône renversé, servant à passer
@@ -11384,7 +11380,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CnAUVE</orth>, <gram>adj.</gram> <hi>calvus</hi>, qui n’a
+<p><orth>CHAUVE</orth>, <gram>adj.</gram> <hi>calvus</hi>, qui n’a
 <lb/>que peu ou point de cheveux</p>
 </entryFree>
 
@@ -11474,7 +11470,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CkÉNICe ou CnosNtQUE</orth>, <gram>s. m.</gram>
+<p><orth>CkÉNICe</orth> ou <orth>CnosNtQUE</orth>, <gram>s. m.</gram>
 <lb/><hi>chœldx</hi>, du grec χοῖνιξ, ancienne
 <lb/>rnesure grecque pour les solides,
 <lb/>qui valoit la huitième partie du
@@ -11499,7 +11495,7 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CkevAUCH ANTEs</orth>, <gram>adj.</gram> f. <hi>pi.equitantia</hi>
+<p><orth>CkevAUCHANTEs</orth>, <gram>adj.</gram> f. <hi>pi.equitantia</hi>
 <lb/>; se ditdes feuilles p'iées en
 <lb/>gouttière aiguë, et appliquées les
 <lb/>tines surles autres : BOr.</p>
@@ -11548,28 +11544,28 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CHILIGONE ΟΠ KILIOGONE</orth>, <gram>s. m.</gram>
+<p><orth>CHILIGONE</orth> ou <orth>KILIOGONE</orth>, <gram>s. m.</gram>
 <lb/>de χίλιοι, mille, et de γωνία, angle;
 <lb/>figure planc et régulière de mille
 <lb/>angles et de mille côtés ; Géom.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>CnIMIATRE ou Ck YMI ATRE</orth>, <gram>s. m.</gram>
+<p><orth>CHIMIATRE</orth> ou <orth>CHYMIATRE</orth>, <gram>s. m.</gram>
 <lb/><hi>chymiater</hi>, de χυμια, cliiinie, et
 <lb/>d’/atpoç, médecin ; médecin - cbimiste.
 <lb/></p>
 </entryFree>
 
 <entryFree>
-<p><orth>ClIIMIATRIE 0U CHYMIATRIE</orth>, <gram>s. f.</gram>
+<p><orth>CHIMIATRIE</orth> ou <orth>CHYMIATRIE</orth>, <gram>s. f.</gram>
 <lb/><hi>chymiatria</hi>, de χυμια, Ηΐίΐηίβ, et
 <lb/>εΐ’ἰατρεία, guérison ; l’art de guérir
 <lb/>les inaladies par la chimie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>CHIMIE oti CHYMIE</orth>, <gram>s. f.</gram> <hi>chcmia</hi>
+<p><orth>CHIMIE</orth> ou <orth>CHYMIE</orth>, <gram>s. f.</gram> <hi>chcmia</hi>
 <lb/>ou <hi>chymia</hi>, de χείν, fondre,
 <lb/>selon les uns, ou de χνμὸς, suc,selon
 <lb/>d’autres ; science qui traite des
@@ -11580,13 +11576,13 @@ tissu cellulaire ; — loges ou cavi*
 </entryFree>
 
 <entryFree>
-<p><orth>CHIMIQUB ou CltYMIQUE</orth>, <gram>adj.</gram>
+<p><orth>CHIMIQUE</orth> ou <orth>CHYMIQUE</orth>, <gram>adj.</gram>
 <lb/><hi>chimixus</hi>, qui appartient â la chimie.
 <lb/></p>
 </entryFree>
 
 <entryFree>
-<p><orth>CkIMISTE ou CkymISTe</orth>, s. ni.
+<p><orth>CkIMISTE</orth> ou <orth>CkymISTe</orth>, s. ni.
 <lb/><hi>chemicus</hi> oii <hi>chymicus</hi>, celui qui
 <lb/>sait la chimie et qui s’en occupe.</p>
 </entryFree>
@@ -12093,7 +12089,7 @@ passions de Pame; 3°. les <hi>chases</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>CïLIAIRE ou CILIER</orth>, ERE, fldj.
+<p><orth>CïLIAIRE</orth> ou <orth>CILIER</orth>, ERE, fldj.
 <lb/><hi>ciliaris</hi>, qui appartient ou a du rapport
 <lb/>aux cils, il se dit aussi de cer- «</p>
 
@@ -12102,7 +12098,7 @@ passions de Pame; 3°. les <hi>chases</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>CtLLEMENT ( mouillez les deux</orth>
+<p><orth>CtLLEMENT</orth> ( mouillez les deux
 <lb/><hi>ll</hi>, ) <gram>s. m.</gram> <hi>nyctatio</hi>, action de ciller
 <lb/>les yeux.</p>
 </entryFree>
@@ -12132,7 +12128,7 @@ passions de Pame; 3°. les <hi>chases</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>CIIMOLÉE ou CIMOLIE</orth>, S. et
+<p><orth>CIIMOLÉE</orth> ou <orth>CIMOLIE</orth>, S. et
 <lb/>aclj. f. <hi>cimolia terra</hi>, du grec KIμολία,
 <lb/>ας ; terre bolaire ninsi nomniée
 <lb/>parce qd'elle venoit de ci-
@@ -12149,7 +12145,7 @@ passions de Pame; 3°. les <hi>chases</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>CINÉFACTION OU CINERATION</orth>,
+<p><orth>CINÉFACTION</orth> ou <orth>CINERATION</orth>,
 <lb/>s. E <hi>cinefactio</hi>, de <hi>clnis</hi>, Cendre,
 <lb/>et de <hi>facio</hi>, je fais ; réduction en
 <lb/>cendres des comhnstibles.</p>
@@ -12258,7 +12254,7 @@ versalement en deuN parties. comme
 </entryFree>
 
 <entryFree>
-<p><orth>CtRE DES CREILLES</orth>, S. E <hi>cerumen
+<p><orth>CIRE DES CREILLES</orth>, S. E <hi>cerumen
 <lb/>aurium</hi>, eNcrément naturel
 <lb/>qui s'amasse dans lc conduit del’oreille.
 <lb/><hi>Voyez</hi> <ref></ref>. CERUMEN.</p>
@@ -12401,7 +12397,7 @@ versalement en deuN parties. comme
 </entryFree>
 
 <entryFree>
-<p><orth>CUA RIFICATION</orth>, <gram>s. f.</gram> <hi>clarificatio</hi>,
+<p><orth>CLARIFICATION</orth>, <gram>s. f.</gram> <hi>clarificatio</hi>,
 <lb/>opération phurmaceutique par laquelle
 <lb/>on ciarifie une liqueur. Elle
 <lb/>ee fait par la filtration, par la réposition,
@@ -12648,9 +12644,9 @@ snnt le produit du nombre 7 mnltiplié
 </entryFree>
 
 <entryFree>
-<p><orth>CUOU OU FURONCLE</orth>, <gram>s. m.</gram> <hi>clavus
+<p><orth>CLOU</orth> ou <orth>FURONCLE</orth>, <gram>s. m.</gram> <hi>clavus
 <lb/>, furunculus</hi>, espèce de flegmon.
-<lb/><hi>VOyez</hi> FURONCLE, FUEGμον.
+<lb/><hi>VOyez</hi> <ref>FURONCLE</ref>, FUEGμον.
 <lb/>—- Clôu, <hi>clavus</hi>, douleur lacindnte
 <lb/>au dessus de,s orbites, ou
 <lb/>au sommet de la tête, que le malade
@@ -12704,12 +12700,8 @@ snnt le produit du nombre 7 mnltiplié
 <p><orth>COAGULUM</orth>, <gram>s. m.</gram> épaississement
 <lb/>(|uirésulte du mélauge de quelques
 <lb/>liqueurs ; le coagulum du sang. —
-</p>
 <pb n="72"/>
-</entryFree>
-
-<entryFree>
-<p><orth>MOyen de coaguler; la présure est</orth>
+MOyen de coaguler; la présure est
 <lb/>un <hi>coagulum</hi>.</p>
 </entryFree>
 
@@ -12742,7 +12734,7 @@ snnt le produit du nombre 7 mnltiplié
 </entryFree>
 
 <entryFree>
-<p><orth>COi aLT</orth>, <gram>s. m.</gram> <hi>cobaltum</hi>, métal
+<p><orth>COBALT</orth>, <gram>s. m.</gram> <hi>cobaltum</hi>, métal
 <lb/>oxydable, maisnon réductibleiminediatement
 <lb/>; à grain fin et serré ;
 <lb/>d’une coulcur blanc d’étain ; cassant
@@ -12841,7 +12833,7 @@ secte hémiptere dont le sttc donne
 </entryFree>
 
 <entryFree>
-<p><orth>COEFEE 0U CûITFE</orth>, s. <hi>ï.pileus,
+<p><orth>COEFEE</orth> ou <orth>COIFFE</orth>, s. <hi>ï.pileus,
 <lb/>pileolus, galea, vitta</hi> ; membrane
 <lb/>que quelques cnfans apportent en
 <lb/>naissant ; — enveloppe membranense
@@ -13112,7 +13104,7 @@ les fluxions des yeux, ainsi appcle
 </entryFree>
 
 <entryFree>
-<p><orth>COLOSTR ΑΤΙΟΝ</orth>, <gram>s. f.</gram> <hi>colostratio</hi>,
+<p><orth>COLOSTRΑΤΙΟΝ</orth>, <gram>s. f.</gram> <hi>colostratio</hi>,
 <lb/>maladie des cnfans, dont la cause
 <lb/>est le premier lait. nomme <hi>colosirum</hi>.
 <lb/></p>
@@ -13460,7 +13452,7 @@ s’cst passé, tant en santé qn’en
 </entryFree>
 
 <entryFree>
-<p><orth>CI NCHYLE</orth>, <gram>s. m.</gram> <hi>ostreum, ostrea</hi>,
+<p><orth>CONCHYLE</orth>, <gram>s. m.</gram> <hi>ostreum, ostrea</hi>,
 <lb/>ΚIγχύλη des Grecs ; poisson dont on
 <lb/>tire le suc pour teindre en écarlate.</p>
 </entryFree>
@@ -13800,7 +13792,7 @@ ues réunies cn peloton sous une
 </entryFree>
 
 <entryFree>
-<p><orth>CûNGLÜ TINANT</orth>, ANTE, fldj. <hi>congluùnans</hi>,
+<p><orth>CONGLUTINANT</orth>, ANTE, fldj. <hi>congluùnans</hi>,
 <lb/>qui a la vertu de coller,
 <lb/>de réunir; se dit des remèdes auxquels
 <lb/>on attribue la vertu d’agglutincr,
@@ -14369,7 +14361,7 @@ lente et convulsive, consistant en
 </entryFree>
 
 <entryFree>
-<p><orth>CORACO-PR ACHIAL</orth>, <gram>adj.</gram> et <gram>s. m.</gram>
+<p><orth>CORACO-BRACHIAL</orth>, <gram>adj.</gram> et <gram>s. m.</gram>
 <lb/><hi>coraco'brachialis</hi> ; se ditd'un muscle
 <lb/>qui part de l’apophyse coracoïde,
 <lb/>et va s’insérer vers le milieu
@@ -14510,8 +14502,10 @@ l’aorte fournit â la sortie dtt coeur,
 <lb/>M. <hi>Chaussicr</hi> appelle <hi>stamo-gastùque</hi>,
 <lb/>parce qu’elle se perte a l’orihce
 <lb/>supérieur de ce viscère.</p>
+</entryFree>
 
-<p>"CORON AL, <gram>adj.</gram> et <gram>s. m.</gram> <hi>coronalis</hi>,
+<entryFree>
+<p><orth>CORONAL</orth>, <gram>adj.</gram> et <gram>s. m.</gram> <hi>coronalis</hi>,
 <lb/>qui a rapport à la couronne; se dit
 <lb/>de l’os du front et de la suture qui
 <lb/>réumt cet os aux pariétaux, parce
@@ -14637,7 +14631,7 @@ nale, le beurre ou muriate d'antimoine
 </entryFree>
 
 <entryFree>
-<p><orth>CûRYBANTI ASME</orth>, <gram>s. m.</gram> <hi>corybantiasmus</hi>,
+<p><orth>CORYBANTIASME</orth>, <gram>s. m.</gram> <hi>corybantiasmus</hi>,
 <lb/>en grec Κορυβαντισμὸς, 2, fllreur
 <lb/>extréme, de Κορύβας, cory bantc;
 <lb/>nom que les anciens donnoient à
@@ -14844,7 +14838,7 @@ se dit, en botanique, dcs plantes
 </entryFree>
 
 <entryFree>
-<p><orth>Q *</orth>
+<p><label>C</label>
 
 <pb n="84"/>
 
@@ -14969,7 +14963,7 @@ tout des enfans. <hi>VOyez</hi> DRACUNCULE.
 </entryFree>
 
 <entryFree>
-<p><orth>Cn LSPATION</orth>, S. <hi>f</hi>. <hi>crispatura</hi>,
+<p><orth>CRISPATION</orth>, S. <hi>f</hi>. <hi>crispatura</hi>,
 <lb/>contraction des clioses qui se resserrent
 <lb/>par Paction du fcu ou par
 <lb/>quelqu’autre cause. En médecine,
@@ -15003,7 +14997,7 @@ tout des enfans. <hi>VOyez</hi> DRACUNCULE.
 </entryFree>
 
 <entryFree>
-<p><orth>CROA SSEMENT</orth>, <gram>s. m.</gram> <hi>crocitus</hi>,
+<p><orth>CROASSEMENT</orth>, <gram>s. m.</gram> <hi>crocitus</hi>,
 <lb/>du verbe grec Κροαίνω, je fais du
 <lb/>bruit en chantant ; cri du corbeau.</p>
 </entryFree>
@@ -15133,7 +15127,7 @@ plus fréquente et plus liquide que
 </entryFree>
 
 <entryFree>
-<p><orth>CrEME DE TARTRE</orth>, <gram>s. f.</gram> <hi>cremor
+<p><orth>CREME DE TARTRE</orth>, <gram>s. f.</gram> <hi>cremor
 <lb/>tartari '</hi>, sel neutre qui porte aujourd’hui
 <lb/>lenom de tartrite acidule
 <lb/>cle potasse, parce qu’il résulte d’une
@@ -15321,7 +15315,7 @@ tout des enfans. <hi>VOyez</hi> DRACUNCULE.
 </entryFree>
 
 <entryFree>
-<p><orth>Cn IspATIOn</orth>, s. <hi>f</hi>. <hi>crispatura</hi>,
+<p><orth>CRISPATION</orth>, s. <hi>f</hi>. <hi>crispatura</hi>,
 <lb/>contraclion des clioses qni se rcsserrent
 <lb/>par l’action du fcu ou par
 <lb/>quelqu’autre cause. En mëdecine,
@@ -15330,14 +15324,14 @@ tout des enfans. <hi>VOyez</hi> DRACUNCULE.
 </entryFree>
 
 <entryFree>
-<p><orth>CttITHE</orth>, <gram>s. m.</gram> <hi>hordeum</hi>, chi
+<p><orth>CRITHE</orth>, <gram>s. m.</gram> <hi>hordeum</hi>, chi
 <lb/>grec Κρίθη, «ç, orge ; tuineur de la
 <lb/>grosseurd’ungrain d’orgcqui vient
 <lb/>sur lc bord des paupieres. <hi>Voyez</hi> <ref>ÛRGEOLET</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>CRITIQUR</orth>, <gram>adj.</gram> <hi>criticus</hi>, en grec
+<p><orth>CRITIQUE</orth>, <gram>adj.</gram> <hi>criticus</hi>, en grec
 <lb/>χριτικὸς OU κρίσιμος, de κρίσις, crise ; se
 <lb/>dit en rnédecinc des jours ou il
 <lb/>doit arriver quelque crise. Ils
@@ -15355,7 +15349,7 @@ tout des enfans. <hi>VOyez</hi> DRACUNCULE.
 </entryFree>
 
 <entryFree>
-<p><orth>CRO ASSEMENT</orth>, S. ΠΊ. <hi>crocitus</hi>,
+<p><orth>CROASSEMENT</orth>, S. ΠΊ. <hi>crocitus</hi>,
 <lb/>du verbe grec Κροοίνω, je fais cln
 <lb/>bruit enchantant; cri du corbeau.</p>
 </entryFree>
@@ -15489,7 +15483,7 @@ quatrieme os de la deuxiéme rangée
 </entryFree>
 
 <entryFree>
-<p><orth>CRYPTOG AMIB</orth>,s. f. <hi>cryptogamia</hi>,
+<p><orth>CRYPTOGAMIE</orth>,s. f. <hi>cryptogamia</hi>,
 <lb/>du verbe κρύπτω, jecaclie, et de γάμος,
 <lb/>mariage; vingt-quatrième cbisse du
 <lb/>systeme de LInné,qni comprend les
@@ -15873,7 +15867,7 @@ le mcrcure, le plôinb et Parge-nt,
 </entryFree>
 
 <entryFree>
-<p><orth>CYCLAMEN ou ΡλΙΝ-DE-POURCEAU</orth>
+<p><orth>CYCLAMEN</orth> ou <orth>ΡAΙΝ-DE-POURCEAU</orth>
 <lb/>, <gram>s. m.</gram> ιΐθχυκλος, cercle; plante
 <lb/>de l’ordre des Jy.siinachies, ainsi
 <lb/>appelée parce que ses feuilles et
@@ -15977,7 +15971,7 @@ le mcrcure, le plôinb et Parge-nt,
 </entryFree>
 
 <entryFree>
-<p><orth>CYNAROCÉPFI ALE</orth>, ndj. <hi>CynarOce-</hi>7?
+<p><orth>CYNAROCÉPHALE</orth>, ndj. <hi>CynarOce-</hi>7?
 <lb/>AUlus, de κυνάρος, chardon, et de
 <lb/>κεφαλὴ, tête ; se dit des plantes qui
 <lb/>imitcnt lechardon : BOt.</p>
@@ -16042,7 +16036,7 @@ le mcrcure, le plôinb et Parge-nt,
 </entryFree>
 
 <entryFree>
-<p><orth>CysTHÉP ATIQUE</orth>, <gram>adj.</gram> <hi>cysthepaticus</hi>
+<p><orth>CYSTHÉPATIQUE</orth>, <gram>adj.</gram> <hi>cysthepaticus</hi>
 <lb/>, «Ιθχύσπς, la vésicule du fiel,
 <lb/>et ίΐ’ἧπαρ, gen. ῆπατος, le foie ; se
 <lb/>ditdes condnits qui portent la bile
@@ -16123,7 +16117,7 @@ nes limpides, ténues, épaisses,
 </entryFree>
 
 <entryFree>
-<p><orth>Ι)αΝ8Ε DE SAINT-WEITH</orth>, <gram>s. f.</gram>
+<p><orth>DANSE DE SAINT-WEITH</orth>, <gram>s. f.</gram>
 <lb/><hi>chorea Sancti-IVIti,IVItisaltus</hi>; espèce
 <lb/>de convulsion ù laquelle sont
 <lb/>sujets les enfans de PUn et de l’autre
@@ -16543,7 +16537,7 @@ l’équateur, de l’aiguille aimantée
 </entryFree>
 
 <entryFree>
-<p><orth>DÉCRUSAGE OU DÉCRUSEMENT</orth>,
+<p><orth>DÉCRUSAGE</orth> ou <orth>DÉCRUSEMENT</orth>,
 <lb/>e. m. action de décruser, c’est-àdire
 <lb/>, de plonger la soie dans Pean
 <lb/>bouillaTjte pour lui enlever sa’gomrne
@@ -16724,9 +16718,12 @@ convient <hi>a ioute la chose definie</hi>,
 <lb/><hi>diUIens</hi> ; se dit des remèdes auxquels
 <lb/>ou attnbue la vertu de rcndre
 <lb/>les huineurs plus fluides. L’eau ; est</p>
+<cb/>
+<p>le meillcnr de tous les <hi>delayanss</hi></p>
+</entryFree>
 
-<p>le meillcnr de tous les <hi>delayanss</hi>
-<lb/>DÉLIRE, <gram>s. m.</gram> deliriu/u, du
+<entryFree>
+<p><orth>DÉLIRE</orth>, <gram>s. m.</gram> deliriu/u, du
 <lb/>vcrbe latin <hi>deliro</hi>, je rêve, j’extravaguc
 <lb/>; la racine est <hi>lira</hi>, sillon ;
 <lb/>ninsi <hi>dedire</hi> signifie proprement cet
@@ -17233,7 +17230,7 @@ les maladies par le rnoyen des crise.S
 </entryFree>
 
 <entryFree>
-<p><orth>DÉTONATIONOU FULMINATION</orth>,
+<p><orth>DÉTONATION</orth> ou <orth>FULMINATION</orth>,
 <lb/>s. E <hi>detonatio, fulminatio</hi> ; inflammation
 <lb/>subite avec un bruit rapide
 <lb/>, un éclat bruyant, comnie
@@ -17429,7 +17426,7 @@ lieu entre les escarotiques et les
 </entryFree>
 
 <entryFree>
-<p><orth>DIACRANIENNE ( la mâchoîre)</orth>,
+<p><orth>DIACRANIENNE (la mâchoîre)</orth>,
 <lb/>ndj. f. <hi>maxilla diacraniana</hi>, de
 <lb/>διὰ, auprès, contre, autour, et de
 <lb/>κρανίον, crâne ; nom de la màchoire
@@ -17462,7 +17459,7 @@ lieu entre les escarotiques et les
 </entryFree>
 
 <entryFree>
-<p><orth>DIADELP HIQUE</orth>, <gram>adj.</gram> <hi>diadelphicus</hi>
+<p><orth>DIADELPHIQUE</orth>, <gram>adj.</gram> <hi>diadelphicus</hi>
 <lb/>; se dit des plantes ou des fleurs
 <lb/>dontles étamines sout diadclphes.</p>
 </entryFree>
@@ -17653,7 +17650,7 @@ slmple refraction ; acquérant Pélectricité
 </entryFree>
 
 <entryFree>
-<p><orth>DIAPHÉNIC ou ÜIAPHOENIX</orth>, <gram>s. m.</gram>
+<p><orth>DIAPHÉNIC</orth> ou <orth>DIAPHOENIX</orth>, <gram>s. m.</gram>
 <lb/><hi>diaphœnix</hi>, de διὰ, avec, et de
 <lb/>çroovif, datte, fruit du palmier ; électuaire
 <lb/>dont les dartes sont la base.
@@ -17979,7 +17976,7 @@ sancC; nom de la quatorzièmcclasse
 </entryFree>
 
 <entryFree>
-<p><orth>DIEDRE ou DIHÈDRE</orth>, <gram>adj.</gram> <hi>dihedrus</hi>
+<p><orth>DIEDRE</orth> ou <orth>DIHÈDRE</orth>, <gram>adj.</gram> <hi>dihedrus</hi>
 <lb/>, de δὶς, de.ux fois, et d’^pa,
 <lb/>siége ou base ; qui a dcux bsses ou
 <lb/>deux faces ; terme nouvcûu qui se
@@ -18179,7 +18176,7 @@ sancC; nom de la quatorzièmcclasse
 </entryFree>
 
 <entryFree>
-<p><orth>UILATATOIRE OU DlLATATEUR</orth>,
+<p><orth>DILATATOIRE</orth> ou <orth>DILATATEUR</orth>,
 <lb/>s. m. <hi>dilatatorium., speculum</hi>; instrument
 <lb/>'pour diltfter unc plaie, une
 <lb/>cavité ; il y ei/a pour le nez, la
@@ -18865,7 +18862,7 @@ semble des fleurons d’une fleur
 </entryFree>
 
 <entryFree>
-<p><orth>DRAGEONS 0U ReJETS</orth>, S. IU. pl.
+<p><orth>DRAGEONS</orth> ou <orth>ReJETS</orth>, S. IU. pl.
 <lb/>du latin <hi>stolones</hi>. bjanchcs enracinées
 <lb/>qui sortent du pied ou du trone
 <lb/>d’uil arbre, et ilont on peut les détacher
@@ -18874,7 +18871,7 @@ semble des fleurons d’une fleur
 </entryFree>
 
 <entryFree>
-<p><orth>DRAGME ou DRACHME</orth>, S. fém.
+<p><orth>DRAGME</orth> ou <orth>DRACHME</orth>, S. fém.
 <lb/><hi>drachma</hi>, gén. <hi>atis</hi>, du grec δραχμή,
 <lb/>poignée, ou pièce de ιηοηηοΐε ;
 <lb/>c’est la huitieme partie d’une once.
@@ -18882,7 +18879,7 @@ semble des fleurons d’une fleur
 </entryFree>
 
 <entryFree>
-<p><orth>ÔRAGONNEAUN</orth>, <gram>s. m.</gram> pl. <hi>dracunculi</hi>
+<p><orth>DRAGONNEAUN</orth>, <gram>s. m.</gram> pl. <hi>dracunculi</hi>
 <lb/>, genre d'animaux <hi>zoophytes</hi>,
 <lb/>de la famille des intestiuaux cylindriques,
 <lb/>qui ressemblentâ nn crin,
@@ -18957,7 +18954,7 @@ semble des fleurons d’une fleur
 </entryFree>
 
 <entryFree>
-<p><orth>DRUPE OU DROUPE:</orth>, S. 111. <hi>drupa</hi>,
+<p><orth>DRUPE</orth> ou <orth>DROUPE:</orth>, S. 111. <hi>drupa</hi>,
 <lb/>de δρυπἡιπὴς, olive ; fruit charnu renfermant
 <lb/>uue seule noix: telles sont
 <lb/>unc. cerise, une pêche, une olive.</p>
@@ -19147,7 +19144,7 @@ semble des fleurons d’une fleur
 </entryFree>
 
 <entryFree>
-<p><orth>DYSTOCIE 0U DîsTOKIE</orth>, <gram>s. f.</gram>
+<p><orth>DYSTOCIE</orth> ou <orth>DîsTOKIE</orth>, <gram>s. f.</gram>
 <lb/><hi>dystocia</hi>. de Jùç, difficilement, et
 <lb/>de τίκτω, je mets au monde ; diffîcnlté
 <lb/>d’accoucher; accouchement
@@ -19203,7 +19200,7 @@ drogène et de quatre-vingt-cinq
 </entryFree>
 
 <entryFree>
-<p><orth>FAUN MÉDICINALES</orth>, <gram>s. f.</gram> pl. <hi>aquœ
+<p><orth>EAUX MÉDICINALES</orth>, <gram>s. f.</gram> pl. <hi>aquœ
 <lb/>medicœ</hi>; eaux ainsi appelées parce
 <lb/>qd'elles sont employées comme
 <lb/>médicament dans certaines maladies
@@ -19312,7 +19309,7 @@ sulfate de magnésie ; les <hi>eaux salines
 </entryFree>
 
 <entryFree>
-<p><orth>LBULLITION</orth>, S, E <hi>ebulliÜO</hi>, dll
+<p><orth>ÉBULLITION</orth>, S, E <hi>ebulliÜO</hi>, dll
 <lb/>verbc latin <hi>ebullire</hi>, bouillir ; mouveincnt
 <lb/>d’tin liquide que la clialeur
 <lb/>ou la fermentation fait élever en
@@ -19333,7 +19330,7 @@ sulfate de magnésie ; les <hi>eaux salines
 </entryFree>
 
 <entryFree>
-<p><orth>ECAILLEUN EUSE</orth>, ftdj. <hi>squamosus</hi>,
+<p><orth>ECAILLEUX</orth>,  EUSE, <gram>adj.</gram> <hi>squamosus</hi>,
 <lb/>qui st..eve par écailles ; sedit,
 <lb/>cn anatomie, de l’os temporal
 <lb/>et de la suture du crâne qui joint.
@@ -19346,7 +19343,7 @@ sulfate de magnésie ; les <hi>eaux salines
 </entryFree>
 
 <entryFree>
-<p><orth>FCBOLIQUES</orth>, <gram>s. m.</gram> pl. <hi>ecbolica</hi>,
+<p><orth>ECBOLIQUES</orth>, <gram>s. m.</gram> pl. <hi>ecbolica</hi>,
 <lb/>du verbe grec εκβάλλω, fexpulse ; se
 <lb/>dit des rernèdes qui hâtent l’accouchement
 <lb/>ou produisent l’avortement.
@@ -19810,8 +19807,8 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>EfIORT DES REINS 011 PEINS</orth>
-<lb/>ENTRE-OUVERTS, <hi>lumborum contusio</hi>
+<p><orth>EFFORT DES REINS</orth> ou <orth>REINS ENTRE-OUVERTS</orth>,
+<lb/><hi>lumborum contusio</hi>
 <lb/>, douleurs qui succèdcnt aux
 <lb/>efforts pour porter ou soulever des
 <lb/>fardeaux considérables, a Pexercice
@@ -19874,8 +19871,10 @@ tarrhe avecun acide.-Chim. — raréfaction
 <entryFree>
 <p><orth>ETACULATOIRE</orth>, <gram>adj.</gram> qui darde,
 <lb/>ui lance. <hi>VOyez</hi> ÈjACULATEUR.</p>
+</entryFree>
 
-<p>q FJECTION, <gram>s. f.</gram> <hi>ejectio</hi>. <hi>Voyez</hi> <ref>DÉJECTION</ref>.</p>
+<entryFree>
+<p><orth>EJECTION</orth>, <gram>s. f.</gram> <hi>ejectio</hi>. <hi>Voyez</hi> <ref>DÉJECTION</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -19991,7 +19990,7 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>ELÉMENT ou PRINCIPE</orth>, S. nl.
+<p><orth>ELÉMENT</orth> ou <orth>PRINCIPE</orth>, S. nl.
 <lb/><hi>elementum, principium</hi> ; corps simple
 <lb/>qui entre dans la composition
 <lb/>des autres; les anciens n’admettoient
@@ -20015,7 +20014,7 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>ELÉO-SACCHARUM 011 OLEO-SACCHARUM</orth>,
+<p><orth>ELÉO-SACCHARUM</orth> ou <orth>OLEO-SACCHARUM</orth>,
 <lb/>s. m. dn grecïAOiov, huile,
 <lb/>et de σάκχαρ, sucre; mélange d’une
 <lb/>huile essentielle et de sucre.</p>
@@ -20127,7 +20126,7 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>LLODE 0U plutôt HÉLODE</orth>, <gram>adj.</gram>
+<p><orth>ÉLODE</orth> ou <orth>HÉLODE</orth>, <gram>adj.</gram>
 <lb/><hi>helodes</hi>, du grecÏAOç, inarais; hurnide
 <lb/>coinrne les rnarais; se ditde
 <lb/>certaines fièvres acconipagnées,
@@ -20139,7 +20138,7 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>LLONGATION</orth>, S. <hi>ï.eelongatio</hi>, dll
+<p><orth>ÉLONGATION</orth>, S. <hi>ï.eelongatio</hi>, dll
 <lb/>verbe latin <hi>elongare</hi>, allonger,
 <lb/>étendre; luxation imparfaite dans
 <lb/>laquelle ies ligamens d’une articulation
@@ -20160,7 +20159,7 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>ElYTRE ou ËLITRE</orth>, S. 111. <hi>elytrum</hi>,
+<p><orth>ELYTRE</orth> ou <orth>ELITRE</orth>, S. 111. <hi>elytrum</hi>,
 <lb/>du grec ἔλυτρον, gaîne, enveloppe
 <lb/>; étui' dur et coriace qui
 <lb/>recouvre les ailes des insectes coléoptères.
@@ -20168,13 +20167,13 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>ÉLYTROCÉLE</orth>, <gram>s. f.</gram> <hi>elytrocele</hi>,
+<p><orth>ÉLYTROCÈLE</orth>, <gram>s. f.</gram> <hi>elytrocele</hi>,
 <lb/>dἔλυτρον, gaîne, étui, et de κήλη,
 <lb/>hernie ; hernie du vagin.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>LLYTROÏDE</orth>, <gram>adj.</gram> <hi>elytrdïdes</hi>, du
+<p><orth>ÉLYTROÏDE</orth>, <gram>adj.</gram> <hi>elytrdïdes</hi>, du
 <lb/>grec ἔλυτρον, enveloppe, gaîne, et
 <lb/>εΐ’εἶδος, forme, ressemblance ; nom
 <lb/>qu’on donne â la tunique vagïnale
@@ -20183,7 +20182,7 @@ tarrhe avecun acide.-Chim. — raréfaction
 </entryFree>
 
 <entryFree>
-<p><orth>Εμανατιον</orth>, s. E <hi>emanatio</hi>,
+<p><orth>ΕMANATION</orth>, s. E <hi>emanatio</hi>,
 <lb/>l’action d'ëmanerou de tirer son
 <lb/>origine; se dit de la lumière qui
 <lb/>vient du soleil, des odeurs qui
@@ -20324,7 +20323,7 @@ quî sert a rompre les Gs du fœtns,
 </entryFree>
 
 <entryFree>
-<p><orth>EMÉTIQUE 011 VOMITIF</orth>, S. lïl. et
+<p><orth>EMÉTIQUE</orth> ou <orth>VOMITIF</orth>, S. lïl. et
 <lb/>ûdj. <hi>emeticus</hi>, du verbe grec εμέω,
 <lb/>je vomîs ; médicament qtii provoqtie
 <lb/>le vomissement ; tels sont le
@@ -20466,7 +20465,7 @@ de crépitationcomme le parchemin
 </entryFree>
 
 <entryFree>
-<p><orth>SI m et</orth> <gram>adj.</gram><hi>ernpiricus</hi>
+<p><orth>EMPIRIQUE</orth>, <gram>s. m.</gram>, <gram>adj.</gram> <hi>ernpiricus</hi>
 <lb/>, dll gl'ec ἐμπειρια, ς.Λ(,ψιὶς.ιιυΓ.
 <lb/>Dans sâ véritable acception, ce
 <lb/>mot signifîe un médecin qui ne
@@ -20476,7 +20475,7 @@ de crépitationcomme le parchemin
 </entryFree>
 
 <entryFree>
-<p><orth>FMPIRISME</orth>, <gram>s. m.</gram> dugrec ἐμπείρια,
+<p><orth>EMPIRISME</orth>, <gram>s. m.</gram> dugrec ἐμπείρια,
 <lb/>expérience; medecine fondée sur
 <lb/>l’eNpérience ; —charlatanisme.</p>
 </entryFree>
@@ -20667,7 +20666,7 @@ ttJe κήλη, hcrnie ; hcrnie du cerveau.
 </entryFree>
 
 <entryFree>
-<p><orth>ENCHIRIDION 0U ENKIRIDION</orth>,
+<p><orth>ENCHIRIDION</orth> ou <orth>ENKIRIDION</orth>,
 <lb/>«. m. <hi>erichiridium</hi>, du grcc ἐγχειρίδιον,
 <lb/>foriné d’tv, dans, et de χεὶρ, main ;
 <lb/>manuel ou petit livre purtatiicontenant
@@ -20763,15 +20762,17 @@ ttJe κήλη, hcrnie ; hcrnie du cerveau.
 <p><orth>ENERGIE</orth>, <gram>s. f.</gram> <hi>energia</hi>, du grec
 <lb/>ἔργον, ouvrage, travail ; force, verlu
 <lb/>eificiente : <hi>énergie</hi> musculaire.</p>
+</entryFree>
 
-<p>1 ENERVATION, <gram>s. f.</gram> <hi>enervatio</hi>, dll
+<entryFree>
+<p><orth>ENERVATION</orth>, <gram>s. f.</gram> <hi>enervatio</hi>, dll
 <lb/>verbe <hi>enervare</hi>, affoiblir, efléminer
 <lb/>, amollir ; débilitation, foiblesse,
 <lb/>découragement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>FNFANTEMENT</orth>, S. JH. <hi>partus,
+<p><orth>ENFANTEMENT</orth>, S. JH. <hi>partus,
 <lb/>puerperium</hi>, l’action de mettre au
 <lb/>monde un enfant. <hi>VOyez</hi> ÀCCOUCHEMENT.
 <lb/></p>
@@ -20932,13 +20933,13 @@ femmes ; tres-rarc chez les gens robustes
 </entryFree>
 
 <entryFree>
-<p><orth>FNODÉ ou EjvoUÉ</orth>, ÉE, <gram>adj.</gram> <hi>enodis</hi>,
+<p><orth>ENODÉ</orth> ou <orth>ENOUÉ</orth>, ÉE, <gram>adj.</gram> <hi>enodis</hi>,
 <lb/>d’è,hors, et de <hi>nodus</hi>, uœud ;
 <lb/>qui u’a peint dé nœuds : Bctan.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>LNORCHITH</orth>, <gram>s. f.</gram> <hi>enorchites</hi>, de
+<p><orth>ENORCHITHE</orth>, <gram>s. f.</gram> <hi>enorchites</hi>, de
 <lb/>la préposition ἐν, dans, et. (Ι’ἴρχις,
 <lb/>testicule ; pierre figurée, de forme
 <lb/>ronde, qui eu renfcrme une autie
@@ -21369,7 +21370,7 @@ brane mnqueuse qui tapisse le car.al
 </entryFree>
 
 <entryFree>
-<p><orth>LPICÉR ASTIQUE</orth>, S. ΠΊ. CÎ 3dj.
+<p><orth>EPICÉRASTIQUE</orth>, S. ΠΊ. CÎ 3dj.
 <lb/><hi>epicerasticus</hi>, du verbe ἐπικεράπυμι,
 <lb/>je tempere ; se dit d’un rcmède
 <lb/>qu'cn croit propre a tempérerl’acrinlonic
@@ -21475,7 +21476,7 @@ brane mnqueuse qui tapisse le car.al
 </entryFree>
 
 <entryFree>
-<p><orth>LPIGASTRE</orth>, <gram>s. m.</gram> <hi>epigastrium</hi>,
+<p><orth>EPIGASTRE</orth>, <gram>s. m.</gram> <hi>epigastrium</hi>,
 <lb/>du grec ιέπὶ, sur, et de γαστὴρ, ventrefpartie
 <lb/>moyenne de la région
 <lb/>épigastriqtïe, comprise enlre les
@@ -21484,7 +21485,7 @@ brane mnqueuse qui tapisse le car.al
 </entryFree>
 
 <entryFree>
-<p><orth>EPIGASTRIQ UE</orth>, a(l j. <hi>epigastd^us</hi>,
+<p><orth>EPIGASTRIQUE</orth>, a(l j. <hi>epigastd^us</hi>,
 <lb/>εί’ἐπὶ, sur, et de γαστὴρ, ventre ; sc
 <lb/>dit dc la région snpérieure de l’abdomen
 <lb/>ou bas-ventre qui s’étend
@@ -21498,7 +21499,7 @@ brane mnqueuse qui tapisse le car.al
 </entryFree>
 
 <entryFree>
-<p><orth>LPIGÉNÉSIE</orth>, <gram>s. f.</gram> <hi>epigenesis</hi>, de
+<p><orth>EPIGÉNÉSIE</orth>, <gram>s. f.</gram> <hi>epigenesis</hi>, de
 <lb/>la préposition ἐπὶ, sur, et de γείνομαι,
 <lb/>jc suis engendré ; doctrine seJOn
 <lb/>laquelle les corps organisés
@@ -21541,7 +21542,7 @@ dens qui succèdent àd’autres datis
 </entryFree>
 
 <entryFree>
-<p><orth>EPIGYNIQUE oil FPIGYNE</orth>, <gram>adj.</gram>
+<p><orth>EPIGYNIQUE</orth> ou <orth>FPIGYNE</orth>, <gram>adj.</gram>
 <lb/><hi>epigynus</hi>, de la préposition ἐπὶ,
 <lb/>sur, et de γυνὴ, femtne, épouse ;
 <lb/>se dit de la corolle et des étamines
@@ -21685,7 +21686,7 @@ dens qui succèdent àd’autres datis
 </entryFree>
 
 <entryFree>
-<p><orth>FPIPHORE oii LPIPHORA</orth>, S. ΠI.
+<p><orth>FPIPHORE</orth> ou <orth>LPIPHORA</orth>, S. ΠI.
 <lb/><hi>epiphora</hi>, larrnoiement, εΐ’ἐπιφέρω,
 <lb/>j’apporte ; écoulement conlinuel
 <lb/>de larmes ; espèce de nialadie
@@ -21734,7 +21735,7 @@ dens qui succèdent àd’autres datis
 </entryFree>
 
 <entryFree>
-<p><orth>EPIPLOMPHALE ΟI1 FPIPLOOMPIIALE</orth>,
+<p><orth>EPIPLOMPHALE</orth> ou <orth>FPIPLOOMPIIALE</orth>,
 <lb/>s. f. <hi>epiplomphalus</hi>, du
 <lb/>grec ἐπίπλοον, Fépiploon, et ιΐ’όμφαλὸς,
 <lb/>le nornbril ; hernie de l’ombilic
@@ -21827,7 +21828,7 @@ scuscs, esscntiellcment formée
 </entryFree>
 
 <entryFree>
-<p><orth>EPISTANIS ou EPISTAXÈS</orth>, <gram>s. f.</gram> mot
+<p><orth>EPISTANIS</orth> ou <orth>EPISTAXÈS</orth>, <gram>s. f.</gram> mot
 <lb/>grec composé de la préposition ἐπὶ,
 <lb/>sur, dessus, et de ςτα^ω, je coule
 
@@ -21846,7 +21847,7 @@ gomte à goutte ; écoulement de
 </entryFree>
 
 <entryFree>
-<p><orth>LPITHÈME</orth>, S. L <hi>epithema</hi>, d't-πὶ,
+<p><orth>ÉPITHÈME</orth>, S. L <hi>epithema</hi>, d't-πὶ,
 <lb/>sur, dessus, et dt τίθημι, je mcis,
 <lb/>je posc ; topique, remèdeqd'on ap-plique
 <lb/>sur line partie ; tcls sont ies
@@ -21855,7 +21856,7 @@ gomte à goutte ; écoulement de
 </entryFree>
 
 <entryFree>
-<p><orth>LPITROCHLÉE OU EPITROKLÉE</orth>,
+<p><orth>LPITROCHLÉE</orth> ou <orth>EPITROKLÉE</orth>,
 <lb/>s. f. <hi>epitrochlea</hi>, d’Ini', sur, et de
 <lb/>τριχιλια, trochlée ; apophy&amp;e de l’extrémité
 <lb/>cubitale de J’huniérus,ainsi
@@ -22160,7 +22161,7 @@ feu pres le 21 de mars et le septembre
 </entryFree>
 
 <entryFree>
-<p><orth>LRRHIN OU ERRHINE</orth>, <gram>adj.</gram> <hi>errhinus</hi>,
+<p><orth>ERRHIN</orth> ou <orth>ERRHINE</orth>, <gram>adj.</gram> <hi>errhinus</hi>,
 <lb/>du grec?v, dans, et de ῥὶν,
 <lb/>gén. ῥίνος, nez ou narine ; seditdcs
 <lb/>remèdes qd'on introduit dans le
@@ -22379,7 +22380,7 @@ tâllisation, des lmiles aromatiqucs
 </entryFree>
 
 <entryFree>
-<p><orth>ESTIIIOMÈNE 011 ESTIOMENE</orth>. <gram>adj.</gram>
+<p><orth>ESTIIIOMÈNE</orth> ou <orth>ESTIOMENE</orth>. <gram>adj.</gram>
 <lb/><hi>esthioinenus, depascens, exedens ;</hi>
 <lb/>du verbe grec ἔσθιόμαι, je suis mangé
 <lb/>, rongé ; se dit de certains nlceres
@@ -22548,7 +22549,7 @@ bone ; cntièrement soluble dan.s
 </entryFree>
 
 <entryFree>
-<p><orth>ETHMOÏDE ou CrIBLEUX</orth>, <gram>s. m.</gram>
+<p><orth>ETHMOÏDE</orth> ou <orth>CrIBLEUX</orth>, <gram>s. m.</gram>
 <lb/>et <gram>adj.</gram> <hi>ethrnoïdes</hi>, ό’ὴθμὸς, crible,
 <lb/>couloir, et (Ι’εἶδος, forme, fîgure,
 <lb/>ressemblance ; qui ressemble a un
@@ -22583,14 +22584,14 @@ bone ; cntièrement soluble dan.s
 </entryFree>
 
 <entryFree>
-<p><orth>FTIQUE ou HeCTIQUE</orth>, <gram>adj.</gram> <hi>hecticus</hi>
+<p><orth>FTIQUE</orth> ou <orth>HeCTIQUE</orth>, <gram>adj.</gram> <hi>hecticus</hi>
 <lb/>, ἐκτικὸς, du νβιΒεἔχω, j’ai; qui
 <lb/>est dans Phabitudedu corps ; maigre
 <lb/>, décharné, attaqué <hi>d'étisie</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>FTISIE on HeCTISIE</orth>, <gram>s. f.</gram> <hi>hecti-</hi>
+<p><orth>FTISIE</orth> ou <orth>HeCTISIE</orth>, <gram>s. f.</gram> <hi>hecti-</hi>
 <lb/>sis, <hi>tabes</hi>, έκτικὴ, du verbe ἔχω,
 <lb/>j’ai ; maladie qui dessèche toute
 <lb/>rhabitude du corps. <hi>VOyez</hi> ΗεοTISIE.
@@ -22744,7 +22745,7 @@ bien, et de πέπτω, je cuis, je digère;
 </entryFree>
 
 <entryFree>
-<p><orth>EVACUANSOU EVACUATIFS</orth>, <gram>s. m.</gram>
+<p><orth>EVACUANS</orth> ou <orth>EVACUATIFS</orth>, <gram>s. m.</gram>
 <lb/>pl. et <gram>adj.</gram> <hi>evacuanüa</hi>, se dit des
 <lb/>remèdesqui produisentdes évacuatious
 <lb/>par haut, parbasou partoute
@@ -22818,7 +22819,7 @@ bien, et de πέπτω, je cuis, je digère;
 </entryFree>
 
 <entryFree>
-<p><orth>ENAÉDRE ou HexAÈDRE</orth>, <gram>s. m.</gram>
+<p><orth>ENAÉDRE</orth> ou <orth>HexAÈDRE</orth>, <gram>s. m.</gram>
 <lb/>dugrec ἐξ, six, et d’^pa, siége,
 <lb/>base ; solidc géométrique terminé
 <lb/>par six faces, dont chactine est un
@@ -22952,7 +22953,7 @@ vérole, rougeole, scarlatine, dartres
 </entryFree>
 
 <entryFree>
-<p><orth>ExCRÉTEUR ou ENCRÉTOIRE</orth>, <gram>adj.</gram>
+<p><orth>ExCRÉTEUR</orth> ou <orth>ENCRÉTOIRE</orth>, <gram>adj.</gram>
 <lb/><hi>exxretorius</hi>, du verbe <hi>excernere</hi>,
 <lb/>chasser, purger 5 se clitde tout vaisseau,
 <lb/>conduit, tube qui donne
@@ -23354,7 +23355,7 @@ longement d’une partie principale ;
 </entryFree>
 
 <entryFree>
-<p><orth>ENTRAVASATION ΟΠ ENTRAVASION</orth>,
+<p><orth>ENTRAVASATION</orth> ou <orth>ENTRAVASION</orth>,
 <lb/>s. f. <hi>extravasatio</hi>, du latin
 <lb/><hi>extrà</hi>, hors, et clc <hi>vas</hi>, vaisseau ;
 <lb/>action par laquelle lesang, les humeurs
@@ -23412,7 +23413,7 @@ seaux, cornme dans les contusions,
 </entryFree>
 
 <entryFree>
-<p><orth>FNUDEROU ENSUDER</orth>, V. II. et a.
+<p><orth>FNUDER</orth> ou <orth>ENSUDER</orth>, V. II. et a.
 <lb/><hi>exudare, exsudare</hi>, sortir en
 <lb/>forme desucur; rendre une liqueur
 <lb/>goutte à goutte coinme en suanf.</p>
@@ -23489,7 +23490,7 @@ seaux, cornme dans les contusions,
 </entryFree>
 
 <entryFree>
-<p><orth>FAGOUE ou FAGONE</orth>, S. L <hi>glandula</hi>,
+<p><orth>FAGOUE</orth> ou <orth>FAGONE</orth>, S. L <hi>glandula</hi>,
 <lb/>glandule qui est au haut de
 <lb/>la poitrine des animauN ; qu’on
 <lb/>uomme risde veau dans les veaux,
@@ -23639,7 +23640,7 @@ divisé les végétaux en plusieurs
 </entryFree>
 
 <entryFree>
-<p><orth>EAsCIÉ jÉE</orth>, <gram>adj.</gram> <hi>fasciatus</hi>, marqué
+<p><orth>EAsCIÉ</orth>, ÉE <gram>adj.</gram> <hi>fasciatus</hi>, marqué
 <lb/>de bandes ou bandelettes <hi>z</hi>
 <lb/>esquille fasciée.</p>
 </entryFree>
@@ -23681,7 +23682,7 @@ divisé les végétaux en plusieurs
 </entryFree>
 
 <entryFree>
-<p><orth>FÉBR ICITANT</orth>, ANTE, <hi>ad\.febricitans,
+<p><orth>FÉBRICITANT</orth>, ANTE, <hi>ad\.febricitans,
 <lb/>febriens</hi>, du verbe <hi>febricitare</hi>
 <lb/>ou <hi>fcbrire</hi>, avoir la lièvre ; qui
 <lb/>a la fièvre ; se dit particulièrement
@@ -23767,7 +23768,7 @@ des principes ou matériaux immédiatsdes
 </entryFree>
 
 <entryFree>
-<p><orth>FELD-SPATH ΟΙΙ SPATH ÉTINCEIANT</orth>
+<p><orth>FELD-SPATH</orth> ou <orth>SPATH ÉTINCELANT</orth>
 <lb/>, <gram>s. m.</gram> espèce de granit,
 <lb/>pétunsé des Chinois, ayant la propriété
 <lb/>de servir de fondant a la
@@ -24110,7 +24111,7 @@ bus de tou,t ce qni constituela matière
 </entryFree>
 
 <entryFree>
-<p><orth>FILET OU FREIN</orth>, S. <hi>rla. frenum,
+<p><orth>FILET</orth> ou <orth>FREIN</orth>, S. <hi>rla. frenum,
 <lb/>frœnilm, filellunl, filetum, filamentum</hi>
 <lb/>, petit fil, fil délié ; ligainent
 <lb/>élastique etmembraneuxsous
@@ -24242,15 +24243,16 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>EIX ΑτιθΝ</orth>, s. <hi>ï.fixmtio</hi>, opération
+<p><orth>FIXΑτιθΝ</orth>, s. <hi>ï.fixmtio</hi>, opération
 <lb/>dc chimie par laquelle on fixe un
 <lb/>corps volatil.
 </p>
-<pb n="138"/>
 </entryFree>
 
+<pb n="138"/>
+
 <entryFree>
-<p><orth>FINE</orth>, <gram>adj.</gram> <hi>fixus</hi> ; se clit en chimie
+<p><orth>FIXE</orth>, <gram>adj.</gram> <hi>fixus</hi> ; se clit en chimie
 <lb/>des corps qni ne sont point volatilisés
 <lb/>par le feu ; — en astronomie,
 <lb/>des étoiles, parce qu’elles paroisscnt
@@ -24305,7 +24307,7 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>FLATULENCE ΟI1 PLATUOSITÉ</orth>, <gram>s. f.</gram>
+<p><orth>FLATULENCE</orth> ou <orth>PLATUOSITÉ</orth>, <gram>s. f.</gram>
 <lb/><hi>fiatus</hi>, vents dans le corps qui causent
 <lb/>des borborygmes dans PIntestin
 <lb/>, et qidon rend par haut ou par
@@ -24327,7 +24329,7 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>FLEGMAGOGUE 011 PHLEGMAGOGUE</orth>,
+<p><orth>FLEGMAGOGUE</orth> ou <orth>PHLEGMAGOGUE</orth>,
 <lb/>adj. <hi>phleginagogus }</hi> de φλέγμα,
 <lb/>flegme, pituite, etd’ay», je chasse;
 <lb/>nom qne les médecins humoristes
@@ -24336,7 +24338,7 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>FLEGMASIE 0U PHLEGMASIE</orth>, <gram>s. f.</gram>
+<p><orth>FLEGMASIE</orth> ou <orth>PHLEGMASIE</orth>, <gram>s. f.</gram>
 <lb/><hi>phlegmasia</hi>, en grec φλεγμασία, dtl
 <lb/>verbe φλεγμαινω, je suis euflé,oude
 <lb/>φλέγω, je brûle, j’enflamme ; classe
@@ -24358,7 +24360,7 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>PLEGME 011 PHLEGME</orth>, S. masC.
+<p><orth>PLEGME</orth> ou <orth>PHLEGME</orth>, S. masC.
 <lb/><hi>phlegma</hi>, (lu grec φλεγμα, pituite,
 <lb/>pris par antiphrase du verbe φλέγω,
 <lb/>je brùle, comme qui cîiroit <hi>humeur
@@ -24371,7 +24373,7 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>FlBGMOs 011 PHLEGMON</orth>, <gram>s. m.</gram>
+<p><orth>FlBGMOs</orth> ou <orth>PHLEGMON</orth>, <gram>s. m.</gram>
 <lb/><hi>phlegmone</hi>, en grec φλεγμωὴ, inflarnmation
 <lb/>, du verbe φλέγω, je
 <lb/>brûle, j’enflamme ; flegrnasie ou
@@ -24383,7 +24385,7 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>FLEGMONEUN 0Π PHLEGMONEUN</orth>,
+<p><orth>FLEGMONEUN</orth> ou <orth>PHLEGMONEUN</orth>,
 <lb/>adj. φλεγμινώδες, ile φλεγμονὴ, flegmon,
 <lb/>qui est de la nature du flegmon.</p>
 </entryFree>
@@ -24423,12 +24425,8 @@ quelle les différentes humeurs du
 
 <entryFree>
 <p><orth>FLEURS</orth>, s. E pl. <hi>fiores</hi>; ncm que
-</p>
 <pb n="139"/>
-</entryFree>
-
-<entryFree>
-<p><orth>Irs ancienschimistesdonnoient aux</orth>
+Irs ancienschimistesdonnoient aux
 <lb/>parties les plns subtiles des corps,
 <lb/>qui se subliment par Paction dn feu
 <lb/>et s’attachent au hautde l’alambic,
@@ -24452,7 +24450,7 @@ quelle les différentes humeurs du
 </entryFree>
 
 <entryFree>
-<p><orth>FLEURS BLANCHES ΟΙI LEUCORRHÉE</orth>
+<p><orth>FLEURS BLANCHES</orth> ou <orth>LEUCORRHÉE</orth>
 <lb/>, S. L <hi>pl.fiuor nlbus, leucorrhœa</hi>
 <lb/>, en grec λεύκοοροια, de λευκος,
 <lb/>blanc, et de ῤέω, je cotile ; genre
@@ -25706,7 +25704,7 @@ défautde sommeilet d’appétit, une
 </entryFree>
 
 <entryFree>
-<p><orth>FURONCLE FRONCLE OU CLOU</orth>,
+<p><orth>FURONCLE</orth>, <orth>FRONCLE</orth> ou <orth>CLOU</orth>,
 <lb/>s. iii. <hi>furunculus</hi> ; espèce de flegmon
 <lb/>rouge, dur, douloureux, qui
 <lb/>s’élève en pointe, de la gros.se 11 r
@@ -26022,7 +26020,7 @@ le déterminent vers les mamelles.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>C-ALLTN OII ACIDE GÀLLIQUE'</orth>,
+<p><orth>GALLIN</orth> ou <orth>ACIDE GÀLLIQUE</orth>,
 <lb/>s. m. <hi>acidumgallicum</hi>, acide qd'on
 <lb/>extrait des noix de galle, où il
 <lb/>existe presque toujours avec le
@@ -26032,14 +26030,14 @@ le déterminent vers les mamelles.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>OALVANIQUE</orth>, <gram>adj.</gram> qui a rapport
+<p><orth>GALVANIQUE</orth>, <gram>adj.</gram> qui a rapport
 <lb/>au galvanisrne : fluide <hi>galvajiique</hi>
 <lb/>, expériences <hi>galvg/uques</hi>,
 <lb/>société <hi>galvaiùqiae</hi>, etc.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>G-ALVANISME</orth>, 8. Hï. Ιθί OU prQpriété
+<p><orth>GALVANISME</orth>, 8. Hï. Ιθί OU prQpriété
 <lb/>particulière des animaux,
 <lb/>itécouverto en I792, par <hi>Galvani</hi>,
 <lb/>savant italien, qui, pour apprécier
@@ -26193,7 +26191,7 @@ le déterminent vers les mamelles.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>GASTRITE ou OASTRITIs</orth>, <gram>s. f.</gram>
+<p><orth>GASTRITE</orth> ou <orth>OASTRITIs</orth>, <gram>s. f.</gram>
 <lb/><hi>gastritis</hi>, de γαστὴρ, estoniac ; inflanimation
 <lb/>de l’estomac caûsée par
 <lb/>nn irritant quelconque qui agit sur
@@ -26258,11 +26256,9 @@ le déterminent vers les mamelles.</p>
 
 <entryFree>
 <p><orth>GASTROTOMIE</orth>, <gram>s. f.</gram> <hi>gastrotonliα</hi>,
-<lb/>de γαστὴρ, le vcutrc, et de τομὴ, inci-</p>
-</entryFree>
-
-<entryFree>
-<p><orth>I sion</orth>, dérivé de τέμνω, je coupe ;
+<lb/>de γαστὴρ, le vcutrc, et de τομὴ, incision,
+<cb/>
+dérivé de τέμνω, je coupe ;
 <lb/>' ouverture qu’on fait. au bas ventre
 <lb/>pour en extraire qut lqne corps
 <lb/>étranger, ou pour y faire rentrer
@@ -26273,7 +26269,7 @@ le déterminent vers les mamelles.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Θαζ</orth>., <gram>s. m.</gram> tout fluide aériforme,
+<p><orth>GAZ</orth>., <gram>s. m.</gram> tout fluide aériforme,
 <lb/>soit permanent, soit amené à cet
 <lb/>état par relévation de température;
 <lb/>uissolution ousaturation d’un corps
@@ -26405,7 +26401,7 @@ gneuses ; l’époque où leurs bourgeons
 </entryFree>
 
 <entryFree>
-<p><orth>GéNÉsIe ou GUNÈSE</orth>, <gram>s. f.</gram> <hi>genesis</hi>,
+<p><orth>GéNÉsIe</orth> ou <orth>GUNÈSE</orth>, <gram>s. f.</gram> <hi>genesis</hi>,
 <lb/>cn grec γένεσις, du verbe γείνομαι,
 <lb/>je nais ; géueration, production.</p>
 </entryFree>
@@ -26598,7 +26594,7 @@ machine astronomique qui sert a
 </entryFree>
 
 <entryFree>
-<p><orth>UER çURE</orth>, <gram>s. f.</gram> <hi>fissura</hi>, duverbe
+<p><orth>GERçURE</orth>, <gram>s. f.</gram> <hi>fissura</hi>, duverbe
 <lb/><hi>findere</hi>, fendrc ; fente ou crevasse
 <lb/>qui arrive quelquefois aux lèvres',
 <lb/>à l’anus, aux parties génitales, etc.</p>
@@ -26810,7 +26806,7 @@ blancâl’ceuf avantd’ètie cuit; mucosité
 </entryFree>
 
 <entryFree>
-<p><orth>GLÉNOÏDE otl GLÉNOÏDAL</orth>, <gram>adj.</gram>
+<p><orth>GLÉNOÏDE</orth> ou <orth>GLÉNOÏDAL</orth>, <gram>adj.</gram>
 <lb/><hi>gletwïdes</hi>, de γλήνη, prunelle, et
 <lb/>d’efefoç, forine, ressemblance; se
 <lb/>dit de toute cavité superficielle
@@ -26872,7 +26868,7 @@ blancâl’ceuf avantd’ètie cuit; mucosité
 </entryFree>
 
 <entryFree>
-<p><orth>GLOSSOGRAPHI E</orth>, S. f’. <hi>glossographia</hi>,
+<p><orth>GLOSSOGRAPHIE</orth>, S. f’. <hi>glossographia</hi>,
 <lb/>de γλἀσσα la languc^ et de
 
 
@@ -27041,7 +27037,7 @@ blancâl’ceuf avantd’ètie cuit; mucosité
 </entryFree>
 
 <entryFree>
-<p><orth>GOiTRE ou GOUÉTRE</orth>, <gram>s. m.</gram> mot
+<p><orth>GOiTRE</orth> ou <orth>GOUÉTRE</orth>, <gram>s. m.</gram> mot
 <lb/>formé par corruption du latinguf-
 <lb/><hi>tur</hi>, la gorge ; tumeur formée entre
 <lb/>la peau ct la trachec-artère,
@@ -27097,7 +27093,7 @@ l’eau, trè.s-abondante dans la nature
 </entryFree>
 
 <entryFree>
-<p><orth>GOMMEs ou TUMEURS GOMMEUses</orth>,
+<p><orth>GOMMEs</orth> ou <orth>TUMEURS GOMMEUses</orth>,
 <lb/>s. f. pl. <hi>gummata</hi> ; tumeurs
 <lb/>vénériennes qui ont la consistance
 <lb/>de la gomrne, et qui sont, à Pégard
@@ -27203,7 +27199,7 @@ bercire rond qui se fonne snr le
 </entryFree>
 
 <entryFree>
-<p><orth>GOUÉTRE ou GOiTRE</orth>, s. masc.
+<p><orth>GOUÉTRE</orth> ou <orth>GOiTRE</orth>, s. masc.
 <lb/><hi>VOyez</hi> BRONCHOCÈLE.</p>
 </entryFree>
 
@@ -27669,8 +27665,10 @@ de γραφὶς, un stylet, et (Ι’εἷδος, forme,
 <lb/>inamelle ; homrne dont les mait
 <lb/>elles sont aussi grosses que celles
 <lb/>d'nne femme.</p>
+</entryFree>
 
-<p>(jYPAETES, <gram>s. m.</gram> pl. γυπαίετος, de
+<entryFree>
+<p><orth>GYPAETES</orth>, <gram>s. m.</gram> pl. γυπαίετος, de
 <lb/>yuy, vautour, et ο’ἀετός, aigle ;</p>
 
 <p>comme si POn disoit <hi>aigle-vaulourf</hi>
@@ -27845,7 +27843,7 @@ astres; et par analogie, cerclc rouge
 </entryFree>
 
 <entryFree>
-<p><orth>HbCTISVIE ou HÉTISIE</orth>, <gram>s. f.</gram> <hi>hectisis</hi>,
+<p><orth>HbCTISVIE</orth> ou <orth>HÉTISIE</orth>, <gram>s. f.</gram> <hi>hectisis</hi>,
 <lb/>du <hi>grec</hi> έκτικὴ, dérivé du verbe
 <lb/>ἔχω, je possède; maladie qui consume
 <lb/>toute l’habitude du corps,
@@ -28088,7 +28086,7 @@ astres; et par analogie, cerclc rouge
 </entryFree>
 
 <entryFree>
-<p><orth>HÉMATOMPHALE 011 HÉMATOMPHALOCÉLE</orth>,
+<p><orth>HÉMATOMPHALE</orth> ou <orth>HÉMATOMPHALOCÉLE</orth>,
 <lb/>S. f. <hi>haematomphaliunI</hi>,(],
 <lb/>αἶμα, sang, et d’oμφαλὸς, nombril ;
 <lb/>hernie du nombril qui ccntient dtt
@@ -28188,7 +28186,7 @@ astres; et par analogie, cerclc rouge
 </entryFree>
 
 <entryFree>
-<p><orth>HÉMIPLÉGIE on Ήγ</orth>.μιρτ.εχγε,
+<p><orth>HÉMIPLÉGIE</orth> ou <orth>HÉMIPLEXIE</orth>,
 <lb/>s. f. <hi>hemiplegia, hemiplexia</hi>, d'nμισυς,
 <lb/>moitié, et de πλήσσω, ΟI1 πλήττον,
 <lb/>je trappe ; paraly.sie qui n’affecte
@@ -28259,7 +28257,7 @@ astres; et par analogie, cerclc rouge
 </entryFree>
 
 <entryFree>
-<p><orth>HÉMORRAGIEOU HÉMORRHAGIE</orth>,
+<p><orth>HÉMORRAGIE</orth> ou <orth>HÉMORRHAGIE</orth>,
 <lb/>s. F <hi>hœmorrhagia</hi> ; en grecαϊμοῤῥογίβί,
 <lb/>d’aÇza, sang, et ile ῥήγνυμι, jeromps ;
 <lb/>perte de sangcausée parla rupture
@@ -28316,7 +28314,7 @@ coule ; serpent d'Afrique dont la
 </entryFree>
 
 <entryFree>
-<p><orth>HÉMOSTASE 0U HÉMOSTASIE</orth>, S.
+<p><orth>HÉMOSTASE</orth> ou <orth>HÉMOSTASIE</orth>, S.
 <lb/>L <hi>hœmostasis</hi>, d’a^xa, sang, et de
 <lb/>σττάσις, station, dérivé ιΐ’ῖστημι, j'arrête
 <lb/>; stase ou siagnation du- sang
@@ -28384,8 +28382,10 @@ coule ; serpent d'Afrique dont la
 <lb/>revient par paroxysmes et douleur
 <lb/>sympathique de tout le côté, de l’épaule,
 <lb/>de l’humérus.</p>
+</entryFree>
 
-<p>11ÉPATOCÉLE, <gram>s. f.</gram> <hi>hepatocede</hi>,
+<entryFree>
+<p><orth>HÉPATOCÉLE</orth>, <gram>s. f.</gram> <hi>hepatocede</hi>,
 <lb/>d’înoip, foie, et cle κήλκ, tumeur ;
 <lb/>hernie du foie.</p>
 </entryFree>
@@ -28504,12 +28504,14 @@ coule ; serpent d'Afrique dont la
 </entryFree>
 
 <entryFree>
-<p><orth>HeREÛRISATION</orth>, <gram>s. f.</gram> <hi>herbarunl
+<p><orth>HeRBORISATION</orth>, <gram>s. f.</gram> <hi>herbarunl
 <lb/>inquisitio</hi>, course pour la recberche
 <lb/>des plantes spontanées d’un
 <lb/>pays.</p>
+</entryFree>
 
-<p>11ERBORISTE, <gram>s. f.</gram> <hi>herburius</hi>,
+<entryFree>
+<p><orth>HERBORISTE</orth>, <gram>s. f.</gram> <hi>herburius</hi>,
 <lb/>cclui qui faitcojnmerce des plantes
 <lb/>d’usage en médecine et datis lcs
 <lb/>arts.</p>
@@ -28619,7 +28621,7 @@ coule ; serpent d'Afrique dont la
 </entryFree>
 
 <entryFree>
-<p><orth>HÉTÉROPTÉRES OII HESPERIES</orth>, S.'
+<p><orth>HÉTÉROPTÉRES</orth> ou <orth>HESPERIES</orth>, S.'
 <lb/>m. pl. du grec ἔτερος, autre, différent,
 <lb/>et de πτέρον, aile ; espèce d’insectes
 <lb/>lépidoptèresdont lesailes sont renversées,
@@ -28735,7 +28737,7 @@ les fleurs herniapbrodites'ont six
 </entryFree>
 
 <entryFree>
-<p><orth>ΗIενε ou HyÉNE</orth>, <gram>s. f.</gram> en grec
+<p><orth>ΗIενε</orth> ou <orth>HyÉNE</orth>, <gram>s. f.</gram> en grec
 <lb/>ὕαινα, d'iç, cochon, quadriipède féroce
 <lb/>qui ressemble nu Ιοιιρ. II vit
 <lb/>principalement en Afrique; il n’a
@@ -28950,15 +28952,17 @@ tnrelles d’une jument en chaleur;
 </entryFree>
 
 <entryFree>
-<p><orth>Hc'LOsTEON</orth>, <gram>s. m.</gram> mot grec dérivé
+<p><orth>HOLOsTEON</orth>, <gram>s. m.</gram> mot grec dérivé
 <lb/>d’J\cç, tout, et Α’οστέον, ds; comme
 <lb/>qui diroit <hi>tout os</hi> ; nom d’un
 <lb/>poisson du NIl dont la peau est si
 <lb/>dtire qidelle appreche de l’écaille,
 <lb/>et se conserve sans se corrompre ;
 <lb/>— nom d’une plante caryophyllée.</p>
+</entryFree>
 
-<p>110LOTHURIE, <gram>s. f.</gram> <hi>holothuria</hi>,
+<entryFree>
+<p><orth>OLOTHURIE</orth>, <gram>s. f.</gram> <hi>holothuria</hi>,
 <lb/>όλωθιύριον des Grecs, crerivé ίΒἴλος,
 <lb/>tout, et εΐεθύρα, porte, ou dcsôpiov,
 <lb/>petite porte ; espéce de zoophytes
@@ -29140,7 +29144,7 @@ tnrelles d’une jument en chaleur;
 </entryFree>
 
 <entryFree>
-<p><orth>HOUlLLE ouCHARBQN DE TERRE</orth>,
+<p><orth>HOUILLE</orth> ou <orth>CHARBQN DE TERRE</orth>,
 <lb/>s. E <hi>carbo fossilis</hi>, substance combustible,
 <lb/>simple, bitumineuse, cn
 <lb/>partic auimale, très - abondante
@@ -29490,7 +29494,7 @@ grec ὑάκινθος, plante bulbeuse dont
 </entryFree>
 
 <entryFree>
-<p><orth>HYnRES ou POLYPES A BRAS</orth>,
+<p><orth>HYnRES</orth> ou <orth>POLYPES A BRAS</orth>,
 <lb/>s. m. pl. ὕδροι des Grecs, dérivé d’2δωρ,
 <lb/>eau ; genre de zoophytes, animaux
 <lb/>microscopiques, infusOÎres,
@@ -30102,7 +30106,7 @@ miequi a pour objetla description
 </entryFree>
 
 <entryFree>
-<p><orth>HyosCUAME ou JUSQUIAME</orth>, <gram>s. f.</gram>
+<p><orth>HyosCUAME</orth> ou <orth>JUSQUIAME</orth>, <gram>s. f.</gram>
 <lb/><hi>hyoscyamus</hi>, en grec ὑοσκὕαμος, dérivé
 <lb/>d’iç, gén. ὑὸς, cochon, et de
 <lb/>κύαμος, fève; fève â cochon ; plante
@@ -30182,7 +30186,7 @@ miequi a pour objetla description
 </entryFree>
 
 <entryFree>
-<p><orth>HyPERCRISE 011 HtPERCRISIE</orth>,
+<p><orth>HyPERCRISE</orth> ou <orth>HtPERCRISIE</orth>,
 <lb/>s. L <hi>hypercrisis</hi>, de la préposition
 <lb/>ὑπέρ, au dela, et de κρισις, criset
 <lb/>crisc violente et excessive dans une
@@ -30317,7 +30321,7 @@ miequi a pour objetla description
 </entryFree>
 
 <entryFree>
-<p><orth>HyPDCR ATÉRTFORME</orth>, 3(11. <hi>hyFOcraterifiormis</hi>
+<p><orth>HYPOCRATÉRIFORME</orth>, 3(11. <hi>hyFOcraterifiormis</hi>
 <lb/>, Α’ὑπὸ, SOIIS, de κρατὴρ,
 <lb/>coupe, et du latin <hi>fiorma</hi>, forme,
 <lb/>ressemblance ; en forme de soucoupe;
@@ -30449,8 +30453,10 @@ miequi a pour objetla description
 <lb/>la plus épaisse et la plus gros-
 sière qni se précipite att fond des
 <lb/>liqueurs.</p>
+</entryFree>
 
-<p>11YPOTHÉNAR, <gram>s. m.</gram> <hi>hypothenar</hi>,(
+<entryFree>
+<p><orth>HYPOTHÉNAR</orth>, <gram>s. m.</gram> <hi>hypothenar</hi>,(
 <lb/>Ι’ὑπὸ, sous, et de θέναρ, paume de
 <lb/>la main ou plante du pied ; un des
 <lb/>muscles aui scrvent a approcher le
@@ -30489,7 +30495,7 @@ sière qni se précipite att fond des
 </entryFree>
 
 <entryFree>
-<p><orth>HtssoPE ouHtsofê</orth>, <gram>s. f.</gram> <hi>hys*
+<p><orth>HyssoPE</orth> ou <orth>Hysope</orth>, <gram>s. f.</gram> <hi>hys*
 <lb/>sopus</hi>, en grec ὕ&amp;σωπος, plante mé*
 <lb/>dicinale d'un goûr amer, et qui
 <lb/>répand une odeur aromatique tresagreable.
@@ -30609,8 +30615,10 @@ pèce de suffocation et de strangulation
 <lb/>natif de oelymbna, et disciple
 <lb/>d’Esculape, fut le premier
 <lb/>qui la mit en usage.</p>
+</entryFree>
 
-<p>lATRIQUE, <gram>adj.</gram> <hi>Iatncus</hi>, (Γἰατρὸς,
+<entryFree>
+<p><orth>IATRIQUE</orth>, <gram>adj.</gram> <hi>Iatncus</hi>, (Γἰατρὸς,
 <lb/>médecin, on ιΐ’ίατρικὴ, médecine,
 <lb/>dériVé υ’ίατρεύω, je guéris ; nom</p>
 
@@ -30619,7 +30627,7 @@ pèce de suffocation et de strangulation
 </entryFree>
 
 <entryFree>
-<p><orth>ÏATROCHIMIE</orth>, <gram>s. f.</gram> <hi>iatrochimia</hi>,
+<p><orth>IATROCHIMIE</orth>, <gram>s. f.</gram> <hi>iatrochimia</hi>,
 <lb/>ίΐ’ἰατρεύω, je glicris, et de χυμία»
 <lb/>chimie; médecine chimique ; l’art
 <lb/>de guérir avec des remèdes tirés
@@ -30657,8 +30665,10 @@ pèce de suffocation et de strangulation
 <lb/>avec laquelle elles percent la peau
 <lb/>des cheuillesén plusieursendroits,
 <lb/>et y déposent leuis œufs.</p>
+</entryFree>
 
-<p>1CHOR, <gram>s. m.</gram> mot grec ἰχἀρ, sanie
+<entryFree>
+<p><orth>ICHOR</orth>, <gram>s. m.</gram> mot grec ἰχἀρ, sanie
 <lb/>ou sang aqueux ; — de là <hi>Ichoreux</hi>,
 <lb/>adj. <hi>ichorosus, ichoroïdes f</hi>
 <lb/>noin qu’on donne à une espèce de
@@ -30761,7 +30771,7 @@ poisson jfétrifié ou pierre qui porte
 </entryFree>
 
 <entryFree>
-<p><orth>ICTÉRE OU ÏCTÉRICIE</orth>, S. ΠΊ. <hi>icfenis,
+<p><orth>ICTÉRE</orth> ou <orth>ÏCTÉRICIE</orth>, S. ΠΊ. <hi>icfenis,
 <lb/>ictericia</hi> du grec ῖκτερος, dérivé
 <lb/>Α’ἰκτὶς, espèce de belette aux
 <lb/>yeux couleur d’or ; maladie caractérisée
@@ -30816,7 +30826,7 @@ position ou tempérament propré
 </entryFree>
 
 <entryFree>
-<p><orth>IDIOSYNCRASE OH ÏDIOSYNCRASIE</orth>,
+<p><orth>IDIOSYNCRASE</orth> ou <orth>ÏDIOSYNCRASIE</orth>,
 <lb/>s. f. <hi>idiosynorasis, idiosyncrasia</hi>,
 <lb/>du grec ῖδιςς, propre, de συν, nvec,
 <lb/>et ile κρἀσις, mélnnge, tempérament
@@ -30857,8 +30867,10 @@ position ou tempérament propré
 <lb/>produite par les feux des volcans.
 <lb/>Elle s’éloigne beaucoup «le la véritable
 <lb/>hyacinthe.</p>
+</entryFree>
 
-<p>lGNÉ.pÉE, <gram>adj.</gram> <hi>igneIIs</hi>, du latîn
+<entryFree>
+<p><orth>IGNÉ</orth>, ÉE, <gram>adj.</gram> <hi>igneIIs</hi>, du latîn
 <lb/><hi>ignis</hi>, le feu ; qui est de feu 011 de
 <lb/>la nat.ure du feii.</p>
 </entryFree>
@@ -30868,8 +30880,10 @@ position ou tempérament propré
 <lb/>de brûler, du latin <hi>ig/tis</hi>, le feu;
 <lb/>se dit cn chimie de l’étatd’un mctal
 <lb/>rougi au feu.</p>
+</entryFree>
 
-<p>îgNIVobe, <gram>s. m.</gram> et <gram>adj.</gram> <hi>ignivo-</hi>
+<entryFree>
+<p><orth>IgNIVoRe</orth>, <gram>s. m.</gram> et <gram>adj.</gram> <hi>ignivo-</hi>
 </p>
 <pb n="177"/>
 
@@ -30878,8 +30892,10 @@ position ou tempérament propré
 <lb/>ou du <hi>grec</hi> πῦρ, le feu, et de φαγω,
 <lb/>je dévore ; mangcur de feu ; qui a
 <lb/>le.secret d’avaler le feu.</p>
+</entryFree>
 
-<p>iLÉO-COLIQUE, <gram>adj.</gram> qui a rapport
+<entryFree>
+<p><orth>ILÉO-COLIQUE</orth>, <gram>adj.</gram> qui a rapport
 <lb/>à l’iLÉON et auCOnoN. <hi>Voy.</hi> <ref>cés</ref> deux mots.</p>
 </entryFree>
 
@@ -31031,10 +31047,12 @@ d'idées déja acquises, crée ou invente
 </entryFree>
 
 <entryFree>
-<p><orth>LIBERBE</orth>, <gram>adj.</gram> <hi>imberbis</hi>, opposé
+<p><orth>IMBERBE</orth>, <gram>adj.</gram> <hi>imberbis</hi>, opposé
 <lb/>de barbu ; dép nirvu de barbe.</p>
+</entryFree>
 
-<p>iMBtBITION, <gram>s. f.</gram> <hi>imbibitio</hi>, du
+<entryFree>
+<p><orth>IMBIBITION</orth>, <gram>s. f.</gram> <hi>imbibitio</hi>, du
 <lb/>verbe latin <hi>imbibere</hi>, boire, imbiber;
 <lb/>action, faculré d’imbiber ou
 <lb/>de motiiller, de pénétrer de quelque
@@ -31303,33 +31321,41 @@ iNCALIcÉ, ÉEjadj. <hi>incalicatus</hi>,
 <lb/>d’iu privâtif des Latins, et de
 <lb/><hi>clemeiIUa</hi>, douceur; rigueur de
 <lb/>L’air, de la saison.</p>
+</entryFree>
 
-<p>1NCLINAISON, <gram>s. f.</gram> <hi>illclinatio,' SQ</hi>
+<entryFree>
+<p><orth>INCLINAISON</orth>, <gram>s. f.</gram> <hi>illclinatio,' SQ</hi>
 <lb/>dit en géométrie de l’angle que fait
 <lb/>une ligne avec une autre ligne, ou
 <lb/>un planavec un autre plan.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>LNCLINATION</orth>, <gram>s. f.</gram> <hi>inflexio, inclinatio</hi>
+<p><orth>INCLINATION</orth>, <gram>s. f.</gram> <hi>inflexio, inclinatio</hi>
 <lb/>, action de pencher ou de
 <lb/>renverser doucernent un vaisseau,
 <lb/>pour séparer la liqueur claire qu’il
 <lb/>contient du marc qui reste au fond.</p>
+</entryFree>
 
-<p>lNCLUs, SE, <gram>adj.</gram> <hi>inclusus</hi>, ne
+<entryFree>
+<p><orth>INCLUS</orth>, SE, <gram>adj.</gram> <hi>inclusus</hi>, ne
 <lb/>saillant pointen deliors de la partie
 <lb/>contenante ou ambiante : BOtan.</p>
+</entryFree>
 
-<p>1NCOERCIBLE, <gram>adj.</gram> <hi>itLcoercibilis f
+<entryFree>
+<p><orth>INCOERCIBLE</orth>, <gram>adj.</gram> <hi>itLcoercibilis f
 <lb/></hi>qui n’est pas coercible ; se dit en
 <lb/>physique des vapeurs ou des gaz
 <lb/>qui ne peuvent être rassemblés ou
 <lb/>reteuus dans un certain espace ; de
 <lb/>lâ dérive <hi>Incoercibilite</hi>, <gram>s. f.</gram>
 <lb/>qualité de ce qui est incoercible.</p>
+</entryFree>
 
-<p>1NCOMBANT, ANTE, <gram>adj.</gram> <hi>incumbens</hi>
+<entryFree>
+<p><orth>INCOMBANT</orth>, ANTE, <gram>adj.</gram> <hi>incumbens</hi>
 <lb/>; se dit en botanique des anthères
 <lb/>attachées au filet par le mîlieu
 <lb/>du dos ou par un point plus
@@ -31386,8 +31412,10 @@ vroient lacher que volontairement ;
 <lb/>, comme des emplâtres,
 <lb/>des trochisqucs, des pilnles, des
 <lb/>bols.</p>
+</entryFree>
 
-<p>"INCOURBE, <gram>adj.</gram> <hi>incurvus</hi>, courbé
+<entryFree>
+<p><orth>INCOURBE</orth>, <gram>adj.</gram> <hi>incurvus</hi>, courbé
 <lb/>en dedans, de manière que la conVexitéde
 <lb/>la courburé est endehors.</p>
 </entryFree>
@@ -31611,13 +31639,17 @@ celle qui tend â la conservation immédiate
 <lb/>de chaque espèce, qui ne peut étre
 <lb/>divisé en d’antres êtres semblables
 <lb/>ou égaux.</p>
+</entryFree>
 
-<p>1NDOLENCB, s. L <hi>indolenüa</hi>, in-
+<entryFree>
+<p><orth>INDOLENCE</orth>, s. L <hi>indolenüa</hi>, in-
 sensibilité ; état d’iine partie qui
 <lb/>n’a nul senrirnent éc la douleur.
 <lb/><hi>VOyez</hi> Αρατηιε.</p>
+</entryFree>
 
-<p>1NERME, <gram>adj.</gram> <hi>inermis</hi>, san armes
+<entryFree>
+<p><orth>INERME</orth>, <gram>adj.</gram> <hi>inermis</hi>, san armes
 <lb/>, sans piquans, sans nses :
 <lb/>BOtan.</p>
 </entryFree>
@@ -31627,8 +31659,10 @@ sensibilité ; état d’iine partie qui
 <lb/>, dd/I</hi> négatif, <hi>d'œquus</hi>, égal
 <lb/>et de <hi>latus</hi>, côté ; qui a les cotés
 <lb/>inégaux.</p>
+</entryFree>
 
-<p>1NÉQUIVALVÉ, ÉE, <gram>adj.</gram> <hi>inœquivalvis,
+<entryFree>
+<p><orth>INÉQUIVALVÉ</orth>, ÉE, <gram>adj.</gram> <hi>inœquivalvis,
 <lb/>ddnœqualis</hi>, inégal, et de
 <lb/><hi>valvœ</hi>, battaus, valvcs ; se dit en
 <lb/>botanique des fruits dont les valves
@@ -31690,8 +31724,10 @@ sensibilité ; état d’iine partie qui
 <entryFree>
 <p><orth>INEEUILLÉ</orth>, ÉE, <gram>adj.</gram> <hi>infioliatus
 <lb/>aphyllus</hi>. VOyez ApkxLLe.</p>
+</entryFree>
 
-<p>1NFIBULATION, <gram>s. f.</gram> <hi>infibulatio</hi>,
+<entryFree>
+<p><orth>INFIBULATION</orth>, <gram>s. f.</gram> <hi>infibulatio</hi>,
 <lb/>opéraîion par laquelle on réunit,
 <lb/>au moyen d’unanneau, les parties
 <lb/>dont la liberté est nécessaire a la
@@ -31812,7 +31848,7 @@ comme par un filtre. II se dit en
 </entryFree>
 
 <entryFree>
-<p><orth>INFUNDIBULIFORME 011 INFUNDIBULÉ</orth>,
+<p><orth>INFUNDIBULIFORME</orth> ou <orth>INFUNDIBULÉ</orth>,
 <lb/>adj. <hi>infundibulatus, infiundibuliforrnis</hi>
 <lb/>, du latin <hi>infiundibulum</hi>,
 <lb/>entonnoir ; qui est cn forme
@@ -31950,8 +31986,10 @@ vaîsseau où sont contcnus les ingrédiens
 <lb/>anastomosis</hi>, du verbe <hi>osculor</hi>, je
 <lb/>baise ; abouchement des artères
 <lb/>l’une sur Fautre.</p>
+</entryFree>
 
-<p>1NQUART, <gram>s. m.</gram> <hi>VOyez</hi> QUARΡΓΑΤΙΟΝ.
+<entryFree>
+<p><orth>INQUART</orth>, <gram>s. m.</gram> <hi>VOyez</hi> <ref>QUARTATION</ref>.
 <lb/></p>
 </entryFree>
 
@@ -31973,14 +32011,18 @@ vaîsseau où sont contcnus les ingrédiens
 <lb/>mème idée, et d’ou l’on a fait <hi>entomologie</hi>
 <lb/>, la science ou la connoissance
 <lb/>des insectes.</p>
+</entryFree>
 
-<p>1NSECTOLOGIE, <gram>s. f.</gram> <hi>insectologia^</hi>
+<entryFree>
+<p><orth>INSECTOLOGIE</orth>, <gram>s. f.</gram> <hi>insectologia^</hi>
 <lb/>mot hybride ciérivé du latin <hi>insectum</hi>
 <lb/>, et du grec λόγος, discours ;
 <lb/>traité cles insectes. <hi>/ oyez</hi> ΕVτο»
 <lb/>MOLOGIE, qui est tout grec.</p>
+</entryFree>
 
-<p>1NSENSIBLE, <gram>adj.</gram> <hi>insensibilis</hi>, qui
+<entryFree>
+<p><orth>INSENSIBLE</orth>, <gram>adj.</gram> <hi>insensibilis</hi>, qui
 <lb/>n’éprouve point rimpression que
 <lb/>les objets doivent faire sur les sens
 <lb/>ou sur l’ame ; — iinpeiceptible,
@@ -31998,11 +32040,15 @@ vaîsseau où sont contcnus les ingrédiens
 <lb/>On distingue trois sortes d’insertions
 <lb/>; <hi>Vhypogynique</hi>, la <hi>périgynique</hi>
 <lb/>et <hi>Vepigynique</hi>.</p>
+</entryFree>
 
-<p>1NSEXÉE, <gram>adj.</gram> t. <hi>insexifer</hi>; sedit
+<entryFree>
+<p><orth>INSEXÉE</orth>, <gram>adj.</gram> t. <hi>insexifer</hi>; sedit
 <lb/>d'une tlcursans sexe.</p>
+</entryFree>
 
-<p>1NSIPIDE, <gram>adj.</gram> <hi>insipidus</hi>, quin’a
+<entryFree>
+<p><orth>INSIPIDE</orth>, <gram>adj.</gram> <hi>insipidus</hi>, quin’a
 <lb/>point de saveur, de goût.</p>
 </entryFree>
 
@@ -32024,8 +32070,10 @@ vaîsseau où sont contcnus les ingrédiens
 <lb/>insolubie. Ondit aussi indissoluble
 <lb/>et indissolubilité, qui ont lamême
 <lb/>signifîcation.</p>
+</entryFree>
 
-<p>1NSOMNIE, <gram>s. f.</gram> <hi>insomnia f insomnitas
+<entryFree>
+<p><orth>INSOMNIE</orth>, <gram>s. f.</gram> <hi>insomnia f insomnitas
 <lb/>, insoInjIeitas, pervigilium</hi>
 <lb/>; défaut de sommeil, veilie
 <lb/>immodéree. <hi>VOyez</hi> Αοευρνιε.</p>
@@ -32040,8 +32088,10 @@ vaîsseau où sont contcnus les ingrédiens
 
 laquelle l’air entre dans lcs pouInons.
 <lb/><hi>VOyez</hi> KESPIRATION.</p>
+</entryFree>
 
-<p>1NSTANTANÉ, ÉE, <gram>adj.</gram> <hi>nlonlentaneus</hi>
+<entryFree>
+<p><orth>INSTANTANÉ</orth>, ÉE, <gram>adj.</gram> <hi>nlonlentaneus</hi>
 <lb/>, qui ne dure qu’un instaut,
 <lb/>qu’un moment.</p>
 </entryFree>
@@ -32145,8 +32195,10 @@ laquelle l’air entre dans lcs pouInons.
 <p><orth>ÏNTENSION</orth>, subst. f. <hi>iWtensio</hi> S6
 <lb/>prend en pliysique pour torce,
 <lb/>véhémence, ardeur.</p>
+</entryFree>
 
-<p>1NTENSITÉ, <gram>s. f.</gram> <hi>intensitas</hi>, ce
+<entryFree>
+<p><orth>INTENSITÉ</orth>, <gram>s. f.</gram> <hi>intensitas</hi>, ce
 <lb/>mot expriinc, en physique, le degré
 <lb/>de force, d’activité on tl’énergie
 <lb/>d’une qualité quelcOnque, comme
@@ -32155,8 +32207,10 @@ laquelle l’air entre dans lcs pouInons.
 <lb/>pour marquer le degré de force
 <lb/>d'nne maladieou de quelque syinpLôuie.
 <lb/></p>
+</entryFree>
 
-<p>1NTER-ARTICULAIRE, <gram>adj.</gram> <hi>interarticularis</hi>;
+<entryFree>
+<p><orth>INTER-ARTICULAIRE</orth>, <gram>adj.</gram> <hi>interarticularis</hi>;
 <lb/>se dit dcs parties situées
 <lb/>entre les articulations ; cartilages
 <lb/>inter-articulaires.</p>
@@ -32192,8 +32246,10 @@ laquelle l’air entre dans lcs pouInons.
 <lb/>se dit en a natomie des
 <lb/>parties qui s’étendent d’une clavicule
 <lb/>a Pautie.</p>
+</entryFree>
 
-<p>1NTERCOSTAL, A LE, <gram>adj.</gram> <hi>intercostalis</hi>
+<entryFree>
+<p><orth>INTERCOSTAL</orth>, A LE, <gram>adj.</gram> <hi>intercostalis</hi>
 <lb/>; se dit en anatomie des
 <lb/>parties situées entre les côtes.</p>
 </entryFree>
@@ -32305,25 +32361,33 @@ laquelle l’air entre dans lcs pouInons.
 <entryFree>
 <p><orth>INTERSECTION</orth>, <gram>s. f.</gram> <hi>intersectio</hi>,
 <lb/>point où deux lignes se coupent.</p>
+</entryFree>
 
-<p>iNTERSTELLAIRE, <gram>adj.</gram> <hi>interstellaris</hi>
+<entryFree>
+<p><orth>INTERSTELLAIRE</orth>, <gram>adj.</gram> <hi>interstellaris</hi>
 <lb/>, de <hi>stella</hi>, éîoile; se dit en
 <lb/>astronomie dePespace qui cst entre
 <lb/>les etoiles.</p>
+</entryFree>
 
-<p>1NTERSTICE, s. ΠI. <hi>intcrstitium J</hi>
+<entryFree>
+<p><orth>INTERSTICE</orth>, s. ΠI. <hi>intcrstitium J</hi>
 <lb/>se c.it en physique des petits intervalies
 <lb/>qui.séparent les nlolécules
 <lb/>des ( orps.</p>
+</entryFree>
 
-<p>1NTERTRANSVER SAIRE, ftdj. <hi>intxrtransversarlus</hi>
+<entryFree>
+<p><orth>INTERTRANSVERSAIRE</orth>, ftdj. <hi>intxrtransversarlus</hi>
 <lb/>; se dit en anatomie
 <lb/>d’un Ilgament qui monte le
 <lb/>long de la colonne verticalc, et s’attache
 <lb/>a toutes les apophyses transverses.
 <lb/></p>
+</entryFree>
 
-<p>1NTERVALVAIRE, <gram>adj.</gram> <hi>intervalvis;</hi>
+<entryFree>
+<p><orth>INTERVALVAIRE</orth>, <gram>adj.</gram> <hi>intervalvis;</hi>
 <lb/>se dit de la cloison interposée cntro
 <lb/>lcs valves d’uu fruit.</p>
 </entryFree>
@@ -32336,7 +32400,7 @@ laquelle l’air entre dans lcs pouInons.
 </entryFree>
 
 <entryFree>
-<p><orth>INTESTIN OU BOYAU</orth>, S. 1Η. <hi>intéstinum</hi>
+<p><orth>INTESTIN</orth> ou <orth>BOYAU</orth>, S. 1Η. <hi>intéstinum</hi>
 <lb/>des Latins, ἐντέρον des
 <lb/>Grecs, ιΐ’εντὸς, dedans ; c’est le
 <lb/>nom du canal alimentaire qui s’étend
@@ -32411,7 +32475,7 @@ sion et Pévacuation. On le divise
 </entryFree>
 
 <entryFree>
-<p><orth>I N TUMFSCENCE</orth>, <gram>s. f.</gram> <hi>iIItumescentia</hi>,
+<p><orth>INTUMESCENCE</orth>, <gram>s. f.</gram> <hi>iIItumescentia</hi>,
 <lb/>tumeur ; tumeur qui s’étend
 <lb/>sur tout le corps, ou seuÎernent sur
 <lb/>une partie considérablc, et contieut
@@ -32469,8 +32533,10 @@ sieurs pédonçulesou fleurs sessiles;
 <lb/>enveloppe commune, continue, ou
 <lb/>conime caüciforme, de plusieurs
 <lb/>fleurs : BOt.</p>
+</entryFree>
 
-<p>lNVoLUCRÉ,ÉE, <gram>adj.</gram> <hi>involucratus</hi>,
+<entryFree>
+<p><orth>INVoLUCRÉ</orth>, ÉE, <gram>adj.</gram> <hi>involucratus</hi>,
 <lb/>pourvu d’un invcducre : BOt.</p>
 </entryFree>
 
@@ -32525,15 +32591,19 @@ sieurs pédonçulesou fleurs sessiles;
 <lb/>changeantes qui paroissent
 <lb/>quelquefois dans les glacesdes
 <lb/>télescopes., des microscopes.</p>
+</entryFree>
 
-<p>1RRADIATION, <gram>s. f.</gram> <hi>irradiatio</hi>,
+<entryFree>
+<p><orth>IRRADIATION</orth>, <gram>s. f.</gram> <hi>irradiatio</hi>,
 <lb/>émission des rayons d’un corps lumineux
 <lb/>, et par analogie toute détermination
 <lb/>ou tout mouvement
 <lb/>qui se fait du centre a la circonfé*
 <lb/>rence, dans un corps organisé.</p>
+</entryFree>
 
-<p>1RRÉDUCTIBLE, adject. <hi>ddn</hi> privatif
+<entryFree>
+<p><orth>IRRÉDUCTIBLE</orth>, adject. <hi>ddn</hi> privatif
 <lb/>des I atins, et du verbe <hi>reducere</hi>,
 <lb/>réduire ;se dit en chimie des
 <lb/>oxydes metal liques qd'on ne peut réduire
@@ -32566,13 +32636,15 @@ sieurs pédonçulesou fleurs sessiles;
 </entryFree>
 
 <entryFree>
-<p><orth>ISCÎIIADIQUE</orth>, <gram>adj.</gram> <hi>ischiodicus</hi>,
+<p><orth>ISCHIADIQUE</orth>, <gram>adj.</gram> <hi>ischiodicus</hi>,
 <lb/>du grec ἰσχίον, hanche ; qui appar2
 <lb/>tieut au haut de la cuisse, ù la hanche;veine
 <lb/><hi>isclùadique</hi>, névralgie
 <lb/><hi>ischiadique</hi>.</p>
+</entryFree>
 
-<p>1SCHIATIQUE, <gram>adj.</gram> <hi>ischiaticus ;</hi>
+<entryFree>
+<p><orth>ISCHIATIQUE</orth>, <gram>adj.</gram> <hi>ischiaticus ;</hi>
 <lb/>q«i appartient à l’ischion. <hi>Voy.</hi> <ref></ref>. <hi>ce</hi>
 <lb/>mot.</p>
 </entryFree>
@@ -32641,7 +32713,7 @@ sieurs pédonçulesou fleurs sessiles;
 </entryFree>
 
 <entryFree>
-<p><orth>IsoCÉLe ou JsosCÈLE</orth>, <gram>adj.</gram> <hi>isosceles</hi>,
+<p><orth>IsoCÉLe</orth> ou <orth>IsosCÈLE</orth>, <gram>adj.</gram> <hi>isosceles</hi>,
 <lb/>du grec ῖσος, égal, et de
 <lb/>σκέλος, jambe ; se dit en géométrie
 <lb/>d’un triangle qui a deuN côtés ou
@@ -32736,7 +32808,7 @@ temps leurs alirnens, pour s’y
 </entryFree>
 
 <entryFree>
-<p><orth>JADE ou JADIEN</orth>, S. ΗI. <hi>petrosilex</hi>,
+<p><orth>JADE</orth> ou <orth>JADIEN</orth>, S. ΗI. <hi>petrosilex</hi>,
 <lb/>ou espèce de nierre composée,
 <lb/>d’unvertpâle olivatre, difiérente
 <lb/>du silexpar sa fusibilité au
@@ -32817,8 +32889,10 @@ tins; <hi>garetum</hi> ou <hi>garretum</hi> dans
 <lb/>avec un conducteur électrisé
 <lb/>; cornposé de quartz agate
 <lb/>empaté d’argile ferrugineuse.</p>
+</entryFree>
 
-<p>dASPÉ, <gram>adj.</gram> <hi>iaspideus</hi>, qui est
+<entryFree>
+<p><orth>JASPÉ</orth>, <gram>adj.</gram> <hi>iaspideus</hi>, qui est
 <lb/>tacllcté commc lejaspe.</p>
 </entryFree>
 
@@ -32830,7 +32904,7 @@ tins; <hi>garetum</hi> ou <hi>garretum</hi> dans
 </entryFree>
 
 <entryFree>
-<p><orth>JAYET ou JAIS</orth>, s. <hi>rn</hi>. <hi>gagates</hi>,
+<p><orth>JAYET</orth> ou <orth>JAIS</orth>, s. <hi>rn</hi>. <hi>gagates</hi>,
 <lb/>du grcc γαγάτης, derive dc γάγης ».
 <lb/>fleuve de Lycie ; substance combustible
 <lb/>simple fossile, produite
@@ -33005,7 +33079,7 @@ qn’on la trouve presque toujours
 </entryFree>
 
 <entryFree>
-<p><orth>KÉR ATOPH YLLE 0U KÉRATOPHYLLON</orth>,
+<p><orth>KÉRATOPH YLLE</orth> ou <orth>KÉRATOPHYLLON</orth>,
 <lb/>du grec κίρας, corne, et de
 <lb/>φυτὸν, plante, ou φύλλον, feuille ; espèce
 <lb/>de corail pétrifîé, ainei appelé
@@ -33026,7 +33100,7 @@ qn’on la trouve presque toujours
 </entryFree>
 
 <entryFree>
-<p><orth>KtASTRE 011 plutôt CHIASTRE</orth>,
+<p><orth>KtASTRE</orth> ou plutôt <orth>CHIASTRE</orth>,
 <lb/>s. m. <hi>kiaster</hi>, du grec χιασμὸς, croisement
 <lb/>, ou du verbe χιἀζω, je croise
 <lb/>; espèce de bandage donî lenom
@@ -33151,7 +33225,7 @@ qn’on la trouve presque toujours
 </entryFree>
 
 <entryFree>
-<p><orth>L ACQ ou L AQ</orth>, <gram>s. m.</gram> <hi>laqueus</hi>, corde
+<p><orth>LACQ</orth> ou <orth>LAQ</orth>, <gram>s. m.</gram> <hi>laqueus</hi>, corde
 <lb/>a nœud coulant; baude dont se servent
 <lb/>les chirurgiens pour faire Textension
 <lb/>dans les fractures et lcs
@@ -33263,7 +33337,7 @@ qn’on la trouve presque toujours
 </entryFree>
 
 <entryFree>
-<p><orth>LAGOPUS ou LAGOPE</orth>, <gram>s. m.</gram> de
+<p><orth>LAGOPUS</orth> ou <orth>LAGOPE</orth>, <gram>s. m.</gram> de
 <lb/>λαγωός, lièvre, et de ποῦς, pied;
 <lb/>plantenommée aussi pied-de-lièvre;
 <lb/>espèce de trèfle dont les sommités
@@ -33479,7 +33553,7 @@ lité, abattement; état d’une personne
 </entryFree>
 
 <entryFree>
-<p><orth>T AR YNGOGR ΑΡΠΙΕ</orth>, <gram>s. f.</gram> <hi>laryngographia</hi>
+<p><orth>LARYNGOGRΑΡHΙΕ</orth>, <gram>s. f.</gram> <hi>laryngographia</hi>
 <lb/>, de λάρυγξ, lelarynx, et
 <lb/>«le γραφὴ, description ; description
 <lb/>du larynx.</p>
@@ -33630,7 +33704,7 @@ entre le centre d’iui astre et l’ecliplique.
 </entryFree>
 
 <entryFree>
-<p><orth>LeNTICULAIRE otl LENTICULÉ</orth>,
+<p><orth>LeNTICULAIRE</orth> ou <orth>LENTICULÉ</orth>,
 <lb/>Ée, <hi>ada.lenticularis</hi>, qui a la forme
 <lb/>d’une lentillejganglion <hi>lenüculaire</hi>,
 <lb/>os <hi>lenticulaire</hi>.</p>
@@ -33725,7 +33799,7 @@ entre le centre d’iui astre et l’ecliplique.
 </entryFree>
 
 <entryFree>
-<p><orth>LEPRE 011 GADRERIE</orth>, <gram>s. f.</gram> <hi>leprfl</hi>,
+<p><orth>LEPRE</orth> ou <orth>GADRERIE</orth>, <gram>s. f.</gram> <hi>leprfl</hi>,
 <lb/>en grec λέπρα ott λεπιρἀ, de λεπὶς,
 <lb/>écailie ; maladie cutanée caitsée
 <lb/>par lii malpropreté et la mauvaise
@@ -34015,8 +34089,10 @@ par résolution ou passant soit à
 <p><orth>LIE</orth>, s. fém. <hi>Jex, crassamen</hi>, la
 <lb/>partie la plus grossière d'une liqueur
 <lb/>, celle qui va au fond.</p>
+</entryFree>
 
-<p>b.IENTÉRIE, <gram>s. f.</gram> <hi>lienteriaflevitas
+<entryFree>
+<p><orth>LIENTÉRIE</orth>, <gram>s. f.</gram> <hi>lienteriaflevitas
 <lb/>intesdnorum</hi>, du grec λεῖος, poli,
 <lb/>glissant;espèce de dévoiementdans
 <lb/>tcquel on rend les alimens presque
@@ -34031,7 +34107,7 @@ par résolution ou passant soit à
 </entryFree>
 
 <entryFree>
-<p><orth>LIGA3IENT</orth>, S. Hl. <hi>ligamentunl,
+<p><orth>LIGAMENT</orth>, S. Hl. <hi>ligamentunl,
 <lb/>vinculum, copula</hi>, en grec σύνδοσμος,
 <lb/>de σὸν, ensemble, et de δέ», je
 <lb/>lie ; substance blanchâtre, fibreuse
@@ -34481,7 +34557,7 @@ ses et énaîsses par Vàction du calorique
 </entryFree>
 
 <entryFree>
-<p><orth>LIVRET OU LIBER</orth>, S» Hl. <hi>liber</hi>,
+<p><orth>LIVRET</orth> ou <orth>LIBER</orth>, S» Hl. <hi>liber</hi>,
 <lb/>couches les plusintérieures de l’écorce
 <lb/>d'un arbre, ainsi nommées
 <lb/>parce qu’elles ressemblenten quelque
@@ -34581,8 +34657,10 @@ ses et énaîsses par Vàction du calorique
 <lb/>dont les principales sont VIdée oli
 <lb/>la perception, le jugemeut et le raisonnernent.
 <lb/></p>
+</entryFree>
 
-<p>1 OGOGRAPHIE, <gram>s. f.</gram> <hi>logographia</hi>,
+<entryFree>
+<p><orth>LOGOGRAPHIE</orth>, <gram>s. f.</gram> <hi>logographia</hi>,
 <lb/>dc λόγος, discours, et deyp^w, j’é-
 
 
@@ -34593,7 +34671,7 @@ cris ; l’art d’écrire aussi vite qti’on
 </entryFree>
 
 <entryFree>
-<p><orth>LOGOMACIIIE</orth>, <gram>s. f.</gram> <hi>logomachia</hi>,
+<p><orth>LOGOMACHIE</orth>, <gram>s. f.</gram> <hi>logomachia</hi>,
 <lb/>en grcc. λογομαχία, <hi>de</hi> λόγος, discours,
 <lb/>et de μάχομαι, je combats, je
 <lb/>dispnte; dispuferde rnots.</p>
@@ -34672,7 +34750,7 @@ cris ; l’art d’écrire aussi vite qti’on
 </entryFree>
 
 <entryFree>
-<p><orth>LOk ou LOoK</orth>, <gram>s. m.</gram> <hi>linctus</hi>,
+<p><orth>LOk</orth> ou <orth>LOoK</orth>, <gram>s. m.</gram> <hi>linctus</hi>,
 <lb/>du verbe <hi>lingere</hi>, lécher ; médicanient
 <lb/>liqaide d’une consistançe
 <lb/>inoyenne entre les sirops et lcs
@@ -34773,7 +34851,7 @@ cris ; l’art d’écrire aussi vite qti’on
 </entryFree>
 
 <entryFree>
-<p><orth>LUBRIFIER '</orth>, v. a. <hi>lubricare</hi>, oindre,
+<p><orth>LUBRIFIER</orth>, v. a. <hi>lubricare</hi>, oindre,
 <lb/>rendre glissant ; le mucus des
 <lb/>intestins sert. a les <hi>lubrificr</hi> et à Ics
 <lb/>défendre contre ce qui pourroit lcs
@@ -35109,14 +35187,14 @@ de lettres ; mot qui remplace celui
 </entryFree>
 
 <entryFree>
-<p><orth>M ACROLÉPIDOTE</orth>, <gram>adj.</gram> <hi>macrolcpidotus</hi>
+<p><orth>MACROLÉPIDOTE</orth>, <gram>adj.</gram> <hi>macrolcpidotus</hi>
 <lb/>, de μακρὸς, long, grand, et
 <lb/>de λεπὶς, écaille; se dit des poissons
 <lb/>qni ont de grandes écailles.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>M ACROPH YSOCÉPHALE</orth>, S. Hl. et
+<p><orth>MACROPHYSOCÉPHALE</orth>, S. Hl. et
 <lb/>f. et <gram>adj.</gram> <hi>macrophysocephalus</hi>, de
 <lb/>μωκρὸς, long, de φύσα, Ycnt, SOilifle,
 <lb/>et de κεφαλὴ, tête ; celui à qui dcs
@@ -35250,12 +35328,8 @@ de lettres ; mot qui remplace celui
 <lb/>aimùnt ; propriétésou vertn.s iie
 <lb/>l’aimant, prises collc-ctivement. On
 <lb/>a donné, il y a quelques aunécs,le
-</p>
 <pb n="203"/>
-</entryFree>
-
-<entryFree>
-<p><orth>YIOm de</orth> <hi>mognétisme animal</hi> ;i un
+<hi>nom de magnétisme animal</hi> ;i un
 <lb/>pretendu fluidedont on a cherché à
 <lb/>établir l’existence, sur - tont en
 <lb/>agissant sur les sens et sur l’imagination
@@ -35264,7 +35338,7 @@ de lettres ; mot qui remplace celui
 </entryFree>
 
 <entryFree>
-<p><orth>Μαιν</orth>, <gram>s. f.</gram> ΗΐΛπυί,χεὶρ desGrecs;
+<p><orth>ΜAIN</orth>, <gram>s. f.</gram> ΗΐΛπυί,χεὶρ desGrecs;
 <lb/>ÎIartie dn corps humain qui termine
 <lb/>e bras ou le meinbre thoraciqne, et
 <lb/>qui sert à l’appréhension et autact.
@@ -35951,8 +36025,10 @@ mnmelon;—delâ <hi>Mastoulien, enne</hi>,
 <lb/>vice infame qui conduit â
 <lb/>des maladiees terribles et ordinairemenr
 <lb/>incurables.</p>
+</entryFree>
 
-<p>lVlATHÉMATIQUES, <gram>s. f.</gram> pl. <hi>mathematica</hi>
+<entryFree>
+<p><orth>MATHÉMATIQUES</orth>, <gram>s. f.</gram> pl. <hi>mathematica</hi>
 <lb/>, de μάθημα, science,
 <lb/>qui dérive du verbc μανθάνω, j’apprends;
 <lb/>c’est-à-dire <hi>la science par
@@ -35968,7 +36044,7 @@ mnmelon;—delâ <hi>Mastoulien, enne</hi>,
 </entryFree>
 
 <entryFree>
-<p><orth>M</orth>.vr, ε, <gram>adj.</gram> <hi>impolitus, fuscus ;</hi>
+<p><orth>MAT</orth>, E, <gram>adj.</gram> <hi>impolitus, fuscus ;</hi>
 <lb/>qui n’a point d’éclat, en parlant
 <lb/>des métaux qu’on met. en œuvre
 <lb/>sans lespolir; couleur <hi>mate</hi>, qui
@@ -36007,8 +36083,10 @@ mnmelon;—delâ <hi>Mastoulien, enne</hi>,
 <lb/>vaisseau deterre à long cou dont
 <lb/>les chimistes se servent dans les
 <lb/>digestions ct antres préparations.</p>
+</entryFree>
 
-<p>ûlATRICE, <gram>s. f.</gram> <hi>mdtnx, utérus</hi>,
+<entryFree>
+<p><orth>MATRICE</orth>, <gram>s. f.</gram> <hi>mdtnx, utérus</hi>,
 <lb/>du grec ὑστέρα,μήτρα; viscè;e creux,
 <lb/>conoÏde ou plutèt c.ncurbitiforme,
 <lb/>aplati d'avant enarrière, situédans
@@ -36835,7 +36913,7 @@ disposantes et occasionnelles sont
 </entryFree>
 
 <entryFree>
-<p><orth>MÉI HITIQUE</orth>, <gram>adj.</gram> <hi>mephiticus</hi>,
+<p><orth>MÉPHITIQUE</orth>, <gram>adj.</gram> <hi>mephiticus</hi>,
 <lb/>dérlvé du verbesyriaque quisignifie
 <lb/><hi>sonffler</hi> 011 <hi>respirer</hi> ; qui a uue
 
@@ -37046,8 +37124,10 @@ derivé du grec μέσος, qui est au
 <lb/>et toute la face interne du quatrième
 <lb/>os du métacarpe. On l’appelle
 <lb/><hi>carpo-métacarpien</hi> dupouce.</p>
+</entryFree>
 
-<p>1VÎÉTACHORÈSE, <gram>s. f.</gram> <hi>metachoresis</hi>
+<entryFree>
+<p><orth>MÉTACHORÈSE</orth>, <gram>s. f.</gram> <hi>metachoresis</hi>
 <lb/>, de μεταχωρέω, je passe d’un endroit
 <lb/>à unamre; transport d’une
 <lb/>jnaladie d’un endroit dans un
@@ -37055,7 +37135,7 @@ derivé du grec μέσος, qui est au
 </entryFree>
 
 <entryFree>
-<p><orth>MÉTàL</orth>, <gram>s. m.</gram> <hi>metallurn</hi>, substance
+<p><orth>MÉTAL</orth>, <gram>s. m.</gram> <hi>metallurn</hi>, substance
 <lb/>minérale, brillante, dense,
 <lb/>d'ure, élastique, ductile, tenace,
 <lb/>dilatable, fusible, volatile, crystallisable,
@@ -37328,8 +37408,10 @@ pècede métathèse; un yésicatoire
 <lb/>er de χύω, je verse ; espèce de seringue
 <lb/>avec laquelle on fait dcs in jections
 <lb/>dans la matrice.</p>
+</entryFree>
 
-<p>_ MÉTRIOPATHIE, <gram>s. f.</gram> <hi>metrlOpathia</hi>
+<entryFree>
+<p><orth>MÉTRIOPATHIE</orth>, <gram>s. f.</gram> <hi>metrlOpathia</hi>
 <lb/>, de 'μέτριος, modéré, etdc πάθος,
 <lb/>passion, affection ; état d’unc
 <lb/>personne qui nr dère ses pâssioiis
@@ -37515,8 +37597,10 @@ rcaille ;qui a de petites écailles :
 <lb/>adj. qui appartient au microscope
 <lb/>; —animal zoophyte qu’on
 <lb/>ne voit qu’a l’aide du microscope.</p>
+</entryFree>
 
-<p>iVIIEL, <gram>s. m.</gram> <hi>mel</hi>, en grcc μέλι ;
+<entryFree>
+<p><orth>MIEL</orth>, <gram>s. m.</gram> <hi>mel</hi>, en grcc μέλι ;
 <lb/>sucdouNque l’abeille tire desfruits.</p>
 </entryFree>
 
@@ -37588,7 +37672,7 @@ rcaille ;qui a de petites écailles :
 </entryFree>
 
 <entryFree>
-<p><orth>MILPHOsE ou MïLTOsb</orth>, s. fém.
+<p><orth>MILPHOsE</orth> ou <orth>MïLTOsb</orth>, s. fém.
 <lb/><hi>milphosis</hi>, ιΐθμίλτος, miniltm ; nom
 <lb/>qu’Aétius donne à la dépilation des
 <lb/>paupieres, parce que dans cet état
@@ -37721,7 +37805,7 @@ mède qui purge doucement. <hi>VOytz</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>ΜIχτιον ou MtNTURE</orth>, s. fém.
+<p><orth>ΜIχτιον</orth> ou <orth>MtNTURE</orth>, s. fém.
 <lb/><hi>mixtura</hi>, mélange ; opération de
 <lb/>pharmaciepar laquelle onmêle des
 <lb/>substances de différente nature
@@ -37731,9 +37815,9 @@ mède qui purge doucement. <hi>VOytz</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>MObile</orth>, <gram>adj.</gram> <hi>mobilis</hi>, qui peut</p>
-
-<p>elre mu ; — <gram>s. m.</gram> corps qui est
+<p><orth>MObile</orth>, <gram>adj.</gram> <hi>mobilis</hi>, qui peut
+<cb/>
+être mu ; — <gram>s. m.</gram> corps qui est
 <lb/>mu ; Ja force mouvante : Mécan.</p>
 </entryFree>
 
@@ -37771,7 +37855,7 @@ mède qui purge doucement. <hi>VOytz</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>MOLAIRe ou MEULIÈRE</orth>, ndject.
+<p><orth>MOLAIRe</orth> ou <orth>MEULIÈRE</orth>, ndject.
 <lb/><hi>molaris</hi>, qui moud, qui broie, du
 <lb/>latin <hi>mola</hi>, meule ; se dit dcsgrosses
 <lb/>dents situées a la partic postérieure
@@ -38177,7 +38261,7 @@ qu’éprouvent les plantes et les aniinatix
 </entryFree>
 
 <entryFree>
-<p><orth>M ‘NA</orth>, <gram>s. m.</gram> mot chinoiscu japonoas
+<p><orth>MOXA</orth>, <gram>s. m.</gram> mot chinoiscu japonoas
 <lb/>; espèce d’absinthe três-velue
 <lb/>quc les Chinoisemploient pour
 <lb/>étabîir des ventouses uu lecautère
@@ -38190,14 +38274,16 @@ qu’éprouvent les plantes et les aniinatix
 <lb/>, iade, gluante, qu’on tire des
 <lb/>racines et des sernences de çertaines
 <lb/>plautes. <hi>Voy.</hi> <ref></ref>. MUQUEUx.</p>
+</entryFree>
 
-<p>iylbCILAGINEUX, EUSE, <gram>adj.</gram> <hi>mucilaginosus</hi>,
+<entryFree>
+<p><orth>MUCILAGINEUX</orth>, EUSE, <gram>adj.</gram> <hi>mucilaginosus</hi>,
 <lb/>qui contient ou qui est
 <lb/>de la nature du inucilage.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>MUÇ'NSITÉ</orth>, <gram>s. f.</gram> <hi>mucositas</hi>, hu»
+<p><orth>MUCOSITÉ</orth>, <gram>s. f.</gram> <hi>mucositas</hi>, hu»
 
 
 <pb n="221"/>
@@ -38210,8 +38296,10 @@ meur visqueuse, épaisse, de la nature
 <p><orth>MUCRONÉ</orth>, ÉE, <gram>adj.</gram> <hi>mucronatus</hi>,
 <lb/>de <hi>rnucro</hi>, pointe ; terminé brusquement
 <lb/>par une pointe aiguë.</p>
+</entryFree>
 
-<p>lVTUcUs, <gram>s. m.</gram> rnot latin qui signifîe
+<entryFree>
+<p><orth>MUCUS</orth>, <gram>s. m.</gram> rnot latin qui signifîe
 <lb/>morve^ mucosité; pcpduit de
 <lb/>l’èxc/étion des membranes muqueuses
 <lb/>: <hi>mucus</hi> nasal, <hi>rnucus</hi> buccal,
@@ -38254,7 +38342,7 @@ meur visqueuse, épaisse, de la nature
 </entryFree>
 
 <entryFree>
-<p><orth>MULTICAULE ou TIGEUX</orth>, fldj.
+<p><orth>MULTICAULE</orth> ou <orth>TIGEUX</orth>, fldj.
 <lb/><hi>mubticaulis</hi>, dont la racine produit
 <lb/>beaucoup de tiges : BOtan.</p>
 </entryFree>
@@ -38294,8 +38382,10 @@ meur visqueuse, épaisse, de la nature
 <lb/>, divisé très-profondénient en
 <lb/>u»i uornbre indéfini de lanieres
 <lb/>oblongues *. BOt.'</p>
+</entryFree>
 
-<p>iVIULTIPLE, <gram>adj.</gram> <hi>multiplusf</hi> se dir</p>
+<entryFree>
+<p><orth>MULTIPLE</orth>, <gram>adj.</gram> <hi>multiplusf</hi> se dir</p>
 
 <p>d’un nombre qui en contient plusieurs
 <lb/>fois un autre exactement.</p>
@@ -38370,7 +38460,7 @@ meur visqueuse, épaisse, de la nature
 </entryFree>
 
 <entryFree>
-<p><orth>Λ URIATIQUE 0XYGÉNÉ</orth>, <gram>adj.</gram> <hi>munaücus
+<p><orth>MURIATIQUE 0XYGÉNÉ</orth>, <gram>adj.</gram> <hi>munaücus
 <lb/>oxygenatus</hi>, ηοηι de l’acide
 <lb/>munatique avec excès d'oxygène;
 <lb/>crystaliisable eu iamcs ; pcsant à
@@ -38465,7 +38555,7 @@ contact de ki lumière et de tous les
 </entryFree>
 
 <entryFree>
-<p><orth>M YLOGLOSSE</orth>, <gram>adj.</gram> <hi>myloglossus</hi>,
+<p><orth>MYLOGLOSSE</orth>, <gram>adj.</gram> <hi>myloglossus</hi>,
 <lb/>d.e μύλοι, les dents molaires, et de
 <lb/>γλωσσα, la langue ; nom cle deux
 <lb/>musclesde la langue, ainsiappelés
@@ -38688,7 +38778,7 @@ ie dix mille nteties ; deux licuos
 </entryFree>
 
 <entryFree>
-<p><orth>NAPACÉe οιι Ναριγοιιμε</orth>, <gram>adj.</gram> L
+<p><orth>NAPACÉe</orth> ou <orth>Ναριγοιιμε</orth>, <gram>adj.</gram> L
 <lb/><hi>jIapacea</hi> ou <hi>napiformis</hi> ; se difc
 <lb/>d'une raciue qui ressemble a un
 <lb/>navet : BOtan.</p>
@@ -38830,7 +38920,7 @@ ie dix mille nteties ; deux licuos
 </entryFree>
 
 <entryFree>
-<p><orth>NAV ICULAIRE</orth>, <gram>adj.</gram> <hi>namcularis</hi>,
+<p><orth>NAVICULAIRE</orth>, <gram>adj.</gram> <hi>namcularis</hi>,
 <lb/>de <hi>navicula</hi>, petite barque, nacelle;
 <lb/>se dit d’un des os du tarse
 <lb/>quï lessemble a une nacelle. <hi>Voy.</hi> <ref>ScAPHOÏDE</ref> ; nom d’une espèce de</p>
@@ -38974,7 +39064,7 @@ appliqué à tant de choses essentiellement
 </entryFree>
 
 <entryFree>
-<p><orth>NÉPHRITIQUE tuNÉPHRÉTIQUE</orth>,
+<p><orth>NÉPHRITIQUE</orth> ou <orth>NÉPHRÉTIQUE</orth>,
 <lb/>adj. <hi>nephùticus</hi> ; se dit des douleurs
 <lb/>des reins, et des remèdès
 <lb/>propres aux maladies de ces organes
@@ -39178,7 +39268,7 @@ les nerfs qui sortent par les trohs
 </entryFree>
 
 <entryFree>
-<p><orth>NÉVROTIQUE ou NÉVRITIQUE</orth>,
+<p><orth>NÉVROTIQUE</orth> ou <orth>NÉVRITIQUE</orth>,
 <lb/>adj. <hi>VOyez</hi> NERVIN.</p>
 </entryFree>
 
@@ -39415,8 +39505,10 @@ en grec νὑξ, gén. νοκτος, et de λαμβάνω,
 <lb/>ligamens; symptôme assez ordinaire
 <lb/>de la vérole et de la goutte.
 <lb/><hi>VOyez</hi> TûPHUS.</p>
+</entryFree>
 
-<p>1NOEUD, <gram>s. m.</gram> <hi>nodus</hi>, nom que
+<entryFree>
+<p><orth>NOEUD</orth>, <gram>s. m.</gram> <hi>nodus</hi>, nom que
 <lb/>les botanistes donnent a chaque
 <lb/>point de la tige qui donne ou a
 <lb/>donné naissance à chaque feuille,
@@ -39678,7 +39770,7 @@ en grec νὑξ, gén. νοκτος, et de λαμβάνω,
 </entryFree>
 
 <entryFree>
-<p><orth>N YMPHE</orth>, <gram>s. f.</gram> <hi>nympha</hi>, en grec
+<p><orth>NYMPHE</orth>, <gram>s. f.</gram> <hi>nympha</hi>, en grec
 <lb/>νὸμφη, jeune cpouse, nouvelle mariée
 <lb/>; nom que les naturalistes don«4
 <lb/>nent au premier degré de la rnétamorphose
@@ -39726,15 +39818,14 @@ en grec νὑξ, gén. νοκτος, et de λαμβάνω,
 <lb/><hi>nymplae</hi>, νὑμφ».</p>
 </entryFree>
 
-<entryFree>
-<p><orth>O</orth></p>
+<label>O</label>
 
-<p><hi>ObCLAVe</hi>, Ér, <gram>adj.</gram> <hi>obclavatus r
+<entryFree>
+<p><orth>OBCLAVÉ</orth>, Ér, <gram>adj.</gram> <hi>obclavatus r
 <lb/></hi>de <hi>clava</hi>, massue ; eu massue renversée
-<lb/>: BOt.
-</p>
-<pb n="230"/>
+<lb/>: BOt.</p>
 </entryFree>
+<pb n="230"/>
 
 <entryFree>
 <p><orth>OBCONIQUE</orth>, <gram>adj.</gram> <hi>obconicus</hi>, de
@@ -39883,7 +39974,7 @@ en grec νὑξ, gén. νοκτος, et de λαμβάνω,
 </entryFree>
 
 <entryFree>
-<p><orth>OCHRE 011 OCRE</orth>, <gram>s. m.</gram> <hi>ochra</hi>,
+<p><orth>OCHRE</orth> ou <orth>OCRE</orth>, <gram>s. m.</gram> <hi>ochra</hi>,
 <lb/>d’ixpôç, pâlc ; mélange deterre et
 <lb/>de ler a divers degrés d’oxydation
 <lb/>, ninsi appelé a cause de sa
@@ -39947,7 +40038,7 @@ en grec νὑξ, gén. νοκτος, et de λαμβάνω,
 </entryFree>
 
 <entryFree>
-<p><orth>ODONTAGRE Olt ODONTALGIE</orth>,
+<p><orth>ODONTAGRE</orth> ou <orth>ODONTALGIE</orth>,
 <lb/>s.f. <hi>odontagra, odontalgia</hi>, d ΐδούς,
 <lb/>gén. ὀδοντος dent, et εΐ’ἄγρα, capture,
 <lb/>ou ιΙ’ἄλγος, douleur; douleur
@@ -39984,25 +40075,31 @@ en grec νὑξ, gén. νοκτος, et de λαμβάνω,
 </entryFree>
 
 <entryFree>
-<p><orth>ÜDONTOPÈTRES</orth>, <gram>s. m.</gram> pl. <hi>odontopetrœ</hi>
+<p><orth>ODONTOPÈTRES</orth>, <gram>s. m.</gram> pl. <hi>odontopetrœ</hi>
 <lb/>, (Γόδούς, gén. ὀδὸντος, dent,
 <lb/>et de πέτρος, pierre ; nom que des
 <lb/>naturalistes donnent aux dents de
 <lb/>poissons pétriiiés. <hi>Voy.</hi> <ref></ref>. GLOssoriTRES.
 <lb/></p>
+</entryFree>
 
-<p>0?ΟΐίΤΟΡΗΙΒ, <gram>s. f.</gram> <hi>odontophia</hi>,
+<entryFree>
+<p><orth>ODONTOPHIE</orth>, <gram>s. f.</gram> <hi>odontophia</hi>,
 <lb/>du grec ὀδοὴς, gén. ὀδόντος; dent, et
 <lb/>de φύω, je nais, je croîs ; mot a mot
 <lb/>naissance ou pousse des dents. <hi>Voy.</hi> <ref>DENTITION</ref>.</p>
+</entryFree>
 
-<p>0DONTOTECHNIE, <gram>s. f.</gram> <hi>odontotechnîa</hi>,
+<entryFree>
+<p><orth>ODONTOTECHNIE</orth>, <gram>s. f.</gram> <hi>odontotechnîa</hi>,
 <lb/>«Ι’ἴδους, gén. ὀδοντος, dent,
 <lb/><hi>et</hi> de τἄχνη, art; l’art du dentiste,
 <lb/>dont l’ubjet est la conservation des
 <lb/>dents.</p>
+</entryFree>
 
-<p>0DORAT, <gram>s. m.</gram> <hi>odoratus</hi>, du latin
+<entryFree>
+<p><orth>ODORAT</orth>, <gram>s. m.</gram> <hi>odoratus</hi>, du latin
 <lb/><hi>odor</hi>, odeur; organe qui perçoit
 <lb/>et di.scerne les odeurs ; il a son siege
 <lb/>tlans la membrane muqueuse qui
@@ -40010,11 +40107,11 @@ en grec νὑξ, gén. νοκτος, et de λαμβάνω,
 </entryFree>
 
 <entryFree>
-<p><orth>ÛECONOMIE</orth>. <hi>V.</hi> <ref></ref>. LCONOMIE.</p>
+<p><orth>ŒCONOMIE</orth>. <hi>V.</hi> <ref></ref>. LCONOMIE.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>OEüÉMATIe</orth>, s. E <hi>œdematia</hi>,
+<p><orth>ŒDÉMATIE</orth>, s. E <hi>œdematia</hi>,
 <lb/>ιΐ’ἴιδεω je suis enflé ; état du corps
 <lb/>ou de quelqu’une de s.es parties affectées
 <lb/>d’OÈDÉME. <hi>V, ce</hi> mot.</p>
@@ -40136,8 +40233,10 @@ d’avant en arrière, musculo-membraneux,
 <p><orth>OEsoPHAGIEN</orth>, ENNE, <gram>adj.</gram> <hi>œsophageus</hi>,
 <lb/>qui appartient a l’œsophage.
 <lb/></p>
+</entryFree>
 
-<p>0ESOPHAGOTOMIE, <gram>s. f.</gram> <hi>œsophagptomia</hi>,
+<entryFree>
+<p><orth>ŒSOPHAGOTOMIE</orth>, <gram>s. f.</gram> <hi>œsophagptomia</hi>,
 <lb/>ίΡὀισοφάφος, Pœsopliage, et
 <lb/>de τομὴ, incision, dérivé de τέμνω, je
 <lb/>coupe ; incision faite a l’œsophage
@@ -40306,7 +40405,7 @@ nes, (Γὀλίγος, peu, et de σπερμα, se“
 </entryFree>
 
 <entryFree>
-<p><orth>ÛMASUM ΟΠ OMASUS</orth>, <gram>s. m.</gram> ΠΟΠI
+<p><orth>OMASUM</orth> ou <orth>OMASUS</orth>, <gram>s. m.</gram> ΠΟΠI
 <lb/>qu’on donne au troisième ventricule
 <lb/>des animanN rtiminans|</p>
 </entryFree>
@@ -40373,7 +40472,7 @@ nes, (Γὀλίγος, peu, et de σπερμα, se“
 </entryFree>
 
 <entryFree>
-<p><orth>OMOCLAVICULAIRE OU CûRACÔCLAVICULAIRE</orth>
+<p><orth>OMOCLAVICULAIRE</orth> ou <orth>CûRACÔCLAVICULAIRE</orth>
 <lb/>, <gram>adj.</gram> <hi>omoclavicularis</hi>
 <lb/>ou <hi>coracoclavicularis</hi>, ιΐ’ωμος,
 <lb/>épallle, OU de κοραξ, géll. κορακος,
@@ -40514,7 +40613,7 @@ ter avec une liqueur grasse, huileuse;—de
 </entryFree>
 
 <entryFree>
-<p><orth>ONGLET ou ONGLE</orth>, S. ΠI. <hi>unguis;</hi>
+<p><orth>ONGLET</orth> ou <orth>ONGLE</orth>, S. ΠI. <hi>unguis;</hi>
 <lb/>cn botanique, endroit par lequel
 <lb/>le petale tient au caliced’une plante
 <lb/>; — en pathologie, pellicule qui
@@ -40549,8 +40648,10 @@ ter avec une liqueur grasse, huileuse;—de
 <lb/>on ajuUte des végétaux, des
 <lb/>animatix, des minéraux, selon l’indication
 <lb/>a remt lir.</p>
+</entryFree>
 
-<p>0NOCROTALE, <gram>s. m.</gram> <hi>onocrotalus</hi>,
+<entryFree>
+<p><orth>ONOCROTALE</orth>, <gram>s. m.</gram> <hi>onocrotalus</hi>,
 <lb/>d’cvoç, âne, et de κροτος, brt.il ; uoni
 <lb/>que les Grecs donnoient au pélican,
 <lb/>parce que le cri de cet oiseau ressemble
@@ -40558,7 +40659,7 @@ ter avec une liqueur grasse, huileuse;—de
 </entryFree>
 
 <entryFree>
-<p><orth>ΟVονι8</orth>, <gram>s. m.</gram> du grec ἴνος, âne ;
+<p><orth>ONONIS</orth>, <gram>s. m.</gram> du grec ἴνος, âne ;
 <lb/>plante épineuse del’ordre dcs légumineuses
 <lb/>, dont les anes sontt
 <lb/>très-friands ; arreie-bœuf.</p>
@@ -40573,7 +40674,7 @@ ter avec une liqueur grasse, huileuse;—de
 </entryFree>
 
 <entryFree>
-<p><orth>ÛPALE</orth>, <gram>s. f.</gram> <hi>opalus</hi>, pierrc précieuse,
+<p><orth>OPALE</orth>, <gram>s. f.</gram> <hi>opalus</hi>, pierrc précieuse,
 <lb/>sortc de silex, d’une couleur
 <lb/>laiteuse et repandantde beaux
 <lb/>reflets d’iris.</p>
@@ -40694,8 +40795,10 @@ ter avec une liqueur grasse, huileuse;—de
 <lb/>, (Γόφθαλμὸς, œil, et de λόγος,
 <lb/>discours ; partie de l’anatomie qui
 <lb/>traite desyeuN.</p>
+</entryFree>
 
-<p>0PHTHALMOSCOPIE, <gram>s. f.</gram> <hi>oplltllalnioscopia</hi>
+<entryFree>
+<p><orth>OPHTHALMOSCOPIE</orth>, <gram>s. f.</gram> <hi>oplltllalnioscopia</hi>
 <lb/>, Α’ὀφθαλμὸς, œil, et de
 <lb/>ςκιπέω, j’examine, je considere ;
 <lb/>Part de connoître le tempérament
@@ -40716,7 +40819,7 @@ ter avec une liqueur grasse, huileuse;—de
 </entryFree>
 
 <entryFree>
-<p><orth>ÛPHTHALMOTOMIE</orth>, <gram>s. f.</gram> <hi>ophthldTnotomia</hi>,
+<p><orth>OPHTHALMOTOMIE</orth>, <gram>s. f.</gram> <hi>ophthldTnotomia</hi>,
 <lb/>Α’ὀφθαλμὸς, œil, et νΙΡτομὴ,
 <lb/>incision, dérive de τέμνω, je coupe ;
 <lb/>partie dePanatomie quia pourobjet
@@ -40750,8 +40853,10 @@ ter avec une liqueur grasse, huileuse;—de
 <p><orth>OPILATION</orth>, 8. <hi>i’</hi>. <hi>oppilatio</hi>, du
 <lb/>verbe <hi>oppilate</hi>, obstruer, remplir;
 <lb/>obstruction.</p>
+</entryFree>
 
-<p>0PISTHOTONOS, <gram>s. m.</gram> <hi>opisthotonus</hi>
+<entryFree>
+<p><orth>OPISTHOTONOS</orth>, <gram>s. m.</gram> <hi>opisthotonus</hi>
 <lb/>, ΐΐ’ἴπισίεν, en arrière, et de τινος,
 <lb/>tension, du verbe τεήο, je tends,
 <lb/>espèce de tétanos ou contraction
@@ -40759,8 +40864,10 @@ ter avec une liqueur grasse, huileuse;—de
 <lb/>est renversé en arrière ct forme
 <lb/>une espèce d’arc dont la convexité
 <lb/>est en devant.</p>
+</entryFree>
 
-<p>0PISTO- GASTRIQUE, <gram>adj.</gram> <hi>opistogasiricus</hi>
+<entryFree>
+<p><orth>OPISTO-GASTRIQUE</orth>, <gram>adj.</gram> <hi>opistogasiricus</hi>
 <lb/>, εΐ,ὀπίσίιος, postérieur, situé
 <lb/>derricre, et de γαστὴρ, ventritule,
 <lb/>estomac; nom d’une branche
@@ -40850,8 +40957,10 @@ existe trois espèces : la premièrc
 <lb/>d’une odeur forte, désagréable
 <lb/>, d'une saveur amère et nauséeuse.
 <lb/></p>
+</entryFree>
 
-<p>0PPOSÉ, ÉE, <gram>adj.</gram> <hi>oppositus</hi>; se
+<entryFree>
+<p><orth>OPPOSÉ</orth>, ÉE, <gram>adj.</gram> <hi>oppositus</hi>; se
 <lb/>dit de deux parties de plantes qui</p>
 
 <p>naîssent de deux points situés visa-vis
@@ -40877,8 +40986,10 @@ existe trois espèces : la premièrc
 <lb/>l’adolescence ; les anciens lesnommoient
 <lb/>aussi <hi>craIIteres, sopJIronesieres</hi>
 <lb/>ou <hi>dentes sapientiœ</hi>.</p>
+</entryFree>
 
-<p>0ρ80μανε, <gram>s. m.</gram> et f. <hi>opsomanes</hi>
+<entryFree>
+<p><orth>OPSOMANE</orth>, <gram>s. m.</gram> et f. <hi>opsomanes</hi>
 <lb/>, ιΐ’ἴψον, aliment, et de <hi>gamgtzi</hi>,
 <lb/>je suis fou ; qni airne épcrdûment
 <lb/>ou à la folie quelque aliment.</p>
@@ -41036,7 +41147,7 @@ existe trois espèces : la premièrc
 </entryFree>
 
 <entryFree>
-<p><orth>ÜREILLONS 011 ORILLONS</orth>, S. IH.
+<p><orth>ÜREILLONS</orth> ou <orth>ORILLONS</orth>, S. IH.
 <lb/>pl. du latin <hi>auris</hi>, oreille ; tumeurs
 <lb/>des parotides ainsi appelées parce
 <lb/>nue ces elandessont situées auprès
@@ -41221,7 +41332,7 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 </entryFree>
 
 <entryFree>
-<p><orth>ORTHOCÉR ATITE</orth>, <gram>s. f.</gram> <hi>orthoc€ratites</hi>
+<p><orth>ORTHOCÉRATITE</orth>, <gram>s. f.</gram> <hi>orthoc€ratites</hi>
 <lb/>, d’Spôoç, droit, et dexipaç.
 <lb/>corne; nom que les naturalistes
 <lb/>donuent a une coquille fossile ou
@@ -41246,7 +41357,7 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 </entryFree>
 
 <entryFree>
-<p><orth>OrTHOPNÉe »</orth> <gram>s. f.</gram> <hi>orthopnœa</hi>,
+<p><orth>OrTHOPNÉE</orth> <gram>s. f.</gram> <hi>orthopnœa</hi>,
 <lb/>d'opôos, droit, et de πνέω, je respire;
 <lb/>oppression ou géne de la poitrine
 <lb/>qni ne permet de respirer qu’assis
@@ -41290,7 +41401,7 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 </entryFree>
 
 <entryFree>
-<p><orth>ORTIÉE ( fièvre )</orth>, <gram>adj.</gram> <hi>urticaria
+<p><orth>ORTIÉE (fièvre)</orth>, <gram>adj.</gram> <hi>urticaria
 <lb/>f'ebris, cVUrtica</hi>, ortie ; maladie
 <lb/>qui débute par une fièvre continue
 <lb/>avec rémi.ssion, dans laquelle il
@@ -41307,14 +41418,18 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 <lb/>graphia</hi>, d’ôpuzroç, enfoui ou fossile,
 <lb/>et tle γράφω, je décris ; description
 <lb/>des fossiles.</p>
+</entryFree>
 
-<p>0RYCTOLOGIE, <gram>s. f.</gram> <hi>oryctologia</hi>,
+<entryFree>
+<p><orth>ORYCTOLOGIE</orth>, <gram>s. f.</gram> <hi>oryctologia</hi>,
 <lb/>d’cpuxTÔç, enfoui, fossile, dérivé
 <lb/>ιΙ’ὸρύσσω, je creuse, je fouis, et de
 <lb/>λόγος, discours; partie cle Pliistoire
 <lb/>naturelle qui traite des fossîles.</p>
+</entryFree>
 
-<p>0s,.s. m. <hi>os</hi>, gén. osslsdes Latins,
+<entryFree>
+<p><orth>OS</orth>,.<gram>s. m.</gram> <hi>os</hi>, gén. osslsdes Latins,
 <lb/>Jrnov des Grecs ; partiesolide, dure,
 <lb/>opaque,composée de phosphate calcaire
 <lb/>et de gélatine, dont les proportions
@@ -41331,14 +41446,16 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 </entryFree>
 
 <entryFree>
-<p><orth>OsCHÉOCÈLE</orth>, <gram>s. f.</gram> <hi>oscheocele</hi>,
+<p><orth>OSCHÉOCÈLE</orth>, <gram>s. f.</gram> <hi>oscheocele</hi>,
 <lb/>ιΗάχεον, le scrotum ou les bourses,
 <lb/>ot.de κή'λη, hernie, tunieur; hernie
 <lb/>danslaquelle l’intesiin et l’épiploon
 <lb/>descendent seulsou ensemble dans
 <lb/>le scrotum.</p>
+</entryFree>
 
-<p>0SCILLATION, <gram>s. f.</gram> <hi>oscillatio</hi>,
+<entryFree>
+<p><orth>OSCILLATION</orth>, <gram>s. f.</gram> <hi>oscillatio</hi>,
 <lb/>mOUVeuient d’un pendule ou dhni
 <lb/>autre corps qui va et vient cn sens
 <lb/>ciuitraire; espèce de balancement
@@ -41350,12 +41467,11 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 </entryFree>
 
 <entryFree>
-<p><orth>OsMIUM</orth>, <gram>s. m.</gram> nom d’un nouveau
+<p><orth>OSMIUM</orth>, <gram>s. m.</gram> nom d’un nouveau
 <lb/>métal aue M. Smithson Tennant
 <lb/>prétend cxister daus le ptène
-<lb/>ou nouveau métal des chimistes j</p>
-
-<p>| français. SUivant <hi>ce</hi> chimiste, le
+<lb/>ou nouveau métal des chimistes
+<cb/>français. SUivant <hi>ce</hi> chimiste, le
 <lb/>[ ptène est composé de deuN métaux
 <lb/>| distinctsde tous les métaux actuel.
 <lb/>lement connus ; il donne au premier,
@@ -41426,7 +41542,7 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 </entryFree>
 
 <entryFree>
-<p><orth>OSTÉOGÉNIE ou OSTÉOGÉNÉSIE</orth>,</p>
+<p><orth>OSTÉOGÉNIE</orth> ou <orth>OSTÉOGÉNÉSIE</orth>,</p>
 </entryFree>
 
 <entryFree>
@@ -41495,7 +41611,7 @@ d'orge, d'où l’on a formé <hi>orgeolet ;
 </entryFree>
 
 <entryFree>
-<p><orth>OSTR ACODERME</orth>, <gram>adj.</gram> <hi>ostracodermus</hi>,
+<p><orth>OSTRACODERME</orth>, <gram>adj.</gram> <hi>ostracodermus</hi>,
 <lb/>ίΐ’ἴστρακον, écaille, et de δερμα,
 <lb/>peau ; se dit des animaux dont la
 <lb/>peau est couverte d’écailles, pour
@@ -41840,8 +41956,10 @@ tasse; soluble dans dcux parties
 <lb/>feuille mince, écailleuse, sèchc,
 <lb/>rigidule, dressée, qui presse et enyeloppe
 <lb/>la base d’une tleur : BOt.</p>
+</entryFree>
 
-<p>pAIiAIS, <gram>s. m.</gram> <hi>palatum</hi>, partie
+<entryFree>
+<p><orth>PALAIS</orth>, <gram>s. m.</gram> <hi>palatum</hi>, partie
 <lb/>supérieure de la cavilé de la bouche
 <lb/>; sorte de voûte parabolique
 <lb/>formée par les deux es maNIllaires
@@ -42248,7 +42366,7 @@ du méso colon, transversalement
 </entryFree>
 
 <entryFree>
-<p><orth>ΡαρΙΕΒ ou PAPYER</orth>, <hi>S</hi>. m. <hi>papyrus</hi>,
+<p><orth>ΡαρΙΕΒ</orth> ou <orth>PAPYER</orth>, <hi>S</hi>. m. <hi>papyrus</hi>,
 <lb/>deîninvpoç, papyrus, petit arbrisseau
 <lb/>d’Egypte de la lamille des
 <lb/>massettes ou cypéroïdes, dont l’ccorce
@@ -42369,7 +42487,7 @@ dont les anciens se servoient pour
 </entryFree>
 
 <entryFree>
-<p><orth>PAR ACYNANCIE</orth>, <gram>s. f.</gram> <hi>paracynanche</hi>
+<p><orth>PARACYNANCIE</orth>, <gram>s. f.</gram> <hi>paracynanche</hi>
 <lb/>, de παρὰ, qui indique une comparaison,
 <lb/>de χύων, chien, et ιΐ’ἄγχω,
 <lb/>je suffoque ; espèce d'esquinancie
@@ -42551,7 +42669,7 @@ dont les anciens se servoient pour
 </entryFree>
 
 <entryFree>
-<p><orth>PARAPLÉGIEOU PARAPLKXIE</orth>, S. f’.
+<p><orth>PARAPLÉGIE</orth> ou <orth>PARAPLKXIE</orth>, S. f’.
 <lb/><hi>paraplegia, paraplexia</hi>, de παρὰ,
 <lb/>qui marque ici quelque chose ne
 <lb/>nuisible, et de πλήσσω, je. frappe ;
@@ -42642,7 +42760,7 @@ muscleassez longqui forme le bord
 </entryFree>
 
 <entryFree>
-<p><orth>PARÉLIE on PARHÉLIE</orth>, S. ΠΊ.
+<p><orth>PARÉLIE</orth> ou <orth>PARHÉLIE</orth>, S. ΠΊ.
 <lb/><hi>parhelium</hi>, de παρὰ, proche, et
 <lb/>d’iÎÀIOç, le soleil ; image du soleil
 <lb/>dans une nuée, ou apparence d’un
@@ -42756,8 +42874,10 @@ raille, et par comparaison toute
 <p><orth>PARTIBLE</orth>, <gram>adj.</gram> <hi>partibilis</hi>, susceptible
 <lb/>de division spontanée :
 <lb/>BOt.</p>
+</entryFree>
 
-<p>pARULIE, <gram>s. f.</gram> <hi>parulis</hi>, de παρὰ,
+<entryFree>
+<p><orth>PARULIE</orth>, <gram>s. f.</gram> <hi>parulis</hi>, de παρὰ,
 <lb/>proche, ct dWOV, gencive ; tu meur
 <lb/>inflammatoiredesgencivesqui vient
 <lb/>quelquefois à suppuration.</p>
@@ -42959,7 +43079,7 @@ raille, et par comparaison toute
 </entryFree>
 
 <entryFree>
-<p><orth>PÉDICULAI RE</orth>, 3dj. <hi>pedicularis</hi>,
+<p><orth>PÉDICULAIRE</orth>, 3dj. <hi>pedicularis</hi>,
 <lb/>dn latin <hi>pediculus</hi>, pou ; qui concerne
 <lb/>les poux ; maladie où il s’engenllrc
 <lb/>une grande quantité de
@@ -43302,7 +43422,7 @@ fusion de la sérosite, laissent des taches
 </entryFree>
 
 <entryFree>
-<p><orth>PÉPASTIQCE ou PUPTIQUE</orth>, <gram>adj.</gram>
+<p><orth>PÉPASTIQCE</orth> ou <orth>PUPTIQUE</orth>, <gram>adj.</gram>
 <lb/><hi>pepasticus</hi> ou <hi>pepticus</hi>, maturatif ;
 <lb/>nom que les humoristes donncnt
 <lb/>aux remèdes capables de cuire le.s
@@ -43457,7 +43577,7 @@ couverte d’une tunique propre,
 </entryFree>
 
 <entryFree>
-<p><orth>PÉRICHONDRE ΟΠ PERICONDRE »</orth>
+<p><orth>PÉRICHONDRE</orth> ou <orth>PERICONDRE</orth>
 <lb/><hi>perichandrium</hi>, de <hi>περὶ</hi>, autour, et
 <lb/>de χόνδρος, cartilage ; membrane
 <lb/>qui recouvre les cartilages.</p>
@@ -43560,7 +43680,7 @@ mines qui sont attachées aiitour de
 </entryFree>
 
 <entryFree>
-<p><orth>PÉRÏOECIENS ou PÉRIECIENS</orth>, S.
+<p><orth>PÉRÏOECIENS</orth> ou <orth>PÉRIECIENS</orth>, S.
 <lb/>m. pl. <hi>periœcii</hi>, de περὶ, autour, et
 <lb/>ίΐ’ὰκεω, jfliabite ; nom de ceux qui
 <lb/>habitent sous le même degré de
@@ -43658,7 +43778,7 @@ mines qui sont attachées aiitour de
 </entryFree>
 
 <entryFree>
-<p><orth>PÉRISTAP HYLIN</orth>, <gram>adj.</gram> <hi>ru.peristaphylinus</hi>
+<p><orth>PÉRISTAPHYLIN</orth>, <gram>adj.</gram> <hi>ru.peristaphylinus</hi>
 <lb/>, de περὶ, autour, auprès,
 <lb/>et de σταφυλὴ, la luette.</p>
 </entryFree>
@@ -43710,7 +43830,7 @@ deste : HIppocr. <hi>de decenti habitu ;</hi>
 </entryFree>
 
 <entryFree>
-<p><orth>PÉRITONITE oil PERITONITIS</orth>,
+<p><orth>PÉRITONITE</orth> ou <orth>PERITONITIS</orth>,
 <lb/>s. f. du grec περιτονάιον, péritoine ;
 <lb/>phlegmasie ou inflammation du péritoihe,
 <lb/>causée par l’impression
@@ -44083,7 +44203,7 @@ qui composent lcs corolles polypetales
 </entryFree>
 
 <entryFree>
-<p><orth>PÉTRIFIC ΑΤΙOΝ</orth>, <gram>s. f.</gram> <hi>petriflcada</hi>,
+<p><orth>PÉTRIFICΑΤΙOΝ</orth>, <gram>s. f.</gram> <hi>petriflcada</hi>,
 <lb/>conversion d’une substance organisée
 <lb/>en matière pierrêüse ; operàtion
 <lb/>par laquelle, selon l'opinion
@@ -44095,7 +44215,7 @@ qui composent lcs corolles polypetales
 </entryFree>
 
 <entryFree>
-<p><orth>PÉTROLE ou PÉTRÉOLE</orth>, S. ΠI.
+<p><orth>PÉTROLE</orth> ou <orth>PÉTRÉOLE</orth>, S. ΠI.
 <lb/><hi>petrolœum</hi>, en grec πετρέλαίον, de
 <lb/>πέΊρος, pierre, et ΐΐ’ἔλαιον, huile ;
 <lb/>conune si l’on disoit <hi>huile depierr : ;</hi>
@@ -44114,7 +44234,7 @@ qui composent lcs corolles polypetales
 </entryFree>
 
 <entryFree>
-<p><orth>PÉTRO-OALPINGO- STAPHYLIN</orth>,
+<p><orth>PÉTRO-OALPINGO-STAPHYLIN</orth>,
 <lb/>s. et <gram>adj.</gram> <hi>petro-salpingo-staphylinus</hi>,
 <lb/>de πέτρος, pierre, de σάλπιγξ,
 <lb/>trornpe, et de σταφυλη, luette ; 'nom
@@ -44325,7 +44445,7 @@ de hauteur que de front ;—nom que
 </entryFree>
 
 <entryFree>
-<p><orth>PHARYNGO-PA LATIN</orth>, 9(1 j. <hi>phû'
+<p><orth>PHARYNGO-PALATIN</orth>, 9(1 j. <hi>phû'
 <lb/>ryJIgo-palatinus</hi>, (1β φάρυφξ, Ιθ go
 <lb/>sier, et de <hi>palatum</hi>, le palais ;
 <lb/>nom de deux muscles qui ont rapport
@@ -44347,13 +44467,9 @@ de hauteur que de front ;—nom que
 <lb/>a une lancette cacbée dans une canule
 <lb/>ou gaine d'argent légèrement
 <lb/>courbée, longue et plate, dont on
-<lb/>se sert pour ouyrir les abcès dan»
-</p>
+<lb/>se sert pour ouyrir les abcès dans
 <pb n="257"/>
-</entryFree>
-
-<entryFree>
-<p><orth>Je fond de 1 a gorge</orth>, et pour scarilier
+le fond de 1 a gorge, et pour scarilier
 <lb/>les amygdales. quand elles sont
 <lb/>si gonflees qd'elles menacent de
 <lb/>stinoquer et d’empécher la déglutition.
@@ -44545,7 +44661,7 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 </entryFree>
 
 <entryFree>
-<p><orth>PHLÉBOTOMISTEOU PHLÉBOTOME</orth>,
+<p><orth>PHLÉBOTOMISTE</orth> ou <orth>PHLÉBOTOME</orth>,
 <lb/>s. m. <hi>phlebot.omiIs</hi> ; nom decelui
 <lb/>qui onvre la veine ou qui saigne.
 <lb/>FqyezPHLÉBOTOMIE.</p>
@@ -44578,7 +44694,7 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 </entryFree>
 
 <entryFree>
-<p><orth>PhLEGM ATORRHAGIE</orth>, <gram>s. f.</gram> <hi>phlegmatorrhagia</hi>
+<p><orth>PHLEGMATORRHAGIE</orth>, <gram>s. f.</gram> <hi>phlegmatorrhagia</hi>
 <lb/>, de φλέγμα, flegme 011
 <lb/>pituite, er de ῥέω, je coulc ; écoulement
 <lb/>considérable et continuel
@@ -44590,12 +44706,15 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 </entryFree>
 
 <entryFree>
-<p><orth>PHLEGME</orth>, S. <hi>ru.VOyez</hi> PLEGME.
-<lb/>FHLEGMON. <hi>VOyez</hi> FLEOMON.</p>
+<p><orth>PHLEGME</orth>, <gram>s. m.</gram> <hi>VOyez</hi> <ref>FLEGME</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>PHLOGISTIQUE-S</orth>. ΠΊ. et adject.
+<p><orth>PHLEGMON</orth>. <hi>VOyez</hi> <ref>FLEGMON</ref>.</p>
+</entryFree>
+
+<entryFree>
+<p><orth>PHLOGISTIQUE</orth>, <gram>s. m.</gram> et adject.
 <lb/><hi>phlogisticus</hi>, de φλογιστὸς, brûlé, enflamrné
 <lb/>, de φλογίζω, j’enflamme,
 <lb/>dont la racine est φλέγω, je brûle ;
@@ -44612,11 +44731,8 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 <lb/>l’oxydation des métaux parlenr
 <lb/>combinaison avec l’oxygene. et
 <lb/>leur réduction ou désoxydation,
-<lb/>p-ar la séparation de ce même</p>
-</entryFree>
-
-<entryFree>
-<p><orth>Î)rincipe : raisonnement qui est</orth>
+<lb/>p-ar la séparation de ce même
+<cb/>Î)rincipe : raisonnement qui est
 <lb/>)ien plus vraisemblable que celui
 <lb/>des Staliens ; car suivant leur hypothèse,
 <lb/>un métal oxydé ou calciné
@@ -44701,12 +44817,8 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 <lb/>cornme celni des chats, etgarni de
 <lb/>moustaches ou de poils roides. Lei
 <lb/>peuplesqui habitent la FInlande, lc
-</p>
 <pb n="259"/>
-</entryFree>
-
-<entryFree>
-<p><orth>Kamtchatka et le Groenlànd</orth>,
+Kamtchatka et le Groenlànd,
 <lb/>tirentdeces animaux leur nourriture
 <lb/>et leur vêtement ; on en fait
 <lb/>des bonnets en EUrope et dans le
@@ -44815,8 +44927,10 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 <p><orth>PHOSPHURES</orth>, <gram>s. m.</gram> pl. nom générique
 <lb/>des coinbinaisons du phosphorc
 <lb/>avec différentes bases.</p>
+</entryFree>
 
-<p>1-’ηοτορηοκε, <gram>s. m.</gram> de φως, géri.
+<entryFree>
+<p><orth>PHOTOPHORE</orth>, <gram>s. m.</gram> de φως, géri.
 <lb/>φωτὸς, lumière,’et de φορὸς, qui porte,
 <lb/>dérivé de φέρω, je portc ; se dit cii
 <lb/>pptique d’un morceaii de fer-blanc
@@ -44954,7 +45068,7 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 </entryFree>
 
 <entryFree>
-<p><orth>PH V LLOSTOMES</orth>, <gram>s. m.</gram> pl.de φύλλον,
+<p><orth>PHYLLOSTOMES</orth>, <gram>s. m.</gram> pl.de φύλλον,
 <lb/>fcuille, et de στόμα, bouche; noin
 <lb/>d’un genie de chauve-sonris dont
 <lb/>le nez est entouré de membrancs
@@ -44994,7 +45108,7 @@ de φλὲψ. géu. φλεβὸς, veine, et de
 </entryFree>
 
 <entryFree>
-<p><orth>ΡΐΙ YSIOGNOMONIE</orth>, <gram>s. f.</gram> de φύσις,
+<p><orth>ΡHYSIOGNOMONIE</orth>, <gram>s. f.</gram> de φύσις,
 <lb/>nature ou caracteie, et de ςνώμων,
 <lb/>indice, dérivé de γινώσκω, jc connois
 <lb/>; terme nouveau, inventé par
@@ -45363,7 +45477,7 @@ vi.squeux; inventé pour faire prendre
 </entryFree>
 
 <entryFree>
-<p><orth>PINCES ou PINCETTES</orth>, <gram>s. f.</gram> pl.
+<p><orth>PINCES</orth> ou <orth>PINCETTES</orth>, <gram>s. f.</gram> pl.
 <lb/><hi>volsella</hi>, instrument de chirurgie
 <lb/>dont on se sert pour panser les
 <lb/>plaies, lesulcères, les fistules.</p>
@@ -45411,7 +45525,7 @@ vi.squeux; inventé pour faire prendre
 </entryFree>
 
 <entryFree>
-<p><orth>PIRIIORME ou PYRIFORME</orth>, <gram>adj.</gram>
+<p><orth>PIRIIORME</orth> ou <orth>PYRIFORME</orth>, <gram>adj.</gram>
 <lb/><hi>piriformis</hi>, de <hi>pirum</hi>, noire, et de
 <lb/><hi>forma</hi>, fornie ; qui a fa forme ou
 <lb/>la figure d’une poire.</p>
@@ -45688,7 +45802,7 @@ vi.squeux; inventé pour faire prendre
 </entryFree>
 
 <entryFree>
-<p><orth>PUATEAU ÉLECTRIQUE</orth>, S. masc»
+<p><orth>PLATEAU ÉLECTRIQUE</orth>, S. masc»
 <lb/>plan circulaire de verre, qu’on
 <lb/>rend actucllement électrique en
 <lb/>le faisant tourner entre des coussi-
@@ -45735,7 +45849,7 @@ nets. Le flint-glass ou crystal d’Angleterre,
 </entryFree>
 
 <entryFree>
-<p><orth>PUATRE OU GypsE</orth>, S. IH. <hi>gypsum</hi>
+<p><orth>PUATRE</orth> ou <orth>GypsE</orth>, S. IH. <hi>gypsum</hi>
 <lb/>, sulfate dechaux; sel neutre
 <lb/>insipide, souvent fossile, très-varié
 <lb/>dans sa forme, primitivement
@@ -45749,7 +45863,7 @@ nets. Le flint-glass ou crystal d’Angleterre,
 </entryFree>
 
 <entryFree>
-<p><orth>PL ATURES</orth>, <gram>s. m.</gram> plur. de πλατὴς,
+<p><orth>PLATURES</orth>, <gram>s. m.</gram> plur. de πλατὴς,
 <lb/>large. plat ou aplati, et ιΐ’οὑρὰ,
 <lb/>queue; norn d’une section de serpeiis
 <lb/>ainsi appelés parce qu’ils ont
@@ -45971,7 +46085,7 @@ pleurésie compliquée de péripneninonie,
 </entryFree>
 
 <entryFree>
-<p><orth>PIUMACEAU 0U PLUMASSEAU</orth>, S.
+<p><orth>PIUMACEAU</orth> ou <orth>PLUMASSEAU</orth>, S.
 <lb/>m. <hi>plumaceolus, litdieamen</hi>, tissu
 <lb/>de charpie replié par les extrémités,
 <lb/>et aplati entre le dos d’une
@@ -46062,7 +46176,7 @@ derne, parcequ’elle a découvert oii
 </entryFree>
 
 <entryFree>
-<p><orth>PNEUM ATOSE</orth>, <gram>s. f.</gram> <hi>pneumatosis</hi>,
+<p><orth>PNEUMATOSE</orth>, <gram>s. f.</gram> <hi>pneumatosis</hi>,
 <lb/>de πνεῦμα, air, vent, souffle; enflure
 <lb/>de l’estomac causée par des
 <lb/>vents ou flatuosités; selon quelques
@@ -46549,7 +46663,7 @@ est solide ou cartilagineuse. <hi>Voyez</hi> <ref>FOLYPE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>POLYSPERMATIQUEOU POLysPERME</orth>
+<p><orth>POLYSPERMATIQUE</orth> ou <orth>POLysPERME</orth>
 <lb/>, <gram>adj.</gram> <hi>polyspérmus</hi>, de πολύς,
 <lb/>plusieurs, et de σπέρμα, sernence,
 <lb/>graine; qui porte plusieurs graines
@@ -46840,7 +46954,7 @@ paré a celui d’un égal volume d’eait
 </entryFree>
 
 <entryFree>
-<p><orth>ΡθΤΕΝΤΐ EL</orth>, ELLE, <gram>adj.</gram> <hi>potentialis</hi>
+<p><orth>ΡOΤΕΝΤIEL</orth>, ELLE, <gram>adj.</gram> <hi>potentialis</hi>
 <lb/>, du mot latin <hi>potxntia</hi>, puissance
 <lb/>; se dit desremèdes qui, sans
 <lb/>agir actuellement, produisent leur
@@ -47224,7 +47338,7 @@ sîve des longitudes cles étoilesqui
 </entryFree>
 
 <entryFree>
-<p><orth>PRÉNOi 10Ν</orth>, s. t. <hi>prœnotio</hi>, du verbe
+<p><orth>PRÉNOTIOΝ</orth>, s. t. <hi>prœnotio</hi>, du verbe
 <lb/><hi>praenoscere</hi>, connoître d’avance ;
 <lb/>connoissance obscure qu’on a d’une
 <lb/>chose avant de Pavoir examinée.</p>
@@ -47285,7 +47399,7 @@ sîve des longitudes cles étoilesqui
 </entryFree>
 
 <entryFree>
-<p><orth>PRÉSER νΑΤ</orth>ΐΓ, IVe, <gram>adj.</gram> <hi>prœservativus</hi>
+<p><orth>PRÉSERVATIF</orth>, IVE, <gram>adj.</gram> <hi>prœservativus</hi>
 <lb/>; se dit des remèdes qui
 <lb/>ont la vertu de garantir dhniemaladie
 <lb/>qui menace.</p>
@@ -47347,8 +47461,10 @@ mouvement ; — en chimie, étre
 <lb/>des miNtes. <hi>VOyez</hi> LLÉΜ.ΕΝΤ
 <lb/>; — toute vérité qu’on ne
 <lb/>peut révoquer en doute: LOgiq,</p>
+</entryFree>
 
-<p>pRISMATLQUE, ad j. <hi>prismaticus f</hi>
+<entryFree>
+<p><orth>PRISMATIQUE</orth>, <gram>adj.</gram> <hi>prismaticus f</hi>
 <lb/>sedit de tont ce qui a rapport au
 <lb/>prisme, ou en a la figure. — <hi>Verre
 <lb/>pdsmatiaue</hi> ? solide de verre pour
@@ -47363,7 +47479,7 @@ mouvement ; — en chimie, étre
 </entryFree>
 
 <entryFree>
-<p><orth>I PRISME</orth>, <gram>s. m.</gram> du grec πρίσμα,
+<p><orth>PRISME</orth>, <gram>s. m.</gram> du grec πρίσμα,
 <lb/>de πρίζω, je scie, je coupe ; solide
 <lb/>ternuné a ses deux extrcmités par
 <lb/>deux polygones égaux et parallèles,
@@ -47625,20 +47741,22 @@ ladie, d’apres les signes concomitans
 </entryFree>
 
 <entryFree>
-<p><orth>ΡπθΡΑθΑΤΙΟΝ</orth>, <gram>s. f.</gram> <hi>propagatio</hi>,
+<p><orth>ΡROΡΑGΑΤΙΟΝ</orth>, <gram>s. f.</gram> <hi>propagatio</hi>,
 <lb/>genération, multiplicafion par
 <lb/>voie de génération. En physique
 <lb/>on dit aussi la propagation de
 <lb/>la lhmière et du son, pour leur
 <lb/>progrès ou leur prolongatîon.</p>
+</entryFree>
 
-<p>pRGPAGINE, <gram>s. f.</gram> <hi>propago</hi>, nom
+<entryFree>
+<p><orth>PROPAGINE</orth>, <gram>s. f.</gram> <hi>propago</hi>, nom
 <lb/>donné à la semence des mousses,
 <lb/>privée de.son enveloppe.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>PROPHYLACTIQUE OLI PROPHYLAXIE</orth>
+<p><orth>PROPHYLACTIQUE</orth> ou <orth>PROPHYLAXIE</orth>
 <lb/>, <gram>s. f.</gram> et <gram>adj.</gram> de προφυλαχτικὸς,
 <lb/>qui préserve, du verbe προφυλάσσω,
 <lb/>je garantis, dérivé de πρὸ, devaut,
@@ -47817,7 +47935,7 @@ tie artifîcielle à la place de celle
 </entryFree>
 
 <entryFree>
-<p><orth>PRUsstQUE » adject</orth>. de Prusse ;
+<p><orth>PRUSSIQUE</orth> <gram>adject.</gram> de Prusse ;
 <lb/>nom d’un acide particulicr qu’on
 <lb/>obtient par la distillation du sang,
 <lb/>et dont la combinaison avec le fer
@@ -47929,7 +48047,7 @@ d’un remède propre à fairc toniber
 </entryFree>
 
 <entryFree>
-<p><orth>PSYCTIQUE ou PSYCHTIQUE</orth>,
+<p><orth>PSYCTIQUE</orth> ou <orth>PSYCHTIQUE</orth>,
 <lb/>s. m. et <gram>adj.</gram> <hi>psycticus</hi>, de ψύχω, je
 <lb/>rafraîchis; nom des remèdes qui
 <lb/>onr la vertu de rafraîchir.</p>
@@ -48630,7 +48748,7 @@ tre; sel qu’on rctire des tonneatix
 </entryFree>
 
 <entryFree>
-<p><orth>QUADRANGULAIRE OU QUADRAKGULÉ</orth>
+<p><orth>QUADRANGULAIRE</orth> ou <orth>QUADRAKGULÉ</orth>
 <lb/>, ÉE, <gram>adj.</gram> <hi>quadrangulatus,
 <lb/>de quadrinus</hi>, de quatre, et
 <lb/><hi>d'angulus</hi>, angle - qui a quatre
@@ -48726,7 +48844,7 @@ tre; sel qu’on rctire des tonneatix
 </entryFree>
 
 <entryFree>
-<p><orth>QU ADRINÔME</orth>, S. III. <hi>quadrinQrnus</hi>,
+<p><orth>QUADRINÔME</orth>, S. III. <hi>quadrinQrnus</hi>,
 <lb/>du latin <hi>quadrinus</hi>, de quatre,
 <lb/>et du grec νομὴ, part, division
 <lb/>, du verle νεμω, je partage,
@@ -48748,7 +48866,7 @@ tre; sel qu’on rctire des tonneatix
 </entryFree>
 
 <entryFree>
-<p><orth>QüAD RIVALVE-</orth>, <gram>adj.</gram> <hi>quadrivalvis</hi>,
+<p><orth>QüADRIVALVE</orth>, <gram>adj.</gram> <hi>quadrivalvis</hi>,
 <lb/>qui s'ouvre en quatre valves : BOt.</p>
 </entryFree>
 
@@ -48983,7 +49101,7 @@ gerement obtus ; infusible ; pesant
 </entryFree>
 
 <entryFree>
-<p><orth>QUOTIDIENNE ( fièvre )</orth>, <gram>adj.</gram>/e-
+<p><orth>QUOTIDIENNE (fièvre)</orth>, <gram>adj.</gram>/e-
 <lb/><hi>bris quotidiana</hi>, fièvre dont les accès
 <lb/>reviennent tous les jOûrs ; elle
 <lb/>est intcrmittente ou rémittente, selon
@@ -49001,10 +49119,10 @@ gerement obtus ; infusible ; pesant
 <lb/>le dividende : Matliém.</p>
 </entryFree>
 
-<entryFree>
-<p><orth>R</orth></p>
+<label>R</label>
 
-<p>ïl.ABDOïDE, <gram>adj.</gram> <hi>rhabdoiïdes</hi>, de
+<entryFree>
+<p><orth>RABDOÏDE</orth>, <gram>adj.</gram> <hi>rhabdoiïdes</hi>, de
 <lb/>ῥάβδος, verge, et «Γεἶδος, form« ;
 <lb/>norn qu’on donne à la suture
 <lb/>sagittale ducràne, parce qu’elle
@@ -49149,8 +49267,10 @@ vingt-quatre vertèbres ; soutenant
 <lb/>disposées en étoile : tels sont
 <lb/>POUrsin de 111er, l’astérie ou ctcile
 <lb/>de mer : HIst. Nat.</p>
+</entryFree>
 
-<p>llADIAL, ALE, <gram>adj.</gram> <hi>radialis</hi>, de
+<entryFree>
+<p><orth>RADIAL</orth>, ALE, <gram>adj.</gram> <hi>radialis</hi>, de
 <lb/><hi>radius</hi>, rayon ; qui a rapport ou
 <lb/>rayon ou au radiits ; artère <hi>radiale</hi>
 <lb/>, neif <hi>radial</hi> : Anar. — nom
@@ -49237,22 +49357,24 @@ cine ; partie fibreuse d’une racine ;
 </entryFree>
 
 <entryFree>
-<p><orth>BADIOMÈTRE</orth>, <gram>s. m.</gram> <hi>radiometrum</hi>,
+<p><orth>RADIOMÈTRE</orth>, <gram>s. m.</gram> <hi>radiometrum</hi>,
 <lb/>du latin <hi>radius</hi>, rayon. et du grec
 <lb/>μέτρον, niesure, mot ù mot <hi>mesure
 <lb/>de rayons</hi> ; instrument astronomique
 <lb/>qui sert a prendre des hauteurs
 <lb/>®ur iner. On l’appelle aussi rayon
 <lb/>oistronomique.</p>
+</entryFree>
 
-<p>îlÂDIUs, <gram>s. m.</gram> le plus petit des
+<entryFree>
+<p><orth>RADIUS</orth>, <gram>s. m.</gram> le plus petit des
 <lb/>tleuNOs de l’avant-bras, ainsi appelé
 <lb/>parce qu’on l’a comparé à un
 <lb/>rayon de roue ( radius. )</p>
 </entryFree>
 
 <entryFree>
-<p><orth>ÏLAFFINAGE</orth>, S. Dl <hi>Vpurgatio</hi>, 3Cfion
+<p><orth>RAFFINAGE</orth>, S. Dl <hi>Vpurgatio</hi>, 3Cfion
 <lb/>de raffinerou de rendre le salpètre
 <lb/>, le sucre, etc. plus purs, en
 <lb/>Jes dépouillant de toute matière
@@ -49260,7 +49382,7 @@ cine ; partie fibreuse d’une racine ;
 </entryFree>
 
 <entryFree>
-<p><orth>IlAFLE</orth>, <gram>s. f.</gram> <hi>axis</hi>, grappe de raiein
+<p><orth>RAFLE</orth>, <gram>s. f.</gram> <hi>axis</hi>, grappe de raiein
 <lb/>qui n’a phis degrains; — support
 <lb/>long et mince le long duquel
 <lb/>sont attacbees dcs fleurs qui îorment
@@ -49268,7 +49390,7 @@ cine ; partie fibreuse d’une racine ;
 </entryFree>
 
 <entryFree>
-<p><orth>B ATRAÎCHISSANT</orth>, ANTE, Sllhst.
+<p><orth>RATRAÎCHISSANT</orth>, ANTE, Sllhst.
 <lb/>inasc.et <gram>adj.</gram> <hi>reftigerans</hi> ; se dit des
 <lb/>remèdes qui diminuent hi clialeur
 <lb/>du corps, et calment l’agitation des
@@ -49315,7 +49437,7 @@ cine ; partie fibreuse d’une racine ;
 </entryFree>
 
 <entryFree>
-<p><orth>RaLE ou RALEMBNT</orth>, s, masc.
+<p><orth>RaLE</orth> ou <orth>RALEMBNT</orth>, s, masc.
 <lb/><hi>stertor</hi> des L itins, ῥέκος des Grecs;
 <lb/>bruit qd'on entend dans la gorge
 <lb/>des moribonds, causé par le mouvernent
@@ -49470,7 +49592,7 @@ contact do l’air dont elles absorbent
 </entryFree>
 
 <entryFree>
-<p><orth>BAPPORT</orth>, <gram>s. m.</gram> <hi>relatio, renuncdaiio</hi>,
+<p><orth>RAPPORT</orth>, <gram>s. m.</gram> <hi>relatio, renuncdaiio</hi>,
 <lb/>acle authentique lâit en justice</p>
 
 <p>par (les médecins ou chirnrgiens
@@ -49523,7 +49645,7 @@ contact do l’air dont elles absorbent
 </entryFree>
 
 <entryFree>
-<p><orth>R ARÉFACTION</orth>, <gram>s. f.</gram> <hi>rarefiIctio</hi>,
+<p><orth>RARÉFACTION</orth>, <gram>s. f.</gram> <hi>rarefiIctio</hi>,
 <lb/>du verbe <hi>rarefitcere</hi>, étendre, di*.
 <lb/>later ; action de fiire acquérir plus
 <lb/>devolume aux corps, saiis y ajouterde
@@ -49682,7 +49804,7 @@ mètre du cercle, ou ligne liree dn
 </entryFree>
 
 <entryFree>
-<p><orth>RÉALGAR ou RÉALGAL</orth>, <gram>s. m.</gram> oxyde
+<p><orth>RÉALGAR</orth> ou <orth>RÉALGAL</orth>, <gram>s. m.</gram> oxyde
 <lb/>d’arsenic sulfuré ronge ;jquelquefois
 <lb/>orangé, translucide, électrique
 <lb/>par frotteinent, volatil au
@@ -49935,7 +50057,7 @@ ou d’écharpe, et l’autre, à gauche
 </entryFree>
 
 <entryFree>
-<p><orth>RÉFLÉCHI IE</orth>,adj. de <hi>retro</hi>, enarrière
+<p><orth>RÉFLÉCHI</orth>, IE, adj. de <hi>retro</hi>, enarrière
 <lb/>, et dc <hi>flecto</hi>, je fléchis ; <hi>mouvement
 <lb/>rdflechi</hi>, celui d*un corps
 <lb/>élastique qui, rencontrant un obstacle
@@ -50037,7 +50159,7 @@ cle Phorizon, qu’ilsne sont réellement
 </entryFree>
 
 <entryFree>
-<p><orth>RéfRA NdBILITÉ</orth>, <gram>s. f.</gram> du verbe
+<p><orth>RéfRANdBILITÉ</orth>, <gram>s. f.</gram> du verbe
 <lb/><hi>refringere</hi>, propriété qu’ont les
 <lb/>corps de changer de direction, en
 <lb/>traversant obliquement dcs miiieux
@@ -50180,7 +50302,7 @@ ses propres au rétablissement ou la
 </entryFree>
 
 <entryFree>
-<p><orth>B ÉGULE</orth>, s. tn. <hi>regulus</hi>, diminiitif
+<p><orth>BÉGULE</orth>, s. tn. <hi>regulus</hi>, diminiitif
 <lb/>de <hi>rex</hi>, gén. <hi>regis</hi>, roi ; petit
 <lb/>roi ; état d’un métal sans mélange;
 <lb/>dénomination que les alchimistes
@@ -50551,7 +50673,7 @@ perpétuer les especes : tels sont les
 </entryFree>
 
 <entryFree>
-<p><orth>IlÉTICULAIRE 0U IlÉTIFGRME</orth>,
+<p><orth>IlÉTICULAIRE</orth> ou <orth>IlÉTIFGRME</orth>,
 <lb/>adj. <hi>reticularis</hi> ou <hi>retiformis</hi> ; qui
 <lb/>ressemble à un réseau, qui a la
 <lb/>forme d’un réseau; membrane <hi>réticulaire</hi>
@@ -50592,13 +50714,15 @@ perpétuer les especes : tels sont les
 <lb/>de verre ou de terre, a vcntre large
 <lb/>et a bec recourbé, qui se joint au
 <lb/>récipient : Chim.</p>
+</entryFree>
 
-<p>11ÉTRACTION, <gram>s. f.</gram> <hi>retractio</hi>, raccourcissemént
+<entryFree>
+<p><orth>RÉTRACTION</orth>, <gram>s. f.</gram> <hi>retractio</hi>, raccourcissemént
 <lb/>d'unepartie : Méd.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>RbTRAITE ou Βετηαιτ</orth>, <gram>s. m.</gram>
+<p><orth>RETRAITE</orth> ou <orth>RETRAIT</orth>, <gram>s. m.</gram>
 <lb/>ou L <hi>retractio</hi>; action de se retirer;
 <lb/>diminution cle volume d’tin corps
 <lb/>humide desséclié au feu : Chim.</p>
@@ -50860,7 +50984,7 @@ gard du bas-ventre: on croyoit,
 </entryFree>
 
 <entryFree>
-<p><orth>RHOMBOÏDE ou IlHÜAIBOïDAL</orth>, S.
+<p><orth>RHOMBOÏDE</orth> ou <orth>RHOMBOÏDAL</orth>, S.
 <lb/>m. <hi>rhomboides</hi>, du grec ῥόμβος,
 <lb/>rhombe, et d’oXTOç, forrne, ressçrnblance
 <lb/>; fîgure a quatre côtés, dont
@@ -50983,7 +51107,7 @@ genre deplantes del’ordre des polygonées
 </entryFree>
 
 <entryFree>
-<p><orth>Rts ou RtRE</orth>, <gram>s. m.</gram> <hi>risus</hi>, mouvement
+<p><orth>RIS</orth> ou <orth>RIRE</orth>, <gram>s. m.</gram> <hi>risus</hi>, mouvement
 <lb/>involontaire dans les inuscles
 <lb/>des lévres et de la face, accornpagné
 <lb/>d’une respiration sonore et
@@ -51478,14 +51602,11 @@ qui s’attache au SACRUM et au COccyx.
 </entryFree>
 
 <entryFree>
-<p><orth>SA</orth>.GOU, s. masc. <hi>sagu granula</hi>,
+<p><orth>SAGOU</orth>, s. masc. <hi>sagu granula</hi>,
 <lb/>substance amilacée, en petits grains
 <lb/>arrondis, un peu anguleux ^blanche,
-<lb/>rougeàtre ou brunàtre ; opa-</p>
-</entryFree>
-
-<entryFree>
-<p><orth>I que</orth>, fade ; extraite de la moelle
+<lb/>rougeàtre ou brunàtre ; opaque,
+<cb/>fade ; extraite de la moelle
 <lb/>’ d’une espèce de palmier, <hi>palma
 <lb/>farinaria</hi> de RUmph, a laquelle on
 <lb/>donne la forme sphérique, en la
@@ -51647,8 +51768,10 @@ qui s’attache au SACRUM et au COccyx.
 <p><orth>SALSUGINEUX</orth>, EUSE, <gram>adj.</gram> <hi>salsuginosus</hi>,
 <lb/>de <hi>salsugo</hi>, saumure ; salé,
 <lb/>qui a rapport aû seh</p>
+</entryFree>
 
-<p>8αετατιον, <gram>s. f.</gram> <hi>saltatio</hi>, de
+<entryFree>
+<p><orth>SALTATION</orth>, <gram>s. f.</gram> <hi>saltatio</hi>, de
 <lb/><hi>salto</hi>, ie saute ; Paction de danser;
 <lb/>genre d’eNercice qui, chez les ROmains,
 <lb/>comprenoit non seulement
@@ -51812,8 +51935,10 @@ d’une forte succion ; il se nourrit
 <lb/>se portebien ; l’exercicepermanent,
 <lb/>libre, facile et agréable de toutes
 <lb/>les fonctions de Peconomie.</p>
+</entryFree>
 
-<p>8αρα, <gram>s. m.</gram> mot latin qui signi.
+<entryFree>
+<p><orth>SAPA</orth>, <gram>s. m.</gram> mot latin qui signi.
 <lb/>fie en français le moût, le raisiné,
 <lb/>le suc de raisins cuits.</p>
 </entryFree>
@@ -51894,7 +52019,7 @@ cieuse d’une belle couleur bleue
 </entryFree>
 
 <entryFree>
-<p><orth>SARco-EPIPLûMPHALB ♦ S</orth>. IH. <hi>sarco-epiplomphalus</hi>,
+<p><orth>SARco-EPIPLOMPHALE</orth>. <gram>s. m.</gram> <hi>sarco-epiplomphalus</hi>,
 <lb/>’de σὰρξ, chair,
 <lb/>(Ι’ἐπίπλοοη, l’épiploon, et ίΐ’ομφαλὸς,
 <lb/>le nombril ; hernie complete pro
@@ -51904,7 +52029,7 @@ cieuse d’une belle couleur bleue
 </entryFree>
 
 <entryFree>
-<p><orth>SARgo-HydROcÉLE</orth>, <gram>s. m.</gram> <hi>sarcohydrocele</hi>,
+<p><orth>SARCo-HydROcÉLE</orth>, <gram>s. m.</gram> <hi>sarcohydrocele</hi>,
 <lb/>de σὰρξ, chair, d’W'ooç,
 <lb/>eau, οίίΐθκήλη, tumeur; sarcocèie
 <lb/>acconipagné d’hydrocèle.</p>
@@ -52142,8 +52267,10 @@ vsAVoNULE, s. <hi>m.saponulus</hi>, combinaison
 <lb/>ditpar comparaison d’un muscle du
 <lb/>cou qui a la forme de ce triangle :
 <lb/>Anat.</p>
+</entryFree>
 
-<p><hi>SC</hi> ALPEL, <gram>s. m.</gram> <hi>scapeUIis</hi>, du
+<entryFree>
+<p><orth>SCALPEL</orth>, <gram>s. m.</gram> <hi>scapeUIis</hi>, du
 <lb/>verbe <hi>scalpo</hi>, je gratte, j’incise;
 <lb/>instrnment pour disséqtier : Anat.
 <lb/>et Chirurg.</p>
@@ -52312,7 +52439,7 @@ ble, agitation, mouvement irregulier
 </entryFree>
 
 <entryFree>
-<p><orth>ScI AMACHIE</orth>, <gram>s. f.</gram> <hi>Sciamachia</hi>,
+<p><orth>ScIAMACHIE</orth>, <gram>s. f.</gram> <hi>Sciamachia</hi>,
 <lb/>de σκιὰ, cmbre, et de μάχομαι,
 <lb/>je combats ; espèce d’eNercice
 <lb/>qui consistoit, chcz les anciens,
@@ -52337,7 +52464,7 @@ ble, agitation, mouvement irregulier
 </entryFree>
 
 <entryFree>
-<p><orth>SctNTILL ΑΤΙΟΝ</orth>, <gram>s. f.</gram> <hi>sFUldllaÜO</hi>,
+<p><orth>ScINTILLΑΤΙΟΝ</orth>, <gram>s. f.</gram> <hi>sFUldllaÜO</hi>,
 <lb/>du verbe <hi>scintillare</hi>, étinceler. pétiller
 <lb/>; étinceliement des étoiles :
 <lb/>Astron.</p>
@@ -52667,7 +52794,7 @@ xl'anois <hi>crobuth</hi>, ventre rompu, de
 </entryFree>
 
 <entryFree>
-<p><orth>SÉCRÉTEUR 0U SÉCRÉTOIPE</orth>, fldj.
+<p><orth>SÉCRÉTEUR</orth> ou <orth>SÉCRÉTOIPE</orth>, fldj.
 <lb/><hi>secretorius</hi>, du verbe.<hi>secernere</hi>,
 <lb/>séparer : norn des vaisseaux qui
 <lb/>séparent quelque humeur de la
@@ -52744,12 +52871,14 @@ xl'anois <hi>crobuth</hi>, ventre rompu, de
 </entryFree>
 
 <entryFree>
-<p><orth>SUIN</orth>, <gram>s. m.</gram> <hi>sinus, ubera</hi>, entredeux
+<p><orth>SEIN</orth>, <gram>s. m.</gram> <hi>sinus, ubera</hi>, entredeux
 <lb/>des manielles ; — mamelles
 <lb/>des fcmmes ;—endroit oùla femelle
 <lb/>couçoit et porte son fruit.</p>
+</entryFree>
 
-<p>8kl, <gram>s. m.</gram> <hi>sal</hi>, combinaison d’un
+<entryFree>
+<p><orth>SEL</orth>, <gram>s. m.</gram> <hi>sal</hi>, combinaison d’un
 <lb/>acide avec un alcali, une terre, ou
 <lb/>uu métal : Chim. — dans l’usage
 <lb/>ordinaire, il se dit du sel qu’on
@@ -52774,7 +52903,7 @@ xl'anois <hi>crobuth</hi>, ventre rompu, de
 </entryFree>
 
 <entryFree>
-<p><orth>SÉ LÉNOGrAPIIIE</orth>, S. E <hi>selenographia</hi>,
+<p><orth>SÉLÉNOGrAPHIE</orth>, S. E <hi>selenographia</hi>,
 <lb/>de,σελήνη, la lune.et.de
 </p>
 <pb n="307"/>
@@ -52803,7 +52932,7 @@ xl'anois <hi>crobuth</hi>, ventre rompu, de
 </entryFree>
 
 <entryFree>
-<p><orth>SÉMÉIOTIQUE OU SÉMIOTIQUE</orth>,
+<p><orth>SÉMÉIOTIQUE</orth> ou <orth>SÉMIOTIQUE</orth>,
 <lb/>S. f. <hi>semeiotice</hi>, de σημειω, je siguifie,
 <lb/>je donne des signes; partie de
 <lb/>la médecine qui traire des signes
@@ -52842,17 +52971,18 @@ xl'anois <hi>crobuth</hi>, ventre rompu, de
 </entryFree>
 
 <entryFree>
-<p><orth>SeMI-FLOSGULEUX</orth>, EUSE, fldj.
+<p><orth>SEMI-FLOSCULEUX</orth>, EUSE, fldj.
 <lb/><hi>semi - flosculosïis</hi>, a deini-fleurons :
 <lb/>BOt</p>
-
-<p>iseMI-TIUN ATR e, <gram>adj.</gram><hi>semi-lunaris;</hi>
-<lb/>qni est en demi-lune : Anat. <hi>Voyez</hi> <ref>8</ref>
-<lb/>IGMOÏDE.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>SÉMINAL</orth>, ALE J <gram>adj.</gram> <hi>scminalis</hi>
+<p><orth>SEMI-LUNAIRE</orth>, <gram>adj.</gram><hi>semi-lunaris;</hi>
+<lb/>qni est en demi-lune : Anat. <hi>Voyez</hi> <ref>SIGMOÏDE</ref>.</p>
+</entryFree>
+
+<entryFree>
+<p><orth>SÉMINAL</orth>, ALE, <gram>adj.</gram> <hi>scminalis</hi>
 <lb/>qui a rapport â la semeuce, à la
 <lb/>graine.</p>
 </entryFree>
@@ -53138,7 +53268,7 @@ dents on crochets quelquefôis venimcuN,
 </entryFree>
 
 <entryFree>
-<p><orth>SÉRUM ou SÉROSITÉ Dü SANG</orth>,
+<p><orth>SÉRUM</orth> ou <orth>SÉROSITÉ Dü SANG</orth>,
 <lb/>s. m. ou f. <hi>serum, serositas sanguinis</hi>
 <lb/>; liquide qui se sépare du sang
 <lb/>caillé parle repos; jaune, verdatre,
@@ -53231,7 +53361,7 @@ dents on crochets quelquefôis venimcuN,
 </entryFree>
 
 <entryFree>
-<p><orth>SETIER otl SïPTIER</orth>, s. πι. <hi>sextarius</hi>
+<p><orth>SETIER</orth> ou <orth>SEPTIER</orth>, s. πι. <hi>sextarius</hi>
 <lb/>, ancienne tnesiire roinaii.le:
 <lb/>nicsure de grains, dc liqueur, de
 <lb/>terre ; elle correspond à un hectolitre
@@ -53273,7 +53403,7 @@ dents on crochets quelquefôis venimcuN,
 </entryFree>
 
 <entryFree>
-<p><orth>SbxE</orth>, <gram>s. m.</gram> <hi>sexus</hi>, du verbe
+<p><orth>SEXE</orth>, <gram>s. m.</gram> <hi>sexus</hi>, du verbe
 <lb/><hi>seco</hi>, je sépare ; différence physique
 <lb/>du mâle et de la lemelle
 <lb/>dans lesvégétauN et dans les aniinaux;
@@ -53285,11 +53415,15 @@ dents on crochets quelquefôis venimcuN,
 <lb/>sexe</hi>. <hi>— Sexuel</hi>, <gram>adj.</gram> qui appartient
 <lb/>au sexe, qui le caractérise dans
 <lb/>les plantes et les animaux : BOt.</p>
+</entryFree>
 
-<p>δεχτΑΝ, <gram>s. m.</gram> instrument qui
+<entryFree>
+<p><orth>SEXTAN</orth>, <gram>s. m.</gram> instrument qui
 <lb/>contient 60 degrés : Astron.</p>
+</entryFree>
 
-<p>8εχτανε, <gram>adj.</gram> f. <hi>sextana febris</hi>,
+<entryFree>
+<p><orth>SEXTANE</orth>, <gram>adj.</gram> f. <hi>sextana febris</hi>,
 <lb/>fièvre qui revient, dit-on, tous les
 <lb/>six jours.</p>
 </entryFree>
@@ -53308,7 +53442,7 @@ dents on crochets quelquefôis venimcuN,
 </entryFree>
 
 <entryFree>
-<p><orth>SIALAGOGUE 011 SIALOGOGUE</orth>,
+<p><orth>SIALAGOGUE</orth> ou <orth>SIALOGOGUE</orth>,
 <lb/>s. m. et <gram>adj.</gram> <hi>sialagogus</hi> ou <hi>sialogogus</hi>,
 <lb/>de σίαλον, salive, et d'aγω
 <lb/>, je chasse ; qui excite ou provoque
@@ -53348,8 +53482,10 @@ dents on crochets quelquefôis venimcuN,
 <lb/>nature, fourrées, selon GUy-Patin
 <lb/>, par lcs Arabcs dans la mcdecme.
 <lb/></p>
+</entryFree>
 
-<p>διηέκΑΤΐΟΝ, <gram>s. f.</gram> <hi>sideratio</hi>,
+<entryFree>
+<p><orth>SIDÉRATION</orth>, <gram>s. f.</gram> <hi>sideratio</hi>,
 <lb/>apoplexie et paralysie snbite,
 <lb/>du mot latin <hi>sidus, sideris</hi>, as-
 <lb/><hi>trc</hi> ; comiuê si l’on etoit frappé</p>
@@ -53379,7 +53515,7 @@ dents on crochets quelquefôis venimcuN,
 </entryFree>
 
 <entryFree>
-<p><orth>StGMOïDE ou SIGMOÏDAL</orth>, <gram>adj.</gram>
+<p><orth>StGMOïDE</orth> ou <orth>SIGMOÏDAL</orth>, <gram>adj.</gram>
 <lb/>nom tle certains cartilages et autres
 <lb/>parties du corps qui resseniblent
 <lb/>a la lettre sigma SdesGrecs;
@@ -53673,7 +53809,7 @@ dieux, pour les faire périr. On le
 </entryFree>
 
 <entryFree>
-<p><orth>SïRQP ou SYROP</orth>, <gram>s. m.</gram> <hi>sirupus</hi>,
+<p><orth>SïRQP</orth> ou <orth>SYROP</orth>, <gram>s. m.</gram> <hi>sirupus</hi>,
 <lb/>ou <hi>syrupus</hi>, médicament viquide,
 <lb/>doux et agréable, légèrement visquenN
 <lb/>et onctueux, qu’on prépare
@@ -53905,7 +54041,7 @@ tî ique, et qui esr formé par les
 </entryFree>
 
 <entryFree>
-<p><orth>SûMMET</orth>, <gram>s. m.</gram> <hi>vertex'</hi>; la partie
+<p><orth>SOMMET</orth>, <gram>s. m.</gram> <hi>vertex'</hi>; la partie
 <lb/>la plus élevée de la tête. celle qui
 <lb/>cst entre le sinciput et l’occiput :
 <lb/>Anat. — <hi>apex</hi>, l'eNtrémité supérieure
@@ -53913,8 +54049,10 @@ tî ique, et qui esr formé par les
 <lb/>des fleurs : BOt. — la rencontre de
 <lb/>deux lignes qui forment un angle ;
 <lb/>Géorn.</p>
+</entryFree>
 
-<p>δοΜΜΐτέ, <gram>s. f.</gram> <hi>summitas</hi>, extrémité
+<entryFree>
+<p><orth>SOMMITÉ</orth>, <gram>s. f.</gram> <hi>summitas</hi>, extrémité
 <lb/>supérieurs «Fïine chose ; plus
 <lb/>particulièremeut petit bout de la
 <lb/>pointe desherbes, desplantes, des
@@ -54007,7 +54145,7 @@ forte de l’imagination, par la locomotion
 </entryFree>
 
 <entryFree>
-<p><orth>SOPHISTICATION 011 SOPHISTIQUÉRIE</orth>
+<p><orth>SOPHISTICATION</orth> ou <orth>SOPHISTIQUÉRIE</orth>
 <lb/>, <hi>sophisticatio</hi>, altération
 <lb/>dans les drogues, frelaterie, falsification,
 <lb/>du verbe σοφίζω, je trompe
@@ -54086,7 +54224,7 @@ forte de l’imagination, par la locomotion
 </entryFree>
 
 <entryFree>
-<p><orth>SOUI RE</orth>, <gram>s. m.</gram> <hi>sulfur</hi> ou <hi>sulphur</hi>,
+<p><orth>SOUFFRE</orth>, <gram>s. m.</gram> <hi>sulfur</hi> ou <hi>sulphur</hi>,
 <lb/>substance simple ou indécomposée,
 <lb/>combustjblc, d’unc coulenr
 <lb/>jaunc citron dans l’état de pureté;
@@ -54485,7 +54623,7 @@ bleuatre, si laeombustion estlente',
 </entryFree>
 
 <entryFree>
-<p><orth>SPHÉNOSALPI NGOSTAPH Y LIN</orth>, fldj.
+<p><orth>SPHÉNOSALPINGOSTAPHYLIN</orth>, fldj.
 <lb/><hi>sphenosalpingostaphylinus</hi> ; qui
 <lb/>a rapport a l’os SPHÉNOÏDE, a la
 <lb/>TROaIPED'EUsTACHIet Ù laL UETTE.
@@ -54493,7 +54631,7 @@ bleuatre, si laeombustion estlente',
 </entryFree>
 
 <entryFree>
-<p><orth>Sl’HÈRE</orth>, s. i’. <hi>sphœra</hi>, du grec
+<p><orth>SPHÈRE</orth>, s. i’. <hi>sphœra</hi>, du grec
 <lb/>σφαῖρα, globe, balle; corps solide
 <lb/>engendré par la révolutiôn d’un
 <lb/>demi-cercle sur son axc, ou dont
@@ -54618,7 +54756,7 @@ bleuatre, si laeombustion estlente',
 </entryFree>
 
 <entryFree>
-<p><orth>SPLANCHNOGR APHIE</orth>, subst. tém.
+<p><orth>SPLANCHNOGRAPHIE</orth>, subst. tém.
 <lb/><hi>splanchnographia</hi>, de σπλάγχνον,
 <lb/>viscère, et de γράφω, je décris ; description
 <lb/>des visceres.</p>
@@ -54645,7 +54783,7 @@ bleuatre, si laeombustion estlente',
 </entryFree>
 
 <entryFree>
-<p><orth>SPLÉNIQUE ou SPLÉNÉTIQUE</orth>,
+<p><orth>SPLÉNIQUE</orth> ou <orth>SPLÉNÉTIQUE</orth>,
 <lb/>adj. <hi>splenicus</hi> ou <hi>spleneticus</hi>, de
 <lb/>σπλὴν, la rate ; qui a rapport <hi>a</hi> la
 <lb/>ratc;qni estattaqué d’obstructions
@@ -54659,7 +54797,7 @@ bleuatre, si laeombustion estlente',
 </entryFree>
 
 <entryFree>
-<p><orth>SPLÉNITIS OU SPLÉNITE</orth>, <gram>s. f.</gram>
+<p><orth>SPLÉNITIS</orth> ou <orth>SPLÉNITE</orth>, <gram>s. f.</gram>
 <lb/>tlu grec σπλὴν, la rate ; inflammation
 <lb/>de larate, caractérisée, selon quelquesauteurs,
 <lb/>par la pyrexie, une
@@ -54875,7 +55013,7 @@ bleuatre, si laeombustion estlente',
 </entryFree>
 
 <entryFree>
-<p><orth>SQUIRRHEUX 011 StCIRRHEUN</orth>,
+<p><orth>SQUIRRHEUX</orth> ou <orth>StCIRRHEUN</orth>,
 <lb/>fldj. <hi>squirrhosus</hi> ου <hi>skirrhosus</hi> ; qui
 <lb/>est de la nature du squirrhe, c’està-dire
 <lb/>dur et indolent.</p>
@@ -54897,8 +55035,10 @@ bleuatre, si laeombustion estlente',
 <lb/>épi de blé ; plante labiée ainsi
 <lb/>nommée pnrce que ses fleurs sont
 <lb/>di.spd.sçes en épis.</p>
+</entryFree>
 
-<p>$TAcTÉ, <gram>s. m.</gram> dit grec στακτὴ,
+<entryFree>
+<p><orth>STACTÉ</orth>, <gram>s. m.</gram> dit grec στακτὴ,
 <lb/>goutte, qui 'dérive de στάζω, je
 <lb/>distille, je dégoutre ; liqueur qui
 <lb/>distille de la myrrhe, et dont on
@@ -54962,7 +55102,7 @@ gueur, ou les Grecs s’exerçoient
 </entryFree>
 
 <entryFree>
-<p><orth>STAMINIFÈR E</orth>, fldj. <hi>staminifier ;</hi>
+<p><orth>STAMINIFÈRE</orth>, fldj. <hi>staminifier ;</hi>
 <lb/>qui porte des étarnines.</p>
 </entryFree>
 
@@ -55018,8 +55158,10 @@ gueur, ou les Grecs s’exerçoient
 <lb/>hnmeurs dans quelque partie du
 <lb/>corps, à cause de la cessalion ou
 <lb/>de la lenteur de leur mouvcment.</p>
+</entryFree>
 
-<p>δτΑΤΐοΝ, <gram>s. f.</gram> <hi>statio</hi>, du verbe
+<entryFree>
+<p><orth>STATION</orth>, <gram>s. f.</gram> <hi>statio</hi>, du verbe
 <lb/><hi>sto</hi>, je suis debout, je m’arrête;
 <lb/>Paction d'ètre dcbout chez l’homine
 <lb/>; — état d’une planète stationnaire
@@ -55157,7 +55299,7 @@ gueur, ou les Grecs s’exerçoient
 </entryFree>
 
 <entryFree>
-<p><orth>S rÉRILE</orth>, <gram>adj.</gram> <hi>stcrilis</hi> ; qui ne
+<p><orth>STÉRILE</orth>, <gram>adj.</gram> <hi>stcrilis</hi> ; qui ne
 <lb/>porte point de fruit, quoique de
 <lb/>nature à en porter ; — femnie <hi>sterile</hi>,
 <lb/>qui n'a jamais eu d’eufans,
@@ -55203,7 +55345,7 @@ grec ἀγονίος, d’à privatïf, et de
 </entryFree>
 
 <entryFree>
-<p><orth>STER NO-H YOïDI ΕΝ</orth>, <hi>sterno-hyoïdeusi</hi>
+<p><orth>STERNO-HYOÏDIΕΝ</orth>, <hi>sterno-hyoïdeusi</hi>
 <lb/>qui a r ppôrt au STERNU u et
 <lb/><hi>a</hi> l’os HyoÏDE. <hi>Voy.</hi> <ref></ref>. cesdeuxmots</p>
 </entryFree>
@@ -55250,8 +55392,10 @@ grec ἀγονίος, d’à privatïf, et de
 <lb/><hi>sternutatorius</hi>, du latin <hi>sternuto</hi>,
 <lb/>j’éternue ; qui provoquel’éternuement.
 <lb/>Fqy. PTARMIQUE.</p>
+</entryFree>
 
-<p>δτΐΒΐέ, ÉE. <gram>adj.</gram> <hi>stibinus</hi>, de
+<entryFree>
+<p><orth>STIBIÉ</orth>, ÉE. <gram>adj.</gram> <hi>stibinus</hi>, de
 <lb/><hi>stibium</hi>, antimoine ; se dit des remêdes'
 <lb/>tirés de l’antimoine : tartre
 <lb/><hi>stibié</hi> ou tartritede potasse <hi>antimonié</hi>.
@@ -55312,13 +55456,15 @@ grec ἀγονίος, d’à privatïf, et de
 <p><orth>STIPULE</orth> <gram>s. f.</gram> <hi>stipula</hi>, appendice
 <lb/>écailleuN ou membraneux, qui accompagne
 <lb/>la base des pétioles :</p>
+</entryFree>
 
-<p>vsTIPULÉ, ÉE, <gram>adj.</gram> <hi>süpulatus )</hi>
+<entryFree>
+<p><orth>STIPULÉ</orth>, ÉE, <gram>adj.</gram> <hi>süpulatus )</hi>
 <lb/>pourvu de stiptdes : BOt.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>STIPd'LEUX</orth>, EUSE, <gram>adj.</gram> <hi>stipulosus</hi>,
+<p><orth>STIPULEUX</orth>, EUSE, <gram>adj.</gram> <hi>stipulosus</hi>,
 <lb/>qui a de grandes et longues stipules
 <lb/>: BOt.</p>
 </entryFree>
@@ -55367,7 +55513,7 @@ grec ἀγονίος, d’à privatïf, et de
 </entryFree>
 
 <entryFree>
-<p><orth>STOMACHAL OU STOMACHIQUE</orth>,
+<p><orth>STOMACHAL</orth> ou <orth>STOMACHIQUE</orth>,
 <lb/><hi>Stomacllicus</hi>, de στόμαχος, estOmac ;
 <lb/>qui appartient à Vestoinac ; artere
 <lb/><hi>stomachique</hi>, —bon pour l’estomac;
@@ -55393,7 +55539,7 @@ grec ἀγονίος, d’à privatïf, et de
 </entryFree>
 
 <entryFree>
-<p><orth>STÔRAN otl STYRAX</orth>, <gram>s. m.</gram> du
+<p><orth>STÔRAN</orth> ou <orth>STYRAX</orth>, <gram>s. m.</gram> du
 <lb/>grec στύραξ, sorte de baume ou de
 <lb/>résine, de consistance mielleuse,
 <lb/>de couleur grise plus ou moins
@@ -55561,7 +55707,7 @@ sa composition, d’un gris blanchâtre,
 </entryFree>
 
 <entryFree>
-<p><orth>STUC ou STUCK</orth>, <gram>s. m.</gram> maibre
+<p><orth>STUC</orth> ou <orth>STUCK</orth>, <gram>s. m.</gram> maibre
 <lb/>broyé avec de la chaux ; espèce de
 <lb/>plâtre qu'on obtient en mêlant à
 <lb/>l’eaii des matièrcs gommeuses ou
@@ -55597,15 +55743,17 @@ sa composition, d’un gris blanchâtre,
 <lb/>assoupisscment ; diminution
 <lb/>plus ou moins grande de
 <lb/>Paction des sens et du mOUVement.</p>
+</entryFree>
 
-<p>$TUPIDITÉ, <gram>s. f.</gram> <hi>stupiditas</hi>,
+<entryFree>
+<p><orth>STUPIDITÉ</orth>, <gram>s. f.</gram> <hi>stupiditas</hi>,
 <lb/>pesanteur d'esprit, délaut d’irnagination
 <lb/>, de rnémoire et de
 <lb/>jugement, sans fièvre ni fureur.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>ÔTYLE</orth>, <gram>s. m.</gram> <hi>stylus</hi>, ile στύλος,
+<p><orth>STYLE</orth>, <gram>s. m.</gram> <hi>stylus</hi>, ile στύλος,
 <lb/>poinçou, gros.se aiguille ; partie</p>
 
 <p>dti pistil qui tient le stigrnate au
@@ -55621,7 +55769,7 @@ sa composition, d’un gris blanchâtre,
 </entryFree>
 
 <entryFree>
-<p><orth>STYLOCÉRATOH YOÏDIEN</orth>, <gram>adj.</gram> <hi>styloceratuhyoïdeus</hi>,
+<p><orth>STYLOCÉRATOHYOÏDIEN</orth>, <gram>adj.</gram> <hi>styloceratuhyoïdeus</hi>,
 <lb/>de στύλος, stylet,
 <lb/>de κέρας, cornc, et υ'ὑοειδὴς, l’os
 <lb/>hyoïde ; qui appartient a l’apophyse
@@ -55970,7 +56118,7 @@ sa composition, d’un gris blanchâtre,
 </entryFree>
 
 <entryFree>
-<p><orth>ÇUDORIPIQUE 0U SUDORIFÈRE</orth>,
+<p><orth>ÇUDORIPIQUE</orth> ou <orth>SUDORIFÈRE</orth>,
 <lb/>s. m. et <gram>adj.</gram> <hi>sudoriferus, sudificus'y</hi>
 <lb/>se dit'des remedes qui provoquent
 <lb/>la sueur.</p>
@@ -56240,7 +56388,7 @@ liqueur; la premiere a lieu quand
 </entryFree>
 
 <entryFree>
-<p><orth>SURCILLIER ou SOURCILLIER</orth>,
+<p><orth>SURCILLIER</orth> ou <orth>SOURCILLIER</orth>,
 <lb/>adj, <hi>superciliaris</hi>, au dessus des
 <lb/>sourcils ; nom cl’uu trou externe de
 <lb/>la tête, situé an dessus desarcades.
@@ -56299,7 +56447,7 @@ sence on à l’atrophie dunerf labyrinthique
 </entryFree>
 
 <entryFree>
-<p><orth>SURFACE ou SUPERFICIE</orth>, S. L
+<p><orth>SURFACE</orth> ou <orth>SUPERFICIE</orth>, S. L
 <lb/><hi>superficies</hi>, éteudue considérée en
 <lb/>longucur et en largeur : Géom.</p>
 </entryFree>
@@ -56360,14 +56508,16 @@ sence on à l’atrophie dunerf labyrinthique
 </entryFree>
 
 <entryFree>
-<p><orth>SUTURA-L λατ</orth>.ε, <gram>adj.</gram> de <hi>sutura</hi>
+<p><orth>SUTURAL</orth>, ALE, <gram>adj.</gram> de <hi>sutura</hi>
 <lb/>suture ; qui nait ou dépend d’une
 <lb/><hi>suture</hi>; certains fruits ont lesgraines
 <lb/><hi>sùtuxales</hi>les légumineuses,.
 <lb/>quelques renonculées, etc. ont lestyle
 <lb/><hi>sutural</hi> : BOt.</p>
+</entryFree>
 
-<p>vsUTURE, <gram>s. f.</gram> <hi>sutura</hi>, couture d.e
+<entryFree>
+<p><orth>SUTURE</orth>, <gram>s. f.</gram> <hi>sutura</hi>, couture d.e
 <lb/><hi>suo</hi>, jc ccuds^nom d'uue artrnur-
 
 
@@ -56411,7 +56561,7 @@ lation propre aux os de la tctc,
 </entryFree>
 
 <entryFree>
-<p><orth>SyMÉTRIEOU SYMMÉTRIE</orth>, <gram>s. f.</gram>
+<p><orth>SyMÉTRIE</orth> ou <orth>SYMMÉTRIE</orth>, <gram>s. f.</gram>
 <lb/><hi>symmetria</hi>, de σὴν, avec, ensemble,
 <lb/>et de μέτρον, inesure ; c’est-a-dire
 <lb/><hi>tnesure commune</hi> ; rapport ou proportion
@@ -56507,7 +56657,7 @@ cule a l’anneau ; l’irritation trop
 </entryFree>
 
 <entryFree>
-<p><orth>SYMPTOM ATIQUE</orth>, <gram>adj.</gram> <hi>symptO*
+<p><orth>SYMPTOMATIQUE</orth>, <gram>adj.</gram> <hi>symptO*
 <lb/>maiicusf</hi> qui appartient au synv
 <lb/>ptome ; — maladie <hi>symptomatique</hi>,
 <lb/>celle qui n’est qd'un syinptôme
@@ -56738,8 +56888,10 @@ lide, par le retranchement de l’humide.
 <lb/><hi>MOis synodique</hi>, intervalle entre
 <lb/>deux conjonctions successives de la
 <lb/>lune et du soleil : Astron.</p>
+</entryFree>
 
-<p>ίίΥΝΟΝΥΜΙΕ, <gram>s. f.</gram> <hi>synonymia</hi>, de
+<entryFree>
+<p><orth>SΥΝΟΝΥΜΙΕ</orth>, <gram>s. f.</gram> <hi>synonymia</hi>, de
 <lb/>ωῦν, avec ou ensemble, ét d’onpta,
 <lb/>nom ; l’art de rassembler les uoms
 <lb/>différens, tant génériques que spécifiques,
@@ -57044,7 +57196,7 @@ qu’on parle, art furt en usage chez
 </entryFree>
 
 <entryFree>
-<p><orth>Ta-ct oti TOUcHERjs</orth>.m. <hi>tactus</hi>,
+<p><orth>TACT</orth> ou <orth>TOUcHER</orth> <gram>s.m.</gram> <hi>tactus</hi>,
 <lb/>du verbe <hi>tango</hi>, je touclie ; sens
 <lb/>universellement repandu sur toute
 <lb/>la superficie du corps, plus développé
@@ -57208,7 +57360,7 @@ luble dans les huiles fixes ; quelqucfois
 </entryFree>
 
 <entryFree>
-<p><orth>Ταννινο ENTRACTIF</orth>, s masc.
+<p><orth>TANNINO-EXTRACTIF</orth>, s masc.
 <lb/>produit végétal, acerbe, infusible,
 <lb/>non inflammable; donnantà l’analyse
 <lb/>du tannin, et de l’extractif
@@ -57815,7 +57967,7 @@ lusques, au nombre de deux ou
 </entryFree>
 
 <entryFree>
-<p><orth>TesT ou Τετ</orth>, <gram>s. m.</gram> <hi>testa</hi>,
+<p><orth>TesT</orth> ou <orth>ΤÈT</orth>, <gram>s. m.</gram> <hi>testa</hi>,
 <lb/>substance de l’enveloppe des mollusques
 <lb/>conq uilifères, des tortues,
 <lb/>des crustacés et des oursins ; —'
@@ -57937,7 +58089,7 @@ mèmes, et d'une assez grande ténuité
 </entryFree>
 
 <entryFree>
-<p><orth>T ÉTRADACTYLE</orth>, S. 111. €t <gram>adj.</gram>
+<p><orth>TÉTRADACTYLE</orth>, S. 111. €t <gram>adj.</gram>
 <lb/><hi>tetradactylus</hi>, de τέτταρα, quatre,
 <lb/>et de δάκτυλος, doigt ; se dit des
 <lb/>animauN qtii ont quatre doigts à
@@ -57969,7 +58121,7 @@ mèmes, et d'une assez grande ténuité
 </entryFree>
 
 <entryFree>
-<p><orth>TÉTRAGYNIE j</orth> <gram>s. f.</gram> <hi>tetragynia</hi>,
+<p><orth>TÉTRAGYNIE</orth> <gram>s. f.</gram> <hi>tetragynia</hi>,
 <lb/>de τέτταρα, quatre, et de yuvn, femmc
 <lb/>, rnot û mot <hi>quatre femmes</hi> ou
 <lb/><hi>quatre fiemellxs</hi>; nom que LInné
@@ -58058,7 +58210,7 @@ pied; qui a quatre pieds, quadrupède.
 </entryFree>
 
 <entryFree>
-<p><orth>TtIAL ASSOMETRE</orth>, <gram>s. m.</gram> de θαλαςσα,
+<p><orth>THALASSOMETRE</orth>, <gram>s. m.</gram> de θαλαςσα,
 <lb/>la mer, et de μέτρον, mesure;
 <lb/>nom donné a la sonde de mer dont
 <lb/>on se sert pour mesuier la profondeur
@@ -58089,7 +58241,7 @@ pied; qui a quatre pieds, quadrupède.
 </entryFree>
 
 <entryFree>
-<p><orth>THÉOKÉTIQUE ou THEORIQUE</orth>,
+<p><orth>THÉOKÉTIQUE</orth> ou <orth>THEORIQUE</orth>,
 <lb/>Tadj. <hi>theoreticus</hi>, de θεωρέω, je contemple;
 <lb/>qui se borne a la théorie,
 <lb/>à la spéculation; — nom tl’une
@@ -58227,7 +58379,7 @@ rapportau froidet au chaud : chàngemens
 </entryFree>
 
 <entryFree>
-<p><orth>THORACIQUE ou THORACIIIQUE</orth>,
+<p><orth>THORACIQUE</orth> ou <orth>THORACHIQUE</orth>,
 <lb/>adj. <hi>thoracicus</hi> ; qui a rapport à la
 <lb/>poitrine ; — nom des médicamens
 <lb/>propres a guérir les maladies de la
@@ -58250,7 +58402,7 @@ rapportau froidet au chaud : chàngemens
 </entryFree>
 
 <entryFree>
-<p><orth>THROMBUS Otl THROMBE</orth>, <hi>S</hi>. îll.
+<p><orth>THROMBUS</orth> ou <orth>THROMBE</orth>, <hi>S</hi>. îll.
 <lb/>θρόμβος, grumcau de sang ou sang
 <lb/>cailié ; tumeurqui se forme quelquefois
 <lb/>, après une saignée, par du
@@ -58308,7 +58460,7 @@ rapportau froidet au chaud : chàngemens
 </entryFree>
 
 <entryFree>
-<p><orth>THYRO- FPIGLOTTIQUE</orth>, adject.
+<p><orth>THYRO-FPIGLOTTIQUE</orth>, adject.
 <lb/><hi>thyro-epiglotûcus</hi>; qiii appartient
 <lb/>au cartilage ThyROïDe et a ΙΈριGUOTTE.
 <lb/><hi>VOyez</hi> ces deux mots pour
@@ -58565,7 +58717,7 @@ des cieux crystallins, imaginés
 </entryFree>
 
 <entryFree>
-<p><orth>TOMELLINE ΟI1 M ATIERE^TOMELUEUSE</orth>,
+<p><orth>TOMELLINE</orth> ou <orth>MATIERE TOMELUEUSE</orth>,
 <lb/>s. f’. utie des parties constituantes
 <lb/>de Ja matière colorante
 <lb/>du sang, qui est cause de sa concrétion
@@ -58678,7 +58830,7 @@ des cieux crystallins, imaginés
 </entryFree>
 
 <entryFree>
-<p><orth>TORRÉFACTION OIL GRILLAGE</orth>,
+<p><orth>TORRÉFACTION</orth> ou <orth>GRILLAGE</orth>,
 <lb/>s. <hi>i'</hi>. <hi>torrefactio</hi> ; opération qui
 <lb/>consiste a appliquer unc violente
 <lb/>chaleur a une substance sèche,
@@ -58850,8 +59002,10 @@ des cieux crystallins, imaginés
 <lb/>d’un météore enflammé, qui paroît
 <lb/>en forme de poutre ou decylindre:
 <lb/>Physiq.</p>
+</entryFree>
 
-<p>rÎ'RACHÉE-ARTÉRE, <gram>s. f.</gram> <hi>trachea*
+<entryFree>
+<p><orth>TRACHÉE-ARTÈRE</orth>, <gram>s. f.</gram> <hi>trachea*
 <lb/>arteria</hi>, de -ραχυς, apre, et (Ρἀξτηριχ,
 <lb/>vaisseatt aérien ; tuyau cylindnjïde,
 <lb/>un peu aplati d'avant en arrière,
@@ -59304,7 +59458,7 @@ frotteuse, d u verbe θρίβω, je frotte,
 </entryFree>
 
 <entryFree>
-<p><orth>TRICUSPIDE ΟΠ TRICUSPIDAL</orth>,
+<p><orth>TRICUSPIDE</orth> ou <orth>TRICUSPIDAL</orth>,
 <lb/>ALE, <gram>adj.</gram> <hi>tricuspis</hi>, de <hi>ttis</hi> pour
 <lb/><hi>tres</hi>, trois, et de <hi>cuspis</hi>, pointe ; qui
 <lb/>a trois pointes ; nom de trois valvules
@@ -59407,7 +59561,7 @@ frotteuse, d u verbe θρίβω, je frotte,
 </entryFree>
 
 <entryFree>
-<p><orth>LRIJ UMEAUX</orth>, <gram>s. m.</gram> pl. <hi>tcrgemini</hi>,
+<p><orth>TRIJUMEAUX</orth>, <gram>s. m.</gram> pl. <hi>tcrgemini</hi>,
 <lb/>nerfs qui iorment la cinqnième
 <lb/>paire cérébrale, ou le nerf trilacial
 <lb/>, ainsi nommé àçatise de ses
@@ -59423,7 +59577,7 @@ frotteuse, d u verbe θρίβω, je frotte,
 </entryFree>
 
 <entryFree>
-<p><orth>TkILObÉ</orth>, ÉE, <hi>trilobus</hi> ; qni a
+<p><orth>TRILOBÉ</orth>, ÉE, <hi>trilobus</hi> ; qni a
 <lb/>trois lobes : BOt.</p>
 </entryFree>
 
@@ -59433,10 +59587,10 @@ frotteuse, d u verbe θρίβω, je frotte,
 </entryFree>
 
 <entryFree>
-<p><orth>TRINCOU ΤηΐΝΕ</orth>, <gram>adj.</gram> <hi>trinus</hi>; se
+<p><orth>TRINC</orth> ou <orth>ΤRIΝΕ</orth>, <gram>adj.</gram> <hi>trinus</hi>; se
 <lb/>dit en astronomie de l’aspect de
 <lb/>deux étoiles éloignées de 120 degles.
-<lb/><hi>VOyez</hi> TRIGONE.</p>
+<lb/><hi>VOyez</hi> <ref>TRIGONE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -59446,7 +59600,7 @@ frotteuse, d u verbe θρίβω, je frotte,
 </entryFree>
 
 <entryFree>
-<p><orth>Γκινομε</orth>, <gram>s. m.</gram> <hi>trinomus</hi>, de
+<p><orth>Trinome</orth>, <gram>s. m.</gram> <hi>trinomus</hi>, de
 <lb/>τρεὶς, trois, et de νομὴ, part, division
 <lb/>; quantiré algçbrique compo*
 <lb/>sée de trois terines.</p>
@@ -59537,7 +59691,7 @@ frotteuse, d u verbe θρίβω, je frotte,
 </entryFree>
 
 <entryFree>
-<p><orth>TrIsmb ou TRISMUS</orth>, <gram>s. m.</gram>
+<p><orth>TrIsmb</orth> ou <orth>TRISMUS</orth>, <gram>s. m.</gram>
 <lb/>τρισμὸς, grillCenient, de τρίζω, jC
 <lb/>grince; resserremcnt convulsif ou
 <lb/>rigidité spasmodique de la mâchoire
@@ -59600,11 +59754,11 @@ mens en poudre ; — selon les méca- |
 </entryFree>
 
 <entryFree>
-<p><orth>TRIVENTRE OU TRIVENTER</orth>. <hi>V.</hi> <ref>TRIGASTRIQUE</ref>.</p>
+<p><orth>TRIVENTRE</orth> ou <orth>TRIVENTER</orth>. <hi>V.</hi> <ref>TRIGASTRIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>TROCART otl TROIS-QUARTS</orth>, S.
+<p><orth>TROCART</orth> ou <orth>TROIS-QUARTS</orth>, S.
 <lb/>m. <hi>vernaculum, triangulare, triquetrum</hi>,
 <lb/>poinçon d’acier terrniné
 <lb/>en pointe triangulaire, et renfermé
@@ -59630,7 +59784,7 @@ mens en poudre ; — selon les méca- |
 </entryFree>
 
 <entryFree>
-<p><orth>TROCHANTIN otl Ί’κΟΚΑΝΤΙΝ</orth>, S.
+<p><orth>TROCHANTIN</orth> ou <orth>TRΟΚΑΝΤΙΝ</orth>, S.
 <lb/>m. le petit TROCHANTER. <hi>Voy.</hi> <ref></ref>. ce
 <lb/>mot.</p>
 </entryFree>
@@ -59695,7 +59849,7 @@ mens en poudre ; — selon les méca- |
 </entryFree>
 
 <entryFree>
-<p><orth>TroCHLÉE ou TROKLÉE</orth>, <gram>s. f.</gram>
+<p><orth>TroCHLÉE</orth> ou <orth>TROKLÉE</orth>, <gram>s. f.</gram>
 <lb/><hi>trochlea</hi>, du grec τροχιλία, poulie,
 <lb/>dérivé de τρέχω, je tourne; nom de
 <lb/>la face articulaire qu’on remarque
@@ -60433,7 +60587,7 @@ premier octaèdre et le sccond cutique;
 </entryFree>
 
 <entryFree>
-<p><orth>URETÉRES 4</orth> <gram>s. f.</gram> pl. <hi>ureteres</hi>,
+<p><orth>URETÉRES</orth> <gram>s. f.</gram> pl. <hi>ureteres</hi>,
 <lb/>d’oupov, l’urinc ; longs canaux membraneux,blaucliâtres,cylindriques,
 <lb/>
 <lb/>de la grosseurd’une plume a écrire,
@@ -60445,7 +60599,7 @@ premier octaèdre et le sccond cutique;
 </entryFree>
 
 <entryFree>
-<p><orth>URÉTÉRITISOU URÉTHRITIS</orth>, S.
+<p><orth>URÉTÉRITIS</orth> ou <orth>URÉTHRITIS</orth>, S.
 <lb/>f. inflammation des urctères, accompagnee
 <lb/>de douleurs plus ou
 <lb/>moins aiguës dans les lombes. <hi>V.</hi> <ref>BLENNORRHAGIE</ref>.</p>
@@ -60549,7 +60703,7 @@ premier octaèdre et le sccond cutique;
 </entryFree>
 
 <entryFree>
-<p><orth>URTICARIA ou URTICAIRE</orth>. <hi>VOy*</hi>
+<p><orth>URTICARIA</orth> ou <orth>URTICAIRE</orth>. <hi>VOy*</hi>
 <lb/>ORTIÉE.</p>
 </entryFree>
 
@@ -60749,7 +60903,7 @@ tre plus ou moins consistante, qui
 </entryFree>
 
 <entryFree>
-<p><orth>VALÉTUDIN αικε</orth>, <gram>adj.</gram> <hi>valetudjinarius</hi>,
+<p><orth>VALÉTUDINAIRE</orth>, <gram>adj.</gram> <hi>valetudjinarius</hi>,
 <lb/>de <hi>valetudo</hi>, santé ; infirme,
 <lb/>malade, qui a unefoible santé, qui
 <lb/>est sujet auxmaiadies.</p>
@@ -60881,7 +61035,7 @@ thur des testicules et des vaisseau±
 </entryFree>
 
 <entryFree>
-<p><orth>VASCULAIRE ou VASCULEUX</orth>, <gram>adj.</gram>
+<p><orth>VASCULAIRE</orth> ou <orth>VASCULEUX</orth>, <gram>adj.</gram>
 <lb/><hi>vascularis, vasculosus</hi>, qui appartientaux
 <lb/>vaisseaux ou résulte dô
 <lb/>leur assemblage : membrane <hi>vasculaire</hi>
@@ -61217,7 +61371,7 @@ autre avec plus ou moins de vites.se
 </entryFree>
 
 <entryFree>
-<p><orth>VÉNUs /s</orth>. f. divinité payenne,
+<p><orth>VÉNUs</orth> s. f. divinité payenne,
 <lb/>déesse ile la Beauté, mère de l’.V
 <lb/>mour, qui, selon lesancier.s, animoit
 <lb/>toute la nature, et présidoit
@@ -61397,7 +61551,7 @@ jîeuee, qu’ou nomme le corps caverneux,
 </entryFree>
 
 <entryFree>
-<p><orth>VÉROLE ( petite)</orth>, <gram>s. f.</gram> <hi>variolœ</hi>,
+<p><orth>VÉROLE (petite)</orth>, <gram>s. f.</gram> <hi>variolœ</hi>,
 <lb/>dérive de <hi>varius</hi>, tacbeté, rnoucheté,
 <lb/>marqueté, selon COl-de-VIlars,
 <lb/>ou de <hi>vari</hi>, taches, boutons
@@ -61438,7 +61592,7 @@ se communique par contnct médiat
 </entryFree>
 
 <entryFree>
-<p><orth>VÉROLETTE 0U VÉRETTE</orth>, <gram>s. f.</gram>
+<p><orth>VÉROLETTE</orth> ou <orth>VÉRETTE</orth>, <gram>s. f.</gram>
 <lb/><hi>vatiolœ volaticœ</hi>, petite vérole
 <lb/>volante, clans laquelle, apres une
 <lb/>légère fîèvre inflammatoire, il survient
@@ -62147,7 +62301,7 @@ rnéïaux <hi>vierges</hi>, cire <hi>viergc</hi>, huîle
 </entryFree>
 
 <entryFree>
-<p><orth>VOLATILIS ATION</orth>, <gram>s. f.</gram> <hi>VOlatilisatio</hi>,
+<p><orth>VOLATILISATION</orth>, <gram>s. f.</gram> <hi>VOlatilisatio</hi>,
 <lb/>opération chiniique par laquelle
 <lb/>on réduit en vapeur paç
 <lb/>l’action du feu, les substances qui
@@ -62283,14 +62437,12 @@ ou qn’il pse décharge brusquement
 <lb/>laisse entrevoir le clitoris, les
 <lb/>nymnhes, le méat urinaire et
 <lb/>l’orifice du vagin.</p>
-
-<p>w</p>
 </entryFree>
 
-<entryFree>
-<p><orth>W</orth>, -1 -</p>
+<label>w</label>
 
-<p>* ▼ oLFRAM, <gram>s. m.</gram> mot suedOIS
+<entryFree>
+<p><orth>WOLFRAM</orth>, <gram>s. m.</gram> mot suedOIS
 <lb/>qui signifie <hi>mine ferrugineuse ;</hi>
 <lb/>substance rninéralc ferrugineuse
 <lb/>qui contient le nouveau inétal
@@ -62306,12 +62458,10 @@ nom ; elle a la couleur et la
 <lb/>natif : MInéfalog.</p>
 </entryFree>
 
-<entryFree>
-<p><orth>X</orth></p>
-</entryFree>
+<label>X</label>
 
 <entryFree>
-<p><orth>XeRASIE</orth>, s. L <hi>xerasia</hi>, de ξηρὸς,
+<p><orth>XÉRASIE</orth>, s. L <hi>xerasia</hi>, de ξηρὸς,
 <lb/>sec ; maladie des cheveux, qui les
 <lb/>empêche de croître et les rend seinblablesâun
 <lb/>duvetcouvert depoussière.
@@ -62524,7 +62674,7 @@ athletes s’exerçoient chez les Grecs;
 </entryFree>
 
 <entryFree>
-<p><orth>ZhîÇj s</orth>. iil, <hi>zincum</hi>, métal d’tia
+<p><orth>ZINC</orth>. <gram>s. m.</gram> <hi>zincum</hi>, métal d’tia
 
 
 <pb n="365"/>
@@ -62612,7 +62762,7 @@ blanc bleuatre ; sapide et odorant ;
 </entryFree>
 
 <entryFree>
-<p><orth>ZOogLY ΡΗIΤΕ</orth>, <gram>s. f.</gram> <hi>zooglyphiies</hi>,
+<p><orth>ZOogLYΡΗIΤΕ</orth>, <gram>s. f.</gram> <hi>zooglyphiies</hi>,
 <lb/>de ζὡον, animal, et de γλυφω, je
 <lb/>grave ; pierre fîgurée représenta-nt
 <lb/>des emprcintes d’animauN.</p>

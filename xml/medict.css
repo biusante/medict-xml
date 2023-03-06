@@ -20,7 +20,8 @@ body {
   margin-right: auto;
 }
 
-entry {
+entry,
+entryFree {
   display: block;
   margin: 0.5rem 0;
 }
@@ -45,29 +46,28 @@ dictScrap {
 
 ref {
   color: red;
-  text-transform: uppercase;
+}
+
+term {
+  color: #080;
 }
 
 orth {
   font-weight: bold;
 }
 
-ref {
-}
 
 pb {
-/*
+  color:  #888;
   display: block;
-  height: 250px;
-  background-image: var(--bg-image);
-  background-position: center top;
-  background-size: cover;
-  */
+  margin: 0.5rem 0rem 0.5rem 10rem;
+  border: 0.5px solid #888;
+  text-align: right;
 }
 
 pb:before {
   display: block;
-  content: attr(n) " " attr(facs);
+  content: "p. " attr(n) ", " attr(facs);
 }
 
 

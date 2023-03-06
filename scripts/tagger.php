@@ -146,11 +146,39 @@ class Tagger
         return $s;
     }
 
+    static $orth_tr = [
+        "Α" => "A",
+        "À" => "A",
+        "α" => "A",
+        "β" => "B",
+        "ε" => "E",
+        "ι" => "I",
+        "Ι" => "I",
+        "1" => "I",
+        "l" => "L",
+        "Î" => "I",
+        "t" => "I",
+        "μ" => "M",
+        "ν" => "N",
+        "Ν" => "N",
+        "ο" => "O",
+        "0" => "O",
+        "O" => "O",
+        "ρ" => "P",
+        "τ" => "T",
+        "Τ" => "T",
+        "Γ" => "T",
+        "ü" => "U",
+        "ζ" => "Z",
+    ];
+
     /**
      * Comparer avec l’ancienne indexation
      */
     public static function orth_old($cote, $cert=false)
     {
+
+
         $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
         $xml = file_get_contents($src_file);
         $handle = fopen(__DIR__ . "/$cote.tsv", "r");
