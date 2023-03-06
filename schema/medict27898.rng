@@ -6,6 +6,7 @@
   xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
   xmlns:h="http://www.w3.org/1999/xhtml" 
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <a:documentation>Littré-Gilbert (1908, 21e éd.) Dictionnaire de médecine, de chirurgie, de pharmacie, et des sciences qui s’y rapportent</a:documentation>
   <include href="medict.rng">
   </include>
 </grammar>

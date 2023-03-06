@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<grammar   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  ns="http://www.tei-c.org/ns/1.0"
+  xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:h="http://www.w3.org/1999/xhtml" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <a:documentation>Castelli (1746) Lexicon medicum Graeco Latinum</a:documentation>
   <include href="medict.rng">
     <define name="body">
       <element name="body">
+        <a:documentation>Ce dictionnaire est une suite d’entrées peu structurées <a:el>entryFree</a:el></a:documentation>
         <oneOrMore>
           <choice>
             <ref name="damage"/>

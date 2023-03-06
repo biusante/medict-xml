@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <a:documentation>Littré-Robin (1865-1873) Dictionnaire de médecine, chirurgie, pharmacie, de l’art vétérinaire et des sciences qui s’y rapportent</a:documentation>
   <include href="medict.rng">
     <define name="body">
       <element name="body">
+        <a:documentation>Le Littré-Robin est un dictionnaire très structuré <a:el>entry</a:el>, enre lesquels peuvent s’insérer des sauts de pages vérifiés <a:el>pb</a:el>, des illustrations <a:el>graphic</a:el>, des tables <a:el>table</a:el>, et des zones de texet mal reconnues <a:el>damage</a:el>.</a:documentation>
         <oneOrMore>
           <choice>
             <ref name="damage"/>

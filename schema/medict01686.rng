@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
-  ns="http://www.tei-c.org/ns/1.0" 
-  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
-  >
+<grammar 
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  ns="http://www.tei-c.org/ns/1.0"
+  xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:h="http://www.w3.org/1999/xhtml" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <a:documentation>James (1743-1745) A medicinal dictionary. Vol. I-III</a:documentation>
   <include href="medict.rng">
     <define name="body">
       <element name="body">
+        <a:documentation>Le James anglais est principalement une suite d’articles peu structurés <a:el>entryFree</a:el>, des sauts de pages <a:el>pb</a:el> (systématiques et validés), et des sauts de colonne.</a:documentation>
         <oneOrMore>
           <choice>
             <ref name="cb"/>
-            <ref name="label"/>
             <ref name="entryFree"/>
             <ref name="pb"/>
           </choice>

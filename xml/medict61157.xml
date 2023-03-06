@@ -7,6 +7,14 @@
       <titleStmt>
         <title>Dictionnaire des termes de médecine, chirurgie, art vétérinaire, pharmacie, histoire naturelle, botanique, physique, chimie, etc.</title>
         <author>Bégin, Louis-Jacques et al.</author>
+        <respStmt>
+          <name>Cahal Taaffe</name>
+          <resp>OCR imprimés anciens avec alphabet grec.</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
