@@ -3,8 +3,7 @@
 /**
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
-include 'build.php';
-Tagger::ref('61157');
+Tagger::orth_clean('37019');
 exit();
 
 /*
@@ -149,28 +148,65 @@ class Tagger
     static $orth_tr = [
         "Α" => "A",
         "À" => "A",
+        "Λ" => "A",
+        "λ" => "A",
         "α" => "A",
+        "Β" => "B", // grc
         "β" => "B",
+        "Ε" => "E",
         "ε" => "E",
+        "έ" => "É",
+        "Η" => "H", // gr 
+        "η" => "H",
         "ι" => "I",
         "Ι" => "I",
         "1" => "I",
         "l" => "L",
         "Î" => "I",
         "t" => "I",
+        "Κ" => "K", // grc
+        "Μ" => "M", // gr
         "μ" => "M",
         "ν" => "N",
         "Ν" => "N",
+        "\u039F" => "O", // gr
         "ο" => "O",
         "0" => "O",
-        "O" => "O",
+        "Ρ" => "P", // gr
         "ρ" => "P",
+        "κ" => "R",
+        "8" => "S",
         "τ" => "T",
         "Τ" => "T",
         "Γ" => "T",
+        "υ" => "U",
         "ü" => "U",
+        "Χ" => "X", // grc
+        "χ" => "X",
+        "Υ" => "Y", // grc
+        "γ" => "Y",
+        "Ζ" => "Z", // grc
         "ζ" => "Z",
     ];
+
+    public static function orth_clean($cote)
+    {
+        $xml_file = dirname(__DIR__)."/xml/medict$cote.xml";
+        $xml = file_get_contents($xml_file);
+        $re_callback = array(
+            '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
+            {
+                return ''
+                 . '<orth>' 
+                 . strtr($matches[1], self::$orth_tr)
+                 . '</orth>';
+            }
+        );
+        $xml = preg_replace_callback_array($re_callback, $xml);
+        file_put_contents($xml_file, $xml);
+
+    }
+
 
     /**
      * Comparer avec l’ancienne indexation
