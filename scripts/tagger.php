@@ -1,9 +1,11 @@
 <?php
-
+mb_internal_encoding("UTF-8");
 /**
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
-Tagger::orth_clean('37019');
+$xml_file = dirname(__DIR__) . '/xml/medict37019.xml';
+$xml = Tagger::orth_norm($xml_file);
+file_put_contents($xml_file, $xml);
 exit();
 
 /*
@@ -104,15 +106,13 @@ class Tagger
     {
         $xml = file_get_contents($file);
         $xml = preg_replace_callback(
-            '/(<orth>\p{L})([^<]+)/u',
+            '/<orth>(.)([^<]+)/u',
             function($matches) {
-                $orth = $matches[1].mb_convert_case(
-                    $matches[2], 
-                    MB_CASE_LOWER, 
-                    "UTF-8"
-                );
+                $orth = 
+                  mb_convert_case($matches[1], MB_CASE_UPPER)
+                . mb_convert_case($matches[2], MB_CASE_LOWER);
                 $orth = Normalizer::normalize($orth);
-                return $orth;
+                return "<orth>" . $orth;
             },
             $xml
         );
@@ -196,9 +196,11 @@ class Tagger
         $re_callback = array(
             '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
             {
+                $orth = $matches[1];
                 return ''
                  . '<orth>' 
-                 . strtr($matches[1], self::$orth_tr)
+                 // . strtr($matches[1], self::$orth_tr)
+                 . mb_strtoupper(mb_substr($orth, 0, 1))
                  . '</orth>';
             }
         );
@@ -207,14 +209,20 @@ class Tagger
 
     }
 
+    /**
+     * Charger une nomenclature d’un fichier tsv
+     */
+    public static function tsv_orths($tsv_file)
+    {
+        $handle = fopen($tsv_file, "r");
+
+    }
 
     /**
      * Comparer avec l’ancienne indexation
      */
     public static function orth_old($cote, $cert=false)
     {
-
-
         $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
         $xml = file_get_contents($src_file);
         $handle = fopen(__DIR__ . "/$cote.tsv", "r");
