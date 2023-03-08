@@ -242,43 +242,55 @@ class Tagger
         // keep original
         $orths = self::tsv_orths(__DIR__ . "/$cote.tsv", "r");
         $forms = array_flip($orths);
+        print_r($forms);
+        exit();
+        /*
         $deforms = [];
         foreach($orths as $f) {
             $deforms[self::deform($f)] = $f;
-        } 
+        }
+        */
+        $n = 0;
         $re_callback = array(
-            '@<orth cert="low">([^<]+)</orth>@' => function ($matches) 
-            use (&$orths) {
+            '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
+            use (&$forms, &$orths, &$n) {
                 $form = $matches[1];
-                /*
                 if (isset($forms[$form])) {
+                    $n = $forms[$form];
                     return  '<orth>' . $form . '</orth>';
                 }
+                $n++;
+                return ''
+                 . '<!--' . $orths[$n] . '-->'
+                 . '<orth>' 
+                 . $form
+                 . '</orth>';
+
+
+                /*
                 $deform = self::deform($form);
                 if (isset($deforms[$deform])) {
                     return  '<orth>' . $deforms[$deform]. '</orth>';
                 }
                 */
+                /*
                 $targets = [];
                 echo $form;
                 foreach($orths as $orth) {
                     $lev = levenshtein($form, $orth);  
-                    if ($lev > 1) continue;
+                    if ($lev > 2) continue;
                     $targets[] = $orth;
                     echo ", $orth $lev";
                 }
                 echo "\n";
                 if (count($targets) == 1) {
-                    return "<ref>" . $targets[0] . "</ref>"; 
+                    return "<!--" . $targets[0] . "-->" . "<orth>" . $form  . "</orth>"; 
                 }
-                return ''
-                 . '<orth cert="low">' 
-                 . $form
-                 . '</orth>';
+                */
             }
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
-        // file_put_contents($src_file, $xml);
+        file_put_contents($src_file, $xml);
         
         /*
         echo "\n== NOT FOUND ==\n\n";
