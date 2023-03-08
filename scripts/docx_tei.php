@@ -8,16 +8,17 @@ use Oeuvres\Teinte\Format\{Docx};
 
 Log::setLogger(new LoggerCli(LogLevel::DEBUG));
 
-capuron_docx();
 
-function capuron_docx()
+
+function capuron_docx($docx_file)
 {
+    // $docx_file = dirname(__DIR__) . '/work/capuron_docx/capuron_p86.docx';
+    
     $docx = new Docx();
     $docx->user_template(__DIR__ . "/tmpl.xml");
     
     $dst_dir = dirname(__DIR__) . '/xml/';
     Filesys::mkdir($dst_dir);
-    $docx_file = dirname(__DIR__) . '/work/capuron_docx/medict37019.docx';
     
     $src_name = pathinfo($docx_file, PATHINFO_FILENAME);
 

@@ -9,7 +9,7 @@ $xml_file = dirname(__DIR__) . '/xml/medict37019.xml';
 $xml = Tagger::orth_norm($xml_file);
 file_put_contents($xml_file, $xml);
 */
-Tagger::orth_old('37019');
+Tagger::orth_diff('37019');
 exit();
 
 
@@ -366,39 +366,22 @@ class Tagger
      */
     public static function orth_diff($cote)
     {
-        $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
-        $xml = file_get_contents($src_file);
-        $handle = fopen(__DIR__ . "/$cote.tsv", "r");
-
-        $entry = null;
-        $old = []; // record a number by key
-        while (($row = fgetcsv($handle, null, "\t")) !== FALSE) {
-            $command = $row[0];
-            if ($command == 'entry') {
-                // insert last entry if no form found before
-                if ($entry) {
-                    $form = $entry;
-                    $old[self::deform($form)] = $form;
-                } 
-                $entry = $row[1];
-            }
-            else if ($command == 'orth') {
-                $entry = null;
-                $form = $row[1];
-                $old[self::deform($form)] = $form;
-            }
-        }
+        $xml_file = dirname(__DIR__)."/xml/medict$cote.xml";
+        $xml = file_get_contents($xml_file);
+        $orths = self::tsv_orths(__DIR__ . "/$cote.tsv", "r");
+        $old = array_flip($orths);
         $new = [];
         $re_callback = array(
             '@<orth[^>]*>(.+?)</orth>@' => function ($matches) 
-            use (&$old, &$new) {
-                $key = preg_replace('@</?[^>]+>@', '', $matches[1]);
-                $key = self::deform($key);
-                // echo $key."\n";
+            use (&$old, &$new, &$orths) {
+                $key = $matches[1];
+                // $key = preg_replace('@</?[^>]+>@', '', $matches[1]);
+                // $key = self::deform($key);
                 if (isset($old[$key])) {
                     unset($old[$key]);
                 }
                 else {
+                    // echo $key . " " . array_search($key, $orths) . "\n";
                     $new[] = $matches[1];
                 }
                 return $matches[0];
@@ -406,11 +389,12 @@ class Tagger
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
         // merge not found in old with new, and sort
+        $old = array_flip($old);
         $tsv = "Indexation\tVedette";
-        $tsv .= "\nancienne\t";
-        $tsv .= implode("\nancienne\t", $old);
-        $tsv .= "\nnouvelle\t";
-        $tsv .= implode("\nnouvelle\t", $new);
+        $tsv .= "\nAnaïs\t";
+        $tsv .= implode("\nAnaïs\t", $old);
+        $tsv .= "\nXML/TEI\t";
+        $tsv .= implode("\nXML/TEI\t", $new);
 
         // $merge = array_merge(array_values($old), $new);
         file_put_contents($cote . "_diff.tsv", $tsv);
