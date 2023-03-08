@@ -3,17 +3,15 @@ mb_internal_encoding("UTF-8");
 /**
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
+
+ /*
 $xml_file = dirname(__DIR__) . '/xml/medict37019.xml';
 $xml = Tagger::orth_norm($xml_file);
 file_put_contents($xml_file, $xml);
+*/
+Tagger::orth_old('37019');
 exit();
 
-/*
-$tagger = new Tagger(Tagger::$HOME . "xml/medict37020d.xml");
-// $tagger->orthold();
-$xml = $tagger->ids();
-file_put_contents(Tagger::$HOME . "xml/medict37020d.xml.xml", $xml);
-*/
 
 
 // Tagger::facs(dirname(__DIR__) . "/xml/medict00216x06.xml", "00216x06", 2);
@@ -215,67 +213,74 @@ class Tagger
     public static function tsv_orths($tsv_file)
     {
         $handle = fopen($tsv_file, "r");
-
-    }
-
-    /**
-     * Comparer avec l’ancienne indexation
-     */
-    public static function orth_old($cote, $cert=false)
-    {
-        $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
-        $xml = file_get_contents($src_file);
-        $handle = fopen(__DIR__ . "/$cote.tsv", "r");
+        $forms = [];
         $entry = null;
-        $deform_nb = []; // record a number by key
-        $nb_form = []; // get the old form by number
-        $notfound = [];
         while (($row = fgetcsv($handle, null, "\t")) !== FALSE) {
             $command = $row[0];
             if ($command == 'entry') {
-                // TODO, test if already seen because of <ref>
                 // insert last entry if no form found before
                 if ($entry) {
-                    $form = $entry;
-                    $nb_form[] = $form;
-                    end($nb_form);
-                    $nb = key($nb_form);
-                    $deform_nb[self::deform($form)] = $nb;
-                    $notfound[self::deform($form)] = $form;
+                    $forms[] = $entry;
                 } 
                 $entry = $row[1];
             }
             else if ($command == 'orth') {
                 $entry = null;
-                $form = $row[1];
-                $nb_form[] = $form;
-                end($nb_form);
-                $nb = key($nb_form);
-                $deform_nb[self::deform($form)] = $nb;
-                $notfound[self::deform($form)] = $form;
+                $form[] = $row[1];
             }
         }
-        $nb = 0;
+        return $forms;
+    }
+
+    /**
+     * Comparer avec l’ancienne indexation
+     */
+    public static function orth_old($cote)
+    {
+        $src_file = dirname(__DIR__)."/xml/medict$cote.xml";
+        $xml = file_get_contents($src_file);
+        // keep original
+        $orths = self::tsv_orths(__DIR__ . "/$cote.tsv", "r");
+        $forms = array_flip($orths);
+        $deforms = [];
+        foreach($orths as $f) {
+            $deforms[self::deform($f)] = $f;
+        } 
         $re_callback = array(
-            '@<orth[^>]*>([^<]+)</orth>@' => function ($matches) 
-            use (&$nb, &$deform_nb, &$nb_form, &$notfound) {
-                $key = self::deform($matches[1]);
-                if (isset($deform_nb[$key])) {
-                    unset($notfound[$key]);
-                    $nb = $deform_nb[$key];
-                    return '<orth>' . $matches[1] . '</orth>';
+            '@<orth cert="low">([^<]+)</orth>@' => function ($matches) 
+            use (&$orths) {
+                $form = $matches[1];
+                /*
+                if (isset($forms[$form])) {
+                    return  '<orth>' . $form . '</orth>';
                 }
-                $nb++;
-                return '<!-- ' . $matches[1] .' -->'
+                $deform = self::deform($form);
+                if (isset($deforms[$deform])) {
+                    return  '<orth>' . $deforms[$deform]. '</orth>';
+                }
+                */
+                $targets = [];
+                echo $form;
+                foreach($orths as $orth) {
+                    $lev = levenshtein($form, $orth);  
+                    if ($lev > 1) continue;
+                    $targets[] = $orth;
+                    echo ", $orth $lev";
+                }
+                echo "\n";
+                if (count($targets) == 1) {
+                    return "<ref>" . $targets[0] . "</ref>"; 
+                }
+                return ''
                  . '<orth cert="low">' 
-                 . mb_strtoupper($nb_form[$nb], "UTF-8") 
+                 . $form
                  . '</orth>';
             }
         );
         $xml = preg_replace_callback_array($re_callback, $xml);
+        // file_put_contents($src_file, $xml);
         
-        if ($cert) file_put_contents($src_file, $xml);
-        
+        /*
         echo "\n== NOT FOUND ==\n\n";
         // AE > Æ
         $notfound = implode("|", array_keys($notfound));
@@ -289,6 +294,7 @@ class Tagger
         );
         $notfound = mb_strtoupper($notfound, "UTF-8");
         echo $notfound;
+        */
     }
 
         /**
