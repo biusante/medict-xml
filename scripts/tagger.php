@@ -242,8 +242,6 @@ class Tagger
         // keep original
         $orths = self::tsv_orths(__DIR__ . "/$cote.tsv", "r");
         $forms = array_flip($orths);
-        print_r($forms);
-        exit();
         /*
         $deforms = [];
         foreach($orths as $f) {
@@ -260,11 +258,10 @@ class Tagger
                     return  '<orth>' . $form . '</orth>';
                 }
                 $n++;
-                return ''
-                 . '<!--' . $orths[$n] . '-->'
-                 . '<orth>' 
-                 . $form
-                 . '</orth>';
+                $ret = '';
+                if (isset($orths[$n])) $ret .= '<!--' . $orths[$n] . '-->';
+                $ret .= '<orth>' . $form . '</orth>';
+                return $ret;
 
 
                 /*
