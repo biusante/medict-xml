@@ -1,73 +1,83 @@
-
 TEI {
-  font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 
 TEI,
 text,
 entry,
-form {
-  display: block;
+entryFree,
+form,
+p {
+    display: block;
 }
 
 body {
-  display: block;
-  background: #fff;
-  width: 55rem;
-  padding: 2rem;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    background: #fff;
+    max-width: 55rem;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 entry,
 entryFree {
-  display: block;
-  margin: 0.5rem 0;
+    display: block;
+    margin: 0.5rem 0;
 }
+
+p {
+    text-align: justify;
+}
+
 sense {
-  display: block;
-  text-indent: 1rem;
-  color:#888;
+    display: block;
+    text-indent: 1rem;
+    color: #888;
 
 }
 
 emph {
-  font-style: italic;
-  color: #080;
+    font-style: italic;
+    color: #080;
 }
 
 teiHeader {
-  display: none;
+    display: none;
 }
+
 dictScrap {
- color: blue;
+    color: blue;
 }
 
 ref {
-  color: red;
+    color: red;
 }
 
 term {
-  color: #080;
+    color: #080;
 }
 
 orth {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 
 pb {
-  color:  #888;
-  display: block;
-  margin: 0.5rem 0rem 0.5rem 10rem;
-  border: 0.5px solid #888;
-  text-align: right;
+    color: #888;
+    display: block;
+    margin: 0.5rem 0rem 0.5rem 10rem;
+    border: 0.5px solid #888;
+    text-align: right;
 }
 
 pb:before {
-  display: block;
-  content: "p. " attr(n) ", " attr(facs);
+    display: block;
+    content: "p. "attr(n) ", "attr(facs);
 }
 
-
+lb:before {
+    content: ' ';
+    display: block;
+}
