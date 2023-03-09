@@ -4,12 +4,12 @@ mb_internal_encoding("UTF-8");
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
 
- /*
 $xml_file = dirname(__DIR__) . '/xml/medict37019.xml';
+ /*
 $xml = Tagger::orth_norm($xml_file);
 file_put_contents($xml_file, $xml);
 */
-Tagger::orth_diff('37019');
+Tagger::ref($xml_file);
 exit();
 
 
@@ -159,16 +159,13 @@ class Tagger
         "ι" => "I",
         "Ι" => "I",
         "1" => "I",
-        "l" => "L",
         "Î" => "I",
-        "t" => "I",
         "Κ" => "K", // grc
         "Μ" => "M", // gr
         "μ" => "M",
         "ν" => "N",
         "Ν" => "N",
         "\u039F" => "O", // gr
-        "ο" => "O",
         "0" => "O",
         "Ρ" => "P", // gr
         "ρ" => "P",
@@ -178,7 +175,6 @@ class Tagger
         "Τ" => "T",
         "Γ" => "T",
         "υ" => "U",
-        "ü" => "U",
         "Χ" => "X", // grc
         "χ" => "X",
         "Υ" => "Y", // grc
@@ -306,12 +302,11 @@ class Tagger
         */
     }
 
-        /**
-     * Comparer avec l’ancienne indexation
+    /**
+     * Comparer les renvois avec les vedettes
      */
-    public static function ref($cote)
+    public static function ref($xml_file)
     {
-        $xml_file = dirname(__DIR__)."/xml/medict$cote.xml";
         $xml = file_get_contents($xml_file);
         $deform = [];
         $form = [];
@@ -332,19 +327,20 @@ class Tagger
             '@<ref>(.+?)</ref>@',
             function ($matches) 
             use (&$form, &$deform) {
-                if (isset($form[$matches[1]])) {
-                    return $matches[0];
+                $ref = $matches[1];
+                $ref = strtr($ref, self::$orth_tr);
+                $ref = mb_strtoupper(mb_substr($ref, 0, 1)) 
+                    . mb_strtolower(mb_substr($ref, 1));
+                if (isset($form[$ref])) {
+                    return "<ref>" . $ref . "</ref>";
                 }
-                $key = preg_replace('@</?[^>]+>@', '', $matches[1]);
-                $key = self::deform($key);
+                $key = self::deform($ref);
                 if (isset($deform[$key])) {
                     $ret = "<ref>" . $deform[$key] . "</ref>";
-                    // echo $ret . "\n";
                     return $ret;
                 }
-                $input =  mb_strtoupper($matches[1], "UTF-8") ;
-                echo $input;
-                $targets = [];
+
+                /*
                 foreach($form as $word => $v) {
                     $lev = levenshtein($input, $word);  
                     if ($lev > 2) continue;
@@ -355,7 +351,8 @@ class Tagger
                 if (count($targets) == 1) {
                     // return "<ref>" . $targets[0] . "</ref>"; 
                 }
-                return "<ref>" . $input . "</ref>";
+                */
+                return '<ref cert="low">' . $ref . "</ref>";
             },
             $xml
         );
