@@ -305,7 +305,7 @@ class Tagger
     /**
      * Comparer les renvois avec les vedettes
      */
-    public static function ref($xml_file)
+    public static function ref($xml_file, $cert=null)
     {
         $xml = file_get_contents($xml_file);
         $deform = [];
@@ -356,7 +356,7 @@ class Tagger
             },
             $xml
         );
-        file_put_contents($xml_file, $xml);
+        if ($cert) file_put_contents($xml_file, $xml);
     }
     /**
      * Comparer avec l’ancienne indexation

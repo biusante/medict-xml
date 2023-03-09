@@ -15,7 +15,7 @@ p {
 body {
     display: block;
     background: #fff;
-    max-width: 55rem;
+    max-width: 40rem;
     padding: 2rem;
     margin-left: auto;
     margin-right: auto;
@@ -29,6 +29,7 @@ entryFree {
 
 p {
     text-align: justify;
+    color: #888;
 }
 
 sense {
@@ -52,29 +53,34 @@ dictScrap {
 }
 
 ref {
-    color: red;
+    color: blue;
+    font-variant-caps: small-caps;
 }
 
 term {
-    color: #080;
+    font-weight: bold;
 }
 
 orth {
     font-weight: bold;
+    color: red;
+    font-variant-caps: small-caps;
 }
 
 
 pb {
     color: #888;
     display: block;
-    margin: 0.5rem 0rem 0.5rem 10rem;
-    border: 0.5px solid #888;
+    border-bottom: 0.5px solid #ccc;
     text-align: right;
+    font-size: 0;
 }
 
 pb:before {
+    font-size: 12px;
     display: block;
-    content: "p. "attr(n) ", "attr(facs);
+    float: right;
+    content: "p. "attr(n);
 }
 
 lb:before {
