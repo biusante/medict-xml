@@ -1,20 +1,23 @@
+@namespace xml url('http://www.w3.org/XML/1998/namespace');
+
 TEI {
     font-family: sans-serif;
 }
 
-
-TEI,
-text,
+dictScrap,
 entry,
 entryFree,
 form,
-p {
+p,
+TEI,
+text {
     display: block;
 }
 
 body {
     display: block;
     background: #fff;
+    color: #888;
     max-width: 40rem;
     padding: 2rem;
     margin-left: auto;
@@ -24,24 +27,32 @@ body {
 entry,
 entryFree {
     display: block;
-    margin: 0.5rem 0;
+    margin: 1rem 0;
 }
 
 p {
     text-align: justify;
-    color: #888;
 }
 
 sense {
     display: block;
+    text-align: justify;
     text-indent: 1rem;
-    color: #888;
-
 }
 
-emph {
+emph,
+hi {
     font-style: italic;
+}
+
+foreign {
+    display: block;
     color: #080;
+}
+
+foreign:before {
+    color:#888;
+    content: "["attr(xml|lang)"] ";
 }
 
 teiHeader {
@@ -49,7 +60,9 @@ teiHeader {
 }
 
 dictScrap {
-    color: blue;
+    border: 0.5px solid #ccc;
+    padding: 0.2rem 0.5rem;
+    margin: 2px 0;
 }
 
 ref {
@@ -59,6 +72,7 @@ ref {
 
 term {
     font-weight: bold;
+    color: #000;
 }
 
 orth {
