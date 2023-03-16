@@ -12,6 +12,7 @@ Ce dépôt concerne un projet de la bibliothèque numérique de la BIU Santé su
 * [37020d~lat, Littré-Robin, glossaire latin (1873)](https://biusante.github.io/medict_xml/xml/medict37020d~lat.xml) — relu 
 * [37020d~spa, Littré-Robin, glossaire espagnol (1873)](https://biusante.github.io/medict_xml/xml/medict37020d~spa.xml) — relu
 * [27898, Littré-Gilbert (1908)](https://biusante.github.io/medict_xml/xml/medict27898.xml) — quasi identique à Littré-Robin 1873, structure, vedettes, sous-vedettes, renvois, traductions (traductions grecques relues)
+* [07399, Castelli (1746)](https://biusante.github.io/medict_xml/xml/medict07399.xml) — structure, vedettes, grec relu
 * [00216x01, James Diderot & al. (1746-1748), I](https://biusante.github.io/medict_xml/xml/medict00216x01.xml) — structure, vedettes, renvois
 * [00216x02, James Diderot & al. (1746-1748), II](https://biusante.github.io/medict_xml/xml/medict00216x02.xml) — structure, vedettes, renvois
 * [00216x03, James Diderot & al. (1746-1748), III](https://biusante.github.io/medict_xml/xml/medict00216x03.xml) — structure, vedettes, renvois
@@ -21,7 +22,6 @@ Ce dépôt concerne un projet de la bibliothèque numérique de la BIU Santé su
 * [01686x01, James (1743-1745) I](https://biusante.github.io/medict_xml/xml/medict01686x01.xml)
 * [01686x02, James (1743-1745) II](https://biusante.github.io/medict_xml/xml/medict01686x02.xml) 
 * [01686x03, James (1743-1745) III](https://biusante.github.io/medict_xml/xml/medict01686x03.xml) 
-* [07399, Castelli (1746)](https://biusante.github.io/medict_xml/xml/medict07399.xml)
 
 
 ## Schémas
