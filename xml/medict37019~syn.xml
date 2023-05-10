@@ -1,0 +1,9238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/medict37019~syn.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="medict.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Bégin" n="61157" xml:lang="fra">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nouveau dictionnaire de médecine, de chirurgie, de physique, de chimie et d'histoire naturelle, où l'on trouve l'étymologie et l'explication des termes de ces sciences avec deux vocabulaires, l'un grec, l'autre latin</title>
+        <author>Capuron, Joseph</author>
+        <respStmt>
+          <name>Cahal Taaffe</name>
+          <resp>OCR imprimés anciens et grec.</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>…</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1806"/>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>[Fait] Conversion docx &gt; TEI brut</change>
+      <change>Division des articles</change>
+      <change>=== Agenda : « à faire » ===</change>
+      <change>Balisage des candidats vedettes</change>
+      <change>Vérification des vedettes</change>
+      <change>Vérification des renvois</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body><pb n="440"/>
+
+
+<div>
+
+<head>SYNONYMIE DES TERMES D’ANATOMIE,</head>
+
+
+<div>
+
+<head>SECTION I. OSTÉOLOGIE.</head>
+
+<p rend="i">Les termes de la nouvelle nomenclature commencent chaque alinéa : ceuls de l’ancienne sont précédés de ce signe —
+</p>
+
+<p>
+<orth>Atloïde</orth>
+<term/>première vertèbre cervicale
+</p>
+
+<p>
+<orth>Axoïde</orth>
+<term/>seconde vertebre cervicale
+</p>
+
+<p>
+<orth>Canal inflexe de l’os temporal</orth>
+<term/>canal carotidien
+</p>
+
+<p>
+<orth>Canal rachidien</orth>
+<term/>canal vertébral
+</p>
+
+<p>
+<orth>Cavité pelvienne</orth>
+<term/>le bassin
+</p>
+
+<p>
+<orth>Côtes asternales</orth>
+<term/>fausses côtes
+</p>
+
+<p>
+<orth>Côtes sternales</orth>
+<term/>vraies côtes
+</p>
+
+<p>
+<orth>Dents angulaires</orth>
+<term/>dents canines
+</p>
+
+<p>
+<orth>Dents bi ou multicuspidées</orth>
+<term/>dents molaires
+</p>
+
+<p>
+<orth>Dents conoïdes</orth>
+<hi>Voyez</hi> <ref>Dents angulaires</ref>
+</p>
+
+<p>
+<orth>Dents cunéiformes</orth>
+<term/>dents incisives
+</p>
+
+<p>
+<orth>Détroit abdominal</orth>
+<term/>detroit supérieur du petit bassin
+</p>
+
+<p>
+<orth>Détroit périnéal</orth>
+<term/>détroit inférieur
+</p>
+
+<p>
+<orth>Diametre cocci - pubien</orth>
+<term/>- di.smètre antéro-postérieur du détroit inférieur
+</p>
+
+<p>
+<orth>Diamètre iliaque</orth>
+<term/>diamctre transversal du détroit supérieur
+</p>
+
+<p>
+<orth>Diarnètre ischiatique</orth>
+<term/>diamefre transversal dit détroit inféricur
+</p>
+
+<p>
+<orth>Diamètre sacro-pubien</orth>
+<term/>diamètre antéro-postérieur du détroit supérieur, ou abdominal
+</p>
+
+<p>
+<orth>Epicondyle</orth>
+<term/>tubérosité au dessus du condyle de l’huinérus
+</p>
+
+<p>
+<orth>Epitroklée</orth>
+<term/>apophyse au dessus de la face articulaire cubitale de l’bumérus
+</p>
+
+<p>
+<orth>Face cervicale</orth>
+<term/>face postérienre du cou
+</p>
+
+<p>
+<orth>Face dorsale</orth>
+<term/>face postérieure du dos
+</p>
+
+<p>
+<orth>Face lombaire</orth>
+<term/>face postérieurç des lombesr
+</p>
+
+<p>
+<orth>Face plantaire</orth>
+<term/>face concave du pied
+</p>
+
+<p>
+<orth>Fnce poplitée</orth>
+<term/>face postérîeure de la jambc
+</p>
+
+<p>
+<orth>Face prédorsale</orth>
+<term/>- face antérienre de la region du dos
+</p>
+
+<p>
+<orth>Face prélombaire</orth>
+<term/>face antérieure des lombes
+</p>
+
+<p>
+<orth>Face prespinale</orth>
+<term/>face antérienre de l’épine
+</p>
+
+<p>
+<orth>Faceprétibiale</orth>
+<term/>faceantérieure de la jambe
+</p>
+
+<p>
+<orth>Face spinale</orth>
+<term/>face postérieure de Pépine
+</p>
+
+<p>
+<orth>Face suplantaire</orth>
+<term/>coude-pied , dos ilu pied
+</p>
+
+<p>
+<orth>Face tracbélienne</orth>
+<term/>face anterieure du cou
+</p>
+
+<p>
+<orth>Hiatus occipito-petreux</orth>
+<term/>trou déchiie postérieur
+</p>
+
+<p>
+<orth>Ligne sous-trokantérienne</orth>
+<term/>ligne apre et raboteuse du col du fémur
+</p>
+
+<p>
+<orth>Machoire diacranienne</orth>
+<term/>mâchoire inférieure
+</p>
+<pb n="441"/>
+
+<p>
+<orth>Màchoire syncranienne</orth>
+<term/>màehoire supérieure
+</p>
+
+<p>
+<orth>Membres abdominaux</orth>
+<term/>extrémitésinférieures
+</p>
+
+<p>
+<orth>Membres thoraciques</orth>
+<term/>extrémités supérieures
+</p>
+
+<p>
+<orth>Os coxaux</orth>
+<term/>os innominés, os des hanches
+</p>
+
+<p>
+<orth>Phalange</orth>, phalangine , phalangette <term/>seconde , troisième phalange des doigts ou des orteils
+</p>
+
+<p>
+<orth>Rachis</orth>
+<term/>l’épine, la colonne vertébrale
+</p>
+
+<p>
+<orth>Thorax</orth>
+<term/>poitrine
+</p>
+
+<p>
+<orth>Trocbin</orth>
+<term/>petite apophyscprès la téte de l’humérus
+</p>
+
+<p>
+<orth>Trochiter</orth>
+<term/>grande apophyse près la tête de l’humérus
+</p>
+
+<p>
+<orth>Trochlée</orth>
+<orth>Troklée</orth>
+<term/>face articulaire de l'extrémité tibiale dn fémur ou de l’extrémité de l'humérus
+</p>
+
+<p>
+<orth>Trokanter</orth>
+<term/>grand trokanter
+</p>
+
+<p>
+<orth>Trokantin</orth>
+<term/>petit trokanter
+</p>
+
+<p>
+<orth>Trou soupubien</orth>
+<term/>trou ovale , obturateur
+</p>
+
+
+</div>
+<div>
+
+<head>SECTION II. MYOLOGIE</head>
+
+<p>
+<orth>Acoustico-malléen</orth>
+<term/>muscle externe du marteau
+</p>
+
+<p>
+<orth>Alveolo labial</orth>
+<term/>buccinateur
+</p>
+
+<p>
+<orth>Anthéli-tragicn</orth>
+<term/>tragien
+</p>
+
+<p>
+<orth>AtloÏdo - occipital</orth>
+<term/>petit droit postérieur de la tête
+</p>
+
+<p>
+<orth>Atloïdo-sous-mastoïdien</orth>
+<term/>oblique supérieur de la tète
+</p>
+
+<p>
+<orth>Atloïdo - sous- occipital</orth>
+<term/>petit droit latéral de la tête
+</p>
+
+<p>
+<orth>Arythénoïdien</orth>
+<term/>Arythénoïdien
+</p>
+
+<p>
+<orth>Axoïdo-atlôïdien</orth>
+<term/>oblique inferieur de la téte
+</p>
+
+<p>
+<orth>AxoÏdo-occipital</orth>
+<term/>grand droit postérieur de la téte
+</p>
+
+<p>
+<orth>Biférnoro-calcaniens</orth>
+<term/>j umeaux de la jambe
+</p>
+
+<p>
+<orth>Calcanéo-sous-phalangien du premicr orteil</orth>
+<term/>abduçteur du pouce
+</p>
+
+<p>
+<orth>Calcanéo - sous - phalangien du cinquième orteil</orth>
+<term/>abducteur du petir doigt
+</p>
+
+<p>
+<orth>Calcanéo«sous-phalanginien Commun</orth>
+<term/>court fléchisseur commun des orteils
+</p>
+
+<p>
+<orth>Calcanéo-sus-phalangettien comroun</orth>
+<term/>court extenseur commun des orteils
+</p>
+
+<p>
+<orth>Carpo-métacarpien du petit doigt</orth>
+<term/>métacarpien du petit doigt
+</p>
+
+<p>
+<orth>Carpo-métacarpien du pouce</orth>
+<term/>métacarpien
+</p>
+
+<p>
+<orth>Corpo-phalangîen du pouce</orth>
+<term/>court fléchisseur du pouce
+</p>
+
+<p>
+<orth>Çarpo-pbalangien du petit doigt</orth>
+<term/>abducteur du petit doigt
+</p>
+
+<p>
+<orth>Carpo-sus-phalangien du pouce</orth>
+<term/>court abducteur du pouce
+</p>
+
+<p>
+<orth>Cervico-mastoïdien</orth>
+<term/>splénius de la tête
+</p>
+
+<p>
+<orth>Coccygio- anal</orth>
+<term/>spliincter de Panus
+</p>
+
+<p>
+<orth>Concho-anthélix</orth>
+<term/>transverse de l’oreille
+</p>
+
+<p>
+<orth>Concho-hélix</orth>
+<term/>petit hélix
+</p>
+  
+<p>
+<orth>Coraco-huméral</orth>
+<term/>coraco-brachial
+</p>
+
+<p>
+<orth>Costo-abdominal</orth>
+<term/>grand ou oblique externe du bas-ventre
+</p>
+
+<p>
+<orth>Costo - claviculaire</orth>
+<term/>sous - clavier
+</p>
+
+<p>
+<orth>Costo-coracoïdicn</orth>
+<term/>petit pectoral
+</p>
+
+<p>
+<orth>Costo-scapulaire</orth>
+<term/>grand dentelé
+</p>
+
+<p>
+<orth>Costo-trachélien</orth>
+<term/>scalène
+</p>
+
+<p>
+<orth>Crico-arythénoïdien latéral</orth>
+<term/>Crico-arythénoïdien latéral
+</p>
+
+<p>
+<orth>Crico-arythénoïdien postérieur</orth>
+<term/>Crico-arythénoïdien postérieur
+</p>
+
+<p>
+<orth>Crico-thyroïdien</orth>
+<term/>Crico-thyroïdien
+</p>
+
+<p>
+<orth>Crico-thyro-pharyngien</orth>
+<term/>constricteur inférieur du pharynx
+</p>
+
+<pb n="442"/>
+
+<p>
+<orth>CÏlbito - carpien</orth>
+<term/>cubital interne
+</p>
+
+<p>
+<orth>Cubito-phalangettien commun</orth>
+<term/>profond
+</p>
+
+<p>
+<orth>Cubito-radial</orth>
+<term/>carré pronateur
+</p>
+
+<p>
+<orth>Cubito-sus-métacarpien</orth>
+<term/>cubital externe
+</p>
+
+<p>
+<orth>Cubito-sus-métacarpien du pouce</orth>
+<term/>long abdiuteur du pouce
+</p>
+
+<p>
+<orth>Cubito-sus-phalangettien du pouce</orth>
+<term/>long extenseur du pouce
+</p>
+
+<p>
+<orth>Cublto-siis-phalaûgettien de Findex</orth>
+<term/>extenseur propre de l’index
+</p>
+
+<p>
+<orth>Cubito-sus-phalangicn dn poucc</orth>
+<term/>court extenseur du pquce
+</p>
+
+<p>
+<orth>Diaphragme</orth>
+<term/>thoraco - abdominal
+</p>
+
+<p>
+<orth>Dorso- costal</orth>
+<term/>dentelé postéHeur supérieur
+</p>
+
+<p>
+<orth>Dorso-scapulaire</orth>
+<term/>rlicmboïdé
+</p>
+  
+<p>
+<orth>Dorso-sus-acromien</orth>
+<term/>trapèze
+</p>
+  
+<p>
+<orth>Dorso-tiachclien</orth>
+<term/>splénius du cou
+</p>
+
+<p>
+<orth>Epicondylo-radial</orth>
+<term/>court supinateur
+</p>
+
+<p>
+<orth>Epicondylo-cubital</orth>
+<term/>petit ancone
+</p>
+
+<p>
+<orth>Epicondylo-sus-métacarpien</orth>
+<term/>seccnd radial externe
+</p>
+
+<p>
+<orth>Epicondylo-sus-phalangettien du petit doigt</orth>
+<term/>extenseur propre du petit doigt
+</p>
+
+<p>
+<orth>Epicondylo - sus - phalangettien çonunun</orth>
+<term/><hi>extt</hi> nçeur
+</p>
+
+<p>
+<orth>Epitroklo-Iuetacarpitn</orth>
+<term/>radial interne
+</p>
+
+<p>
+<orth>Fpitroklo-palmaire</orth>
+<term/>palmaire grêfe
+</p>
+
+<p>
+<orth>Lpitroklo-phalaiigiiiienconimun</orth>
+<term/>sublimc
+</p>
+
+<p>
+<orth>Epitrcklo-radial</orth>
+<term/>rond pronateur
+</p>
+
+<p>
+<orth>Fémoro-popliti-tibial</orth>
+<term/>poplite
+</p>
+
+<p>
+<orth>Fronto-nasal</orth>
+<term/>frontal
+</p>
+  
+<p>
+<orth>Genioglosse</orth>
+<term/>Genioglosse
+</p>
+  
+<p>
+<orth>Génio-hÿoïdien</orth>
+<term/>Génio-hÿoïdien
+</p>
+  
+<p>
+<orth>Glossien</orth>
+<term/>lingual
+</p>
+
+<p>
+<orth>Glosso-staphylin</orth>
+<term/>Glosso-staphylin
+</p>
+
+<p>
+<orth>Grand fessier</orth>
+<term/>sacro-fémoral
+</p>
+  
+<p>
+<orth>Grand ilio-trokantérien</orth>
+<term/>moyen fessier
+</p>
+
+<p>
+<orth>Grand péronéo-sus-métatarsien</orth>
+<term/>moyen péronier
+</p>
+
+<p>
+<orth>Grand ptérygo-maxillaire</orth>
+<term/>grand ptérygoïdien
+<term/>ptérygoïdien interne
+</p>
+
+<p>
+<orth>Grand scapulo-trochitérien</orth>
+<term/>sous-épineux
+</p>
+
+<p>
+<orth>Graud sus-maxillo-labial</orth>
+<term/>- rc* leveur de l’aile du nez
+</p>
+
+<p>
+<orth>Grand tracliélo-sous occipital</orth>,graçd droit antérieur de la téie
+</p>
+
+<p>
+<orth>Grandzygomato-labial</orth>
+<term/>grand zygomatique
+</p>
+
+<p>
+<orth>Hélix</orth>
+<term/>grand helix
+</p>
+
+<p>
+<orth>Huméro-cubital</orth>
+<term/>brachial
+</p>
+
+<p>
+<orth>Humero-sus-métacarpien</orth>
+<term/>premier radial externe
+</p>
+
+<p>
+<orth>Huméro-sus-radial</orth>
+<term/>» long supinateur
+</p>
+
+<p>
+<orth>’Hyo-condroglosse</orth>
+<term/>hyoglosse
+</p>
+
+<p>
+<orth>Hyoglosse</orth>
+<term/>Hyoglosse
+</p>
+
+<p>
+<orth>Hyoglosso-basi-pharyngien</orth>
+<term/>constricteur moyen du pharynx
+</p>
+
+<p>
+<orth>Hyothyroïdien</orth>
+<term/>Hyothyroïdien
+</p>
+
+<p>
+<orth>Iliaco-trokantinien</orth>
+<term/>iliaque interne
+</p>
+
+<p>
+<orth>Ilio-abdominal</orth>
+<term/>-obliqueinterne ou petit obliqife du bas-ventre
+</p>
+
+<p>
+<orth>Ilio-aponévrotique de la cuisse</orth>
+<term/>iascia lata
+</p>
+
+<p>
+<orth>Jlio-costal</orth>
+<term/>carré dcs lonibes
+</p>
+
+<p>
+<orth>Ilio-prétibial</orth>
+<term/>couturier
+</p>
+  
+<p>
+<orth>ilio-rotulien</orth>
+<term/>grêle antérieur
+</p>
+  
+<p>
+<orth>Intercervicaux</orth>
+<term/>interépineux du cou
+</p>
+
+<p>
+<orth>Intercostaux</orth>
+<term/>Intercostaux
+</p>
+
+<p>
+<orth>Intertrachéliens</orth>
+<term/>intertransversaires
+</p>
+
+<p>
+<orth>Iskio-coccygien</orth>
+<term/>Iskio-coccygien
+</p>
+
+<p>
+<orth>Iskio-fémoral</orth>
+<term/>troisième adducteur de la cuisse
+</p>
+
+<p>
+<orth>Iskio-fémoro-péronier</orth>
+<term/>biceps de la cuisse
+</p>
+
+<p>
+<orth>Iskio-périnéal</orth>
+<term/>transverse du périuéc
+</p>
+
+<p>
+<orth>Iskio -poplîti-tibial</orth>
+<term/>demi-mcnir braneux
+</p>
+
+<p>
+<orth>Iskio-prétibial</orth>
+<term/>demi-nerveux
+</p>
+  
+<p>
+<orth>Iskio-sous-clitorien</orth>
+<term/>erecteur du clitoris
+</p>
+
+<p>
+<orth>Iskio-sous-pénien</orth>
+<term/>ischio-caverneux
+</p>
+
+<p>
+<orth>Iskio-sous-trokantérien</orth>
+<term/>carré
+</p>
+
+<p>
+<orth>Iskio-trokantérien</orth>
+<term/>jumeaux du bassiu
+</p>
+
+<p>
+<orth>Labial</orth>
+<term/>orl)iculaire des lèvres
+</p>
+
+<p>
+<orth>I onibe-abdominai</orth>
+<term/>traosverse du bas-vcntre
+</p>
+
+<p>
+<orth>Lombo-costal</orth>
+<term/>dentelé postérieur inférieur
+</p>
+
+<p>
+<orth>1ombo-huméral</orth>
+<term/>grand dorsal
+</p>
+  
+<p>
+<orth>Mastoïdo-génien</orth>
+<term/>digastrique
+</p>
+  
+<p>
+<orth>Mastoïdo-oriculaire</orth>
+<term/>postérieur de l’oreiile
+</p>
+
+<p>
+<orth>Maxillo-labial</orth>
+<term/>triangujahe dts levres
+</p>
+<pb n="443"/>
+
+<p>
+<orth>maxiuo - scteroticien</orth>
+<term/>grand oblique de l’œil
+</p>
+
+<p>
+<orth>Mento-labial</orth>
+<term/>carrédn mcnton
+</p>
+
+<p>
+<orth>Métacarpo-phalangien du pouce</orth>, «v-adducteur du pouce
+</p>
+
+<p>
+<orth>Métacarpo-phalangiens latéraux externes</orth>
+<term/>interosseux externes
+</p>
+
+<p>
+<orth>Métacarpo-phalangiens latéraux internes</orth>
+<term/>interosseux internes
+</p>
+  
+<p>
+<orth>Métatarso-phalangiens latéraux supérieurs</orth>
+<term/>interosseux supérieurs
+</p>
+
+<p>
+<orth>Métatarso - phalangiens latéraux inférieurs</orth>
+<term/>inteiOsseuxinférieurs
+</p>
+
+<p>
+<orth>Métatarso-sous -phalangien du piemier orteil</orth>
+<term/>adducteur du pouce
+</p>
+
+<p>
+<orth>Métatars</orth>.o - sous - phalanginien transversal du premier orteil, transversal des orteils
+</p>
+
+<p>
+<orth>Métatarso - sous - phalangicn du cinquième orteil</orth>
+<term/>abducteur du petit doigt
+</p>
+
+<p>
+<orth>Moyen sus-maxillo-labial</orth>
+<term/>incisif
+</p>
+
+<p>
+<orth>Mylo-hyoïdien</orth>
+<term/>Mylo-hyoïdien
+</p>
+
+<p>
+<orth>Naso - palpébral</orth>
+<term/>orbiculaire des paupières
+</p>
+
+<p>
+<orth>Naso-surdlier</orth>
+<term/>sourcilier
+</p>
+
+<p>
+<orth>Occipito-ffôntal</orth>
+<term/>occipito-frontak
+</p>
+
+<p>
+<orth>Optico-trochléi-scléroticien</orth>, grand oblique de l’œil
+</p>
+
+<p>
+<orth>Orbito-extus^sclérôticien</orth>
+<term/>muscle droit externe de l’œil
+</p>
+
+<p>
+<orth>Orbito-intus-scléroticien</orth>
+<term/>muscle droit interne de l’œil
+</p>
+
+<p>
+<orth>Orbito-palpébral</orth>
+<term/>releveur de la paupière supérieure
+</p>
+
+<p>
+<orth>Palato-staphylin</orth>
+<term/><hi>idem</hi>
+</p>
+
+<p>
+<orth>Falmaire cutané</orth>
+<term/>Palato-staphylin
+</p>
+
+<p>
+<orth>Palmi - pbalangiens</orth>
+<term/>lombricaux des mains
+</p>
+
+<p>
+<orth>Périneo-clitorien</orth>
+<term/>constricteur du vagin
+</p>
+
+<p>
+<orth>Pérniéo-uretral</orth>
+<term/>bulbo-caverneux
+</p>
+
+<p>
+<orth>Péronéo-sous- phalangcttien du preinier orteil</orth>
+<term/>long flcchisseur du ponce
+</p>
+
+<p>
+<orth>Peronéo-sous-tarsien</orth>
+<term/>long péronier
+</p>
+
+<p>
+<orth>Péronéo - sus - phalangettien du premier orteil</orth>
+<term/>extenseur propre du pouce
+</p>
+
+<p>
+<orth>Périnéo-sus-phalangettien commun</orth>
+<term/>long extenseur comniun des orteils
+</p>
+
+<p>
+<orth>Petit fémoro-calcanien</orth>
+<term/>planlaire gréle
+</p>
+
+<p>
+<orth>Petit ilio-trokantérien</orth>
+<term/>petic fessier
+</p>
+
+<p>
+<orth>Petit péronéo-sus-métatarsien</orth>
+<term/>court péronier
+</p>
+
+<p>
+<orth>Pctit ptérygo-maxillaire</orth>
+<term/>petit ptérygoïdien, ou ptérygoÏdien externe
+</p>
+
+<p>
+<orth>Petit scapulo-trochitérien</orth>
+<term/>susépineux
+</p>
+
+<p>
+<orth>Petit sus-maxillo-labial</orth>
+<term/>canin
+</p>
+
+<p>
+<orth>Petit trachélo-sous-occipital</orth>
+<term/>petit droit antérieur de la tête
+</p>
+
+<p>
+<orth>Petit zygomato-labial</orth>
+<term/>petit zygomatiq ue
+</p>
+
+<p>
+<orth>Pétro -salpingo -pharyngien</orth>, stylo-pharyngien
+</p>
+
+<p>
+<orth>Pétro-staphylin</orth>
+<term/>péristapbylin interne
+</p>
+
+<p>
+<orth>Planti-sous-phalangiens</orth>
+<term/>lombricaux des pieds
+</p>
+
+<p>
+<orth>Plus petit scapulo- trochitérien</orth>
+<term/>petit rônd
+</p>
+
+<p>
+<orth>Prédorso-atloïdien</orth>
+<term/>long du cou
+</p>
+
+<p>
+<orth>Prélombo - sus - pubien</orth>
+<term/>petit psoas
+</p>
+
+<p>
+<orth>Prélombo-trokantinien</orth>
+<term/>-graud psoas
+</p>
+
+<p>
+<orth>Ptérygo -staphyiin</orth>
+<term/>péristapbylin externe
+</p>
+
+<p>
+<orth>Ptérygo-syndesmo-staphyli-pharyngien</orth>
+<term/>constricteur supérieur du pharynx
+</p>
+
+<p>
+<orth>PubÎO - fémoral</orth>
+<term/>premicr adducteur de la cui.sse
+</p>
+
+<p>
+<orth>Pubio - sous- ombilical</orth>
+<term/>pyramidal du bas-ventre
+</p>
+
+<p>
+<orth>Badio-plIalangettien du pouce</orth>
+<term/>. long flcchisseur du pouce
+</p>
+
+<p>
+<orth>Sacro-spinal</orth>
+<term/>sacrodombaire, longd'u dos, épineuxdu dos, transversairc' épineux
+</p>
+
+<p>
+<orth>Sacro-trokantérien</orth>
+<term/>pyramidal de la cuisse
+</p>
+
+<p>
+<orth>Salpingo-malleen</orth>
+<term/>muscle iuterne du marteau
+</p>
+
+<p>
+<orth>ScapulO-huméral</orth>
+<term/>grand rond
+</p>
+
+<p>
+<orth>Scapuio - huméro - olécranien</orth>
+<term/>triceps brachial
+</p>
+
+<p>
+<orth>Scapulo - hyoïdien</orth>
+<term/>omoplathyoidicn
+</p>
+
+<p>
+<orth>Scapulo-radial</orth>
+<term/>biceps du bras
+</p>
+
+<p>
+<orth>Sous-acromio-humérai</orth>
+<term/>deltoïde
+</p>
+
+<p>
+<orth>Sous- opti-sphéno -scléroticien</orth>
+<term/>mnscle droit inférieur de l’œil
+</p>
+
+<p>
+<orth>Sterno-huméral</orth>
+<term/>grand pectoral
+</p>
+
+<p>
+<orth>Sus-optico-spliéni-scléroticien</orth>
+<term/>muscle droit supérieur de l’œil
+</p>
+<pb n="444"/>
+
+<p>
+<orth>Sous-pubio-coccygien</orth>
+<term/>releveur de l’anus
+</p>
+
+<p>
+<orth>Sous-pubio-fémoral</orth>
+<term/>second adducteur de la cussé
+</p>
+
+<p>
+<orth>Sous*pubio-prétibial</orth>
+<term/>grele interne
+</p>
+
+<p>
+<orth>Sous-pubio-trokantérien externe</orth>
+<term/>obturateur externe
+</p>
+
+<p>
+<orth>Sous-pubio-trokantérien interne</orth>
+<term/>obturateur interne
+</p>
+
+<p>
+<orth>Sphéni-salpingo-malléen</orth>
+<term/>muscle antérieurdu marteau
+</p>
+
+<p>
+<orth>Sterno-costal</orth>
+<term/>triangulairc du sternum
+</p>
+
+<p>
+<orth>Sous-scapulo-trochinicn</orth>
+<term/>sousscnpulaire
+</p>
+
+<p>
+<orth>Sterno-hyoïdien</orth>
+<term/>Sterno-hyoïdien
+</p>
+
+<p>
+<orth>Sterno-mastoïdien</orth>
+<term/>sternocléido-mastoïdien
+</p>
+
+<p>
+<orth>Sterno-pubien</orth>
+<term/>droit du basventre
+</p>
+
+<p>
+<orth>Sterno-thyroïdien</orth>
+<term/>Sterno-thyroïdien
+</p>
+
+<p>
+<orth>Styloglosse</orth>
+<term/>Styloglosse
+</p>
+
+<p>
+<orth>Stylo-hyoïdien</orth>
+<term/>Stylo-hyoïdien
+</p>
+
+<p>
+<orth>Sus-maxillo-nasal</orth>
+<term/>constricteur des narines
+</p>
+
+<p>
+<orth>Sus-pubio-femoral</orth>
+<term/>pectiné
+</p>
+
+<p>
+<orth>Tarso-sous-phalangien du premier orteil</orth>
+<term/>court fléchisseur du pouce
+</p>
+
+<p>
+<orth>Temporo-maxillaire</orth>
+<term/>crotaphite
+</p>
+
+<p>
+<orth>Temporo - auriculaire</orth>
+<term/>supé* ricur de l’oreille
+</p>
+
+<p>
+<orth>Thoraco-facial</orth>
+<term/>peaucier
+</p>
+
+<p>
+<orth>Thyro-arythénoïdien</orth>
+<term/>Thyro-arythénoïdien
+</p>
+
+<p>
+<orth>Tibio-calcanien</orth>
+<term/>soléaire
+</p>
+
+<p>
+<orth>Tibio-sous-phalangettien commun</orth>
+<term/>long fléchisseur commun des orteils
+</p>
+
+<p>
+<orth>Tibio-sous-tarsien</orth>
+<term/>jambier postérieur
+</p>
+
+<p>
+<orth>Tibio-sus-tarsien</orth>
+<term/>jambier antérieur
+</p>
+
+<p>
+<orth>Trachélo - mastoïdien</orth>
+<term/>petit complexus
+</p>
+
+<p>
+<orth>Trachélo - occipital</orth>
+<term/>grand complexus
+</p>
+
+<p>
+<orth>Trachélo-scapulaire</orth>
+<term/>angulaire de l’omoplate
+</p>
+
+<p>
+<orth>Trifémoro - rotulien</orth>
+<term/>triceps crural
+</p>
+
+<p>
+<orth>Zygomato-maxillaire</orth>
+<term/>masseter
+</p>
+
+<p>
+<orth>Zygornato - auriculaire</orth>
+<term/>antérieur ou releveur de l’oreille
+</p>
+
+
+</div>
+<div>
+
+<head>SECTION III. SPLANCHNOCOGIE.</head>
+
+<p>
+<orth>Conduit gutturo auriculaire</orth>
+<term/>trompe d’Eustache
+</p>
+
+<p>
+<orth>Encéphale</orth>
+<term/>cerveau
+</p>
+  
+<p>
+<orth>Méningine</orth>
+<term/>arachnoïde
+</p>
+  
+<p>
+<orth>Méningette</orth>
+<term/>pie-mère
+</p>
+  
+<p>
+<orth>Méninge</orth>
+<term/>dure-mère
+</p>
+  
+<p>
+<orth>Mésocéphale</orth>
+<term/>moelle allongée
+</p>
+  
+<p>
+<orth>Méso lobe</orth>
+<term/>corps calleux du cerveau
+</p>
+
+<p>
+<orth>Organes splanchniques</orth>
+<term/>viscères
+</p>
+
+<p>
+<orth>Pédoncules du cerveau</orth>
+<term/>cuisse de la moelle allongée
+</p>
+
+<p>
+<orth>Pédoncules du cervelet</orth>
+<term/>bras de la moelle allongée
+</p>
+
+<p>
+<orth>Prolongement rachidien</orth>
+<term/>moelle de l’épine
+</p>
+
+<p>
+<orth>Septum - stapbylin</orth>
+<term/>voile du palais
+</p>
+
+<p>
+<orth>Tonsills</orth>
+<term/>amygdale.
+</p>
+<pb n="445"/>
+
+
+</div>
+<div>
+
+<head>SECTION IV. ANGEIOLOGIE.</head>
+
+
+<div>
+
+<head>1°. ARTÉRIOLOGIE,</head>
+
+<p>.ARTÉRES cardiaques
+<term/>artêres coronaires
+</p>
+
+<p>
+<orth>Cérébrale antérieure</orth>
+<term/>carotide externe
+</p>
+
+<p>
+<orth>Cérébrale posterieure</orth>
+<term/>cervicale
+</p>
+
+<p>
+<orth>Faciale</orth>
+<term/>carotide externe
+</p>
+
+<p>
+<orth>Fémorale</orth>
+<term/>crurale
+</p>
+
+<p>
+<orth>Grande musculaire de la cuisse</orth>, profonde
+</p>
+
+<p>
+<orth>Gutturo-maxillaire</orth>
+<term/>maxillaire interne
+</p>
+
+<p>
+<orth>Iliaque</orth>
+<term/>iliaque externe
+</p>
+
+<p>
+<orth>Lobaires antérieure</orth>, moyenne
+<term/>artères du corps calleux
+</p>
+
+<p>
+<orth>Médiane du sacrum</orth>
+<term/>sacrée antérieure
+</p>
+
+<p>
+<orth>Orbitaire</orth>
+<term/>ophthalmique
+</p>
+
+<p>
+<orth>Falato-labiale</orth>
+<term/>Jabiale
+</p>
+
+<p>
+<orth>Scapuïo - humérales</orth>
+<term/>circon^ flexes
+</p>
+
+<p>
+<orth>Fcrotales</orth>
+<term/>honteuses
+</p>
+
+<p>
+<orth>Sous-pubio-fémorale</orth>
+<term/>obturatrice
+</p>
+
+<p>
+<orth>Sous-sternale</orth>
+<term/>mammaire in* terne
+</p>
+
+<p>
+<orth>Stomo - gastrique</orth>
+<term/>coronaire stornachique
+</p>
+
+<p>
+<orth>Surrénales</orth>
+<term/>capsulaires
+</p>
+
+<p>
+<orth>Sus pubienne</orth>
+<term/>epigastrique
+</p>
+
+<p>
+<orth>Testiculaires</orth>
+<term/>spermatiques
+</p>
+
+<p>
+<orth>Trachélo-cervicale</orth>
+<term/>cervicale prolonde
+</p>
+
+<p>
+<orth>Tronc céphaiique</orth>
+<term/>artere carotide nrimitive
+</p>
+
+<p>
+<orth>Tronc opisto-gastrique</orth>
+<term/>tronc céliaquc
+</p>
+
+<p>
+<orth>Tronc pelvi-crural</orth>
+<term/>iliaques primitives
+</p>
+
+
+</div>
+<div>
+
+<head>2°. PULÉBOLOGIE.</head>
+
+<p>
+<orth>Cave (veîne) thoracîque</orth>
+<term/>cave ascendante des ancieus, descendante ou supçiieure des modernes
+</p>
+
+<p>
+<orth>Céphalique</orth>
+<term/>jugulaiie
+</p>
+
+<p>
+<orth>Cave abdominale</orth>
+<term/>cave descendante des anciens , ascendante ou inférieure des modernes
+</p>
+
+<p>
+<orth>Cérébrale antérieure</orth>
+<term/>tronc extérieur de la jugulaire
+</p>
+
+<p>
+<orth>Cérébrale postérieure</orth>
+<term/>vertébrale
+</p>
+
+<p>
+<orth>Courbure sous-sternale de l’aorte</orth>
+<term/>crosse de l’aorte
+</p>
+
+<p>
+<orth>Cubitale cutanée</orth>
+<term/>basilique
+</p>
+
+<p>
+<orth>Faciale</orth>
+<term/>tronc intérieur des jugulaires internes
+</p>
+
+<p>
+<orth>Médiane de l’avant-bras</orth>
+<term/>tronc de la médiane
+</p>
+
+<p>
+<orth>Péronéo-malléolaire</orth>
+<term/>petite veine saphene
+</p>
+
+<p>
+<orth>Petite prélombo-thoracique</orth>
+<term/>demi-azygos
+</p>
+
+<p>
+<orth>Prélombo-thoracique</orth>
+<term/>azygos
+</p>
+
+<p>
+<orth>Radiale cutanée</orth>
+<term/>cephalique du bras
+</p>
+
+<p>
+<orth>Tibio-malléolaire</orth>
+<term/>grande vei* nesaphène
+</p>
+
+<p>
+<orth>Trachélo-sous-cutané</orth>
+<term/>jugulaire externe
+</p>
+<pb n="446"/>
+
+
+</div>
+</div>
+<div>
+
+<head>SECTION V. NÉVROLOGIE.</head>
+
+<p>
+<orth>J^nACHIAUx (nerfs)</orth>
+<term/>plexus brachial
+</p>
+
+<p>
+<orth>Brancho-maxillaire</orth>
+<term/>branche maxillaire inférieure
+</p>
+
+<p>
+<orth>Cruraux</orth>
+<term/>nerfs des membres abdominaux, provenant du plexus lombairè etdu plexus sacre
+</p>
+
+<p>
+<orth>Cubito - cutané</orth>
+<term/>cutané interne
+</p>
+
+<p>
+<orth>Ethmoïdal</orth>
+<term/>olfactif
+</p>
+
+<p>
+<orth>Facial</orth>
+<term/>nerf auditif, portion dure du nerf auditif, petit syj^pathique
+</p>
+
+<p>
+<orth>Fémoro-poplité</orth>
+<term/>nerf sciatiqiie
+</p>
+
+<p>
+<orth>Ganglion orbitaire</orth>
+<term/>ganglion lenticulaire
+</p>
+
+<p>
+<orth>Labyrinthique</orth>
+<term/>portion molle du nerf auditif
+</p>
+
+<p>
+<orth>Median digital</orth>
+<term/>-nerfmédian
+</p>
+
+<p>
+<orth>Oculaire</orth>
+<term/>optique
+</p>
+
+<p>
+<orth>Oculo - mnsculaire commun</orth>
+<term/>- nerl moteur commun des yeux
+</p>
+
+<p>
+<orth>Oculo-musculaire externe</orth>
+<term/>nerf moteur externe
+</p>
+
+<p>
+<orth>Oculo musculaire interne</orth>
+<term/>pathétique
+</p>
+
+<p>
+<orth>Orbito-frontal</orth>
+<term/>ophthalmiqne de Willis
+</p>
+
+<p>. Pneumo-gastrique
+<term/>nerfde la paire vague, ou de la huitième paire ; moyen sympatbique de VVinslow
+</p>
+
+<p>
+<orth>Rachidiens</orth>
+<term/>nerfs cle la moelle de l’épine
+</p>
+
+<p>
+<orth>Sous-atloïdien</orth>
+<term/>«deuxicme paire cervicale
+</p>
+
+<p>
+<orth>Sous-axoÏdien</orth>
+<term/>troisième paire cervicale
+</p>
+
+<p>
+<orth>Sous-lingual</orth>
+<term/>nerf gustatif, ou grand hypoglosse
+</p>
+
+<p>
+<orth>Sous-occipital</orth>
+<term/>premiere paire cervicale
+</p>
+
+<p>
+<orth>Sous-pubio-fémoral</orth>
+<term/>obturateur
+</p>
+
+<p>
+<orth>Sus-maxillaire</orth>
+<term/>maxillaire supérieüre
+</p>
+
+<p>
+<orth>Trachéliens</orth>
+<term/>nerfs cervicaux
+</p>
+
+<p>
+<orth>Trachélo-diaphragmatique</orth>
+<term/>quatrième paire cervicale
+</p>
+
+<p>
+<orth>Trachélo-dorsal</orth>
+<term/>nerf récurrent
+</p>
+
+<p>
+<orth>Trachélo-sous-cutanes</orth>
+<term/>fdexus nerveux formé par les branches antérieùres des deuxième, troisième et quatrième paires trachéliennes ou cervicales
+</p>
+
+<p>
+<orth>Trifacial</orth>
+<term/>trijumeaux
+</p>
+
+<p>
+<orth>Trisplanchnique</orth>
+<term/>intercostal ou grand synlpatliique
+</p>
+
+
+</div>
+<div>
+
+<head>SECTION VI. PHYSIOLOGIE.</head>
+
+<p><hi>Appérceptibilité</hi>
+<term/>faculté d'apÎIereevoir , dejuger, de comparcr es impressions reçues
+</p>
+
+<p>
+<orth>Caloricité</orth>
+<term/>faculté dc conscrver une température ou clialeur a peu près égale dans tous les temps
+</p>
+
+<p>
+<orth>Force vitale (Chaussier)</orth>
+<term/>φνσις, βνορμον ( H ipp.), n a t ure ; i<hi>mpetum faciens</hi> (Ka.au Boerh.) ; principe moteur et générateur (A rist.) ; archée (Vanhel.) ; âme (Stahl ,Sauvages ). Force innée ; force de lavie ; activité, principie vital
+</p>
+
+<p>
+<orth>Motilité</orth>
+<term/>faculté du mouvement
+</p>
+
+<p>
+<orth>Myotilité</orth>
+<term/>irrirabilité hallérienne, contractiüté musculàire
+</p>
+
+<p>
+<orth>Organismé</orth>
+<term/>coopcration d’actioû-entre toutes les parties
+</p>
+
+<p>
+<orth>Sensibilité</orth>
+<term/>faculté de sentir
+</p>
+
+<p>
+<orth>Tonicité</orth>
+<term/>τινος des Grecs , tension vitale, contractiüté fibrillaire , force tonique
+</p>
+
+<p>
+<orth>Vibratilité</orth>
+<term/>balancement alternatif de tension et de relâchement dans les solides
+</p>
+<pb n="447"/>
+
+<p>
+<orth>Acide aérien</orth>
+<term/>acide carbonique
+</p>
+
+<p>
+<orth>Acidecharbonneux</orth>
+<term/>acide carbonique
+</p>
+
+<p>
+<orth>Acide crayeux</orth>
+<term/>acide carbonique
+</p>
+
+<p>
+<orth>Acide des pommes</orth>
+<term/>acide malique
+</p>
+
+<p>
+<orth>Acide du soufre</orth>
+<term/>acide sttlfurique
+</p>
+
+<p>
+<orth>Acide du sel</orth>
+<term/>acide muriatique
+</p>
+
+<p>
+<orth>Acide du sucre</orth>
+<term/>acide oxalique
+</p>
+
+<p>
+<orth>Acide du tartre</orth>
+<term/>acide tartareiix
+</p>
+
+<p>
+<orth>Acide du vinaigre</orth>
+<term/>acide acéteux
+</p>
+
+<p>
+<orth>Acide marin</orth>
+<term/>acide muriatique
+</p>
+
+<p>
+<orth>Acide marin aére</orth>, ou acide rnarin déphlogistiqué
+<term/>acide muriatiqjte oxygéné
+</p>
+
+<p>
+<orth>Acide méphitiqtfe</orth>
+<term/>acide carboniqtie
+</p>
+
+<p>
+<orth>Acide nitreux blanc</orth>, acide nitreux dégazé , acide nitreux déphlogistiqué <term/>acide nitrique
+</p>
+
+<p>
+<orth>Acide nitreux fumant</orth>, acide nitreux phlogistiqué , acide nitreux rutilant
+<term/>acide nitreux
+</p>
+
+<p>
+<orth>Acide oxalin</orth>
+<term/>acide oxalique
+</p>
+
+<p>
+<orth>Acide régalin</orth>
+<term/>acide nitromunatique
+</p>
+
+<p>
+<orth>Acide ûucçharin</orth>
+<term/>acide oxslique
+</p>
+
+<p>
+<orth>Acide sscehlactique</orth>
+<term/>scide muqueux
+</p>
+
+<p>
+<orth>Acide sédatif</orth>
+<term/>acide boracique
+</p>
+
+<p>
+<orth>Acide sulfureux volatil</orth>
+<term/>acide sulfureux
+</p>
+
+<p>
+<orth>Acide vitriolique</orth>
+<term/>acide sulfurique
+</p>
+
+<p>
+<orth>Acide vitriolique phlogistiqué</orth>
+<term/>ncide. sulfurcux
+</p>
+
+<p>
+<orth>Air alcalin</orth>
+<term/>gaz ammoniacal
+</p>
+
+<p>
+<orth>Air déphlogistiqué</orth>, air clu feti deSchéèle
+<term/>gaz oxygène
+</p>
+
+<p>
+<orth>Air factice</orth>
+<term/>gaz acide carbonique
+</p>
+
+<p>
+<orth>Air fixe</orth>, ou fixe
+<term/>gaz acide carbonique
+</p>
+
+<p>
+<orth>Air inrlamtnable des marais</orth>
+<term/>gaz hydrogène
+</p>
+
+<p>
+<orth>Air mann</orth>
+<term/>gaz acide muriatiqne
+</p>
+
+<p>
+<orth>Air pur</orth>
+<term/>gaz oxygène
+</p>
+
+<p>
+<orth>Air vital</orth>
+<term/>-gaz oxygène
+</p>
+
+<p>
+<orth>Alcali caustique</orth>
+<term/>alcali
+</p>
+
+<p>
+<orth>Alcali effervescent</orth>
+<term/>carbonate alcalin
+</p>
+
+<p>
+<orth>Alcali fixe du tartre non caustiqne</orth>
+<term/>carbonate de potassc
+</p>
+
+<p>
+<orth>Alcali fixedu tartrecaustique</orth>, potasse
+</p>
+
+<p>
+<orth>Alcali marin-çaii-stiqne</orth>
+<term/>soude
+</p>
+
+<p>
+<orth>Alcali fixe niinéral effervescent</orth>
+<term/>carbonate de soude
+</p>
+
+<p>
+<orth>Alcali miuéral aéré</orth>
+<term/>carbonate de soude
+</p>
+
+<p>
+<orth>Alcali minéral çaustique</orth>
+<term/>soude
+</p>
+
+<p>
+<orth>Alcalifixe végétal caustique</orth>, potasse
+</p>
+
+<p>
+<orth>Alcali fixe vegétal</orth>, alcali fîxe végétal aére
+<term/>carbonate tle potasse
+</p>
+
+<p>
+<orth>Alcali fixe végétal caustique</orth>, potasse
+</p>
+
+<p>
+<orth>Alcali végétal effervescent</orth>, carbonate cle potasse
+</p>
+
+<p>
+<orth>Alcali volatil</orth>, alcali volatil caustique
+<term/>‘ ammoniaque
+</p>
+
+<p>
+<orth>Alcali volatil fluor</orth>
+<term/>arnrnoniaque
+</p>
+
+<p>
+<orth>Alcali volatil concret</orth>, alcali volatil effervescent
+<term/>carbonate arnmoniacal
+</p>
+
+<p>
+<orth>Alun</orth>
+<term/>sulfate acidule d'alumine ou alumineux tnplè
+</p>
+
+<p>
+<orth>Ambre jaune</orth>
+<term/>succin
+</p>
+
+<p>
+<orth>Autimoine diaphorétique</orth>
+<term/>oxyde
+</p>
+<pb n="448"/>
+
+<p>
+<orth>d'antimoine blanc par le nitre</orth>
+</p>
+
+<p>
+<orth>Antimoine cru</orth>
+<term/>sulfuIe d’antimoine
+</p>
+
+<p>
+<orth>Aqnila alba</orth>
+<term/>muriate mercuriel dot)N sublimé
+</p>
+
+<p>
+<orth>Arcanecoralin</orth>
+<term/>oxydedemercure rouge par Pacide nitrique
+</p>
+
+<p>
+<orth>Arsenic (chauxd’) blanc</orth>
+<term/>oxyde d’arsenic acide arsenieux
+</p>
+
+<p>
+<orth>Arcanum duplicatum</orth>
+<term/>sulfate de potasse
+</p>
+
+<p>
+<orth>Baume de soufre</orth>
+<term/>sulfure d’huile volatile
+</p>
+
+<p>
+<orth>Beurre d’antimoine</orth>
+<term/>muriate d’antimoine liquidé
+</p>
+
+<p>
+<orth>Blanc de fard</orth>
+<term/>oxyde cle bismnth blanc par l’acide nitreux
+</p>
+
+<p>
+<orth>Blanc de plomb</orth>
+<term/>carbonate de plornb
+</p>
+
+<p>
+<orth>Bézoard minéral</orth>
+<term/>oxyde d’antimoine
+</p>
+
+<p>
+<orth>Borax</orth>
+<term/>boratc sursaturé de sou de
+</p>
+
+<p>
+<orth>Céruse</orth>
+<term/>carbonate de plomb
+</p>
+
+<p>
+<orth>Chaleur fixée</orth>
+<term/>chaleur latente
+</p>
+
+<p>
+<orth>Charbon pur</orth>
+<term/>carbone
+</p>
+
+<p>
+<orth>Chaux métalliques</orth>
+<term/>oxydes métalliques
+</p>
+
+<p>
+<orth>Chaux d'antimoine vitrifié</orth>
+<term/>oxyde d’antimoine vitreux
+</p>
+
+<p>
+<orth>Chaux d'arsenic</orth>
+<term/>acide arsenieux
+</p>
+
+<p>
+<orth>Chaux de plomb</orth>
+<term/>oxyde de plomb
+</p>
+
+<p>
+<orth>Chanxvive</orth>
+<term/>cliaux
+</p>
+
+<p>
+<orth>Cinabre</orth>
+<term/>oxyde de mercure sulfuré rougc
+</p>
+
+<p>
+<orth>Colcothar</orth>
+<term/>oxyde de fer rouge par l’acide sulfurique
+</p>
+
+<p>
+<orth>Couperoseblanche</orth>
+<term/>sulfate de zinc
+</p>
+
+<p>
+<orth>Couperose bleue</orth>
+<term/>sulfate de cuivre
+</p>
+
+<p>
+<orth>Couperose verte</orth>
+<term/>sulfate de fer
+</p>
+
+<p>
+<orth>Craie</orth>
+<term/>carbonate calcaire
+</p>
+
+<p>
+<orth>Crème de chaux</orth>
+<term/>carbonate calcaire
+</p>
+
+<p>
+<orth>Crême ou crystaux de tartre</orth>, tanritb acidule de potasse
+</p>
+
+<p>
+<orth>Crocus métallorutn</orth>, safran des métaux
+<term/>oxyde d'antimoine sulfuré demi-vitreux
+</p>
+
+<p>
+<orth>Cry staux de lune</orth>
+<term/>nitrate d'argent
+</p>
+
+<p>
+<orth>Crystaux de soude</orth>
+<term/>carbonate de soude
+</p>
+
+<p>
+<orth>Crystaux de Vénus</orth>
+<term/>acétate de cuivre crystallisé
+</p>
+
+<p>
+<orth>Eau</orth>
+<term/>oxyde d’hydrogène
+</p>
+
+<p>
+<orth>Eau aérée</orth>
+<term/>acide carbonique
+</p>
+
+<p>
+<orth>Eau forte</orth>
+<term/>acide nitreux du commerce
+</p>
+
+<p>
+<orth>Eau mercurielle</orth>
+<term/>nitrate de mercure en dissolution
+</p>
+
+<p>
+<orth>Eau régale</orth>
+<term/>acide nitro-mu. riatique
+</p>
+
+<p>
+<orth>Eaux acidules</orth>
+<term/>eaux imprégnées d’acide carbonique
+</p>
+
+<p>
+<orth>Eaux gazeuses</orth>
+<term/>eaux imprégnées d’acide carbonique
+</p>
+
+<p>
+<orth>Eaux hépatiques</orth>
+<term/>eaux sulfurées , eaux sulfureuses
+</p>
+
+<p>
+<orth>Emétique</orth>
+<term/>tartrite de potasse antimonié
+</p>
+
+<p>
+<orth>Ernpyrée</orth>
+<term/>oxygêue
+</p>
+
+<p>
+<orth>Esprit alcalin volatil</orth>
+<term/>gaz ammoniaque ou ammoniacal
+</p>
+
+<p>
+<orth>Esprit ardent</orth>
+<term/>alcohol
+</p>
+
+<p>
+<orth>Esprit de Mindérérus</orth>
+<term/>acétite ou acétate amrnoniacali
+</p>
+
+<p>
+<orth>Esprit de nitre</orth>
+<term/>acide nitrique étendu d’eatt
+</p>
+
+<p>
+<orth>Esprit de nitre fumant</orth>
+<term/>acide nitreux
+</p>
+
+<p>
+<orth>Esprit de nitre dulcifié</orth>
+<term/>alcohol nitrique
+</p>
+
+<p>
+<orth>Esprit de sel</orth>
+<term/>acide muriatique
+</p>
+
+<p>
+<orth>Esprit de sel dulcifié</orth>
+<term/>alcohol muriatique
+</p>
+
+<p>
+<orth>Esprit de sel ammoniac</orth>
+<term/>ammoniaque
+</p>
+
+<p>
+<orth>Esprit de sel vineux</orth>
+<term/>alcohol ammoniacal
+</p>
+
+<p>
+<orth>Esprit deVénus</orth>
+<term/>acideacétique
+</p>
+
+<p>
+<orth>Esprit de vin</orth>
+<term/>alcohol
+</p>
+
+<p>
+<orth>Esprit recteur</orth>
+<term/>arome
+</p>
+
+<p>
+<orth>Esprit de sonfre</orth>
+<term/>acide sulfureux
+</p>
+
+<p>
+<orth>Esprit de vitriol</orth>
+<term/>acide sulfuriquc étendu d’eau
+</p>
+
+<p>
+<orth>Esprit acide</orth>
+<term/>- acide étendu d'eau
+</p>
+
+<p>
+<orth>Essence</orth>
+<term/>huile volatile
+</p>
+
+<p>
+<orth>Ether acéteux</orth>
+<term/>éther acétique
+</p>
+
+<p>
+<orth>Esprit volatil de sel ammoniac</orth>
+<term/>ammoniaque étendu d’eau
+</p>
+
+<p>
+<orth>Ether marin</orth>
+<term/>éther muriatique
+</p>
+
+<p>
+<orth>Ether nitreux</orth>
+<term/>éther nitrique
+</p>
+
+<p>
+<orth>Ether vitriolique</orth>
+<term/>éther sulfurique
+</p>
+
+<p>
+<orth>Ethiops martial</orth>
+<term/>oxyde dc fer noir
+</p>
+
+<p>
+<orth>Ethiops minéral</orth>
+<term/>oxyde de mercure sulfuré noir
+</p>
+
+<pb n="449"/>
+
+<p>
+<orth>Ethiops per se</orth>
+<term/>oxyde mercuriel noirâtre
+</p>
+
+<p>
+<orth>Fécule des plantes</orth>
+<term/>fécule
+</p>
+  
+<p>
+<orth>Fer aéré</orth>
+<term/>carbonate de fer
+</p>
+
+<p>
+<orth>Fleurs ammoniacales martiales</orth>
+<term/>muriate ammoniacal de ier sublimé
+</p>
+
+<p>
+<orth>Fleurs argentines de régule d'antimoine</orth>
+<term/>oxyde d’antirnoine sublimé
+</p>
+
+<p>
+<orth>Fleurs de benjoin</orth>
+<term/>acide benzoïque sublimé
+</p>
+
+<p>
+<orth>Fleurs de soufre</orth>
+<term/>soufre sublimé
+</p>
+
+<p>
+<orth>Fleurs de zinc</orth>
+<term/>oxyde de zinc sublirné
+</p>
+
+<p>
+<orth>Fluides aériformes</orth>, fluides élastiques
+<term/>gaz
+</p>
+
+<p>
+<orth>Foie d’antimoine</orth>
+<term/>oxyde d'antimoine sulfuré demi-vitrenx
+</p>
+
+<p>
+<orth>Foie de soufre nlcalin volatil</orth>
+<term/>sulfure ammoniacal ou d’ammoniaque
+</p>
+
+<p>
+<orth>Foie de soufre antimonié</orth>
+<term/>sulfure alcalin antimonié
+</p>
+
+<p>
+<orth>Foie de soufre calcaire</orth>
+<term/>sulfure calcaire ou dechaux
+</p>
+
+<p>
+<orth>Foies de soufre</orth>
+<term/>sulfures alcalins
+</p>
+
+<p>
+<orth>Foies de soufre terreux</orth>
+<term/>sulfures terreux
+</p>
+
+<p>
+<orth>Gaz acide crayeux</orth>
+<term/>gaz acide carbiaiique
+</p>
+
+<p>
+<orth>Gaz hépatique</orth>
+<term/>gsz hydrogène sulfuré
+</p>
+
+<p>
+<orth>Gaz inflammabie</orth>
+<term/>gaz hydrogène
+</p>
+
+<p>
+<orth>Gaz inflammable charbonneux</orth>
+<term/>gaz hydrogène carboné
+</p>
+
+<p>
+<orth>Gaz inflammable phosphoré</orth>
+<term/>gaz hydrogène phosphoré
+</p>
+
+<p>
+<orth>Gaz inflammable sulfuré</orth>
+<term/>gaz hydrogène sulfuré
+</p>
+
+<p>
+<orth>Gaz méphitique</orth>
+<term/>gaz acide carbonique
+</p>
+
+<p>
+<orth>Gilla vitrioli</orth>
+<term/>sulfate de zinc
+</p>
+  
+<p>
+<orth>Gluten de froment</orth>
+<term/>glutineux
+</p>
+  
+<p>
+<orth>Gypse</orth>
+<term/>sulfate de chaux
+</p>
+
+<p>
+<orth>Hépars</orth>
+<term/>sulfures
+</p>
+
+<p>
+<orth>Hépars alcalins</orth>
+<term/>sulfures alcalins
+</p>
+
+<p>
+<orth>Huile animale do Dippel</orth>
+<term/>huile volatile pyro-zoonique
+</p>
+
+<p>
+<orth>Huile de tartre par défaillance</orth>
+<term/>potasse mélangée de carboIMItc de potasse en déliquescence
+</p>
+
+<p>
+<orth>Huilc de vitrioî</orth>
+<term/>acide sulfuriquu
+</p>
+
+<p>
+<orth>Huile douce du vin</orth>
+<term/>liuile éthérée
+</p>
+
+<p>
+<orth>Huiles empyreumatiques</orth>
+<term/>huiles pyrogénées
+</p>
+
+<p>
+<orth>Huiles éssentielles</orth>, huiles éthérées <term/>huiles volatiles
+</p>
+
+<p>
+<orth>Huiles grasses et siccatives</orth>, hniles fixes
+</p>
+
+<p>
+<orth>Kali</orth>
+<term/>potasse
+</p>
+
+<p>
+<orth>Karabé</orth>
+<term/>succin
+</p>
+
+<p>
+<orth>Kermès minéral</orth>
+<term/>oxyde d’antimoine hydro-sulfuré rouge
+</p>
+
+<p>
+<orth>Laine philosophique</orth>
+<term/>oxyde de zinc sublimé
+</p>
+
+<p>
+<orth>Lait de chaux</orth>
+<term/>chaux délayée dans Feau
+</p>
+
+<p>
+<orth>Litharge</orth>
+<term/>oxyde de plomb demi-vitrenx
+</p>
+
+<p>
+<orth>Lessive des savonniers</orth>
+<term/>dissolution de soude concentrée
+</p>
+
+<p>
+<orth>Lilium de Paracelse</orth>
+<term/>alcohol de potasse
+</p>
+
+<p>
+<orth>Liqueur des cailloux</orth>
+<term/>potasse silicée en liqueur
+</p>
+
+<p>
+<orth>Lixiva</orth>
+<term/>potasse
+</p>
+
+<p>
+<orth>Magistère de bismuth</orth>
+<term/>oxyde de bismuth par Pacide nitrique
+</p>
+
+<p>
+<orth>Magistère de soufre</orth>
+<term/>soufre précipité
+</p>
+
+<p>
+<orth>Magnésie caustique</orth>
+<term/>magnésie
+</p>
+
+<p>
+<orth>Magnésie moyenne</orth>, magnésie effervescente , magnésie douce
+<term/>carbonare de magnesie
+</p>
+
+<p>
+<orth>Magnésie blanche</orth>, magnésie aérée dé’Bergmanu
+<term/>carbonate de magnésie
+</p>
+
+<p>
+<orth>Massicot</orth>
+<term/>oxyde de plomb jaune
+</p>
+
+<p>
+<orth>Matierede la chaleur</orth>, matiére du feu
+<term/>calorique
+</p>
+
+<p>
+<orth>Matiere perlée de Kerkringius</orth>
+<term/>oxyde d’antimoine blauc par précipitation
+</p>
+
+<p>
+<orth>Mephite ainmoniacal</orth>
+<term/>carbo» nate ammoniacal ou d’ammoni'vq ue
+</p>
+
+<p>
+<orth>Méphite calcaire</orth>
+<term/>carbonate de chaux
+</p>
+
+<p>
+<orth>Mephite de magnésic</orth>
+<term/>carbonate dc magnésie
+</p>
+
+<p>
+<orth>Mephite de plomb</orth>
+<term/>carbonate de plomb
+</p>
+
+<p>
+<orth>Méphitede potasse</orth>
+<term/>carbonate de pctasse
+</p>
+
+<p>
+<orth>Méphite de soude</orth>
+<term/>carhonate cle soude
+</p>
+
+<p>
+<orth>Méphite martial</orth>
+<term/>carbonate de fer
+</p>
+
+<p>
+<orth>Mercure doux</orth>
+<term/>muriate mercuriel doux
+</p>
+<pb n="450"/>
+
+<p>
+<orth>Mercure précipite blanc</orth>
+<term/>muriate mercuriel par précipitation , et quelquefois muriate mercurioammoniacal
+</p>
+
+<p>
+<orth>Mucilage</orth>
+<term/>le muqueux
+</p>
+
+<p>
+<orth>Minium</orth>
+<term/>oxyde deplombrouge
+</p>
+
+<p>
+<orth>Moufette atmosphérique</orth>
+<term/>gaz azotique
+</p>
+
+<p>
+<orth>Natron ou natrum</orth>
+<term/>carbonate de soude , et quelquefois soude
+</p>
+
+<p>
+<orth>Niliil albuin</orth>
+<term/>oxyde de zinc sublimé
+</p>
+
+<p>
+<orth>Nitre</orth>
+<term/>nitrate de potasse
+</p>
+
+<p>
+<orth>Nitre cubique</orth>
+<term/>nitrate de soude
+</p>
+
+<p>
+<orth>Nitre d’argent</orth>
+<term/>nitrate d’argent
+</p>
+
+<p>
+<orth>Nitre mercuriel</orth>
+<term/>nitrate de Inercure
+</p>
+
+<p>
+<orth>Nitre prismatique</orth>
+<term/>nitrate de potaSSe
+</p>
+
+<p>
+<orth>Nitre fixé par lui-même</orth>
+<term/>carbonate de potasse
+</p>
+
+<p>
+<orth>Nitre lunaire</orth>
+<term/>nitrate d’argent
+</p>
+
+<p>
+<orth>Nitre quadrangulaire</orth>, nitre rhomboïdal <term/>nitrate de soude
+</p>
+
+<p>
+<orth>Ocre</orth>
+<term/>oxyde de fer jaune
+</p>
+
+<p>
+<orth>Orpiment</orth>
+<term/>oxyde d’arsenic sulfuré jaiine
+</p>
+
+<p>
+<orth>Phosphore de Kunckel</orth>
+<term/>phosphore
+</p>
+
+<p>
+<orth>Pierre à cautère</orth>
+<term/>potasse ou soude concrète
+</p>
+
+<p>
+<orth>Pierre calcaire</orth>
+<term/>carbonate de cliaux
+</p>
+
+<p>
+<orth>Pierre infernale</orth>
+<term/>nitrate d’ar gent fondu
+</p>
+
+<p>
+<orth>Plàtre</orth>
+<term/>sulfate calcaire ou platre calciné
+</p>
+
+<p>
+<orth>Pompholix</orth>
+<term/>- oxyde de zinc sublimé
+</p>
+
+<p>
+<orth>Potasse du commerce</orth>
+<term/>carbonate de potasse impure
+</p>
+
+<p>
+<orth>Poudre d’algaroth</orth>
+<term/>oxyded’antimoine par l’acide muriatique
+</p>
+
+<p>
+<orth>Poudre du comte de Palme</orth>, poudre de Santinelli
+<term/>carbonate de Inagnésie
+</p>
+
+<p>
+<orth>Précipité blanc par l’acide muriatique</orth>
+<term/>muriate mercuriel par précipitation
+</p>
+
+<p>
+<orth>Précipité jaune</orth>
+<term/>oxyde de mercure jaune par l’acide sulfurique
+</p>
+
+<p>
+<orth>Precipité perse</orth>
+<term/>oxyde de mercure rouge par le feu
+</p>
+
+<p>
+<orth>Précipité rouge</orth>
+<term/>oxyde de inercure rouge par l’acide nitrique
+</p>
+
+<p>
+<orth>Principe acidifiant</orth>
+<term/>oxygène
+</p>
+
+<p>
+<orth>Principe astringent</orth>
+<term/>acidegaL lique et tannin
+</p>
+
+<p>
+<orth>Principe charbonneux</orth>
+<term/>carbone
+</p>
+
+<p>
+<orth>Principe inflammable</orth>, principe de la chaleur
+<term/>calorique
+</p>
+
+<p>
+<orth>Principe odorant</orth>
+<term/>arome
+</p>
+
+<p>
+<orth>Pyrite martiale</orth>
+<term/>sulfure de fer
+</p>
+
+<p>
+<orth>Réalgar</orth>, réalgal
+<term/>oxyde d’arsenic sulfuré rouge
+</p>
+
+<p>
+<orth>Régalies</orth>(sels formés avec l’eau régale)
+<term/>nitro-muriates
+</p>
+
+<p>
+<orth>Héguie</orth>
+<term/>état métallique
+</p>
+
+<p>
+<orth>Régule d’antimoine</orth>
+<term/>ant-imoî* ne pur
+</p>
+
+<p>
+<orth>Rouille de cuivre</orth>
+<term/>carbonate de cuivre vert
+</p>
+
+<p>
+<orth>Rouille de fer</orth>
+<term/>carbonate de fer
+</p>
+
+<p>
+<orth>Safran de mars</orth>
+<term/>oxyde de fer
+</p>
+
+<p>
+<orth>Safran de mars apéritif</orth>
+<term/>carbouate de fér
+</p>
+
+<p>
+<orth>Safran de mars astringent</orth>
+<term/>oxyde de ferbrun
+</p>
+
+<p>
+<orth>Safran des métaux</orth>
+<term/>oxyded'antiinoine demi-vitreux
+</p>
+
+<p>
+<orth>Salmiac</orth>
+<term/>muriate d’ammoniaque
+</p>
+
+<p>
+<orth>Salpetre</orth>
+<term/>nitre, nitrate de potasse
+</p>
+
+<p>
+<orth>Savon de Starkey</orth>
+<term/>savonule de potasse
+</p>
+
+<p>
+<orth>Sel acéteux ammoniacal</orth>
+<term/>acetite ammoniacal ou d’ammoniaque
+</p>
+
+<p>
+<orth>Sel acéteux martial</orth>
+<term/>acétite ou acétate de fer
+</p>
+
+<p>
+<orth>Sel acéteux minéral</orth>
+<term/>- acétite ou acétate de soude
+</p>
+
+<p>
+<orth>Sel arnmoniac</orth>
+<term/>muriate d’ammoniaque
+</p>
+
+<p>
+<orth>Sel ammoniac lixe</orth>
+<term/>muriate de chaux
+</p>
+
+<p>
+<orth>Sel ammoniac crayeux</orth>
+<term/>carbonate amrnoniacal
+</p>
+
+<p>
+<orth>Sel ammoniacal</orth>(secret de Glauber)
+<term/>sulfate d’ammoniaque
+</p>
+
+<p>
+<orth>Sel cathartique amer</orth>
+<term/>sulfate de magnésie
+</p>
+
+<p>
+<orth>Sel commun</orth>
+<term/>muriate de soude
+</p>
+
+<p>
+<orth>Sel d’Angleterre</orth>
+<term/>carbonate arnmoniacal ou d’ammoniaque
+</p>
+
+<p>
+<orth>Sel de cuisine</orth>
+<term/>muriaté de soude
+</p>
+
+<p>
+<orth>Sel de Duobus</orth>
+<term/>sulfate de potasse
+</p>
+
+<p>
+<orth>Sel d'Epsom</orth>
+<term/>sulfate de magnésie
+</p>
+
+<p>
+<orth>Sel de Glauber</orth>
+<term/>sulfate de soude
+</p>
+
+<p>
+<orth>Sel de lait</orth>
+<term/>sucre de lait
+</p>
+<pb n="451"/>
+
+<p>
+<orth>Sel de saturne</orth>
+<term/>acétite ou acétate de plomb
+</p>
+
+<p>
+<orth>Sel de Sedlitz</orth>
+<term/>sulfate de magnésie
+</p>
+
+<p>
+<orth>Sel de Seignette</orth>
+<term/>tartrite de soude
+</p>
+
+<p>
+<orth>Sel de Scheidschutz</orth>
+<term/>sulfate magnésien
+</p>
+
+<p>
+<orth>Sel d’oseille</orth>
+<term/>oxalate acidule de pot isse
+</p>
+
+<p>
+<orth>Sel fébrifuge de Sylvius</orth>
+<term/>muriate de potasse
+</p>
+
+<p>
+<orth>Sel fîxe de tartre</orth>
+<term/>carbonate de potasse non saturé
+</p>
+
+<p>
+<orth>Sel genune</orth>
+<term/>Inuriate de soude fossile
+</p>
+
+<p>
+<orth>Sel marin</orth>
+<term/>rnuriate de soude
+</p>
+
+<p>
+<orth>Sel polychreste de Glaser</orth>
+<term/>sulfate ds potasse
+</p>
+
+<p>
+<orth>Sel polychreste de la Rochclle</orth>
+<term/>tartritc cle potasse et dc soude
+</p>
+
+<p>
+<orth>Sel sédatif</orth>
+<term/>acide boracique
+</p>
+
+<p>
+<orth>Sél sulfureuxde Sthal</orth>
+<term/>sidfite de potasse
+</p>
+
+<p>
+<orth>Sel vegétal</orth>
+<term/>tartrite de potasse
+</p>
+
+<p>
+<orth>Sel volatil d’Angleterre</orth>
+<term/>carbonate ammoniacal
+</p>
+
+<p>
+<orth>Sel volatil de succin</orth>
+<term/>acide succinique sublimé
+</p>
+
+<p>
+<orth>Sélénite</orth>
+<term/>sulfate de chaux
+</p>
+
+<p>
+<orth>Soude aérée</orth>
+<term/>carbonate de soude
+</p>
+
+<p>
+<orth>Soude caustique</orth>
+<term/>soude
+</p>
+
+<p>
+<orth>Soude crayeuse</orth>, soude effcrvescente <term/>carbpnate de soude
+</p>
+
+<p>
+<orth>Soufre doré d’antimoine</orth>
+<term/>oxyded'antimoine sulfuré orangé
+</p>
+
+<p>
+<orth>Spiritus Sylvestris</orth>
+<term/>gaz acide carbonique
+</p>
+
+<p>
+<orth>Sublimé corrosif</orth>
+<term/>muriate de mercure conosit
+</p>
+
+<p>
+<orth>Sublimé doux</orth>
+<term/>miiriate de mercure doux
+</p>
+
+<p>
+<orth>Suc de citron</orth>
+<term/>aci.le citrique
+</p>
+
+<p>
+<orth>Sucre candi</orth>
+<term/>sucre crystallîsé
+</p>
+
+<p>
+<orth>Sucre desaturne</orth>
+<term/>acélite ou acétate de plomb
+</p>
+
+<p>
+<orth>Tartre</orth>
+<term/>tartrite acidule de potasse
+</p>
+
+<p>
+<orth>Tartre ammoniacal</orth>
+<term/>tartrite ammoniacal
+</p>
+
+<p>
+<orth>Tartre antimonié</orth>
+<term/>tartritc de potasse antimonié
+</p>
+
+<p>
+<orth>Tartre chalybé</orth>
+<term/>tartrite de potasse ferrugineux
+</p>
+
+<p>
+<orth>Tartre crayeux</orth>
+<term/>carbonate de potasse
+</p>
+
+<p>
+<orth>Tartre cru</orth>
+<term/>tartre
+</p>
+
+<p>
+<orth>Tartre de potasse</orth>
+<term/>tartrite de potas.se
+</p>
+
+<p>
+<orth>Tartre de soude</orth>
+<term/>- tartrite de potasse et de soude
+</p>
+
+<p>
+<orth>Tartre émétique</orth>
+<term/>- tartrite de potasse antimonié
+</p>
+
+<p>
+<orth>Tartre martial soluble</orth>
+<term/>tartrite de potasse ferrugineux
+</p>
+
+<p>
+<orth>Tartre méphitique</orth>
+<term/>carbonate de potasse
+</p>
+
+<p>
+<orth>Tartre soluble</orth>
+<term/>tartrite de potas.se
+</p>
+
+<p>
+<orth>Tartre stibié</orth>
+<term/>tartrite cle potasse antïmonié
+</p>
+
+<p>
+<orth>Tartre tartarisé</orth>
+<term/>tartrite de potasse
+</p>
+
+<p>
+<orth>Tartre vitriolé</orth>
+<term/>sulfate de potasse
+</p>
+
+<p>
+<orth>Teinture âcre de potasse</orth>
+<term/>alcohol de potasse
+</p>
+
+<p>
+<orth>Teinture spiritueuse</orth>
+<term/>alcohol
+</p>
+
+<p>
+<orth>Terre animale</orth>
+<term/>phosphate calcaire
+</p>
+
+<p>
+<orth>Terre calcaire</orth>
+<term/>chaux
+</p>
+
+<p>
+<orth>Terre calcaire aérée</orth>, terre calcaire effervescente
+<term/>carbonate de chaux
+</p>
+
+<p>
+<orth>Terre de Valun</orth>
+<term/>alumine
+</p>
+
+<p>
+<orth>Terre foliée crystallisable</orth>, acétite ou acétate de soude
+</p>
+
+<p>
+<orth>Terre foliée du tartre</orth>
+<term/>acétite ou acétate de potasse
+</p>
+
+<p>
+<orth>Terre foliée mercurielle</orth>
+<term/>acétite ou acétate de mermire
+</p>
+
+<p>
+<orth>Terre foliée minérale</orth>
+<term/>acétite ou acétate de soude
+</p>
+
+<p>
+<orth>Terre magnésienne</orth>
+<term/>carbonate de magnésie
+</p>
+
+<p>
+<orth>Terrc muriate de Kirvvan</orth>
+<term/>magnésie
+</p>
+
+<p>
+<orth>Terre pesante</orth>
+<term/>baryte
+</p>
+
+<p>
+<orth>Terre pesante aérée</orth>
+<term/>carbonate de baryte
+</p>
+
+<p>
+<orth>Terre siliceuse</orth>
+<term/>silice ou terre silicée
+</p>
+
+<p>
+<orth>Turbith minéral</orth>
+<term/>sulfate sursaturé de mercure
+</p>
+
+<p>
+<orth>Turbith nitreux</orth>
+<term/>nitrate sursatttré de mercure
+</p>
+
+<p>
+<orth>Vénus</orth>
+<term/>cuivre
+</p>
+
+<p>
+<orth>Verdet</orth>, verdet distillé du commerce
+<term/>acétite ou acétate de cuivre
+</p>
+
+<p>
+<orth>Vert-de-gris du commerce</orth>
+<term/>acétite de cuivre avec excès d’oxy»le
+</p>
+
+<p>
+<orth>Verre d'antimoine</orth>
+<term/>oxyd© d’antimoine sulfuré vitreux
+</p>
+
+<p>
+<orth>Vif-argent</orth>
+<term/>mercure
+</p>
+
+<pb n="452"/>
+
+<p>
+<orth>Vinaigre desaturne</orth>
+<term/>acétitc de plomb liquide
+</p>
+
+<p>
+<orth>Vinaigre distillé</orth>
+<term/>acide acétenx ou acétique étendu d’eau
+</p>
+
+<p>
+<orth>Vinaigre radical</orth>
+<term/>acide acétique 011 acidc acétique concentré
+</p>
+
+<p>
+<orth>Vitriol ammoniacal</orth>
+<term/>sulfate njnmoniacal
+</p>
+
+<p>
+<orth>Vitriol blanc</orth>
+<term/>sulfate de zinc
+</p>
+
+<p>
+<orth>Vitriol bleu</orth>
+<term/>sulfate de cuivre
+</p>
+
+<p>
+<orth>Vitriol calcaire</orth>
+<term/>snlfate de chaux
+</p>
+
+<p>
+<orth>Vitriol d'arsenic</orth>
+<term/>sulfate d’arsenic
+</p>
+
+<p>
+<orth>Vitriol de Chypre</orth>
+<term/>sulfate de cuivre
+</p>
+
+<p>
+<orth>Vitriol de cuiyre</orth>
+<term/>sulfate de cuivie
+</p>
+
+<p>
+<orth>Vitriol de fer</orth>
+<term/>sulfate de-fer
+</p>
+
+<p>
+<orth>Vitriol de Goslard</orth>
+<term/>suliate d© zinc
+</p>
+
+<p>
+<orth>Vitriol de mars</orth>
+<term/>sulfate de fcr
+</p>
+
+<p>
+<orth>Vitriol cle mercure</orth>
+<term/>sulfate de mercure
+</p>
+
+<p>
+<orth>Vitriol de plomb</orth>
+<term/>sulfate dp plomb
+</p>
+
+<p>
+<orth>Vitriol de potasse</orth>
+<term/>sulfate de polasse
+</p>
+
+<p>
+<orth>Vitriol de soude</orth>
+<term/>sulfate dc soude
+</p>
+
+<p>
+<orth>Vitriol de Vénus</orth>
+<term/>sulfate dx? cuivre
+</p>
+
+<p>
+<orth>Vitriol de zinc</orth>
+<term/>sulfate de zinc
+</p>
+<pb n="453"/>
+
+
+</div>
+</div>
+<div>
+
+<head>SYNONYMIE DES NOUVEAUX TERMES DE CHIMIE LES PLUS USITÉS EN MÉDECINE</head>
+
+<p>
+<orth>Acétate</orth>
+<term/>combinaison de l’acide acéteux ou acétique avec les bases salifîa bles
+</p>
+
+<p>
+<orth>Acétate de plomb</orth>
+<term/>sel de saturne , sucre dc saturne, acétate de plomb, acctite de plomb
+</p>
+
+<p>
+<orth>Acétate de potasse</orth>
+<term/>terre foliée de tartre ; acéte de potasse, acetite de pOtasse
+</p>
+
+<p>
+<orth>Acétite ammoniaeal</orth>
+<term/>sel acéteux ammoniacal, esprit de Mmdérérus
+</p>
+
+<p>
+<orth>Acéîite de cuivre</orth>
+<term/>verdet distillé ; verdet, acéte de cuivre, crystaux de Vénus
+</p>
+
+<p>
+<orth>Acétite de inercure</orth>
+<term/>acétite mercuriel, terre mercurielle
+</p>
+
+<p>
+<orth>Acétite de plomb</orth>
+<ref>Acétate de plomb</ref>
+</p>
+
+<p>
+<orth>Acétite deplomb liquide</orth>
+<term/>ex« trait de saturne , eau tle Goulard
+</p>
+
+<p>
+<orth>Acide</orth>
+<term/>satulation complète de substancesacidifiablespar l’oxygène
+</p>
+
+<p>
+<orth>Acide acétique</orth>
+<term/>acide du vinaigre radical, esprit de Vénus
+</p>
+
+<p>
+<orth>Acide arsenieux</orth>
+<term/>oxyde d’arsenic, arsenic blanc , acide arsenieux
+</p>
+
+<p>
+<orth>Acide benzoïqtie</orth>
+<term/>acide benzoÏque, acide du benjoin, sel de benjoin
+</p>
+
+<p>
+<orth>Acide benzoïque sublimé</orth>, fleurs de benjoin , sel volatil de beujüi n
+</p>
+
+<p>
+<orth>Acide boracique</orth>
+<term/>sel sédatif. acide du borax , acidc boracin, sel volatil narcotique cle vitriol
+</p>
+
+<p>
+<orth>Acide citriqué</orth>
+<term/>acide citronien, suc de citron , acide de limon .concentré
+</p>
+
+<p>
+<orth>Acide malique</orth>
+<term/>acide despommes, acide malusien
+</p>
+
+<p>
+<orth>Acide muqueux</orth>
+<term/>acide sacchlactiqire
+</p>
+
+<p>
+<orth>Acide muri</orth>.atique
+<term/>esprir de sel, acide murin , esprit de sel fu mant
+</p>
+
+<p>
+<orth>Acide muriatique oxygéné</orth>, acide marin déphlogistiqué , acide marin aéré
+</p>
+
+<p>
+<orth>Acide nitrique</orth>
+<term/>esprit de nître, eau forte,acide nitreux bianc,acide nitreux dégazé , acide nitreux déphlogistiqué
+</p>
+
+<p>
+<orth>Acide nitro-muriatique</orth>
+<term/>eau régale , acide régalin
+</p>
+
+<p>
+<orth>Acide oxalique</orth>
+<term/>acide de sucre, acide sacdiarin , acidcoxalin, acide de l’oseille
+</p>
+
+<p>
+<orth>Acide phosphorique</orth>
+<term/>acide de Puriue, acide phosphorique
+</p>
+
+<p>
+<orth>Acide sulfurique</orth>
+<term/>acide du soufre , acide vitriolique , huile de vitriol, esprit de vitriol
+</p>
+
+<p>
+<orth>Acide tartareux</orth>
+<term/>sel essenliel de tartre, acide de tartre
+</p>
+
+<p>
+<orth>Adipocire de baleine</orth>
+<term/>blanc de baleine
+</p>
+
+<p>
+<orth>Alcohol</orth>
+<term/>- esprit ardent, esprit de vin
+</p>
+
+<p>
+<orth>Alcohol de potasse</orth>
+<term/>lilinrn de Paracelse , teinture acre de mars
+</p>
+
+<p>
+<orth>Alcohol nitrique</orth>
+<term/>esprit ce nitre dulcifié
+</p>
+
+<p>
+<orth>Alcohol</orth>
+<term/>teinture spiritueuse
+</p>
+
+<p>
+<orth>Ammoniaque</orth>
+<term/>alcali volatii , alcali volatil caustique, alcali νοlatil iluor, alcali vokitil tle sel ammoniac , alcali urineux
+</p>
+
+<p>
+<orth>Antiluoine</orth>
+<term/>stibié, régu'e d'antimoine
+</p>
+
+<p>
+<orth>Boriite</orth>
+<term/>combinaison dePacide boracique avec les bases salifiablcs
+</p>
+
+<p>
+<orth>Borate sursaturé de soudc</orth>
+<term/>borax brut, tinkal, chrysùcollc, Ιοι. ν du coinmerce
+</p>
+
+<p>
+<orth>Calorique</orth>
+<term/>chaleur fixée
+<term/>chaleur latente
+<term/>matière de la chaleur
+<term/>matière du feu
+<term/>principe de la chaleur
+<pb n="454"/>
+<term/>principe du feu
+<term/>principe inflammable
+</p>
+
+<p>
+<orth>Carbonate</orth>
+<term/>combinaison de l’acide carbonique avec différentes tases
+</p>
+
+<p>
+<orth>Carbonate ammoniacal ou d*ammoniaque</orth>
+<term/>alcali concret, alcali volatil effervescent, craie ammoniacale, méphite ammoniacal ,sel ammoniac crayeux , sel d'Angle terre, sel volatil d’Angleterre, esprit de sel ammoniac , esprit de corne-de cerf volatil
+</p>
+
+<p>
+<orth>Carbonate de chaux</orth>
+<term/>craie, crème de chaux, mephite calcaire , pierre calcaire, spath calcaire, terre calcaire aérée , terie calcaire effervescente
+</p>
+
+<p>
+<orth>Carbonate de fcr</orth>
+<term/>- rouille de fer , safran de rnars apéritif, craie martiale, fer aéré, méphiteinartial
+</p>
+
+<p>
+<orth>Carbonate de magnesie</orth>
+<term/>c.raie magnesienne , magnésie aérienne de Bergmann , magnésic blanche , magnésie crayeuse, rnagnésieeffervescente , méphite de magnesie , terre maenésienne, terre muriatiqne de Kirwan, poudre du comte de Palrne , poudre dc Santinelli
+</p>
+
+<p>
+<orth>Carbonate de plomb</orth>
+<term/>craic de. plomb , méphite de plomb, plomb spathique
+</p>
+
+<p>
+<orth>Carbonate de potasse crystallisé</orth>
+<term/>sel de tartre, sel d’ab.sinthe , sel végétal fixe
+</p>
+
+<p>
+<orth>Carbonate neutre de potasse</orth>
+<term/>alcali fixe végétal, scl de tartre, nitre fixe, alcaest de Vanhelmont, alcali fîxe végétal aéré, alcali fixe végétal effcrvesccnt, méphite de potasse, nitre fixé par lui-même, sel fixe de tartre, tartre crayeux, lartre méphitique
+</p>
+
+<p>
+<orth>Carbonatc de potasse liquide</orth>
+<term/>lessive tle tartre, lessive des savonniers, huile de tartre par défaillance
+</p>
+
+<p>
+<orth>Carbonate de sonde</orth>
+<term/>alcali fixe minéral aeré , alcali fixe minéral effervescent , alcali marin non caustique . alcali minéral effervcscent, b 'se du sel inarifi, çraie de soude, crystaux cle soude, méphite de soude , natron , natrum , soude aérée, soude ciayeuse
+</p>
+
+<p>
+<orth>Carbone</orth>
+<term/>charbon pur, prinçipe charbonneux
+</p>
+
+<p>
+<orth>Chaux</orth>
+<term/>chaux vive ou brûlée, pierre ou terre calcaire pure
+</p>
+
+<p>
+<orth>Chaux délayée dans l’eau</orth>
+<term/>laît de chaux
+</p>
+
+<p>
+<orth>Chaux dissoute dans l’eau</orth>
+<term/>eau de chaux
+</p>
+
+<p>
+<orth>Dissolution de soude</orth>
+<term/>lessive des savonniers
+</p>
+
+<p>
+<orth>Eaux imprégnées d'acide carbonique</orth>
+<term/>taux acidules, eaux gazeuses
+</p>
+
+<p>
+<orth>Eaux sulfurées</orth>, canx sulfureuses
+<term/>eaux hépatiques
+</p>
+
+<p>
+<orth>Etain pulvérisé</orth>
+<term/>limaille d’étain
+</p>
+
+<p>
+<orth>Ether acétique</orth>
+<term/>éther acéteux
+</p>
+
+<p>
+<orth>Etlier muriatique</orth>
+<term/>éther marin
+</p>
+
+<p>
+<orth>Ether nitrique</orth>
+<term/>éther nitreux
+</p>
+
+<p>
+<orth>Ether sulturique</orth>
+<term/>éther vi« triolique
+</p>
+
+<p>
+<orth>Ether sulfurique alcoholisé</orth>
+<term/>liqueur anodine minérale d'Hoffmann
+</p>
+
+<p>
+<orth>Fécules</orth>
+<term/>fécule des plantes, amiilon , amylacé
+</p>
+
+<p>
+<orth>Fer pulvérisé</orth>
+<term/>limaille de fer porphyrisée
+</p>
+
+<p>
+<orth>Gaz</orth>
+<term/>fluidesaériformes,fluides élastiques
+</p>
+
+<p>
+<orth>Gaz acide carbonique</orth>
+<term/>air factice, air fixe , air solide de Hales , gaz acide crayeux de Sylvestre, <hi>spiritus Sylvestris</hi>
+</p>
+
+<p>
+<orth>Gaz acide muriatique oxygéné</orth>
+<term/>gaz acide muriatique aéré, gaz acide marin déphlogistiqué
+</p>
+
+<p>
+<orth>Gaz acide muriatique</orth>
+<term/>air marin, gaz acide marin
+</p>
+
+<p>
+<orth>Gaz acide sulfureux</orth>
+<term/>air acide vitriolique , gaz acide vitnolique, esprit de souire , acide sulfureux volatil, acide vitriolique déphlogistiqne
+</p>
+
+<p>
+<orth>Gaz ammoniacal</orth>
+<term/>gaz alcalin, air alcalin , gaz alcali volatil
+</p>
+
+<p>
+<orth>Gaz acide sulfurique</orth>
+<term/>gaz acide vitriolique
+</p>
+
+<p>
+<orth>Gaz azote ou nitrogène</orth>
+<term/>moufcttc atrnosphérique, air gâté.air pblogistiqué, air vicié, gaz atmospherique
+</p>
+
+<p>
+<orth>Gaz hydrogène</orth>
+<term/>air inflammable , gaz inflammable, phlogistique de Kirwan
+</p>
+
+<p>
+<orth>Gaz liydrogène carboné</orth>
+<term/>gaz infîammable cliarbonné
+</p>
+
+<p>
+<orth>Gaz hydrogène phosphoré</orth>
+<term/>gaz Iinflanimable phosphore
+</p>
+
+<p>
+<orth>Gaz hydrogène sulfuré</orth>
+<term/>gaz hépatique
+  <pb n="455"/>
+<term/>air pesant du soufre, gaz inflammable sulfuré
+</p>
+
+<p>
+<orth>Gaz oxygène</orth>
+<term/>air déphlogistiqué , air du feu de Schéèle , air pur , air vital
+</p>
+
+<p>
+<orth>Gélatine</orth>
+<term/>gelée animale , colle
+</p>
+
+<p>
+<orth>Gluten ou glutineux</orth>
+<term/>gluten de la farine de froment, matière végétale animale
+</p>
+
+<p>
+<orth>rluile pyro- zoonique rectifiée</orth>
+<term/>huiîe ànimale de Dippel
+</p>
+
+<p>
+<orth>Huile éthérée</orth>
+<term/>huile douce dtt vin
+</p>
+
+<p>
+<orth>Huiles douces</orth>
+<term/>Builes grasses, huiles par expression
+</p>
+
+<p>
+<orth>Hniles fixes</orth>
+<term/>huiles grasses et siccatives
+</p>
+
+<p>
+<orth>Huiles volatiles</orth>
+<term/>essences, huiles essentielles, huiles étherées
+</p>
+
+<p>
+<orth>Hydrogène</orth>
+<term/>inconnu des anciens
+</p>
+
+<p>
+<orth>Hydro-sulfure</orth>
+<term/>combinaison de l’hydrogèue avec le soufre
+</p>
+
+<p>
+<orth>Hydro-sulfure d’ammoniaque</orth>, inconnu des anciens chimistes
+</p>
+
+<p>
+<orth>Hydro-sulfure de potasse</orth>
+<term/>foie de soufre
+</p>
+
+<p>
+<orth>Magnésie</orth>
+<term/>magnésiecaustique
+</p>
+
+<p>
+<orth>Muqueux</orth> (le)
+<term/>mucilage
+</p>
+
+<p>
+<orth>Muriate</orth>
+<term/>cornbinaison dc l’acide muriatique avec diflércntes bases
+</p>
+
+<p>
+<orth>Muriate d'ammoniaque</orth>
+<term/>salmiac, sel ammoniac
+</p>
+
+<p>
+<orth>Muriate d’ammoniaque ferrugineux</orth>
+<term/>fleurs de sel ammoniac martiales
+</p>
+
+<p>
+<orth>Muriate d'antimoine</orth>
+<term/>- beurre d’antimoine
+</p>
+
+<p>
+<orth>Muriate de baryte</orth>
+<term/>terre pesante salée, sel marin barotique
+</p>
+
+<p>
+<orth>Muriate de cliaux</orth>
+<term/>sel mnrin calcairç , eau-mère du sel marin , sel ammoniacfixe
+</p>
+
+<p>
+<orth>Muriatede mercure ammoniacal</orth>
+<term/>précipité blanc
+</p>
+
+<p>
+<orth>Muriate de mercure doux</orth>, sublirné doux, mercure doux, caloInélas, aquila alba
+</p>
+
+<p>
+<orth>Muriate de niercure suroxydé</orth>,
+<term/>sublimé cerrosif
+<term/>muriate suroxygéné de mercure
+<term/>muriate de mercure corrosif
+</p>
+
+<p>
+<orth>Muriate de potasse</orth>
+<term/>sel fébrifuge de Sylvius
+</p>
+
+<p>
+<orth>Muriate suroxygéné de potasse</orth>
+<term/>inconnu anciennemeut
+</p>
+
+<p>
+<orth>Muriate de soude</orth>
+<term/>sel commun
+<term/>sel marin
+<term/>sel de cuisine
+</p>
+
+<p>
+<orth>Nitrate</orth>
+<term/>-cornbinaison de l’acide nitrique avec différentes bases
+</p>
+
+<p>
+<orth>Nitrate d'argent fondu</orth>
+<term/>pierre infernale, crystaux de lune
+</p>
+
+<p>
+<orth>Nitrate d’argent liquide</orth>
+<term/>solution d'argentdans l’acidc du nitre
+</p>
+
+<p>
+<orth>Nitrate de mercure</orth>
+<term/>nitre mcrcurieL nitre de mercure
+</p>
+
+<p>
+<orth>Nitrate de mercure</orth>, sa dfésolution <term/>eau mercurielle
+</p>
+
+<p>
+<orth>Nitrate neutre de mercure</orth>, mercure nitreux , nitre mercuriel, nitre de mercure
+</p>
+
+<p>
+<orth>Nitrate de potasse</orth>
+<term/>nitre, salpêtre
+</p>
+
+<p>
+<orth>Nitrate de soude</orth>
+<term/>nitre cubique, nitre rhomboïdal
+</p>
+
+<p>
+<orth>Nitrate sursaturé de bismuth</orth>
+<term/>oxyde blanc de bismuth, magistère de bismuth
+</p>
+
+<p>
+<orth>Oxalate</orth>
+<term/>combinaison del’acide oxalique avec différentes bases salifiables
+</p>
+
+<p>
+<orth>Oxalate acidule de potasse</orth>
+<term/>sel d'oseille du commerce
+</p>
+
+<p>
+<orth>Oxyde</orth>
+<term/>combinaison de différentes substances avec une première proportion d’oxygene
+</p>
+
+<p>
+<orth>Oxydes métalliques</orth>
+<term/>chaux métalliques
+</p>
+
+<p>
+<orth>Oxydes métalliques sublimés</orth>
+<term/>fleurs métalliques
+</p>
+
+<p>
+<orth>Oxyde d'antimoine</orth>
+<term/>bézoard minéral
+</p>
+
+<p>
+<orth>Oxyde d’antimoine blanc sublimé</orth>
+<term/>neige d'antimoine , fleurs d'antimoine , fleurs argentines de regule d’anhmoine
+</p>
+
+<p>
+<orth>Oxyde d’antimoine blanc par le nitre</orth>
+<term/>antimoine diaphorétique, cénise d’antimoine , matière perlée de Kerkringius
+</p>
+
+<p>
+<orth>Oxyde d'antimoine hydro-sulfuré brun</orth>
+<term/>r- kermès minéral
+</p>
+
+<p>
+<orth>Oxyde d'antimoine par les acides muriatique et nitrique</orth>
+<term/>bézcard minéral
+</p>
+
+<p>
+<orth>Oxyde d'antimoine hydro-sulfuré orangé</orth>
+<term/>soufre doré d’antimoine
+</p>
+
+<p>
+<orth>Oxyde d’antimoine par l’acide muriatique</orth>
+<term/>poudre d’algaroth
+</p>
+
+<p>
+<orth>Oxyde d’antimoine sulfuré</orth>
+<term/>lie d'antimoine
+</p>
+
+<p>
+<orth>Oxyde d’antimoine sulfuré demi-vitreux</orth>
+<pb n="456"/>
+<term/>safran des métaux, <hi>crocus metallorum</hi>
+</p>
+
+<p>
+<orth>Oxyde d’antimoine vitreux</orth>
+<term/>verre d'antimoine
+</p>
+
+<p>
+<orth>Oxyde d’arsenic blanc</orth>
+<term/>arsenic blanc, chaux d’arsenic
+</p>
+
+<p>
+<orth>Oxyde d’arsenic sublimé</orth>
+<term/>fleurs d’arsenic
+</p>
+
+<p>
+<orth>Oxyde d’arsenic sulfuré jaune</orth>
+<term/>orpiment
+</p>
+
+<p>
+<orth>Oxyde d'arsenic sulfuré rouge</orth>
+<term/>arsenic ronge, réalgar ou réalgal
+</p>
+
+<p>
+<orth>Oxyde de bismuth blanc par l’acide nitrique</orth>
+<term/>magi.stère de bisInutli, blanc de fard
+</p>
+
+<p>
+<orth>Oxyde de cuivre vert</orth>
+<term/>vert-de gris , rouille de cuivre
+</p>
+
+<p>
+<orth>Oxyde de fer</orth>
+<term/>safran de mars
+</p>
+
+<p>
+<orth>Oxyde de fer jaune</orth>
+<term/>ocre
+</p>
+
+<p>
+<orth>Oxyde de fer noir</orth>
+<term/>étbiops martial
+</p>
+
+<p>
+<orth>Oxyde de fer rouge ou brun</orth>
+<term/>terre douce de vitriol , safran de inars astringent, coicothar
+</p>
+
+<p>
+<orth>Oxyde d’hydrogène</orth>
+<term/>eau
+</p>
+
+<p>
+<orth>Oxyde de mercure gommeux</orth>
+<term/>mercure gommeux
+</p>
+
+<p>
+<orth>Oxyde de mercure jaune par l’acide nitrique</orth>
+<term/>précipité jaune , turbith minéral
+</p>
+
+<p>
+<orth>Oxyde de mercure noir</orth>
+<term/>éthiops <hi>perse</hi>, mercure e.teint, mercure soluble
+</p>
+
+<p>
+<orth>Oxyde de mercure rouge</orth>
+<term/>précipité rouge
+</p>
+
+<p>
+<orth>Oxyde de mercure rouge par l’acide nitrique</orth>
+<term/>arcane corallin
+</p>
+
+<p>
+<orth>Oxyde de mercure rouge par le feu</orth>
+<term/>précipité <hi>per se</hi>
+</p>
+
+<p>
+<orth>Oxyde de mercure sucré</orth>
+<term/>inconuu des anciens
+</p>
+
+<p>
+<orth>Oxyde de mercure sulfuré noir</orth>
+<term/>éthiops minéral
+</p>
+
+<p>
+<orth>Oxyde de mercure sulfuré rouge</orth>
+<term/>cinabre
+</p>
+
+<p>
+<orth>Oxyde de plomb</orth>
+<term/>chaux de plomb
+</p>
+
+<p>
+<orth>Oxyde de plomb blanc par l’acide acéteux</orth>
+<term/>blanc de ploinb, céruse
+</p>
+
+<p>
+<orth>Oxyde de plomb jaune</orth>
+<term/>massicot
+</p>
+
+<p>
+<orth>Oxyde de plomb blanc demi-vitreux</orth>
+<term/>litharge
+</p>
+
+<p>
+<orth>Oxyde de plomb acéteux</orth>
+<term/>céruse, blanc de plomb
+</p>
+
+<p>
+<orth>Oxyde de plomb rouge</orth>
+<term/>minium
+</p>
+
+<p>
+<orth>Oxyde de zinc blanc</orth>
+<term/>fleurs de zinc, laine. philosophique, coton philosophique, pompholix
+</p>
+
+<p>
+<orth>Oxygène</orth>
+<term/>empirée , prtncipe acidifîant , principe soluble de Ludbock, base de l’airpur, base de l’air vital
+</p>
+
+<p>
+<orth>Phosphate</orth>
+<term/>combinaison de l’acide phosphorique avec différentes bases salifiahj.es
+</p>
+
+<p>
+<orth>Phosphate de chaux antimonié</orth>
+<term/>poudre antimoniale
+<term/>poudre de James
+</p>
+
+<p>
+<orth>Phosphate de chaux</orth>
+<term/>terro des os, terre animale
+</p>
+
+<p>
+<orth>Phosphate de soude et d’ammoniaque</orth>
+<term/>sel natif de Purine , sel' fusible de Purine
+</p>
+
+<p>
+<orth>Phosphate sursaturé de soude</orth>
+<term/>sel admirable perié
+</p>
+
+<p>
+<orth>Phosphore</orth>
+<term/>phosphore de Kun'ckel
+</p>
+
+<p>
+<orth>Potasse</orth>
+<term/>alcali fixe végétal
+</p>
+
+<p>
+<orth>Potasse fondue</orth>
+<term/>pierre à cautère
+</p>
+
+<p>
+<orth>Potasse silicée en liqueur</orth>
+<term/>liqneur des cailloux
+</p>
+
+<p>
+<orth>Savon</orth>
+<term/>combinaison deshuiles grasse.s ou flnes, avec différentes bases
+</p>
+
+<p>
+<orth>Savon acide</orth>
+<term/>combinaison des huiles grasses ou fînes ,avec differens acides
+</p>
+
+<p>
+<orth>Savon métallique</orth>
+<term/>combinaison des huiles grasses ou fînes, avec les substances métalliques
+</p>
+
+<p>
+<orth>Savon de soude</orth>
+<term/>combinaison d’une huile grasse avec Palcali fixe mineral
+</p>
+
+<p>
+<orth>Savon de potasse</orth>
+<term/>savon composé iPhuile grasse , et d’alcali tixe végétal
+</p>
+
+<p>
+<orth>Savonule</orth>
+<term/>combinaison des huiles volatiles ou essentielles, avec différentes bases
+</p>
+
+<p>
+<orth>Savonule acide</orth>
+<term/>combinaison des hniles ossenticlles ou volatiles avec différens acides
+</p>
+
+<p>
+<orth>Savonule métallique</orth>
+<term/>combinaison d’huîle volatile avec lesoxydes inétalliques
+</p>
+
+<p>
+<orth>Savonule de potasse</orth>
+<term/>savon de Starkeî , ou combinaison d’huile volatile avec la potasse
+</p>
+
+<p>
+<orth>Savonule de soude</orth>
+<term/>combinaison d’huile volatile avec la soude
+</p>
+
+<p>
+<orth>Soude</orth>
+<term/>alcali marin, alcali marin caustique , alcali minéral , alcali minéral ceustique , base du selmarin, soude caustique, natrum
+</p>
+<pb n="457"/>
+
+<p>
+<orth>Soufre purifié</orth>
+<hi>Voyez</hi> <ref>Fleurs de soufre</ref>
+</p>
+
+<p>
+<orth>Soufre sublimé</orth>
+<term/>fleurs de soufre
+</p>
+
+<p>
+<orth>Succin</orth>
+<term/>karabé, ambre jaune
+</p>
+
+<p>
+<orth>Sucre crystallisé</orth>
+<term/>sucre candi
+</p>
+
+<p>
+<orth>Sucre de lait</orth>
+<term/>sel de lait
+</p>
+
+<p>
+<orth>Sulfate</orth>
+<term/>combinaison de l’acide sulfurique avec différentes bases
+</p>
+
+<p>
+<orth>Sulfate acidule d’alumine triple</orth>
+<term/>alun
+</p>
+
+<p>
+<orth>Sulfate acidule d'alumine triple calciné</orth>
+<term/>alun brûlé ou càlciné
+</p>
+
+<p>
+<orth>Sulfate d’ammoniaque</orth>
+<term/>sel ammoniacal vitriolique, sel arnmoniacal,sel secret de Glauber, vitriol ammoniacal
+</p>
+
+<p>
+<orth>Sulfate de chaux</orth>
+<term/>vitriol de chaux , sélénite, gypse
+</p>
+
+<p>
+<orth>Suifate de cuivre</orth>
+<term/>vitriol de Chypre, vitriol bleu , vitriol de cuivre et de Véniis , couperosc bleue
+</p>
+
+<p>
+<orth>Sulfate de cuivre ammoniacé</orth>
+<term/>cuivre ammoniacé
+</p>
+
+<p>
+<orth>Sulfate de fer vert</orth>
+<term/>vitriol vert, cotiperose vcrte , vitriol martial , vitriol de fer
+</p>
+
+<p>
+<orth>Sulfate de magnésie</orth>
+<term/>sel de Sedlitz,sel cathartique amer, sel d'Epsom, sel de canal, sel de Seidschutz
+</p>
+
+<p>
+<orth>Sulfate de potasse</orth>
+<term/>tartre vitriolé, sel de Duobus, virriol de potasse, <hi>arcanum duplicatum</hi>, sel polychreste de Glaser
+</p>
+
+<p>
+<orth>Sulfate de soude</orth>
+<term/>sel de Glauber , vitriol de soude
+</p>
+
+<p>
+<orth>Sulfate de zinc</orth>
+<term/>vitriol blanc , couperose blanche, vitriolde zinc, vitriol dc Goslard
+</p>
+
+<p>
+<orth>Sulfite</orth>
+<term/>combinaisonde l’acide sulfureux , avec différentes bases sali iiables
+</p>
+
+<p>
+<orth>Sulfite de potasse</orth>
+<term/>sel sulfureux de Sthal
+</p>
+
+<p>
+<orth>Sulfures</orth>
+<term/>liépars
+</p>
+
+<p>
+<orth>Sulfures alcalins</orth>
+<term/>hépars alcalins
+</p>
+
+<p>
+<orth>Sulfure ammoniacal</orth>
+<term/>foie de soufre alcalin volatil
+</p>
+
+<p>
+<orth>Sulfure alcalin antimonié</orth>
+<term/>foie de soufre antimonié
+</p>
+
+<p>
+<orth>Sulfure d’antimoine</orth>
+<term/>antimoine crn
+</p>
+
+<p>
+<orth>Sulfure calcaire ou de chaux</orth>
+<term/>foie de soufre calcaire
+</p>
+
+<p>
+<orth>Sulfure d’antimoine avec le mercure</orth>
+<term/>éthiops antimonial
+</p>
+
+<p>
+<orth>Sulfure d’huile fixe, d’huile volatile</orth>
+<term/>banme de soufre
+</p>
+
+<p>
+<orth>Sulfure de rnercure noir</orth>
+<term/>éthiops minéral
+</p>
+
+<p>
+<orth>Sulfilrc de mercure rouge</orth>
+<term/>* cinabre
+</p>
+
+<p>
+<orth>Sulfure métallique</orth>
+<term/>combinai» son du soufre avec les métaux
+</p>
+
+<p>
+<orth>Sulfure de soude</orth>
+<term/>foiedesoufie à base d’alcali rninéral
+</p>
+
+<p>
+<orth>Sulfure hydro-sulfuré</orth>
+<term/>inconnu des anciens chimistes
+</p>
+
+<p>
+<orth>Sulfure de magnésie</orth>
+<term/>foie de soiifre magnésien
+</p>
+
+<p>
+<orth>Sulfure de potasse antimonié</orth>
+<term/>foie de soufre antimonié
+</p>
+
+<p>
+<orth>Sulfures</orth>
+<term/>hépars, foiedesonfre
+</p>
+
+<p>
+<orth>Tartre</orth>
+<term/>tartre cru
+</p>
+
+<p>
+<orth>Tartrite</orth>
+<term/>combinaison de l’acide tartareux avcc différentes bases
+</p>
+
+<p>
+<orth>Tartrite</orth>, acidnle d’ammoniaque
+<term/>tartre ammoniacal , sel ammoniacal tartareux
+</p>
+
+<p>
+<orth>Tartrite acidule de potasse</orth>
+<term/>crème de tartre, crystaux de tartre, tartre
+</p>
+
+<p>
+<orth>Tartrite de mercure</orth>
+<term/>inconnu des anciens
+</p>
+
+<p>
+<orth>Tartrite de potasse et de fer</orth>,
+<term/>tartre martial soluble , tartre chalybé
+</p>
+
+<p>
+<orth>Tartrite de potasse</orth>
+<term/>sel végétnl, tartre soluble, tartre tartarisé, taitre dc poîasse
+</p>
+
+<p>
+<orth>Tartrite de potasse antimonié</orth>
+<term/>tartre stibié , tartre emétique, tartre antimonié émétique
+</p>
+
+<p>
+<orth>Tartrite de potasse et de soude</orth>
+<term/>sel de Seignette , sel polychreste de la Rochelle, tartre de soude
+</p>
+
+<p>
+<orth>Vinaigre distillé</orth>
+<term/>acide acétique é'tendu d’eau
+</p>
+
+<p>
+<orth>Vinaigre radical</orth>
+<term/>acide acétique concentré
+</p>
+
+<p>
+<orth>Zinc</orth>
+<term/>régule de zinc
+</p>
+<pb n="458"/>
+
+
+</div>
+<div>
+
+<head>SYNONYMIE DES TERMES DE BOTANIQUE LES PLUS USITÉS EN MÉDECINE</head>
+
+<div>
+
+<head>SECTION I. SUBSTANCES VÉGÉTALES.</head>
+
+<p>
+<orth>Absinthe</orth>
+<foreign xml:lang="lat">artemtsia absinthium L.</foreign> Fîoscul.T Desf. Corymbif. J. V. Syngén. polygam. superfl. L. T. Lieiix secs ; été
+<gloss>herbe et fleurs</gloss>
+</p>
+
+<p>
+<orth>Adragant</orth>
+<gloss>espèce d’amylacé qui s’écoule spontanémcnt du tronc et. des gros rameaux de <foreign xml:lang="lat">Vastragalus tragacantha L.</foreign> </gloss>
+</p>
+
+<p>
+<orth>Agaric de chêne</orth>, amadou , <foreign xml:lang="lat">boleius Igniarius L.</foreign>  Cryptog. champignons ; Europe . sur le bouleau , le chène , etc. Parenchynie non ligneux
+</p>
+
+<p>
+<orth>Agaric purgatif</orth>
+<foreign xml:lang="lat">bolet Iislaricis L.</foreign>  C’yptog champignons; Alep;pnlpe sous-i oi ticale, son extrait, ses trochisques
+</p>
+
+<p><hi>Ammoniacum,ou</hi> gomme ammoniaqne
+<term/>gomme - ré.sine fétide obtcnue, par incision, d'une plante ombelliferc, encore inconnue
+</p>
+
+<p>
+<orth>Ail</orth>
+<foreign xml:lang="lat">allium sativum L.</foreign> ; F.
+<term/>planle entière
+</p>
+
+<p>
+<orth>Alléluia</orth>, oxalide . pain a coucou, herbe dtt bœnf, trèfle aigre, <foreign xml:lang="lat">oxalis acetosella L.</foreign>  Décandr. décagyn. ; Europe ; herbe
+<term/>sel d'oseille, ou acide oxalique
+</p>
+
+<p>
+<orth>Aloèssoccotrin</orth>
+<term/>extracto-résine quiprovient,parincision,de la partie înférieure des feuilles de <hi>Valoès perfoliata</hi> et de <foreign xml:lang="lat">Valoès spicata L.</foreign> 
+</p>
+
+<p>
+<orth>Amandeg</orth>
+<foreign xml:lang="lat">arnygdalus communis L.</foreign>  Rosacées, J.V . Ginandr.monog. L. ; F- 0.
+<term/>semences
+</p>
+
+<p>
+<orth>Angélique cultivée</orth>
+<foreign xml:lang="lat">angelica archangelica L.</foreign>  Pcntandr. digyn. Alpe.s, Pyrenées
+<term/>racines, herbes, semences
+</p>
+
+<p>
+<orth>Angélique ofiicinale</orth>
+<foreign xml:lang="lat">angelica archangelica L.</foreign>  Ombellif. J. V. Pentandr. digyn. L. ; F.
+<term/>racine, herbe, semences
+</p>
+
+<p>
+<orth>Angusture</orth>
+<hi>magnolia plumieri</hi>? ile Angusture,aux Indes orientales. I?
+<term/>écorce
+</p>
+
+<p>
+<orth>Anis</orth>
+<foreign xml:lang="lat">pimpiticlla anisum L.</foreign>  Ombellif.
+<cb/>J. V. Pentandr. digyn. L. ; E. 0.
+<term/>semences
+</p>
+
+<p>
+<orth>Arbousier</orth>, busserole , raisin d’ours , <foreign xml:lang="lat">arbutus</foreign>, <foreign xml:lang="lat">uva ursi L.</foreign>  Décandr. mouogyn.; F. Canada,Suède
+<term/>feuilles
+</p>
+
+<p>
+<orth>Armoise</orth>
+<foreign xml:lang="lat">artemisia vulgaris L.</foreign>  T. F. Lieux secs; été
+<term/>herbe, feuilles et fleurs
+</p>
+
+<p>
+<orth>Arnica</orth>
+<foreign xml:lang="lat">arnica montana L.</foreign>  Radiées, T. Desf. Corymbih J. V. Syngén. polyg. superfl. L. ; F. I}
+<term/>fleurons et demi-lleurons
+</p>
+
+<p>
+<orth>Asperge culrivée</orth>
+<foreign xml:lang="lat">asparagus ofificinalis L.</foreign>  Hexandr. monogyn. Éurope niérid
+<term/>racine, tige tendrc, semi nccs
+</p>
+
+<p>
+<orth>Aunée officinale</orth>
+<foreign xml:lang="lat">inula heleniunt L.</foreign>  Badiees,T. Desf. Corymb. J.V. Syngén. polygam, superfl. L.; F. <hi>II</hi>:
+<term/>racine
+</p>
+
+<p><hi>Assa faetida</hi>
+<term/>gommç-résine fétide (vbtcuue , par incision , de la tige et du collet de la racine de <foreign xml:lang="lat">ferula assa fœtida L.</foreign> 
+</p>
+
+<p>
+<orth>Avoine</orth>
+<foreign xml:lang="lat">avena sativa L.</foreign>  Graminées , J. V. Triandr. digyn. L. ; F. 0
+<term/>semences
+</p>
+
+<p>
+<orth>Bailiane</orth>, anis étoile , <foreign xml:lang="lat">illicium anisatum L.</foreign>  Magnoliets, J. Tulip. V. Polyandr. polygam. L. ; Cbine, japon , etc. <hi>t)</hi>
+<term/>péricarpe
+</p>
+
+<p>
+<orth>Balaustes</orth>, fleurs de <ref>grenadier</ref>
+</p>
+
+<p>
+<orth>Barbe de bouc</orth>
+<foreign xml:lang="lat">tragopogon pratense L.</foreign>  Syngén. polygam. égale ; Europe
+<term/>racine
+</p>
+
+<p>
+<orth>Bardane</orth>
+<foreign xml:lang="lat">arctium lappa L.</foreign>  Flosculeuses, T. Desf. Cynérocéphales, J. V. Syng. polyg. égale ; F. cf’
+<term/>racine
+</p>
+
+<p>
+<orth>Basilic</orth>
+<foreign xml:lang="lat">ocymum basilicurn L.</foreign>  Lajnées, J. V. Didyn. gymnosp. L. F. 0. cultivées; herbe
+<term/>fcuilles, fleurs
+</p>
+
+<p>
+<orth>Baume du Pérou</orth>; provient du <foreign xml:lang="lat">MyroxiloIL perniferum L.</foreign> 
+</p>
+
+<pb n="459"/>
+
+<p>
+<orth>Baume de Tolu</orth>; provient du <foreign xml:lang="lat">Toluifera balsamum L.</foreign> 
+</p>
+
+<p>
+<orth>Benjüin</orth>, baunie obtenu du <foreign xml:lang="lat">laurus benzoin L.</foreign>  et du <hi>Slyrax benzoin</hi>. Dryandr
+</p>
+
+<p>
+<orth>Bdellium</orth>
+<term/>gomme-résine dont on ne connoît pas Porigjne
+</p>
+
+<p>
+<orth>Bec de grue musqué</orth>
+<foreign xml:lang="lat">geranium moscatum L.</foreign>  Monadel. décandr. Europe mcridion
+<term/>herbe entière , mais inusitée
+</p>
+
+<p>
+<orth>Belladone</orth>
+<foreign xml:lang="lat">atropa belladona L.</foreign>  Solanées, J.V » Pentandr.monogyn. L. ; F. <hi>I)</hi>. garennes ; été
+<term/>herbe, feuilles
+</p>
+
+<p>
+<orth>Benoite commune</orth>
+<foreign xml:lang="lat">geunI urbanurn L.</foreign>  Bosacées , J. V. Icosandr. polygyn. L. ; F. <hi>Έ)</hi>
+<term/>hcrbe , racine
+</p>
+
+<p>
+<orth>Benoite</orth>, herbe de Benoit, <hi>geum urbanum</hi> t in.Icosandr. polygyn. ; Europe ; lieux ombreux
+<term/>racine, herbe
+</p>
+
+<p>
+<orth>Bétoine</orth>
+<foreign xml:lang="lat">betonica officinalis L.</foreign>  Didyn. gymnosp. Europe mérid. berbe, ileurs
+</p>
+
+<p>
+<orth>Bistorte</orth>
+<foreign xml:lang="lat">polygoniirn bistorta L.</foreign>  Polygon. J. V. Octandr. trigyn. L. F. <hi>I)</hi>
+<term/>racine
+</p>
+
+<p>
+<orth>Bois de Rhodes</orth>,de roses, de Chypre
+<foreign xml:lang="lat">genista Canariensis L.</foreign>  D i ad c 1 ph. décândr. ; Antilles, Canaries
+</p>
+
+<p>
+<orth>Bois saint</orth>
+<ref>Gayac</ref>
+</p>
+
+<p>
+<orth>Bois néphrétique</orth>
+<foreign xml:lang="lat">guilatulùia rnoringa L.</foreign>  Décandr. inonogyn. ; Indes orient. ; bois, noix , huile de Bélien
+</p>
+
+<p>
+<orth>Bouillon blanc</orth>
+<foreign xml:lang="lat">verbascum thapsus L.</foreign>  Solanées, J. V. Pentandr. monogyn. Lin. F. <hi>cjsi</hi>
+<term/>fleurs muqueuses
+</p>
+
+<p>
+<orth>Bugrane</orth>, nrrête-bœuf, <foreign xml:lang="lat">ononis , spiiIosa L.</foreign>  Diadelph. décandr.;Europe méridionale
+<term/>racine, herbe
+</p>
+
+<p>
+<orth>Cabaret</orth>
+<foreign xml:lang="lat">asarum Europaeum L.</foreign>  Aristoloches , J. AsaroÏdes, V.Dodécandr monogyn.L. ; F. I)
+<term/>racines, feuilles, extrait
+</p>
+
+<p>
+<orth>Cacao</orth>
+<foreign xml:lang="lat">theobromu cacao L.</foreign>  Polyadelph.Arnérique mérid
+<term/>fruit, huile fixe concrète , beurre
+</p>
+
+<p>
+<orth>Cachou</orth>, terre de Cachou ou du Japon ;tannino-extracti f obtenu par la coction du bois de plusieurs μΐαηtes, telles-quc le <foreign xml:lang="lat">mtmosa catechu L.</foreign>  et <foreign xml:lang="lat">Vareca catechu L.</foreign>  
+</p>
+
+<p>
+<orth>Café</orth>
+<foreign xml:lang="lat">coffea arabica L.</foreign>  Pentandr. monogyn. Arabie
+<term/>semences
+</p>
+
+<p>
+<orth>Cajeput</orth>
+<foreign xml:lang="lat">melaleuca leucodendra L.</foreign>  Polyadelph. polyandr. ; Inde.jiuile vulatile
+</p>
+
+<p>
+<orth>Calamcnt de ruontagne</orth>
+<foreign xml:lang="lat">melissa calamintha L.</foreign>  Didyn. gymnosper. Plante enîière. <ref>Mélisse</ref>
+</p>
+
+<p>
+<orth>Calamus aromatique</orth>
+<foreign xml:lang="lat">acorus calamus L.</foreign>  Aroïdes J. V. Hexandr. monogyn. L. ; F. <hi>I)</hi>
+<term/>racine
+</p>
+
+<p>
+<orth>Caméléon blanc</orth>
+<foreign xml:lang="lat">acarlina acalatis L.</foreign>  Syngen. polyg. égale, Pyrénées, montagnes de la Suisse , ltalie ; I)
+<term/>racine
+</p>
+
+<p>
+<orth>Camomille</orth>
+<hi>rnatncaria chamo'r milla</hi> 1,. Syng. polyp. superfl. F. I)
+<term/>été ; herbe, f iiiilcs, fleurs
+</p>
+
+<p>
+<orth>Camomille roiriaine</orth>
+<hi>diItemis nobUis</hi> l .Radiées,T.Desf. Corymbif. J. V. Syngéiiés. polyg superfl. L. ; F. <hi>Tj</hi> paturages ; eté
+<term/>herbe , feui les, ileurs
+</p>
+
+<p>
+<orth>Cannelle</orth>
+<foreign xml:lang="lat">laurus cinnamomum L.</foreign>  Lauriers.J. Laurinées, V.Ennéandrie monogyn. L. ; Ceylan , Martin. <hi>IV</hi>
+<term/>écorce
+</p>
+
+<p>
+<orth>Cardinale bleue</orth>
+<foreign xml:lang="lat">lobelia sypliiliiica L.</foreign>  Syngén. monogam. Virginie
+<term/>racine
+</p>
+
+<p>
+<orth>Cardamine</orth>, cresson élégant, <hi>cardamine pratensis\o</hi>. Crucifères , J» V. Tétradyn. siliq. L ; F. I}
+<term/>prés , printemps ; hcrbe ct fenillcs
+</p>
+
+<p>
+<orth>Carvi</orth>
+<hi>caru-m carvi</hi> I,. Ombellif. J. V. Pentandr. dygyn. L. E. ©
+<term/>sernence
+</p>
+
+<p>
+<orth>Cascarille</orth>
+<foreign xml:lang="lat">croton cascarilla L.</foreign>  ou <foreign xml:lang="lat">clutia elntlieria L.</foreign>  Euphorb. J. Tithymaloïdes, V. Monoéc. monadelph. ou dioéc . gynandr. L. Am. mér. réroii. - écorce
+</p>
+
+<p>
+<orth>Casse pierre</orth>, parietaire, <foreign xml:lang="lat">parietaria ofificinalis L.</foreign>  Polygam. monoéc. ; Eur. mér
+<term/>herbe
+</p>
+
+<p>
+<orth>CaSse</orth>
+<foreign xml:lang="lat">cassia fistula L.</foreign>  Légum. J. V. Décandr. monogyn. L. 1 ndes or. et occ. 1?
+<term/>péricarpe, gousse
+</p>
+
+<p>
+<orth>Catapuce</orth>
+<foreign xml:lang="lat">euphorbia lathyris L.</foreign>  Dodécandr. dodécagyn. ; F
+<term/>semences
+</p>
+
+<p>
+<orth>Cerfeuil cultivé</orth>
+<foreign xml:lang="lat">scandix cerefolium L.</foreign>  Pentandr. dygyn. ; Eur- l’herbe entière, son suc épaissi
+</p>
+
+<p>
+<orth>Cerise-poison</orth>
+<ref>Belladone</ref>
+</p>
+
+<p>
+<orth>Cévadille</orth>
+<hi>veratrum sabadilla</hi>. Betz ? Mexique. <hi>I)</hi>
+<term/>capsules , graines
+</p>
+
+<p>
+<orth>Charnœpitys</orth>
+<foreign xml:lang="lat">teucrium chamœpitys L.</foreign>  Labiées, J. V. Dîdyn. gymnosp. L.; F. 0. Lieuxcuhivés ; été
+<term/>herbe , feuilles , fleurs
+</p>
+<pb n="460"/>
+
+<p>
+<orth>Chamédrys ou petit chêne</orth>
+<hi>teucrium chamœdris</hi> 1... Labiées, J. V. Didyn.gÿnmosper. 1..; FscrG Lieux nrides ; été
+<term/>lierbe , feuilles, fleurs
+</p>
+
+<p>
+<orth>Chardon bénit</orth>
+<foreign xml:lang="lat">cendaurea benedicta L.</foreign> FIoscul. T. Desf. Cynarocéplial. J. V. Syng. polyg. frust. L.; F. M. 0
+<term/>herbe et feuilles
+</p>
+
+<p>
+<orth>Chicorée sauvage</orth>
+<foreign xml:lang="lat">cichoriumintybiis L.</foreign> « Demi-floscul. T. Def. Chicoracées , J. V. Syngénés. polyg. egale , L. ; F. <hi>I)</hi>
+<term/>racine, feuilles
+</p>
+
+<p>
+<orth>Chiendeut</orth>
+<foreign xml:lang="lat">triticum repens L.</foreign> Graminécs, J. V. Triandr. digyn. L. ; F, gC.
+<term/>racine
+</p>
+
+<p>
+<orth>Ciguë des jardins</orth>
+<foreign xml:lang="lat">conium Tnaculatum L.</foreign> Ombellif. j. V. Pentendr. digyn. L. ; F. o*
+<term/>herbe et feuilles
+</p>
+
+<p>
+<orth>Cina</orth>, barbotine, sementine, <foreign xml:lang="lat">artemisia santonicùm L.</foreign> ? <foreign xml:lang="lat">Artemisia contra L.</foreign>?
+<term/>semences
+</p>
+
+<p>
+<orth>Citron</orth>
+<foreign xml:lang="lat">citrus medica L.</foreign> Orangers. J. Hespéridées, V. Polyadelph. icosandr. L.; ltalie , F. m. 'Tfl
+<term/>baie, écorce
+</p>
+
+<p>
+<orth>Citronnelle</orth>, petite absinthe , <foreign xml:lang="lat">artemisiapontica L.</foreign>Syngén. polygrn. superf ; Europ.
+<term/>herbe
+</p>
+
+<p>
+<orth>Cochléaria</orth>
+<foreign xml:lang="lat">cochlearia officinalis L.</foreign>
+Crucifères, J. V. silicul. ; F. 0.
+<term/>cultivé ; herbe , flcurs
+</p>
+
+<p>
+<orth>Colchique automnal</orth>
+<foreign xml:lang="lat">colchicum autamnale L.</foreign> Hexandr. trigyn. Europe merid.
+<term/>racine oû bulbe récent
+</p>
+
+<p>
+<orth>Coing</orth>
+<foreign xml:lang="lat">pyrus cydonia L.</foreign> Rosa. cécs . j. V. Icosandr. pentagyn. L. ; F. I)
+<term/>baiepommacée, semences
+</p>
+
+<p>
+<orth>Colombo</orth>
+<hi>calumba , columbo</hi>. Cryptogam
+<term/>racine
+</p>
+
+<p>
+<orth>Coloquinte</orth>
+<foreign xml:lang="lat">cucumis colocynthis L.</foreign> Cucurbitacées , J. V. Monoéc. syngénés. L.;Barbarie. Q.
+<term/>baie
+</p>
+
+<p>
+<orth>Consoude officinale</orth>, grande consoude, <foreign xml:lang="lat">symphitum officinale L.</foreign> Borraginées, J. V. Pcntandr. monogyn. L. ; F.
+<term/>racine , herbe , fleurs
+</p>
+
+<p>
+<orth>Conyza</orth>
+<foreign xml:lang="lat">iiIula dysenterica L.</foreign> Syngén polyg superf.; Europe
+<term/>toute la plante
+</p>
+
+<p>
+<orth>Coquelicot</orth>
+<foreign xml:lang="lat">papaver rhœas L.</foreign> Papavéracées , J. V. Polyandr. monogyn. L. ; F- ©
+<term/>pétalcs
+</p>
+
+<p>
+<orth>Coques du Levant</orth>
+<foreign xml:lang="lat">menispermum cocculus L.</foreign>- Dioéc. dodécandr. ; Malabar
+<term/>fruit, baie ou coque
+</p>
+
+<p>
+<orth>Coqueret</orth>, coquerelle, alkékenge.
+<cb/><foreign xml:lang="lat">physalis alkekengi L.</foreign> Pentandrie monogyn.j Europ. mérid
+<term/>herbej baies. semences
+</p>
+
+<p>
+<orth>Coriandre</orth>
+<foreign xml:lang="lat">coriatIdiurn sativum L.</foreign> OrnbelliL J. V. Pentandr. dig. L. ; E. 0.
+<term/>semence
+</p>
+
+<p>
+<orth>Cresson alénois</orth>
+<foreign xml:lang="lat">lepidium satiVuln L.</foreign> Cruciferes, J. V. TétraiL siliq. L. ; F. 0. Cultivé ; été
+<term/>berbe , feuilles
+</p>
+
+<p>
+<orth>Cresson de fontaine</orth>
+<foreign xml:lang="lat">sisymbrium nasturtium L.</foreign> Cruciferes, J. V. Tétradyn. siliq. L. F, 1?. Cultivé. herbe, fcuilles
+</p>
+
+<p>
+<orth>Cumin</orth>
+<hi>cuminum cyminum</hi> I/. Ombellif. J.V.Pentandr. digyn. L. ; E. 0.
+<term/>semence
+</p>
+
+<p>
+<orth>Datte</orth>
+<foreign xml:lang="lat">phœnix dactilifera L.</foreign> Palniiers , J. V. L. ; Afr. gC
+<term/>péricarpe
+</p>
+
+<p>
+<orth>Deut-de-lion</orth>
+<ref>Pissenlit</ref>
+</p>
+
+<p>
+<orth>Dictame de Crête</orth>
+<foreign xml:lang="lat">origanum dictamnus L.</foreign> Didyn. gymnosp.; Crète, Mont fda
+<term/>feuilles, épi
+</p>
+
+<p>
+<orth>Digitale pourprée</orth>
+<foreign xml:lang="lat">digitalispurpurea L.</foreign> Scrophulaires , J. Personnées, V. Didyn. angiosp. L. ; F. o’
+<term/>herbe, feuilies
+</p>
+
+<p>
+<orth>Dompte-venin</orth>
+<foreign xml:lang="lat">asclepias vincetoxicum L.</foreign> Pentandrie digvn. ; Europe
+<term/>racine , feuilles , plante entière
+</p>
+
+<p>
+<orth>Douce-amère</orth>
+<foreign xml:lang="lat">solanum dulcamara L.</foreign> Didynam. angiosp. ; F. 1)
+<term/>herbe , tige , feuilles
+</p>
+
+<p>
+<orth>Ecorce de Winter</orth>
+<foreign xml:lang="lat">IVinterania canella L.</foreign> Dodécandr. inotiogyn. ; Indes occid
+<term/>écorce moyenne
+</p>
+
+<p>
+<orth>Epine-vinette</orth>
+<foreign xml:lang="lat">berberis vulgaris L.</foreign> Hexandr. monogyn. ; Europe
+<term/>baies, écorce de la racine, seinences
+</p>
+
+<p>
+<orth>Enphorbe</orth>
+<term/>extracto-résine obtennc,par incision, de l’<foreign xml:lang="lat">euphorbia officinarum L.</foreign> et de l’<foreign xml:lang="lat">euphorbia antiquorum L.</foreign>
+</p>
+
+<p>
+<orth>Ecorce du Pérnu</orth>
+<ref> Quinquina</ref>
+</p>
+
+<p>
+<orth>Endormie</orth>, pornme épineuse, <foreign xml:lang="lat">datura stramonium L.</foreign> Pentandr. men. Amér. Europe niérid
+<term/>toute la plaute
+</p>
+
+<p>
+<orth>Peneuil</orth>
+<foreign xml:lang="lat">anethum fœniculum L.</foreign> Ombellif. J. V. Pentandr. digyn.L.j F. m, ï)
+<term/>semence
+</p>
+
+<p>
+<orth>Fenugrec</orth>
+<hi>trdgonellaJænumgrœ» cum\t</hi>. Diadelph. pentandr.; F. semences
+</p>
+
+<p>
+<orth>Fiel de terre</orth>
+<foreign xml:lang="lat">fumaria officinalis L.</foreign>
+<pb n="461"/>
+Diadelph. bexandr.<ref>Fumeterre</ref>
+</p>
+
+<p>
+<orth>Figuier</orth>
+<foreign xml:lang="lat">ficus caàca L.</foreign> Orties, J. UFticées, V. Polygam. trioéc. L.; F. m. <hi>Tf</hi>
+<term/>péncarpe
+</p>
+
+<p>
+<orth>Framboise</orth>
+<foreign xml:lang="lat">vaccinium vitis idœa L.</foreign> Ortaiidr. monogyn. ; Eur. mér
+<term/>fruits
+</p>
+
+<p>
+<orth>Fougère mâle</orth>
+<foreign xml:lang="lat">polypodium filix mas L.</foreign> Fougères, J. V. L. ; F
+<term/>racine
+</p>
+
+<p>
+<orth>Fraisier ordinaire</orth>
+<foreign xml:lang="lat">fragariavesca L.</foreign> lcosandr. polygyn. ; Europe.racines, feuilles , baies
+</p>
+
+<p>
+<orth>Framboisiér ordinaire</orth>
+<foreign xml:lang="lat">rubus idaeus L.</foreign> Icosandr. polygyn. ; Eur
+<term/>fruits
+</p>
+
+<p>
+<orth>Fumeterre</orth>
+<foreign xml:lang="lat">fumaria officinalis L.</foreign> Pavots , J. Papavéracées, V. Diadelph. hexandr.L. ; F. Q
+<term/>herbe ct feuilles
+</p>
+
+<p>
+<orth>Gards-robe</orth>
+<foreign xml:lang="lat">santolina chamœcyparissus L.</foreign> Syngénés. polygam. égale ; F. m
+<term/>herbe
+</p>
+
+<p>
+<orth>Garou</orth>
+<foreign xml:lang="lat">daphne mezercum L.</foreign> Thymelées, j. Daphnoïdes, V. Octandr. monogyn. la. ; F. écorce
+</p>
+
+<p>
+<orth>Gayac</orth>
+<foreign xml:lang="lat">guajacum officinale L.</foreign> ; îles de l’Àm. sept. <hi>Ig</hi>
+<term/>écorce et bois
+</p>
+
+<p>
+<orth>Gentiane jaune</orth>
+<foreign xml:lang="lat">gendana lutea L.</foreign> Gentianes , I. Gt ntianées , V. Fentandr. digyn. L. ; Alpes,F. f)
+<term/>racine
+</p>
+
+<p>
+<orth>Gérofle ou Girofle (clou de)</orth>
+<foreign xml:lang="lat">caryophyllus aromaticus L.</foreign> Polyandr. inonogyn. ; Moluques
+<term/>fruits
+</p>
+
+<p>
+<orth>Gingembre</orth>
+<hi>ammomum zingiber</hi> !.. monandr. monogyn. ; les denx Indcs
+<term/>racine
+</p>
+
+<p>
+<orth>Genièvre</orth>
+<foreign xml:lang="lat">juniperus communis L.</foreign> Conifer, J. V. Dioéc. rnonadelph. L. ; F. gC
+<term/>baic
+</p>
+
+<p>
+<orth>Gland</orth>
+<foreign xml:lang="lat">quercus robur L.</foreign> Amentacées, J. V. Monoéc. polyand. L. ; F. 7/3- péricarpe
+</p>
+
+<p>
+<orth>Gomme adragant</orth>
+<foreign xml:lang="lat">astragalus tragacantha L.</foreign> Diadelph. décandr. r . m
+</p>
+
+<p>
+<orth>Galbanum</orth>
+<term/>gomme-résine fétide obtenue , par incision, de la racine de <foreign xml:lang="lat">bubon galbanum L.</foreign>
+</p>
+
+<p>
+<orth>Gomme arabique</orth>
+<term/>muqueux qui s’éconle spontanément du <foreign xml:lang="lat">mirnosa niloiica L.</foreign>
+</p>
+
+<p>
+<orth>Gomme Sénégal</orth>
+<term/>- espèce de muqueux qui s^écoule du tronc du <foreign xml:lang="lat">mîmosa Senegal L.</foreign>
+</p>
+
+<p>
+<orth>Guimauve officinale</orth>
+<foreign xml:lang="lat">althœa ofificinalis L.</foreign> Malvacées, J. V. Monadelph. polyandr. L. ; F
+<term/>racine, herbe, fleurs
+</p>
+
+<p>
+<orth>Gutte (gomme)</orth>, extracto-résine Înovenaut, par incision , du <foreign xml:lang="lat">gamtogia gutta L.</foreign> et du <hi>guttœfiera vera</hi> Konig
+</p>
+
+<p>
+<orth>GlOuteron</orth>
+<foreign xml:lang="lat">arctimu lappa L.</foreign> in. Sÿngén. polyp. égale ; Eur. Virg. Cauada
+<term/>racine , lierbe, semences
+</p>
+
+<p>
+<orth>Graines de paradis</orth>, manguette , <hi>amomuni granum paradisif</hi>. Monandr. monogyn. ; Madagascar, Ceylan, Guinée
+<term/>semences
+</p>
+
+<p>
+<orth>Grande valériane</orth>
+<foreign xml:lang="lat">valeriana phu L.</foreign>
+F. ; F
+<term/>racine
+</p>
+
+<p>
+<orth>Gratiole officinale</orth>
+<hi>gratiola officinalis</hi> Scroplinlaires, J. Personnécs , V. Décandr. monogyn. L. ; F. <hi>i)</hi>
+<term/>prés humides ; printemps , herbe, feuilles
+</p>
+
+<p>
+<orth>Grenadier</orth>
+<foreign xml:lang="lat">punica granatum L.</foreign> Myrtes , j. Myrtoïdes, V. Icosand. monogyn. L. gc. Cultiv. fleurs ; balanitesy baie
+</p>
+
+<p>
+<orth>Groseiliier rouge commun</orth>
+<foreign xml:lang="lat">ribes rubrum L.</foreign> Pentandr. monogyn.; Eur.
+<term/>fruits
+</p>
+
+<p>
+<orth>Hellébore blanc</orth>
+<foreign xml:lang="lat">veratrum album L.</foreign> Joncs» J. Joncacées, V. Polygam. monoéc. L. ; F. <hi>I)</hi>. racine
+</p>
+
+<p>
+<orth>Hellébore noir</orth>
+<foreign xml:lang="lat">helleborus niger L.</foreign> Renonculacées, J. V. Polyandr. polygyn. Γ... ; F. I?
+<term/>racine
+</p>
+
+<p>
+<orth>Helminthocorton</orth>, moussedeCorse, <foreign xml:lang="lat">fucus helminthocorton</foreign>, Latourr. Algues, J. V. L. ; rochers de Pîle de Corse , etc
+<term/>herbe, féuilles
+</p>
+
+<p>
+<orth>Hennebanne</orth>
+<ref> Jusquiame</ref>
+</p>
+
+<p>
+<orth>Herbe aux teigneux</orth>
+<foreign xml:lang="lat">tussilago petasites L.</foreign> Syngén. polygam. superf. ; Europe
+<term/>racine, herse , fleurs
+</p>
+
+<p>
+<orth>Herbe a éternuer</orth>
+<foreign xml:lang="lat">achillea ptar-mica L.</foreign> Syngén. polyg. superfi racine
+</p>
+
+<p>
+<orth>Herbe de St-Roch</orth>
+<ref>Conyza</ref>
+</p>
+
+<p>
+<orth>Herbe à la poudre de Chypre</orth>, graine de musc, <foreign xml:lang="lat">hibiscus abelmoschus L.</foreign> Monadelph. polyandr. semences <term/>peu usitées
+</p>
+
+<p>
+<orth>Herbe à pauvre homme</orth>
+<foreign xml:lang="lat">gratiola officinalis L.</foreign> Diandr. monogyn. ; Eur. mér. Lieux humides
+<term/>toute la plante
+</p>
+
+<p>
+<orth>Herbe aux écus</orth>, nummulaire
+<foreign xml:lang="lat">nummularia L.</foreign>
+<pb n="462"/>Pentandr. monog. ; Lur. mér.
+<term/>herbe cutière
+</p>
+
+<p>
+<orth>Herbe aux gueux</orth>, viorne , vigne blanche, <foreign xml:lang="lat">clematis vitalba L.</foreign> Polyandr. polygyn
+</p>
+
+<p>
+<orth>Herbe aux poux</orth>, herbe à la pituite.
+<ref>staphysaigre</ref>
+</p>
+
+<p>
+<orth>Herbe aux puces</orth>, psyllion, <foreign xml:lang="lat">plantago psyllium L.</foreign> Tétrannr. monog. Etrr. niérid. Lietix sablonncux. semences, mucilage
+</p>
+
+<p>
+<orth>Herbe airvent</orth>, pnlsatille, coquelourde, <foreign xml:lang="lat">anemone pulsatilla L.</foreign> Folyandr. polygyn. ; Eur. Lieux arides , élevés
+<term/>hcrbe , suc épaissi, extrait
+</p>
+
+<p>
+<orth>Herbe aux hémorroïdes</orth>
+<foreign xml:lang="lat">raniVnculusficaria L.</foreign> Polyandr. polygyn
+</p>
+
+<p>
+<orth>Herbe aux cueillers</orth>
+<ref> Cochléaria</ref>
+</p>
+
+<p>
+<orth>Herbe a Robert</orth>
+<foreign xml:lang="lat">geranium Roberdanum L.</foreign> Monadelph. decandr.
+<term/>inusitée
+</p>
+
+<p>
+<orth>Hermodates</orth>, iris <foreign xml:lang="lat">tuberosa* L.</foreign> Triand. monogyn. ; Arabie , Syrie
+<term/>racine
+</p>
+
+<p>
+<orth>Huile d’amande</orth>, huile grasse obteniie , par expression, dcs seinences de l’<foreign xml:lang="lat">amygdalus commu7lis L.</foreign>
+</p>
+
+<p>
+<orth>Huile d’anis</orth>, htiile volatile fournie par le <foreign xml:lang="lat">pimfitnelda misum L.</foreign>
+</p>
+
+<p>
+<orth>Huile de cannelle</orth>, huile volatile fournie par le <foreign xml:lang="lat">laurus cinnamom um L.</foreign>
+</p>
+
+<p>
+<orth>Huile de gérofle</orth>, huile volatile fourniç par le <foreign xml:lang="lat">caryophyllus aromaticus L.</foreign>
+</p>
+
+<p>
+<orth>Huile de lavande</orth>, huile volatile fournie par le <foreign xml:lang="lat">lavendula spica L.</foreign>
+</p>
+
+<p>
+<orth>Huile d’olive</orth>, huile grasse obtenue du brou de Volive , fruit de l’<foreign xml:lang="lat">olea Europea L.</foreign>
+</p>
+
+<p>
+<orth>Huile de ricin</orth> ou <orth>Huile de <hi>palma christi</hi></orth>, huile siccative obtcnue par expression des semences du <foreign xml:lang="lat">ricinus comrnunis L.</foreign>
+</p>
+
+<p>
+<orth>Hyssope</orth>
+<foreign xml:lang="lat">hyssopus officinalis L.</foreign> Labiées , J. V. Didyn. gymnosp. F. 7μ. Montagnes ; printemps. herbe ; feuilles , lleurs
+</p>
+
+<p>
+<orth>Tinpératoire</orth>
+<foreign xml:lang="lat">imperatorium ostruthium L.</foreign> Ombellif. J. V- Pentand. digyn. L. ; F. <hi>Tfl</hi>
+<term/>racine
+</p>
+
+<p>
+<orth>ïpécacuanha</orth>
+<hi>psycotria emetioa</hi>, mutis; <hi>calicocea ipecacuanha</hi> Gomezet Brotaro. Rubiacées, J. V. Pentandr. monogyn. L.
+<term/>racine
+</p>
+
+<p>
+<orth>Jalap</orth>
+<foreign xml:lang="lat">convolvulus jalapa L.</foreign> <term>Liserons</term>, J. Convolvulacees, V. Pcntandr. lnonogyn. L. ; Mexique. "ifl
+<term/>racine
+</p>
+
+<p>
+<orth>Jujube</orth>
+<foreign xml:lang="lat">rhamnus zizyphus L.</foreign> Nerpruns, J. Bhamnoïdes, V- Pentahdr. mouogyn'. L., Cliine. gc. péricarpe
+</p>
+
+<p>
+<orth>Jusquiame noire</orth>
+<foreign xml:lang="lat">hyosciamus niger L.</foreign> Didynam. angiosp. F. O.
+<term/>herbe, feuilles
+</p>
+
+<p>
+<orth>Kino</orth>(gornmc, vraie gomme du Sénégal, gomme - résine de Gambia).On ignore de quel arbre on la retire, et commenton l’obtient
+</p>
+
+<p>
+<orth>Lnngue de chien</orth>, cynoglosse , <foreign xml:lang="lat">cynoglossum ofificinale L.</foreign> Pentandr. monogyn. ; Eur.
+<term/>racine , herbe
+</p>
+
+<p>
+<orth>Lauréole</orth>
+<foreign xml:lang="lat">daphne laureola L.</foreign> écorce
+</p>
+
+<p>
+<orth>Lavande</orth>
+<foreign xml:lang="lat">lavandula spica L.</foreign> Labiées , J. V- Didyn- gymuosp. L. ; F. <hi>IV</hi> Cultiv.
+<term/>herbe , feuilles , fleurs
+</p>
+
+<p>
+<orth>Lichen d’Isïande</orth>
+<foreign xml:lang="lat">Uchen islandicus L.</foreign> Algues, J. V. L. ; Iles all.
+<term/>herbe et feuilles
+</p>
+
+<p>
+<orth>Lierre terrestre</orth>
+<foreign xml:lang="lat">glecoma hedera terrestris L.</foreign> Labiées, J. V. Didyn. gymnosp. L. ; F. <hi>ï)</hi> Haics; printemps
+<term/>herbe et feuilles
+</p>
+
+<p>
+<orth>Lirnon</orth>
+<foreign xml:lang="lat">citrus rnedica limon L.</foreign> Polyadel. icosandr.
+<term/>baie
+</p>
+
+<p>
+<orth>Lin</orth>
+<foreign xml:lang="lat">linum usitatissimum L.</foreign> caryophyllées , J. V. Pentandr. monogyn. L. ; E.
+<term/>semeuce
+</p>
+
+<p>
+<orth>Livèche</orth>
+<foreign xml:lang="lat">ligusticurn levisticurn L.</foreign> Ombellif. J. V. Pentandr. dig. L. ; F. <hi>I)</hi>
+<term/>racine, herbe, semences
+</p>
+
+<p>
+<orth>Lyçopodc</orth>, pied de-loup, <foreign xml:lang="lat">lycopodium clavatum Lin.</foreign> Cryptogamie, niousses ; Enr. ; bois montagneux
+<term/>herbe, poussière
+</p>
+
+<p>
+<orth>Macis</orth>
+<foreign xml:lang="lat">myristica L.</foreign> Polyandr. rnonogyn. ; Moluques
+<term/>arille du drupe
+</p>
+
+<p>
+<orth>Manne</orth>, extracto - sucré obtenu par incision , ou coulant spontanément du tronc du <foreign xml:lang="lat">fraxinus ornus L.</foreign> du <foreign xml:lang="lat">fraxinus ortundIfolia Lin.</foreign> et quelqnefois du <foreign xml:lang="lat">pinus larix L.</foreign>
+</p>
+
+<p>
+<orth>Maroute</orth>
+<foreign xml:lang="lat">anthemis cotula Lin.</foreign> Syngén. polyg. superf. ; Eur. herbe , flciirs
+</p>
+
+<p>
+<orth>Marrube</orth>
+<hi>marrubiurn vulgareLt</hi>. Labiées , J. V. Didyn gymnosp. L. ; F. <hi>I)</hi>. Haies: été
+<term/>fcuilles et fleurs
+</p>
+
+<p>
+<orth>Matricaire</orth>
+<foreign xml:lang="lat">matricarium parthenium L.</foreign> Syngén. polyg. superf. ;
+<pb n="463"/>
+F. T ieuxpierreux; été
+<term/>herbe , feuilles, fleurs
+</p>
+
+<p>
+<orth>Mauve à feuilles rondes</orth>
+<foreign xml:lang="lat">malva rotundifolia L.</foreign> Malvacees , J. V. Monadelpli. polyandr. L.; haies, chemins; été
+<term/>herbes et feuilles
+</p>
+
+<p>
+<orth>Mauve sauvage</orth>
+<foreign xml:lang="lat">malva sylvestris L.</foreign> ; F. 7/C.
+<term/>herbe et feuilles
+</p>
+
+<p>
+<orth>Méchoacan</orth>
+<foreign xml:lang="lat">convolvulus mechoacanna L.</foreign> Pentandr.monogyn. ; Ani. mérid.
+<term/>racine
+</p>
+
+<p>
+<orth>Mélisse</orth>, citronnelle , <foreign xml:lang="lat">melissa ofificinalis L.</foreign> Labiées, J. V. Didyn. gymnosp. Lin. ; F. 1g.. chernins , printemps , été
+<term/>herbe , feuilles , fleurs
+</p>
+
+<p>
+<orth>Menthe-coq</orth>, grand baume, coqdes-jardins,tuuuce/uui <foreign xml:lang="lat">balsamita L.</foreign> Polyg. superfl. F. M.
+<term/>herbe
+</p>
+
+<p>
+<orth>Meuthe crepue</orth>
+<hi>menthacrispaïa</hi>. Labiécs , J. V. Didyn. gymnosper. F.
+<term/>herbe , feuilles , fleurs
+</p>
+
+<p>
+<orth>Menthe poivrée</orth>
+<foreign xml:lang="lat">mentha piperita L.</foreign> Labiées,J. V. Didyn. gyrnnosper. L. ; F. <hi>Tg</hi>. cultiv.
+<term/>herbe. feuilies, fleurs
+</p>
+
+<p>
+<orth>Mezéréon</orth>,bois gentil, trontanel, thymelée. <ref>Garou</ref>
+</p>
+
+<p>
+<orth>Miel</orth>
+<term/>extracto-sucré , produit d’uneélaborationqiie Pabeille (upis <foreign xml:lang="lat">rnelliflua L.</foreign> ) fait subir au sucre des fleurs
+</p>
+
+<p>
+<orth>Millefeuille</orth>
+<foreign xml:lang="lat">achilleamillefiolium L.</foreign> Radiées, T.DesLCorymbif. J.V. Syngénés. polyg. supérfl. L.; F. <hi>Ifl</hi>. lieuxsecs; été
+<term/>herbe » feuilles, fleurs
+</p>
+
+<p>
+<orth>Mille-pertuis</orth>
+<foreign xml:lang="lat">hypericum perfioraturn L.</foreign> Polyadelph. polyandr. ; Europe ; sommités
+<term/>semences
+</p>
+
+<p>
+<orth>Molène</orth>
+<ref>Bouillon blanc</ref>
+</p>
+
+<p>
+<orth>Morelle noire</orth>
+<foreign xml:lang="lat">solanuIjI nigrum L.</foreign> Solanées,J. V-Pentandr. Monog. L. ; F. 0.
+<term/>herbe , feuilles
+</p>
+
+<p>
+<orth>Mors du diable</orth>, remords, scabieuse des bois, <foreign xml:lang="lat">scabiosa succisa L.</foreign> Tétrandr. monog.; Europe,prairies humides
+<term/>racine, herbe
+</p>
+
+<p>
+<orth>Mort-Ghien</orth>
+<ref>Çolchique</ref>
+</p>
+
+<p>
+<orth>Morelle</orth>
+<hi>Taoire,solanum ndgru-m</hi> E. Solanées,J.V. Pentandr. monogyn. L- ’, F.
+<term/>herbe, feuilles
+</p>
+
+<p>
+<orth>Mousse de Corse</orth>
+<term/>mélange d’un grand nombre de fucus, de céraniiun , de dulva, de coralline. Decandolle
+</p>
+
+<p>
+<orth>Moutarde</orth>
+<foreign xml:lang="lat">sinapis nigra et alba L.</foreign> Crucifères, J.V. Tétradyn. §iliq. L. ΐ F. O.
+<term/>semence
+</p>
+
+<p>
+<orth>Muscade</orth>
+<hi>mynsüca aromatica</hi>. L. ; amantle
+</p>
+
+<p>
+<orth>Myrobolans</orth>, ou niirubolans , <foreign xml:lang="lat">phillaiIthus emblica L.</foreign> Moiwéc. triandr.
+<term/>fruits
+</p>
+
+<p>
+<orth>Myrthe</orth>
+<term/>extracto-résinetirée, par incisiou , d’une plante qu’on soupconne ètre le <hi>cassa gumminifiera</hi> de Bruce
+</p>
+
+<p>
+<orth>Napel</orth>
+<foreign xml:lang="lat">aconiturn napelliis L.</foreign> Polyandr. trigyn. Europe, somwets humides des inontagnes
+<term/>herbe , extrait
+</p>
+
+<p><orth>Napha</orth>
+<foreign xml:lang="lat">citrus aurantium L.</foreign> Polyadelpb. icosandr. F. m. Perse, Médie.
+<term/>écorce , parenchyme^ ileurs, semences , huile vola tile
+</p>
+
+<p>
+<orth>Nasitor</orth>. Uqyez Cresson alénois
+</p>
+
+<p>
+<orth>Navet du diable</orth>, navet galanT, Bryone , <foreign xml:lang="lat">Bryonia alba L.</foreign> Monoéc. syngénés. ; Europe
+<term/>racine, suc épaissi
+</p>
+
+<p>
+<orth>Nèfle</orth>
+<foreign xml:lang="lat">mespilus germanica L.</foreign> Rosacées,J.V. Icosandr. pentagyn. L. ; F. 1)
+<term/>soie ombiliquée
+</p>
+
+<p>
+<orth>Nerprun</orth>
+<foreign xml:lang="lat">rhamnus catharticus L.</foreign> N erpruns, J. Bhamnoïdes, V. Pent. monogyn» L. ; F. F.
+<term/>baie
+</p>
+
+<p>
+<orth>Nénuphar blanc</orth>, jaune
+<foreign xml:lang="lat">nymphœa alba, lutea L.</foreign> Polyandr. monogyn. Europe
+<term/>étangs , racines, fleurs, syrop de nénuphar
+</p>
+
+<p>
+<orth>Noix</orth>
+<foreign xml:lang="lat">îuglans regia L.</foreign> térébenthacées,J. V. Monoéc. polyandr.L.; F. I}
+<term/>péricarpe
+</p>
+
+<p>
+<orth>Noix vomique</orth>
+<foreign xml:lang="lat">strychnos nux vomica L.</foreign> Pentandr. monogyn. ; Indes orient.
+<term/>fruit
+</p>
+
+<p>
+<orth>Oignon</orth>
+<foreign xml:lang="lat">allium cepa L.</foreign> ; F. <hi>cf</hi>
+<term/>racine
+</p>
+
+<p>
+<orth>Opium</orth>
+<term/>produit organique surcomposé obtenu, par expression ou par incision, des capsules du <foreign xml:lang="lat">papaver sonrniferum L.</foreign>
+</p>
+
+<p>
+<orth>Opopanax</orth>
+<term/>gomme-résine fétide obtenue, par incision , de Fextrémité inférieure de la tige et du collet de la racine du <foreign xml:lang="lat">pastinaca opopanax L.</foreign>
+</p>
+
+<p>
+<orth>Oranger</orth>
+<foreign xml:lang="lat">citrus aurantiuni L.</foreign> Orangers, J. Hespéridées , V. Polyandr.’ico.sandr. L ; Italie, F.M. 1?
+<term/>feuilles , fleurs , baie , écorce
+</p>
+
+<p>
+<orth>Oreille-d’hommc</orth>
+<ref>Cabaret</ref>
+</p>
+
+<p>
+<orth>Orchis</orth>
+<foreign xml:lang="lat">orchis morio L.</foreign> <foreign xml:lang="lat">Orchis mascula L.</foreign> <foreign xml:lang="lat">Orchis latifolia L.</foreign> <foreign xml:lang="lat">Orchis maculata L.</foreign> <foreign xml:lang="lat">Orchis bifolia L.</foreign> <foreign xml:lang="lat">Orchis pyramidalis L.</foreign> Orchidées, J.V.
+<pb n="464"/>
+Gynandr. diandr. L. ; F.
+<term/>racinc ©ii bulbe
+</p>
+
+<p>
+<orth>Oreille-de-rat</orth>
+<foreign xml:lang="lat">hieracium pilosella L.</foreign> Syngénés. polyg. égale -, F.
+<term/>point usitée
+</p>
+
+<p>
+<orth>Oreille d’ours</orth>, primevère, <foreign xml:lang="lat">primula veris L.</foreign> Pentandrv monogyn.; herbe, fleurs
+</p>
+
+<p>
+<orth>Orge</orth>
+<foreign xml:lang="lat">hordeum vulgare L.</foreign>
+<foreign xml:lang="lat">Hordeum dystichon L.</foreign>
+<foreign xml:lang="lat">Hordeum hexastichon L.</foreign>
+Graininées,J.V. Triandr. trigyn. L* 5 F- O.
+<term/>semences entières, mondées , perlées
+</p>
+
+<p>
+<orth>Origan commun</orth>
+<foreign xml:lang="lat">origanum uulgare L.</foreign> Labiées, j. V. Didyn. gymnosper. L. F. gC.
+<term/>bois ; été, plante, feuilles, fleurs
+</p>
+
+<p>
+<orth>Origan marjolaine</orth>
+<foreign xml:lang="lat">origanum marjorana L.</foreign> ; F. 1)
+<term/>cultivé, herbe, feuilles, fleurs
+</p>
+
+<p>
+<orth>Orobe des herboristes</orth>
+<foreign xml:lang="lat">ervum</foreign>
+<foreign xml:lang="lat">ervilia L.</foreign> Diadelph. decandr. ; graine
+</p>
+
+<p>
+<orth>Orpin</orth>, reprise ou joubarde des vignes,<hi>sedum telephiuniïa.Tyecand</hi>. pentagyn.;Europe, racine , feuilles fraîches
+</p>
+
+<p>
+<orth>Orseille</orth>
+<foreign xml:lang="lat">lichen roccella L.</foreign> Cryptogain. Champignons ; Canaries , hauts rochers maritimes; plante entière pourcolorer le vin et teindre la soie en gorge de pigeon
+</p>
+
+<p>
+<orth>Ortie blanche</orth>
+<foreign xml:lang="lat">lamium album L.</foreign> Labiées, J. V. Didynam. gymnosp. L. ; F. 0.
+<term/>fleurs
+</p>
+
+<p>
+<orth>Pareira brava</orth>, vigne sanvage, <foreign xml:lang="lat">cissarnpelos pareira L.</foreign> Dioéc. Monadelph. ; Brésil
+<term/>racine
+</p>
+
+<p>
+<orth>Pas-d’ane</orth>
+<foreign xml:lang="lat">tussilago farfara L.</foreign> Syngénés. polyg. superfl. Europe
+<term/>racine , herbe , fleurs , suc des iéuilles
+</p>
+
+<p>
+<orth>Patience</orth>
+<foreign xml:lang="lat">rumex acutus L.</foreign> Polyg. J. V. Hexandr. trigyn. L. ; F.
+<term/>racine
+</p>
+
+<p>
+<orth>Pavot des jsrdins</orth>, ou soinnifère. <ref>Opium</ref>
+</p>
+
+<p>
+<orth>Pavot rouge</orth>
+<ref>Coquelicot</ref>
+</p>
+
+<p>
+<orth>Pêcber</orth>
+<foreign xml:lang="lat">amygdalus persica L.</foreign> R.osacées,J. V.ïcosandr. mouogyn. L. F. cultivé
+<term/>fleurs
+</p>
+
+<p>
+<orth>Persil</orth>
+<hi>apicum petro selinuus</hi> l.v. Pentandr. digyn. Europe
+<term/>herbe, racine
+</p>
+
+<p>
+<orth>Petit chêne</orth>, germandrée , <foreign xml:lang="lat">teucrium chamœdiys</foreign>. Didyn. gymnosp. urope australe
+<term/>feuÏlles
+</p>
+
+<p>
+<orth>Petite Centaurée</orth>
+<foreign xml:lang="lat">gentiana centaurium L.</foreign>Gemiomécs, J. V. Pentandr.
+<cb/>monogyn. C- ; F« Θ*
+<term/>herbe et ieiiilles
+</p>
+
+<p>
+<orth>Petite herbe aux chats</orth>
+<foreign xml:lang="lat">teucrium marum L.</foreign> Didyn. gymuosper. ; Espagne
+<term/>feuilles
+</p>
+
+<p>
+<orth>Petite valériane</orth>
+<foreign xml:lang="lat">xalcriana officinalis L.</foreign> DipsacéeSjJ. V. Triandr. monogyn. L ; F. <hi>Tfl</hi>
+<term/>racine
+</p>
+
+<p>
+<orth>Pied-de-chat</orth>
+<hi>gnaphalium dioi-</hi> <foreign xml:lang="lat">cu.ni L.</foreign> Syngén. polyg. superfl
+</p>
+
+<p>
+<orth>Pid-de-veau</orth>
+<foreign xml:lang="lat">arum manclatum L.</foreign> Gynand. polyand. Eur.
+<term/>racine
+</p>
+
+<p>
+<orth>Pignon</orth>
+<foreign xml:lang="lat">pinuspinea L.</foreign> Conifères, j. V. Monoéc. monadélph. L. ; F. .1)
+<term/>semence
+</p>
+
+<p>
+<orth>Pignon de Barbarie</orth>, grand haricot du Pérou,
+<foreign xml:lang="lat">jatropa curcas L.</foreign> Monoéc. monadclph.
+<term/>semences
+</p>
+
+<p>
+<orth>Pignons d’Iude</orth>, petit ricin , Ι,υίβ cles Moluques, grains de Tilli. <foreign xml:lang="lat">croton tiglimus L.</foreign> Monoéc. Monadelph. Ceylan
+<term/>fruits , bois
+</p>
+
+<p>
+<orth>Pissenlit</orth>
+<foreign xml:lang="lat">leontodon taraxacurn L.</foreign> Syngén. polyg. égale ; Europe, Virgin.
+<term/>racine, herbe suc
+</p>
+
+<p>
+<orth>Pistaclie</orth>
+<foreign xml:lang="lat">pistacia vera L.</foreign> Térébentacées.J.V.Droéc. pentandr.L.; 0r. <hi>I)</hi>
+<term/>semence
+</p>
+
+<p>
+<orth>Pivoine ou Pione</orth>
+<foreign xml:lang="lat">pœonia ofificinalis L.</foreign> Polyandr. digyn. F. m. Alpes
+<term/>racines, fleurs, semences
+</p>
+
+<p>
+<orth>Poivre</orth>
+<foreign xml:lang="lat">pipernigrum L.</foreign> 0rtiées,J. Urticées V. Diandr. monogyn. L. ; IndesoIient. et occid. b
+<term/>drupe
+</p>
+
+<p>
+<orth>Poivre long</orth>, piinent, corail des jardins, <foreign xml:lang="lat">capsicum annuum L.</foreign> Pentandr. monogyn. Indes occident. cultivé
+<term/>frnit, seniences
+</p>
+
+<p>
+<orth>Poix amyride ou élémi</orth>, suc de l’<foreign xml:lang="lat">amyris elemifera L.</foreign> en Amérique; en Orient, <hi>deï'arnyris zeylonica</hi>
+</p>
+
+<p>
+<orth>Poix blanche</orth>, poix de Bourgogne, poix grasse, poix d'épicier; suc du <foreign xml:lang="lat">pinus picea</foreign>
+</p>
+
+<p>
+<orth>Poix de sapin</orth>(bray ou galipot, selon qu’elle est sèche ou molle ) , suc du <foreign xml:lang="lat">piJIus picea L.</foreign>
+</p>
+
+<p>
+<orth>Polygala de Virginie</orth>
+<foreign xml:lang="lat">polygala Venega L.</foreign> Diadelph. octandr. ; Amériqué septent
+<term/>racine,écorce de la racine
+</p>
+
+<p>
+<orth>Polygala amer</orth>
+<foreign xml:lang="lat">polygala amara L.</foreign> Pédiculaires, J. Rninantoïdes , V. Diadelpli. octandr. L, j F.
+<term/>racine
+</p>
+
+<p>
+<orth>Polypode commun</orth>
+<foreign xml:lang="lat">polypodium vulgare L.</foreign> Fougerés , j. V. l. ; F. ic
+<term/>racine
+</p>
+
+<p>
+<orth>Potelée</orth>
+<hi>Voyez</hi> <ref>jusquiame</ref>
+</p>
+<pb n="465"/>
+
+<p>
+<orth>Poudredela comtesse</orth>, des peres. <hi>Voyez</hi> <ref>Quinquina</ref>
+</p>
+
+<p>
+<orth>Pruneau</orth>
+<foreign xml:lang="lat">prunus domestica L.</foreign> Rosacées, J. V. Icosandr. monogyn. L. ; F. <hi>i)</hi>
+<term/>Drupe
+</p>
+
+<p>
+<orth>Psyllium</orth>
+<foreign xml:lang="lat">plantago psyllium L.</foreign> jPlautains, J. Plantaginees, V. Tétandr. monog. L.;F?0
+<term/>semence
+</p>
+
+<p>
+<orth>Pyrethre</orth>
+<hi>anthemispyrethrumVs</hi>. iSyngén. polygam. superfl. A. F. septent
+<term/>raciue
+</p>
+
+<p>
+<orth>Quassia</orth>
+<foreign xml:lang="lat">quassia amara L.</foreign> Surinam, Cayeune ; <hi>ï)</hi>
+<term/>écorce, bois
+</p>
+
+<p>
+<orth>Quinquina gris de Loxa</orth>
+<foreign xml:lang="lat">cinchona condaminea</foreign> Bonpland. Pérou, F.
+<term/>écorce
+</p>
+
+<p>
+<orth>Quinquina blanc</orth>
+<foreign xml:lang="lat">cinchona ova lifolia</foreign>, mutis. Santa-Fé de Bogota *, <hi>ï)</hi>. ecorce
+</p>
+
+<p>
+<orth>Quinquina rouge</orth>
+<hi>cinchona oblongifolia</hi>, mutis.Pérou, Santu-Fé de Bogota ; F.
+<term/>écorce
+</p>
+
+<p>
+<orth>Quinquiua jaune</orth>
+<hi>cinchona corAIfolia</hi>, mutis. Sauta-Fé de Bogota, mont. élev. duPérou; F.
+<term/>écorce
+</p>
+
+<p>
+<orth>Quinquina orangé</orth>
+<hi>cinchona lancifolia</hi>, mutis. Uubiacees, j. V. Penîandr. monogyn. L. Santa-Fé.de Bogota, Pérou ; I.
+<term/>écorce
+</p>
+
+<p>
+<orth>Racine des serpens</orth>
+<foreign xml:lang="lat">ophiorriza mungos</foreign> L. Peutandr. monogyn. ; Indes orient.
+<term/>racine
+</p>
+
+<p>
+<orth>Raifort sauvage</orth>
+<foreign xml:lang="lat">cochlearia armotacia L.</foreign> Crucifères, J.V. Tétradyn. silicul. L.; F. i)
+<term/>racine, suc
+</p>
+
+<p>
+<orth>Raisin de caisse</orth>
+<hi>vitis vifüferaE</hi>. Vignes, L. Sarmentacées, V. Pentandr. monog. L. ; F
+<term/>péricarpe
+</p>
+
+<p>
+<orth>Raisin de Corinthe</orth>
+<foreign xml:lang="lat">vitis vinifera apyrenna sive Corinthiaca</foreign> , î)
+<term/>baies
+</p>
+
+<p>
+<orth>Réglisse hérissée</orth>
+<foreign xml:lang="lat">glyzirrhiza echinata L.</foreign> ; Espagne ; i)
+<term/>racine
+</p>
+
+<p>
+<orth>Réglisse</orth>
+<foreign xml:lang="lat">e{ïrciuaie,glyzirrhiza glabra L.</foreign> Légumineuses,J.V.Diadelp. décandr. L. ; F. <hi>ï)</hi>
+<term/>racine
+</p>
+
+<p>
+<orth>Résine élastique</orth>
+<foreign xml:lang="lat">horea Guianensis L.</foreign> Monoéc. inonadelph. Guiaue, Pérou
+<term/>en substance. Caoutcliouc
+</p>
+
+<p>
+<orth>Rhubarbe</orth>
+<foreign xml:lang="lat">rheum palrnatum et undulaturn L.</foreign>Polyg.J.V .Ennéandr. Irigyn. L. ; Chine, etc. (jultlvée en France, <hi>ï)</hi>
+<term/>raciue
+</p>
+
+<p>
+<orth>Ricin</orth>
+<hi>ricinus commntIisïj</hi>. Euphorbes, J. Tithymaloïdes , V. Monoéc. mouadelph. L. Barbar. Amér. <hi>i)</hi>
+<term/>semences
+</p>
+
+<p>
+<orth>Riz</orth>
+<foreign xml:lang="lat">oryza sativa L.</foreign> Graminées ,
+<cb/>J. V. Hexandr. rnonogyn. L. ; ltalie, 0
+<term/>graines
+</p>
+
+<p>
+<orth>Romarin</orth>
+<foreign xml:lang="lat">rosmarin us ofiflcin a lis L.</foreign> Labiées , J.Décandr. monogyn. L.; F. <hi>i)</hi>. cultivé
+<term/>herbe, feuilles , fleurs
+</p>
+
+<p>
+<orth>Rose</orth>
+<foreign xml:lang="lat">rosa ceIItifolia L.</foreign> ; Rosacées,J. V. Icosandr. polygyn. L. , <hi>Ί)</hi> . cultivé
+<term/>pétales
+</p>
+
+<p>
+<orth>Rose de Provins</orth>
+<hi>rosa GallicaL»</hi>
+<term/>pétales
+</p>
+
+<p>
+<orth>Rue des jardins</orth>
+<foreign xml:lang="lat">ruta graveolens L.</foreign> Décandr. monogyn. ; Afrique , Italie, France méridion
+<term/>herbe , semences
+</p>
+
+<p>
+<orth>Safran</orth>
+<foreign xml:lang="lat">crocus sativus L.</foreign> Iris, J. Iridées, V. Triundr. monogyn. L.; Orient, Autriche.France, Espagne. I
+<term/>stigmatcs
+</p>
+
+<p>
+<orth>Safran bàtard</orth>
+<foreign xml:lang="lat">carthamus tinctorius L.</foreign> Syngén. polyg. égale
+<term/>ieservé â la teinture jaune
+</p>
+
+<p><hi>Sagapenum</hi>, gomme-résine fetide obteuue d’une planle ombellifère eucore inconnue
+</p>
+
+<p>
+<orth>Sagou</orth>, suc amylacé qu’on obtient du sagus ou <hi>palma fiarinaria</hi> de Rumph
+</p>
+
+<p>
+<orth>Salicor</orth>, boucard, soude , <foreign xml:lang="lat">salicornia herbacea L.</foreign> Monandr. monog.; Asie , Europc méridion
+<term/>toute lu plante
+</p>
+
+<p>
+<orth>Salseparcille</orth>
+<foreign xml:lang="lat">smilax salsaparilla L.</foreign> Aspeiges,J.Smilacées, V. Dioéc» hexandr. L. ; Asie. f)
+<term/>racine
+</p>
+
+<p>
+<orth>Saponaire ou savouière officinale</orth>
+<foreign xml:lang="lat">saponaria olficinalis L.</foreign> Décandr. digyn. ; Europe
+<term/>racine,, herbe , semeuces
+</p>
+
+<p>
+<orth>Sang-dragon</orth>, tannino-résine tiiee du <foreign xml:lang="lat">pterocarpus draco L.</foreign>
+</p>
+
+<p>
+<orth>Santoline</orth>
+<ref>Cina</ref>
+</p>
+
+<p>
+<orth>Sarrictte</orth>
+<foreign xml:lang="lat">satureia hortensis L.</foreign> Didyn. gymnosp. ; F. ni
+<term/>herbe
+</p>
+
+<p>
+<orth>Sassairas</orth>
+<foreign xml:lang="lat">laurus sassafiras L.</foreign> , Am. sept. et sur-tout Canada , Virginie
+<term/>écorce et bois de la racine
+</p>
+
+<p>
+<orth>Sauge</orth>
+<foreign xml:lang="lat">salvia officinalis L.</foreign> Labiées, J. Décandr. monogyn. L. ; F. <hi>IV</hi> Cultivé
+<term/>herbe , léuilles, fleurs
+</p>
+
+<p>
+<orth>Scammonée d’Alep</orth>, extracto-résine qui paroît provenir , par iucision , <foreign xml:lang="lat">duconvolvulus scammonia L.</foreign>
+</p>
+
+<p>
+<orth>Scammonée de Smyrne</orth>, extracto-résine qu’on croit provenir du <foreign xml:lang="lat">periploca scamone L.</foreign>
+</p>
+
+<p>
+<orth>Scille</orth>
+<foreign xml:lang="lat">scilla maritima L.</foreign> Lis, J. Liliacées , V. Hexandr. monogym
+<pb n="466"/>L.; F. m, <hi>IV</hi>
+<term/>racine ou oignon
+</p>
+  
+<p>
+<orth>Sébeste</orth>
+<foreign xml:lang="lat">cordia myxa L.</foreign> Borrag. J. V. Pentandr. inonogyn. Lin.; F.gypte. F.
+<term/>drupe
+</p>
+
+<p>
+<orth>Semen contra</orth>
+<ref>Cina</ref>
+</p>
+
+<p>
+<orth>Séné d’Alexandrie</orth>, de Seyde, etc. <foreign xml:lang="lat">cassia acutifolia Lmk.</foreign> <hi>Cassia lanceoluta</hi> Forsk. ; Egypte. <hi>î)</hi>. herbe, feuilles
+</p>
+
+<p>
+<orth>Séné d'ltalie</orth>
+<foreign xml:lang="lat">cassia senna L.</foreign> Légum. J. V. Décandr. mouogyn. L.~; Ital. F. mérid. 0
+<term/>herbe, feuilles
+</p>
+
+<p>
+<orth>Sénevé</orth>, moutarde usuelle , <foreign xml:lang="lat">sinapis nigra L.</foreign> Tétradyn. siliqueuse ; Eur
+<term/>semences en pondre
+</p>
+
+<p>
+<orth>Serpentaire de Virginie</orth>
+<foreign xml:lang="lat">aristolochia serpentaria L.</foreign> Aristoloches, j. AzaroÏdes , V. Gynandr. hexandr. L. ; Am. sept
+<term/>racine
+</p>
+
+<p>
+<orth>Serpolet</orth>
+<foreign xml:lang="lat">thymus serpillum L.</foreign> Labiées , J. Didynam. gymnosp. L. ; Fo ï). Coteaux ; été
+<term/>herbe, feuilles, fleurs
+</p>
+
+<p>
+<orth>Sermoiitaine</orth>, séséli de rnontagne, livèche , <foreign xml:lang="lat">ligusticum levisticum L.</foreign> Pentandr. monogyn. ; F. 111. racine , herbe , seinences
+</p>
+
+<p>
+<orth>Simarouba</orth>
+<foreign xml:lang="lat">quassia simaruba L.</foreign> Magnoliers , J. Tulipifères, V. Décandr. monogyn. L. Am.m. F. écorce, bois
+</p>
+
+<p>
+<orth>Squine</orth>
+<foreign xml:lang="lat">smilax China L.</foreign> Chine, Amerique. I
+<term/>racine
+</p>
+
+<p>
+<orth>Stapnysaigre</orth>
+<foreign xml:lang="lat">delphinium staphysagria L.</foreign> ReuonCulacées, J.V Folyandr. trigyn. E. ; F. m. semences
+</p>
+
+<p>
+<orth>Stechas</orth>
+<foreign xml:lang="lat">lavandula stœchas L.</foreign> Didyn. gymnosp. ; Europe mérid.
+<term/>sirop
+</p>
+
+<p>
+<orth>Stramoine</orth>
+<foreign xml:lang="lat">datura stramonium L.</foreign> Didyn. angiosp.; F. Q. Champs; été
+<term/>iierbe , feuilles
+</p>
+
+<p>
+<orth>Styrax liquide</orth>, baurne quiparoît ètre obtenu par la décoction du <foreign xml:lang="lat">liquidambar styracifiua L.</foreign>
+</p>
+
+<p>
+<orth>Sucre</orth>
+<foreign xml:lang="lat">saccharum ofificinarum L.</foreign> Triandr. digyn., les deux lndes, Zoue torride
+<term/>Suc exprimé ou vesou , crystallisé ou cassonade , raffiné ou sucre en pains
+</p>
+
+<p>
+<orth>Sureau</orth>
+<foreign xml:lang="lat">sambucus nigra L.</foreign> capri. foliées, J. V. Pentandr. trigyn. L. ’ijc
+<term/>Seconde écorce , fleurs
+</p>
+
+<p>
+<orth>Tabac</orth>
+<hi>nicotiana tabacum'L. So-</hi> lanées , J. V. Pentandr. monogyn. L. Cultivé» Q. heibe, feuilles
+</p>
+
+<p>
+<orth>Tamarin</orth>
+<foreign xml:lang="lat">tamarindus Indica L.</foreign>
+<cb/>Légum. J. V. Triandr. monogytu* L. lndes or. et occ. f)
+<term/>gousse
+</p>
+
+<p>
+<orth>Tanaisie</orth>
+<foreign xml:lang="lat">tanacetum vulgare L.</foreign> Floscul. T. DesL Corymbit’. J. V. Syngénés. polyg, superf. L. ; F.T^. Prés; été
+<term/>herbe, léuilles, fleurs, semences
+</p>
+
+<p>
+<orth>Térébenthine de Copahu</orth>, improprement <orth>baume de Copahu</orth>
+<term/>S’écoule spontanérnent et par incision du <foreign xml:lang="lat">copaifera offixinalis L.</foreign>
+</p>
+
+<p><orth>Térébenthine de la Mecque</orth>, improprement <orth>baume de la Mecque</orth>
+<term/>S’écoule du tronc de <foreign xml:lang="lat">Vamyris opobalsamum L.</foreign> ou , selon Gleditsch . du <foreign xml:lang="lat">balsarnea meccanensis G.</foreign>
+</p>
+
+<p>
+<orth>Térébenthine de mélèse</orth>, térébenthine de Venise
+<term/>S’écoule spontanément, et par incision, du <foreign xml:lang="lat">piIIus larix L.</foreign>
+</p>
+
+<p>
+<orth>Térébenthine de pistachier ou de Chio</orth>
+<term/>S’écoule spontanément, et par incision , du <foreign xml:lang="lat">pistacia terebinthus L.</foreign>
+</p>
+
+<p>
+<orth>Térébenthine de sapin</orth>, ou térébentine de Strasbourg , ou commune
+<term/>S’écoule spontanément, et pnr iucision , du <foreign xml:lang="lat">pinus picea L.</foreign> du <hi>piIIus abies</hi> , et du <foreign xml:lang="lat">pinus sylvestris L.</foreign>
+</p>
+
+<p>
+<orth>Thé d’Europe</orth>
+<ref> Véronique</ref>
+</p>
+
+<p>
+<orth>Thé bout</orth>, thé roux , vert, impérial, <foreign xml:lang="lat">thea bohca L.</foreign> Polyandr. monogyn. Chine ; Amér
+<term/>feuilïes
+</p>
+
+<p>
+<orth>Thym</orth>
+<hi>tlr'jmus vulgarisVj</hi>. ; F. Cultivé. 1 abiées, J. Didynam. gyranosp. L.
+<term/>herbe, feuillei, fle urs
+</p>
+
+<p>
+<orth>Tilleul européen</orth>
+<foreign xml:lang="lat">tilia curopœ L.</foreign> Polyandr. inonogyn. ; Eur. fleurs , feuilles, écorces
+</p>
+
+<p>
+<orth>Tormentille</orth>
+<foreign xml:lang="lat">tormentilla erectx L.</foreign> Rosacées, J. V. Icosandr. polygyn. L. ; F.
+<term/>racine
+</p>
+
+<p>
+<orth>Tournesol bleu de Hollande</orth>
+<foreign xml:lang="lat">croton tinctorium L.</foreign> Mouoéc. nionadelpli. ; F. m.
+<term/>Suc employé pourla teinture et les expériences chimiques
+</p>
+
+<p>
+<orth>Trèfle d’eau</orth>
+<foreign xml:lang="lat">menyanthes trifioliata L.</foreign> Lysimachies, j. Prinulacées, V. Pentandr. monogyn. L,; F.
+<term/>herbe et feuilles
+</p>
+
+<p>
+<orth>Tue-chien</orth>
+<ref>Colchique</ref>
+</p>
+
+<p>
+<orth>Tue mouches</orth>
+<foreign xml:lang="lat">agaticus muscarius Lin.</foreign> Cry ptogain. Champignons;prés furêts
+<term/>La partie qui touche a terre séchée, pulvérisée et conservée
+</p>
+
+<p>
+<orth>Turbith</orth>
+<foreign xml:lang="lat">convolvulus turp etum L.</foreign>
+<pb n="467"/>
+Pentand. monogén. ; Indes orient.
+<term/>racine
+</p>
+
+<p>
+<orth>Vanille</orth>
+<foreign xml:lang="lat">epidendrum vanilla L.</foreign> Orchidées , J. Orehidées , J. V. Gynandr. ilécandr. L.; Am. m. ξ
+<term/>gousse
+</p>
+
+<p>
+<orth>Véronique</orth>
+<foreign xml:lang="lat">veronica officinalis L.</foreign>
+<cb/>Pédiculaires, J. Orobanchoïdes, V. Décand. monogyn. L. , <hi>F. If</hi>
+<term/>herbe et feuilles
+</p>
+
+<p>
+<orth>Violette</orth>
+<foreign xml:lang="lat">viola odorata L.</foreign> Violettes, J. Violacées, V. Syngénés. Monogyn. L. -, F. 'lf-
+<term/>fleurs
+</p>
+
+</div>
+<div>
+
+<head>SECTION II. SUBSTANCES ANIMALES.</head>
+
+<p>
+<orth>AbEILLE</orth>
+<foreign xml:lang="lat">apis mellifica L.</foreign> Tnsectes hyménoptêres
+<term/>miel, cire
+</p>
+
+<p>
+<orth>Anesse</orth>
+<foreign xml:lang="lat">equus asinus L.</foreign> Mammifère solipéd
+<term/>lait d’ânesse
+</p>
+
+<p>
+<orth>Baleine</orth>
+<foreign xml:lang="lat">balæaa mysticetus L.</foreign> Mammif. cétacés
+<term/>blancdebaleine, adipocire
+</p>
+
+<p>
+<orth>Bœuf</orth>
+<foreign xml:lang="lat">bos triurus L.</foreign> Maminif. ruminans
+<term/>chair de bœuf, chair de veau; suif, tiel, lait, petit-lait, sucre de lait, moelle, etc
+</p>
+
+<p>
+<orth>Brebis</orth>
+<foreign xml:lang="lat">oois aries L.</foreign> Mammif. rutninans
+<term/>lait,chair de mouton, suif
+</p>
+
+<p>
+<orth>Cachalot</orth>
+<foreign xml:lang="lat">physeter rnacrocephalus L.</foreign> Mammif.cétacés
+<term/>blanc de baleine, adipocire, ambrc gris
+</p>
+
+<p>
+<orth>Cantharides</orth>
+<foreign xml:lang="lat">meloë vesiatorlus L.</foreign> <hi>Cuntharis vesicatoria</hi> Olivier ; Ordre des coléoptères ; tous les climats, sur-tout les méridionaux
+</p>
+
+<p>
+<orth>Castor</orth>
+<hi>castor</hi> /î&amp;er L. Mammii ères rongeurs
+<term/>poches situees enire l’urétre et les parties externes de la génération
+</p>
+
+<p><hi>Castoreum</hi>
+<term/>produit surcomposé, contenu dans deux poches situées entre les parties externes de la génération et l’urètre du <foreign xml:lang="lat">Castor fiber L.</foreign> mâle et femelle
+</p>
+
+<p>
+<orth>Cerf</orth>
+<hi>eervus elaphusV</hi>,. Mammiières ruminans
+<term/>corne jeune râpée, préparée, briilée
+</p>
+
+<p>
+<orth>Clièvre</orth>
+<foreign xml:lang="lat">caprà hircus L.</foreign> Mammiféres ruminans
+<term/>lait
+</p>
+
+<p>
+<orth>Civette</orth>
+<foreign xml:lang="lat">vivera zibetha L.</foreign> Mam®iféres carnnssiers
+<term/>petite poche placée entre l’anus et les organee externes de la génération
+</p>
+
+<p>
+<orth>Cloportes</orth>
+<foreign xml:lang="lat">oniscus asellus L.</foreign>
+</p>
+
+<p>
+<orth>Cochenille</orth>
+<foreign xml:lang="lat">coccus cactl cocdnelliferi L.</foreign> hyménopIères
+</p>
+
+<p>
+<orth>Cochon</orth>, porc , <foreign xml:lang="lat">sus scrofa L.</foreign>
+<term/>axonge
+</p>
+
+<p>
+<orth>Corail rouge</orth>
+<foreign xml:lang="lat">isis nobilis L.</foreign> <foreign xml:lang="lat">Corallium rubrum</foreign> Lamarck
+<term/>production caleaire, dont les cellules servent de demeure à des polypes
+</p>
+
+<p>
+<orth>Coralline officinale</orth>
+<foreign xml:lang="lat">corallina officinalis L.</foreign> Zoqphytespolypiers-, mers d’Europe, Corse, mousse de Corse
+<term/>Coralline entière ea poudre . sirop de coralline
+</p>
+
+<p>
+<orth>Cynips</orth>
+<hi>cyuips quercusc</hi>. Insectes byménoptères
+<term/>noix de galle
+</p>
+
+<p>
+<orth>Ecrevisse de rivière</orth>
+<foreign xml:lang="lat">cancer astacus L.</foreign> Crustaeés, animal entier
+<term/>concrétions (yeux d’écrevisses)
+</p>
+
+<p>
+<orth>Fourmis</orth>
+<foreign xml:lang="lat">formica rufa L.</foreign>
+<term/>l’animal vivant, l’infusion de son nid, ou le nid lui-même
+</p>
+
+<p>
+<orth>Eponge</orth>
+<foreign xml:lang="lat">spongia ofsicinalis L.</foreign> Zoophyte ; md de petits insectes manns nommés polypes
+<term/>éponge entière, éponge préparée, éponge brûlée
+</p>
+
+<p>
+<orth>Grenouille</orth>
+<foreign xml:lang="lat">rana ternporaria L.</foreign> Reptiles batraciens
+<term/>chair de grenouille, bouillonde greuouille, îrai de grenouille
+</p>
+
+<p>
+<orth>Homme</orth>
+<foreign xml:lang="lat">homo sapiens L.</foreign>
+Mammifères quadr.
+<term/>lait de femme
+</p>
+<pb n="468"/>
+
+<p>
+<orth>Huître</orth>
+<foreign xml:lang="lat">ostrea edulis et maxima L.</foreign>
+<term/>coquille
+</p>
+
+<p>
+<orth>Ichtyocolle</orth>, collc de poisson , <foreign xml:lang="lat">acipensersturio L.</foreign>
+<term/>substance extraite, pardécoction, desnageoires, de la peau et des intestins de ce poisson ; membrane internc desséchée de la vessie natatoire du poisson
+</p>
+
+<p>
+<orth>Musc</orth>
+<term/>produit surcoin posé,con tenu dans une poche située vers Pombilic du <foreign xml:lang="lat">moschus moschiferus L.</foreign>
+</p>
+
+<p>
+<orth>Poule domestique</orth>
+<foreign xml:lang="lat">phasianus gallus L.</foreign> Oiseaux gallinacés
+<term/>œufs de poule, chair, graisse
+</p>
+
+<p>
+<orth>Sangsue</orth>
+<foreign xml:lang="lat">liirudo medicinalis L.</foreign> Vcrs
+<term/>c’est un phlébotome vivant
+</p>
+
+<p>
+<orth>Scarabées</orth>
+<hi>meloe proscarabœusïa</hi>, Tortue , <foreign xml:lang="lat">testudo orbicularis L.</foreign> Reptiles chéloniens
+<term/>chair de tortue , bouillon de tortue
+</p>
+
+<p>
+<orth>Vipère</orth>
+<hi>coluber vipera</hi>. Beptiles ophidiens
+<term/>chair fraîche , desséchée, eu poudre, os, graisse
+</p>
+<pb n="469"/>
+
+
+</div>
+</div>
+<div>
+
+<head>SYNONYMIE DES TERMES DE PATHOLOGIE TANT INTERNE QU’INTERNE</head>
+
+<p>
+<orth>Achlys</orth>(Vogel), ιΐ’άχλίς, obscurités
+<term/>tache de la cornée, calige
+</p>
+
+<p>
+<orth>Aehores</orth>(Vogel)
+<term/>croute laiteuse iles enthns , amas de pustules larges ou pointues, remplies d’une bumeurhmpide etglutineuse qui,en se crevant, se cliangent en erofttes
+</p>
+
+<p>
+<orth>Acyisis</orth>(Vogel), ιΐ’ἀ privatil des Grecs , et de χύω, je con^ois ,stérilité
+</p>
+
+<p>
+<orth>Adiapneustie</orth>(Sagar)
+<term/>sup. pression de la transpiration
+</p>
+
+<p>
+<orth>Adipsie</orth>
+<term/>défeut de soif ou d'ap* pétit pour les liquides
+</p>
+
+<p>
+<orth>Adynamie</orth>
+<term/>foiblesse
+<term/>prostration des forces
+<term/>athénie (Sauvages)
+</p>
+
+<p>
+<orth>AEgilops</orth>, œilde bouc
+<term/>ulccre au com de l’œil
+</p>
+
+<p>
+<orth>Agalaxie</orth>(Vogel), d’à privatif, et de γάλα , lait
+<term/>suppression de lait
+</p>
+
+<p>
+<orth>Agénésie</orth>(Vogel) , d’â privatif , et de γεν,αω , j’engendre
+<term/>abolition de l’appétit vénérien ; impuis. sance, stérilité
+</p>
+
+<p>
+<orth>Ageustie</orth>, d’â privatif, et de γένω, je goûte
+<term/>aflbiblissement ou pertc dugoût
+</p>
+
+<p>
+<orth>Aglactalion</orth>(Linné)
+<term/>suppression de lait chez les nourrices
+</p>
+
+<p>
+<orth>Agrypnie</orth>
+<term/>déf'aut de sommeil
+</p>
+
+<p>
+<orth>Alalie</orth>(Délius),d’à privatif, et de λαλος, parleur
+<term/>impuissance de pader , niutité
+</p>
+
+<p>
+<orth>Alopécie</orth>, ετερ,χρεια des Grecs , d’ault s’alep, ( mal des renards ) d’ebn sinan
+<term/>lèpre avec épilement <foreign xml:lang="spa">gargaritilla</foreign> des Asturiens ;
+<term/>chute des poils et des cheveux
+</p>
+
+<p>
+<orth>Alplios</orth>(ancieus Grecs) , ιΐ’αλφος, blanc , <hi>vitiligo</hi>, (Celse) ; bohak, Moyse) ; al wazehl, ( Arabes); lèpre blanche (Bosquillon)
+</p>
+
+<p>
+<orth>Amaurose</orth>
+<term/>abolition de la vue. Aios. <hi>phil</hi>. Cl. iv , névroses ;
+<cb/>ordre m, anomalies nerveuses locales
+</p>
+
+<p>
+<orth>Amblyopie</orth>
+<term/>vne émoussée
+</p>
+
+<p>
+<orth>Aménorrhée</orth>
+<term/>suppression d’écoulement menstruel
+</p>
+
+<p>
+<orth>Amygdalite</orth>
+<term/>catarrhç. tonsillaire ou des arnygdales ; angine tonsillaire
+</p>
+
+<p>
+<orth>Anacatharse</orth>
+<term/>purgation par baut ; expectoration
+</p>
+
+<p>
+<orth>Anasarque</orth>
+<term/>leucophlegmatie ; hydropisie du tissu cellulaire. <title>Flos. phil.</title> Cl. v,ordre m
+</p>
+
+<p>
+<orth>Anémase ou anémie</orth>
+<term/>déiant de sang, blancheur inatte de la peau
+</p>
+
+<p>
+<orth>Anchylobléphare</orth>(Vogel)
+<term/>défant de séparation des paupieres
+</p>
+
+<p>
+<orth>Anchyloglosse</orth>
+<term/>concrétion de la langue avec les parties voisines
+</p>
+
+<p>
+<orth>Auchylomérisme</orth>(Sagar), union des parties qui doivent étre séparées naturellement
+</p>
+
+<p>
+<orth>Anchylops</orth>(Lauth)
+<term/>ophthal. mie angulaire (Sauvages)
+</p>
+
+<p>
+<orth>Ancliylose</orth>
+<term/>rigidité et immobilité des articulations
+</p>
+
+<p>
+<orth>A nesthésie</orth>
+<term/>privation des sens ; stupeur
+</p>
+
+<p>
+<orth>Anévrysmc</orth>
+<term/>. tnmeur sanguine produite par la' dilatation d’une artère
+</p>
+
+<p>
+<orth>Angine gutturale ou pharyngée</orth>
+<term/>catarrhe guttural
+</p>
+
+<p>
+<orth>Angine laryngée</orth>
+<term/>catarrhe laryngé
+</p>
+
+<p>
+<orth>Anosmie</orth>, d'à privatif , et εΐ’οσμὴι , odeur
+<term/>abolition de l’odorat
+</p>
+
+<p>
+<orth>Anthropophagie</orth>( Grunner )
+<term/>' désirinsurmodtabledemangerde !a ebair llutnaine
+</p>
+
+<p>
+<orth>Apoplexie</orth>
+<term/>percussion violente d’oii résdlfe uhe mort subite
+</p>
+
+<p>
+<orth>Anorexie</orth>
+<term/>privation ou defaut d’appétit
+</p>
+<pb n="470"/>
+
+<p>
+<orth>Anthrax</orth>, anthracose
+<term/>cbarbon
+</p>
+
+<p>
+<orth>Antipalhie</orth>
+<term/>répugnancepour certains objets , avec oppr ession aphonie, défaillance
+</p>
+
+<p>
+<orth>Apepsie</orth>
+<term/>incoction des alimens dans l’estomac; îndigestion
+</p>
+
+<p>
+<orth>Appelle</orth>( Vogel )
+<term/>. petitesse, brièveté du prépuce on de tout autre appendice mou
+</p>
+
+<p>
+<orth>Apocenose</orth>, ὀ'αποχιος., j’évacue
+<term/>flux d’humeur sans irritation ni pyrexie
+</p>
+
+<p>
+<orth>Arachnoïdite</orth>
+<term/>inflammation des méninges, de l’arachnoïde
+</p>
+
+<p>
+<orth>Argema</orth>, argemon (Vogel), ulcère marginal de la cornée ( Manchart)
+</p>
+
+<p>
+<orth>Aridure</orth>
+<term/>dessèchement de quelque partie
+</p>
+
+<p>
+<orth>Arthritis</orth>(Sauvages)
+<term/>podagre (Boerhaave) ; goutte
+</p>
+
+<p>
+<orth>Arthrocace</orth>
+<term/>vice des articulations, <foreign xml:lang="lat">spina ventosa</foreign>
+</p>
+
+<p>
+<orth>Arthrodinie</orth>
+<term/>douleur des articulatinns ; rhumatisme chronique
+</p>
+
+<p>
+<orth>Arthronalgie</orth>, d’àpSp», jointurc , et d'àXvot, douléur
+<term/>douleur des articulations ; entorse
+</p>
+
+<p>
+<orth>Arthropnose</orth>(Cullen ), d’àpôpov, nrticnlation , et de πύον, pus
+<term/>tumeur blanche des arIiculatious. (Bell)
+</p>
+
+<p>
+<orth>Ascite</orth>
+<term/>hydropisie abdominale. <hi>JSosogr. philos</hi>. CL v , maladies du système lymphatique, ord. ΪΠ, hyd ropisies
+</p>
+
+<p>
+<orth>Aspermatisme</orth>
+<term/>suppression de ïa liqtieur séminale
+</p>
+
+<p>
+<orth>Asphyxie</orth>
+<term/>privation de pouls. JVbs. <hi>phil</hi>. Cl. iv , ord. lIi 
+</p>
+
+<p>
+<orth>Asthénie</orth>
+<term/>iléfaut de ton, débilité , relâchement
+</p>
+
+<p>
+<orth>Asthme</orth>
+<term/>anhélatien
+</p>
+
+<p>
+<orth>Ataxié</orth>
+<term/>désordre ou irrégularitédanslasensibilité et la motilité
+</p>
+
+<p>
+<orth>Àtechnie</orth>(Linné), d’i privatif, et de τεχνις, enfent
+<term/>stérilité , extinction de l’appétit vénérien
+</p>
+
+<p>
+<orth>Atocie</orth>(Vogel), d’à privatii, et de τεχω, j’enfante
+<term/>impossibilité d’accôucher naturellement
+</p>
+
+<p>
+<orth>Atrétisme</orth>(Sagar) , d’àprivatif, et de τρητὸς, troué
+<term/>cloture des ouvertures naturelles
+</p>
+
+<p>
+<orth>Azaphie</orth>, d’à privatif, de ζα, eaucoup , et de νίγγος, clarté
+<term/>obscurité de la voix
+</p>
+
+<p>
+<orth>Bachie</orth>(Linné), de <hi>Bacchus</hi>, dieu du Vin
+<term/>rougeur opiniàtre du visage
+</p>
+
+<p>
+<orth>Baraquette</orth>
+<term/>eatarrhe épidé» mique
+</p>
+
+<p>
+<orth>Baricoite</orth>, de βαρυς, pesant, ct d’oü,, oreille
+<term/>ouïe dure -, dureté d’oreille
+</p>
+
+<p>
+<orth>Béribéri des Indiens</orth>
+<term/>opistbotonos , selon Zimmermann , <title>Exp. en Méd.</title> tom. II, pag.SpI ; colique de Poitou , selon Platner, <hi>ars medendi</hi>, etc. Lfiipsik 1765 ; tremblement 011 paralysie incomplète, selon Bontius
+</p>
+
+<p>
+<orth>Berlue</orth>
+<term/>1 vision mensongère
+</p>
+
+<p>
+<orth>Berlue myode</orth>
+<term/>quand on croit voirune moucheou une tache noire
+</p>
+
+<p>
+<orth>Blechropyre</orth>, de βληχρος, lent , foible , et de .mip, feu
+<term/>typhe ou liévre lente nerveuse
+</p>
+
+<p>
+<orth>Blennorrhagie</orth>, (Swédiaur)
+<term/>. gonorrhée, chaude-pisse ; catarrhe urétral
+</p>
+
+<p>
+<orth>Blennorrbée</orth>
+<term/>catanhe cbronique de l’urètre
+</p>
+
+<p>
+<orth>Blépharophthalmie</orth>(Plenck), phlegmon de la paupîêré
+</p>
+
+<p>
+<orth>Blépharoptre</orth>
+<term/>chute dé la paupiere
+</p>
+
+<p>
+<orth>Botryon</orth>, de βθτριις, raisin
+<term/>ulcère avec caroncuIe de la cornée ; staphylome
+</p>
+
+<p>
+<orth>Boulimie</orth>
+<term/>feim insatialde
+</p>
+
+<p>
+<orth>Bradypepsie</orth>, de βραδύς, tardif, et πεπτω , je cuis, je digère
+<term/>iligestion lente, tardive
+</p>
+
+<p>
+<orth>Bradyspermatisme</orth>, de βραδνς, tardif, et de σπνρμα , sperme
+<term/>éjaculation ditticile du sperme
+</p>
+
+<p>
+<orth>Bronchocèle</orth>
+<term/>goître
+</p>
+
+<p>
+<orth>Bubon</orth>
+<term/>inflammation des glandes inguinales
+</p>
+
+<p>
+<orth>Buhonocèle</orth>( Vogel )
+<term/>hernie suspubienne (Ctlaussier) , communéinent et improprement hernie inguinale
+</p>
+
+<p>
+<orth>Cachexie</orth>
+<term/>mauvaise habitude du corps
+</p>
+
+<p>
+<orth>Cacochylie</orth>
+<term/>dépravation du chyle
+</p>
+
+<p>
+<orth>Cacochymie</orth>
+<term/>dépravation des sucs, des humenrs
+</p>
+
+<p>
+<orth>Cacophonie</orth>
+<term/>voix ingrate, désagreable
+</p>
+
+<p>
+<orth>Cal ou tyliome</orth>(Vogel)
+<term/>cors
+</p>
+  
+<p>
+<orth>Canitie</orth>(Vogel) ,<hi>Accauus</hi>, blanc. blanchiment des poils avant l’âge
+</p>
+  
+<p>
+<orth>Capistre</orth>(Vogel), de <hi>cnpistrurn</hi> , licol, chevètre
+<term/>rigidité spasmodique de la mûchoire inférieure
+</p>
+
+<p>
+<orth>Carcinome</orth>
+<term/>ulcère cancéreux
+</p>
+<pb n="471"/>
+
+<p>
+<orth>Cardialgie</orth>
+<term/>douleur du cardia ; «ensation incommode qu’on rapporte a l’orifice supérieur ou œsopbagien de l’cstomac
+</p>
+
+<p>
+<orth>Carébarie</orth>, de χάριν, la téte, et de βάρος , pesanteur
+<term/>douleur gravative de la têre; pesanteur de téte
+</p>
+
+<p>
+<orth>Carie</orth>, vermoulure
+<term/>ulcere des os , <foreign xml:lang="lat">spina ventosa</foreign> des auteurs
+</p>
+
+<p>
+<orth>Carus</orth>
+<term/>suspension du sentiment et du mouvement, d’où l’on retire très-difficilement les malades
+</p>
+
+<p>
+<orth>Cataracte</orth>
+<term/>opacité, concrétion clu c^ystallin
+</p>
+
+<p>
+<orth>Catarrhe de la vessie urinaire</orth>
+<hi>Nos. phil</hi>
+<term/>maladie rare de 1«τ vessie (Hoffmann) ; fluxion catarrhale de la vessie (Lieutaud) ; hémorroïdes niuqueuses de la vessie (Scligmann.)
+</p>
+
+<p>
+<orth>Cataphore ou cataphora</orth>
+<term/>sommeil ou assoupissernent d’où l’on retire les malades a l’aide d’une excitation extérieure
+</p>
+
+<p>
+<orth>Causus</orth>(Hippocrate)
+<term/>fièvre ardente ; synoque bilieuse
+<title>Nosog. phil.</title>
+</p>
+
+<p>
+<orth>Cauchemar</orth>
+<term/>incube, succube , onéirodynie; éphialte
+</p>
+
+<p>
+<orth>Céphalalgie</orth>
+<term/>mal de tête
+</p>
+
+<p>
+<orth>Cephalée</orth>
+<term/>douleur vive et tensive , aiguë et continue de la tête
+</p>
+
+<p>
+<orth>Cératocele</orth>, dexepaç, corne,etde κήλη, tumeur
+<term/>sîaphylome de plusieurs; exiris de Sagar ; ptose de Piris (Pienck.)
+</p>
+
+<p>
+<orth>Cercose</orth>(Vogel), dexôpxoç, membre viril
+<term/>prolongement du clitoris
+</p>
+
+<p>
+<orth>Chémosis</orth>
+<term/>ophthalmie ou catharre oculaire très-intense
+</p>
+
+<p>
+<orth>Chlorose</orth>
+<term/>pâles couleurs
+</p>
+
+<p>
+<orth>Cholose</orth>(Vogel ) , de χωλὸς, boitdux
+<term/>claudication
+</p>
+
+<p>
+<orth>Choree</orth>, dexop«a, danse
+<term/>danse de Saint-Weit, de St-Guy
+</p>
+
+<p>
+<orth>Citta</orth>
+<term/>appétit dépravé pour des choses absurdes
+</p>
+
+<p>
+<orth>Cillose</orth>
+<term/>- clignotement, tremblement continuel des ci'ls supérieurs
+</p>
+
+<p>
+<orth>Cirsocèle</orth>
+<term/>varicosité des vaissenux spermatiques
+</p>
+
+<p>
+<orth>Clonisme</orth>, de κλονο$ , tumulte,moùvement çonvulsif ; convulsions
+</p>
+
+<p>
+<orth>Clou</orth>
+<term/>furoncle ; durillon écailleux
+</p>
+
+<p>
+<orth>Clunésie</orth>(Vogel), <hi>declunes,ies</hi> fesaes
+<term/>pblcgmon de l’anus
+</p>
+
+<p>
+<orth>Cnesme</orth>(Swédiaur), de κνησμὸς, prurit
+<term/>prurit
+</p>
+
+<p>
+<orth>Cœliaque</orth>
+<term/>diarrhée chymeuse
+</p>
+
+<p>
+<orth>Coïloma</orth>, de κωλις, creux
+<term/>ulcère cave de la cornée
+</p>
+
+<p>
+<orth>Colobome</orth>(Lauth), de κβλιβωμα , mutilaîion
+<term/>plaie des paupieres
+</p>
+
+<p>
+<orth>Colpocèle</orth>(Sagar),deκόλπoç, sinuS, etde κ»λη, tumeur
+<term/>hernie dans le vagin
+</p>
+
+<p>
+<orth>Coma</orth>
+<term/>suspension continue dn. sentiment et du mouvement, d'où il est impossible de retirer les malades, Inème à l’aide d’une forte irritation
+</p>
+
+<p>
+<orth>Condylome</orth>
+<term/>tumeur squir* rlioïde
+</p>
+
+<p>
+<orth>Constipation</orth>
+<term/>nullité ou rareté des selles
+</p>
+
+<p>
+<orth>Contracture</orth>
+<term/>rigidité d’uu ou plusieurs membres
+</p>
+
+<p>
+<orth>Copbose</orth>
+<term/>surdité, <hi>Nos. philr-</hi> Cl. Iv, névroses; ord. IIi, anomalies nerveuses locales
+</p>
+
+<p>
+<orth>Coryza</orth>
+<term/>catarrhe nasal
+</p>
+
+<p>
+<orth>Couperose</orth>
+<term/>îaches ronges, raboteuses, diuturnes
+</p>
+
+<p>
+<orth>Cowpox</orth>(vaccine des Anglais)
+<term/>petite vérole des vaches , petite vérole préservative
+</p>
+
+<p>
+<orth>Crampe</orth>
+<term/>rigidité subite et passagere d’un ou plusieurs muscles avec douleur
+</p>
+
+<p>
+<orth>Cretinisme</orth>, cretinage
+<term/>maladie des cretins; abolition de toute intelligence, avecgoître, muétisme, insensibilité
+</p>
+
+<p>
+<orth>Cripsorchi</orth>.s ( Vogel ) , de ηρυπτ», je cache, et ΰ’ορχις, testicule
+<term/>dé* viation des testicules
+</p>
+
+<p>
+<orth>Crithe</orth>
+<term/>orgeolet
+</p>
+
+<p>
+<orth>Crowp des Anglais</orth>
+<term/>angine polypeuse ou membraneuse de Michaelis, de Lent-in ; suffocation striduleusedeHomejangine inflammatoire des enfana (Roussel) ; ca*. tarrhe laryngé
+</p>
+
+<p>
+<orth>Cystite</orth>
+<term/>catarrbe vésical
+</p>
+
+<p>
+<orth>Cystocèle</orth>
+<term/>hernie vésicale
+</p>
+
+<p>
+<orth>Dacryome</orth>(Vogel), deδακpΰω, je pleure
+<term/>r.coaiition des points lacrymaux
+</p>
+
+<p>
+<orth>Dactylion</orth>(Vogel) de δακτυλος, doigt
+<term/>réunion des doigts entre eux
+</p>
+
+<p>
+<orth>Dartre</orth>
+<term/>groupe de papules ou de petits ulcères prurigineux qui s’étendent et dépilent la partie
+</p>
+
+<p>
+<orth>Délire</orth>
+<term/>paraphrosyne
+<pb n="472"/>
+<term/>signe de lésion dans les fonctions intellectuelles
+</p>
+
+
+<p>
+<orth>Démonomanie</orth>
+<term/>espèce de mélancolie où l’on se croit possédé du Démon
+</p>
+
+<p>
+<orth>Deutérie</orth>( Vogel ) , de δευτέρος , deuxiéme
+<term/>rétention des secondines
+</p>
+
+<p>
+<orth>Diabétès</orth>
+<term/>écoulement excessif d’uriue, suivi d’atrophie et de marasme
+</p>
+
+<p>
+<orth>Dialéipyre</orth>(Swédiaur), de διαλέιπω , j’entremets, et de πύρ, feu
+<term/>fîèvre intermittente
+</p>
+
+<p>
+<orth>Diarrhée</orth>
+<term/>catarrlieintestinal, <hi>Nos. phil</hi>. Cl. II, phlegmasies ; ord. v des membranes miiqueuses
+</p>
+
+<p>
+<orth>Diasrase</orth>
+<term/>écartement des os
+</p>
+
+<p>
+<orth>Diaphtore</orth>
+<term/>corruption des alirnens dans l’estomac
+</p>
+
+<p>
+<orth>Didymalgie</orth>( Baurnès ) , de δίδυjooç, testicule , ct ιΓάλγος, douleur
+<term/>doulenr des testicules
+</p>
+
+<p>
+<orth>Digitie</orth>(Linné), <hi>dedigitus</hi>, doigt
+<term/>dessèchement d’un tloigt
+</p>
+
+<p>
+<orth>Dionysisque</orth>(Vogel) , dc διςνυσὸς, ïtacchus
+<term/>deux éminences osseuses sortant en guise de cornes aux environs des tempes
+</p>
+
+<p>
+<orth>Distichiase</orth>
+<term/>seconde rangée de cils dirigés vers l’œil qu'ilsirritent
+</p>
+
+<p>
+<orth>Distrix</orth>(Vogel)
+<term/>ténuité excessive des poils
+</p>
+
+<p>
+<orth>Dycinésie</orth>
+<term/>dîfficultédu mouvement volontaire , de la locomotion
+</p>
+
+<p>
+<orth>Dysécée</orth>
+<term/>affoiblissement de l’otiïe
+</p>
+
+<p>
+<orth>Dysesthésie</orth>
+<term/>diininution cle la sensibilité
+</p>
+
+<p>
+<orth>Dyshemorrhée</orth>( Sagar)
+<term/>douleur par suppression du flux hémorroïdal
+</p>
+
+<p>
+<orth>Dysîochie</orth>(Vogel)
+<term/>diminution ou siipp’ession des lochies
+</p>
+
+<p>
+<orth>Dysmenorrhée</orth>
+<term/>rncnstruation difficiîe ou doulourense
+</p>
+
+<p>
+<orth>Dysopie</orth>
+<term/>dilfîcultéde la vision
+</p>
+
+<p>
+<orth>Dysorexie</orth>
+<term/>dégoût pour les alimens
+</p>
+
+<p>
+<orth>Dysosmie</orth>
+<term/>difficulté oit affoiblissement du seiis de l’otlorat
+</p>
+
+<p>
+<orth>Dyspepsie</orth>
+<term/>difficulté de la di^estion , dépravation des facultés digestives
+</p>
+
+<p>
+<orth>Dyspennatisme on Dyspermasie</orth>
+<term/>dilficulté de l’éjaculation du sperme
+</p>
+
+<p>
+<orth>Dysphagie</orth>
+<term/>diffîculté dela dé* gl utition
+</p>
+
+<p>
+<orth>Dysphonie</orth>
+<term/>fûiblesse ou difficulté dans la voix simple ou articulee
+</p>
+
+<p>
+<orth>Dyspnée</orth>
+<term/>difficnlté de respirer
+</p>
+
+<p>
+<orth>Dyssenterie</orth>
+<term/>douleur d’intestins ; phlegrnasie de la membrane muqueii.se du graml intestin
+</p>
+
+<p>
+<orth>Dystocie</orth>
+<term/>accouchement diffîcile , laborieux
+</p>
+
+<p>
+<orth>Dysurie</orth>
+<term/>difficulte d'uriner ; douleur en urinant
+</p>
+
+<p>
+<orth>Eclampsie</orth>
+<term/>épilepsie des enfans
+</p>
+
+<p>
+<orth>Ecplexis</orth>, (Ι’εκπλνΐξις , stupenr , exaltation de l’esprit par ùn trouble soudain provenant de cause externe
+</p>
+
+<p>
+<orth>Êctopîe</orth>(Sauvages) , (Γοκ. de , et de τόπος, licu
+<term/>luxation ( voge!) ; luxatnre (Linné.)
+</p>
+
+<p>
+<orth>Ecthymates</orth>( Vogel ) , d’ἔκθvμa , pustule
+<term/>tubercules fugaces sur la peau
+</p>
+
+<p>
+<orth>Elcome</orth>( Plenck) , (Ι’ελκωμα , ulcération
+</p>
+
+<p>
+<orth>Eléphantiase</orth>(Sauvages, Vogel)
+<term/>lèpre des Arabcs , dcs Hébreux ; leucé des Grecs ; albaras des Arabes ; ladrerie, mesclerie; mal de Saint-Ladre , de Saint-Lazare , de Sainl-Maini ; léontiase , satyriasc ; <hi>vitiligo alba</hi> de Celse ; mal rouge de Caycnne
+</p>
+
+<p>.Elytrocele (Vogel) , d’uvrpcv , enveloppe, et de κηλη, tumeur
+<term/>hernie vaginale
+</p>
+
+<p>
+<orth>Elytroptose</orth>(Callisen), d^vrpov, enveloppe , et de πτἀσις , cbute , renversement du vagin
+</p>
+
+<p>
+<orth>Emphraxie</orth>, d,εμφpaσσω, j’obstrue
+<term/>obstruction
+</p>
+
+<p>
+<orth>Emphysème</orth>
+<term/>gonflement du tissu cellulaire par l’air
+</p>
+
+<p>
+<orth>Encéphalitis</orth>
+<term/>frénésie ; inflammation de la pie-inère ou mé» ningine
+</p>
+
+<p>
+<orth>Enchantis</orth>
+<term/>sarcome de la caroncule lacrymale
+</p>
+
+<p>
+<orth>Empyème</orth>
+<term/>épanchement de pus dans la poitrine
+</p>
+
+<p>
+<orth>Encatima</orth>, épicauma
+<term/>ulcère sordide et ardent de la cornée
+</p>
+
+<p>
+<orth>Encéphalocèle</orth>(Sauvages), hernie du cerveau
+</p>
+
+<p>
+<orth>Engelures</orth>
+<pb n="473"/>
+<term/>tumeurs prurigineuses des pieds et des mains , causées par le froid
+</p>
+
+<p>
+<orth>Enrouement</orth>
+<term/>voix rude
+</p>
+
+<p>
+<orth>Entérangiemphraxis</orth>(Plouquet)
+<term/>obstruction des intestins
+</p>
+
+<p>
+<orth>Entérite</orth>
+<term/>catarrhe intestinal
+</p>
+
+<p>
+<orth>Entérocelc</orth>
+<term/>hernie de l’intestin
+</p>
+
+<p>
+<orth>Enurèse</orth>
+<term/>écoulementinvolontaire d'urine ; incontinence d'urine, du verbe ενουρε», je ne contiens pas Purine
+</p>
+
+<p>
+<orth>Ephélie</orth>
+<term/>taches de la peau produites par le soleil
+</p>
+
+<p>
+<orth>Ephidrose</orth>
+<term/>sueur extraordiïiaire
+</p>
+
+<p>
+<orth>Epigastrocèle</orth>(Baumès)
+<term/>hernie épigastriqne (Chaussier.)
+</p>
+
+<p>
+<orth>Epilepsie</orth>
+<term/>mal caduc ; mal d'Hercule ; haut-mal ; mal de StJean ; mal des cousins ; mal sacré ou divin
+</p>
+
+<p>
+<orth>Epinyctide</orth>
+<term/>amas de phlyctènes qui causent des douleurs la nuit
+</p>
+
+<p>
+<orth>Epiphore</orth>, épiphora
+<term/>larmoiement
+</p>
+
+<p>
+<orth>Epiplocele</orth>(Sauvages)
+<term/>hcrnie épiploïque (Chaussier.)
+</p>
+
+<p>
+<orth>Epiplomphraxis</orth>( Plouquet)
+<term/>* induration de Pépiploon
+</p>
+
+<p>
+<orth>Epischèses</orth>(Vogel)
+<term/>suppressions ( Sagar ) ; ~ suppressoires (Linné.)
+</p>
+
+<p>
+<orth>Epistaxis</orth>
+<term/>hémorragie nasale
+</p>
+
+<p>
+<orth>Eréthime</orth>
+<term/>* irritabilité morbifique
+</p>
+
+<p>
+<orth>Erotomanie</orth>
+<term/>mélancolie amoureuse ; vénération pourla personne aimée
+</p>
+
+<p>
+<orth>Esoche</orth>( Vogel )
+<term/>tubercule dans Tanus
+</p>
+
+<p>
+<orth>Esséra</orth>(Vogel)
+<term/>taches larges , discrètes , rouges , ardentes , prurigineuses des doigts et du visage
+</p>
+
+<p>
+<orth>Etisie</orth>
+<term/>amaigiissement, consomption
+</p>
+
+<p>
+<orth>Exarthreme</orth>(Sauvages), (Γεξ, de, et d’apflpov, articulation
+<term/>luxation , déplaceinent des parties solides
+</p>
+
+<p>
+<orth>Éxoche</orth>(Vogel)
+<term/>tuberçule hors tle l’antis
+</p>
+
+<p>
+<orth>Exocyste</orth>(Sauvages), εΓεξ , de , hors , et de κύςτις , vessie
+<term/>renversement du col et du corps de la vessie
+</p>
+
+<p>
+<orth>Exomèire</orth>, ιΓεξ, de, et de μήτρα , matrice
+<term/>renversement de la ma^ triçe
+</p>
+
+<p>
+<orth>Exompliale</orth>
+<term/>hernie ombilicale (Chaussier.)
+</p>
+
+<p>
+<orth>Exonéirose</orth>(Vogel), d'of, de , hors , et d’ovvipoç , songe
+<term/>pollution nocturne
+</p>
+
+<p>
+<orth>Exophthalmie</orth>
+<term/>issue de Pœil hors de l’orbite
+</p>
+
+<p>
+<orth>F-Nostose</orth>
+<term/>tume.ur diire, solide et immobile de Fos
+</p>
+
+<p>
+<orth>Extase</orth>
+<term/>préoccupation portée au point de suspendre l’action des sens
+</p>
+
+<p>
+<orth>Fanatisme</orth>
+<term/>ardeur ou passion aveugle pour un objet, avec liaine implacable contré ceux qui lui sont contraires
+</p>
+
+<p>
+<orth>Fièvre adéno-méningée</orth>
+<title>Nosog. phil.</title> Cl. I, fîèvres ; ord. 111
+<term/>* fîèvre catarrhale ou pituiteuse de Grimaud ; fièvre latique des auteurs barbares ; fièvre pituiteu.se de Sarcone , de Selle , de Stoll ; fièvre muqueuse de Rœderer, de Wagler,
+</p>
+
+<p>
+<orth>Fievre adéno-rnéningée</orth>
+<title>Nosog, phil.</title>
+<term/>fièvre épiale de Galien ; fîèvre syncopale humorale d’Avicenne
+</p>
+
+<p>
+<orth>Fièvre adéno-méningée continue</orth>
+<term/>amphimerine latique de Sauvages ; quotidienne continue des anciens
+</p>
+
+<p>
+<orth>Fièvre adéno-nerveuse</orth>
+<title>Nosog. phil.</title> Cl. I, fièvres ; ord. νι; peste , fièvre pestilentielle
+</p>
+
+<p>
+<orth>Fièvre adynamique</orth>(Pinel), fièvre putride
+</p>
+
+<p>
+<orth>Fievre assode</orth>, (Ι’ἀσὼδης, inquiet
+<term/>fièvre avec des anxiétés soutenues
+</p>
+
+<p>
+<orth>Fièvre arthritique</orth>( C. Demertens)
+<term/>rhumatisme
+</p>
+
+<p>
+<orth>Fièvre ataxique</orth>
+<term/>fièvre malî« gne , pernicieuse
+</p>
+
+<p>
+<orth>Fièvre blanche</orth>
+<term/>fièvre accom* pagnée d’éruption blanchâtre
+</p>
+
+<p>
+<orth>Fièvre colliqualive</orth>
+<term/>fièvreavec fonte générale d’hurneurs qui s’échappcnt par lcs selles ; amaigris* sement rapide et prostration des forces
+</p>
+
+<p>
+<orth>Fièvres continentes</orth>, ςννεχες des Grccs
+<term/>- fîèvres rémittentes
+</p>
+
+<p>
+<orth>Fievre diaire</orth>(Linné) , de <hi>dies</hi> , jour
+<term/>fievre d’un jour
+</p>
+
+<p>
+<orth>Fièvre double quarte</orth>
+<pb n="474"/>
+fièvre avec un accès le premier jour, correspondant avec celui du quatrième ; un accès le second jour, eorrespondant avec celui du cinquième , le troisieme et le sixième jour étant libres
+</p>
+
+<p>
+<orth>Exanie</orth>(Sauvages), <hi>d’ex</hi>, de , et <hi>d'anus</hi>, le fondement
+<term/>chute du rectum
+</p>
+
+<p>
+<orth>Fièvre double tierce</orth>
+<term/>fièvre où, dans une période de vingtquatre heures , il y a deux accès pour l’ordinaire inégaux , mais qui se correspondent a jours alternatifs, <hi>Nos. phil</hi>. Cl. I, fièvres; ord. n
+</p>
+
+<p>
+<orth>Fièvre épiale</orth>
+<term/>celle qui est accompagnée de sensatious simultanées ile froid et de chaud
+</p>
+
+<p>
+<orth>Fièvre erratique</orth>
+<term/>celle clont les accès égaux ou inégaux revienJîcnt après un intervalle de quatre jours
+</p>
+
+<p>
+<orth>Fièvre hémitiitéc de Galien</orth>, fièvre ayant deux eccès de tierce c’oublée le meme jour, et un accès de quotidienne le iour suivant
+</p>
+
+<p>
+<orth>Fièvre hémitritee des Grecs</orth>, de Cel.se
+<term/>fiévre double tierce rémittente
+</p>
+
+<p>
+<orth>Fièvre jaune</orth>
+<term/>fîevre qni sc complique de jaunisse au commenc« ment de la seconde période ; typhus ictéreux
+</p>
+
+<p>
+<orth>Fièvre méningo-gastrique</orth>
+<title>Nos. phil.</title> Cl. I , fièvres ; oid. n, fièvregastrique deBaillon, de Selle; fiévre méscntérique de Baglivi ; tièvre aigue , stomachique etintestinalede Hcister ; fièvrebilieuse de uStoll
+</p>
+
+<p>
+<orth>Fièvre morbilleuse</orth>(Vogel), morbilles (Juncker)
+<term/>rougeole (Sauvages.)
+</p>
+
+<p>
+<orth>Fièvre pérécbiale</orth>
+<term/>fièvre avec des taches de pourpre et de miliaire
+</p>
+
+<p>
+<orth>Fièvre phricode</orth>, de φρὶζ, froid, borripilation ,
+<term/>celle qui est acrompagnee de frissons, d'horripilaîion ÇVogcl)
+</p>
+
+<p>
+<orth>Fiévre pulicaire</orth>
+<hi>depulex</hi> , puce (Pierre à Castro) ; pourpree (Rivière) ; péticulaire (Oct. Boboreti)
+<term/>fièvre aigue accompagnée de pétéchies
+</p>
+
+<p>
+<orth>Fièvre quarte doublée</orth>
+<term/>rfièvre avec deux acces le jour, paroxystique
+</p>
+
+<p>
+<orth>Fievre quarte tripléé</orth>
+<term/>ficvre avec trois accès le jour, paroxystique
+</p>
+
+<p>
+<orth>Fievre subintrnnte</orth>
+<term/>celle dont les acces rcntrent les uns dans les antres
+</p>
+
+<p>
+<orth>Fièvre suette</orth>
+<term/>hydronose, fièvre accompagnée tfe sueur génerale
+</p>
+
+<p>
+<orth>Fièvre synoque</orth>(Juncker)
+<term/>angio-thénique <title>Nos. phil.</title>
+</p>
+
+<p>
+<orth>Fievre synoque</orth>
+<term/>fiévre continue
+</p>
+
+<p>
+<orth>Fièvre tierce algide</orth>
+<term/>fièvre nccompagnée d’un sentiment de froid pour l’ordinaire glacial
+</p>
+
+<p>
+<orth>Fièvre tierce doublée</orth>
+<term/>celle où les dcux accès qui caractérisent la double tierce ont lieu dens le même jour, le second jour étant apyrétique
+</p>
+
+<p>
+<orth>Fièvre tierce syncopale</orth>
+<term/>fièvre dont. Paccès est caractérisé par des défaillânces
+</p>
+
+<p>
+<orth>Fièvre triple quarte</orth>
+<term/>scces trois jonrs dc suite, le premier correspondant au quatrieme lesecond au cinquième , le troisième ausixième
+</p>
+
+<p>
+<orth>Fistule</orth>
+<term/>ulcère clont le fond est large, l’orifice etroit, et les parois ordinairementcalleuses; sinus, clapiers
+</p>
+
+<p>
+<orth>Flatulence</orth>
+<term/>distension de Festomac et des intestins par de l’air que les malades rendent par haut et par bas
+</p>
+
+<p>
+<orth>Follette</orth>
+<term/>catarrhe épidémique
+</p>
+
+<p>
+<orth>Framboisie</orth>(Sauvages, Cullen)
+<term/>pian , épian tles Nègres ; yaws des Anglais; maladie indienne (F. Allamand); <hi>indianische pocken</hi> des Hollandais en Amériqne
+</p>
+
+<p>
+<orth>Galacfyrhée</orth>(Sauvages), galactie (Vogelj
+<term/>écoulement du lait des mamellcs
+</p>
+
+<p>
+<orth>Galactose</orth>
+<term/>fièvre laiteuse; fievre puerpérale
+</p>
+
+<p>
+<orth>Galéantropie</orth>
+<term/>mélancolie de ceuxquise croicntchangésenchats
+</p>
+
+<p>
+<orth>Galiancon</orth>(Vogel)
+<term/>mernbre plus court que le correspondant
+</p>
+
+<p>
+<orth>Ganglion</orth>
+<term/>tumeur adhérente aux tendons
+</p>
+
+<p>
+<orth>Gastérangiemphraxis</orth>(Plouquet),
+<term/>obstruction du pylore
+</p>
+
+<p>
+<orth>Gastrite</orth>
+<term/>catarrhe de l’estomac
+</p>
+
+<p>
+<orth>Gastrocèle</orth>(Sauvages)
+<term/>hernie de l’estomac
+</p>
+
+<p>
+<orth>Gastrodynie</orth>
+<term/>douleurd'estomac
+</p>
+<pb n="475"/>
+
+<p>
+<orth>Glaucome</orth>
+<term/>couleur vert de mer du crystallin (Maître-Jean)
+</p>
+
+<p>
+<orth>Glossite</orth>(Vogel)
+<term/>-inflammation de Ja langue
+</p>
+
+<p>
+<orth>Gongroue</orth>
+<term/>goître
+</p>
+
+<p>
+<orth>Gonorrhée</orth>
+<term/>blcnnorrliagie , catarrhe urétral
+</p>
+
+<p>
+<orth>Gravelle</orth>
+<term/>sable des voies urinaires
+</p>
+
+<p>
+<orth>Grippe</orth>
+<term/>catarrhe épidémique
+</p>
+
+<p>
+<orth>Grypose</orth>(Vogel), de γρυπὸς , crocbu
+<term/>recourbement des ongle.s
+</p>
+
+<p>
+<orth>H dlucination</orth>
+<term/>* fausse vision
+</p>
+
+<p>
+<orth>Hémorrhée</orth>
+<term/>flux de sang passif
+</p>
+
+<p>
+<orth>Helcydrion</orth>,d'b^piov,peti.t ulcère
+<term/>ulcère snperfîciel de la cornéc
+</p>
+
+<p>
+<orth>Helminthiase</orth>(Swédiaur), d’b^iç, lombric
+<term/>maladies par les vers dans les intestins
+</p>
+
+<p>
+<orth>Hématémèse</orth>
+<term/>vomissement de sang, hémorragie estomacalé ou gastrique. <title>Nosogr. phil</title>. Cl. III, ord. II.
+</p>
+
+<p>
+<orth>Hématocèle</orth>
+<term/>tumeur sangüine du scroturn
+</p>
+
+<p>
+<orth>Hématurie</orth>
+<term/>pissement de sang; cystirrhagie. <hi>Nosogr.phil</hi>. Cl. ιιι, hémorragies ; ord. n , conimunes m deux sexes
+</p>
+
+<p>
+<orth>Héméropathc</orth>(Sagar), (Ι’ὴμερα , jour ,-et de πάθος, affection
+<term/>efflorescence diurne
+</p>
+
+<p>
+<orth>Hémiplégie</orth>
+<term/>demi-paralysie, ou naralysie de la moitié du corps
+</p>
+
+<p>
+<orth>Hémoptysie</orth>
+<term/>crachement de sang , héinorragie pulmonaire. <hi>Nosogr. Phil</hi>. Cl. ιιι, ord. n
+</p>
+
+<p>
+<orth>Hémorragie</orth>
+<term/>-flux ou écoulejnent de sang. <hi>Nos. phil</hi>, Cl. III
+</p>
+
+<p>
+<orth>Hémorroïdes</orth>
+<term/>hémorragie par le fonttement
+</p>
+
+<p>
+<orth>Hépatalgie</orth>
+<term/>douleurdu foie ou de Fhypocondre droit
+</p>
+
+<p>
+<orth>Hépatemphraxis</orth>(Plôuquet), obstruction du foie;squirrhedu foie
+</p>
+
+<p>
+<orth>Hepatite</orth>(Varandé)
+<term/>diarrhée sanguinolente
+</p>
+
+<p>
+<orth>Hepatitie</orth>, hipatite
+<term/>phlegmasie du foie
+</p>
+
+<p>
+<orth>Hépatoparectame</orth>(Plouquet), de ^αρεκτομα, extension excessivc,agrandissemeut du foie
+</p>
+
+<p>
+<orth>Hepatocèle</orth>
+<term/>hernie du foie
+</p>
+
+<p>
+<orth>Hermaphrodisme</orth>
+<term/>réunion ou imitation des deux sexes
+</p>
+
+<p>
+<orth>Herriie</orth>
+<term/>déplacement de viscères
+</p>
+
+<p>
+<orth>Hyéropyr</orth>(Vogel),d’«pso, sacré,et
+<cb/>de πυρ, feu,
+<term/>fen sacre ; érysipèle
+</p>
+
+<p>
+<orth>Hilon</orth>(Plenck), <hi>d'hilum</hi> , petite marque nnire qui paroit au bout dhine fève de rnarais
+<term/>tumeqr callèuse de l’ceil , semblable à la tête d'uu clou
+</p>
+
+<p>
+<orth>Hippantropie</orth>, d'innoç, clievaL et Α’ανθρωπος , homme
+<term/>mélancolîe dé ceux qui se croient métarnorphoscs en chcval
+</p>
+
+<p>
+<orth>Hydrarthre</orth>
+<term/>- hydropisie des articulations
+</p>
+
+<p>
+<orth>Hydrocèle</orth>
+<term/>- tumeur aqueuse; hydropisie scrota’e ou des bonrses
+</p>
+
+<p>
+<orth>Hydrocéphale</orth>
+<term/>hvdropîsie de la tête. <hi>Nosogr. phil</hi>. Cl.v; maladies du sysîème lymphatique ; ord. m, hydropisies
+</p>
+
+<p>
+<orth>Hydmglossé</orth>
+<term/>ranule, grenouillerte
+</p>
+
+<p>
+<orth>Hydromédiastine</orth>
+<term/>hydropisie du médiastin
+</p>
+
+<p>
+<orth>Hydromètre</orth>
+<term/>hydropisie utérine
+</p>
+
+<p>
+<orth>Hydromphalc</orth>
+<term/>tnmeur aquense et fluctuante de Poinbilic
+</p>
+
+<p>
+<orth>Hydropédèse</orth>( Voge1 )
+<term/>surabon dance de sueur excèssive
+</p>
+
+<p>
+<orth>Hydropéricardè</orth>
+<term/>hydropisie dti péricarde
+</p>
+
+<p>
+<orth>Hydrophobie</orth>
+<term/>horrcur de l’eau, des liquides ; rage
+</p>
+
+<p>
+<orth>Hydrophthalmie</orth>
+<term/>hydropisie oculaire
+</p>
+
+<p>
+<orth>Hydropisie</orth>
+<term/>collection d’can , de sérosité dans quelque cavité, oli dans le tissu cellulaire. <hi>Nos. phil</hi>. Cl. v, ord. III
+</p>
+
+<p>
+<orth>Hydrorachis</orth>
+<term/>hydropisie de la colonne vertébrale ; spinole; <foreign xml:lang="lat">spina bifida</foreign>
+</p>
+
+<p>
+<orth>Hydrothorax</orth>
+<term/>- hydropisie thoraciqûe 011 de la poitrine
+</p>
+
+<p>
+<orth>Hydrotite</orth>
+<term/>hydropisie auriculaire
+</p>
+
+<p>
+<orth>Hypnobatase</orth>, Α’ύνττος, sommeil . et de βάω ou βημι , je Vilis
+<term/>&amp;mnnambulismc
+</p>
+
+<p>
+<orth>Hypocondrie</orth>
+<term/>affection des hypocondres, maladie imaginaire
+</p>
+
+<p>
+<orth>Hypogastrocèle</orth> (Voge1)
+<term/>hernie sous-ombilicale (Chaussier)
+</p>
+
+<p>
+<orth>Hypophose</orth>( Vogel ), εΓύπιφαςις* subapparition
+<term/>apparition du blano cle l’œil en dormant
+</p>
+
+<p>
+<orth>Hypopion</orth>(Vogel)
+<term/>abcès dans Pœil
+</p>
+
+<p>
+<orth>Hyposarque</orth>(Linné) , d’wro ,sous, et de ςορξ , chair
+<term/>intumescence de l’abdomen
+</p>
+<pb n="476"/>
+
+<p>
+<orth>Hypospadias</orth>
+<term/>perforation du glantl sous le irein
+</p>
+
+<p>
+<orth>Kypostapbyle</orth>( Sauvages ) , --cbme de la 1 oetle
+</p>
+
+<p>
+<orth>Hystéralgie</orth>
+<term/>douleur de la nîatrice
+</p>
+
+<p>
+<orth>Hystérie</orth>
+<term/>maladie nerveuse de la matrice
+</p>
+
+<p>
+<orth>Hystérocèle</orth>
+<term/>hernie de la mntrice
+</p>
+
+<p>
+<orth>Hystéroloxie</orth>, ό’ύςτέρα, matrice, et de λοξὸς, oblique
+<term/>obliquité de Ja matrice
+</p>
+
+<p>
+<orth>Hystéroptose</orth>(Sauvages), d'fcrcpa, matrice, et dcnroooiç, chute
+<term/>chute dc la niatrice
+</p>
+
+<p>
+<orth>Hyslérophyse</orth>(Vogel ) , ιΡὑςτέρος, mairice , et de φύςη, vent
+<term/>tu» jreur flatueuse de la matrice
+</p>
+
+<p>
+<orth>Idiotisrne</orth>
+<term/>impossibilité ab* sohie de former des idées
+</p>
+
+<p>
+<orth>ïctère</orth>
+<term/>jaunissc
+</p>
+
+<p>
+<orth>Ilée</orth>
+<hi>Ilœus</hi>
+<term/>douleur atroce de rintestin
+</p>
+
+<p>
+<orth>Iléosie</orth>(Thierry)
+<term/>colique violente ; convulsion de l’intestin
+</p>
+
+<p>
+<orth>Impérigines</orth>
+<term/>habitude déprawée du corps, jointe aux affections cutanées
+</p>
+
+<p>
+<orth>Incube</orth>
+<term/>cauchemar
+</p>
+
+<p>
+<orth>Intertrigue</orth>
+<term/>excoriation de la peau, par l’àcreté de la sueur ou ile l’urine ; intumescence ; tunieur généralc
+</p>
+
+<p>
+<orth>Ischiocèle</orth>(Sagar) ; iscbiatocèle ( Vogel )
+<term/>. hernie ischiatique (Chanssier)
+</p>
+
+<p>
+<orth>Ischnote</orth>(Vogcl), Α’ίςχνὸς, grêle
+<term/>gractlité excessive du cOrpsi
+</p>
+
+<p>
+<orth>Ischurie</orth>
+<term/>effort pour uriner, rétention d’urine
+</p>
+
+<p>
+<orth>Lagocheilos</orth>(Vogel), de λαγως, lîcvre , <hi>ct de χειλος</hi>, levre, ou ςτόμα, bouchc ; lagôstoine (Sagar)
+<term/>bec dc- ’ièvre
+</p>
+
+<p>
+<orth>Laparocèle</orth>(Sagar) , de λαπάρη , pariiesitnée entre les côtes asternales et les os coxaux , et dc κηλη, tumeMr
+<term/>hernie abdominale ( Chans.sier)
+</p>
+
+<p>
+<orth>Léiopode</orth>, de λειος, plan,etde πους , picd
+<term/>plaute du piecl planc
+</p>
+
+<p>
+<orth>Léontiase</orth>, léonine
+<term/>tête de veau (Sauvages), lèpre avec regard terrible
+</p>
+
+<p>
+<orth>Lépre</orth>
+<term/>altération de coulenr, et iusensibilité de la peam
+</p>
+
+<p>
+<orth>Lèpre rouge</orth>(Bosquillon) ; <hi>phacodes yperithron</hi>
+<cb/>(antîquité) ; semion (Celse) : <hi>mispach</hi> (Moyse) 5 <foreign xml:lang="ara">safathah</foreign> (Arabes); <foreign xml:lang="lat">gutta rosacea</foreign> ;
+<foreign xml:lang="lat">buzicagua</foreign> ;
+<foreign xml:lang="lat">cahua</foreign>
+</p>
+
+<p>
+<orth>Leptophonie</orth>, de λεπτὸς, gréle, et de φωνη, voix
+<term/>gracilité dela voix
+</p>
+
+<p>
+<orth>Léthargie</orth>
+<term/>suspension contr* nue des sens et du mouvement d’oît l’on peut rctirer momentanément les malades ; mais, après l’attaque, onbli des connoissances acquises antérieurement
+</p>
+
+<p>
+<orth>Leucome</orth>
+<term/>diminution ou abolition de la vue par un objet opaque 5 tache blanche de l’œil
+</p>
+
+<p>
+<orth>Leucophlegmatie</orth>
+<term/>- anasarque ς bouffissure penérale
+</p>
+
+<p>
+<orth>Leucorrhée</orth>
+<term/>fleurs ou flueurs blanclies;catarrheutérinou vagina L.
+</p>
+
+<p>
+<orth>Lichen des Grecs</orth>
+<term/>dartre superficielle
+</p>
+
+<p>
+<orth>Lienterie</orth>
+<term/>diarrhée alimenteuse
+</p>
+
+<p>
+<orth>Lipothymie</orth>
+<term/>défaillance
+</p>
+
+<p>
+<orth>Lipyrie</orth>
+<term/>fièvre avec froid des parties extérieures et chaleur interne
+</p>
+
+<p>
+<orth>Lithiase</orth>(Vogel)
+<term/>pierre des reins ou de la vessie ; colique néphrétique
+</p>
+
+<p>
+<orth>Lochies</orth>
+<term/>vidanges
+</p>
+
+<p>
+<orth>Loxarthre</orth>, de λβξὸς, oblique, dévié, et d’ap0pov,articulation
+<term/>vice de position des os sans luxation
+</p>
+
+<p>
+<orth>Lumbago</orth>
+<term/>rhumatisme lombaire
+</p>
+
+<p>
+<orth>Madarose</orth>
+<term/>chute des cils
+</p>
+
+<p>
+<orth>Mal d’Alep</orth>
+<term/>lèpre noire
+</p>
+
+<p>
+<orth>Mal de St-Mœvius</orth>
+<foreign xml:lang="deu">krinmische krankeit</foreign> (Pallas); <hi>Zerna</hi> ou <hi>malandria</hi>; <hi>spedalskad</hi> et <hi>radesyge</hi> (Norwège) ; <term>lèpre psorique</term> (Hensler)
+</p>
+
+<p>
+<orth>Mal de Job</orth>
+<term/>léonine des Arabes
+</p>
+
+<p>
+<orth>Malacia</orth>
+<term/>appétit angoissant pour des cboses qd'on ne mange point
+</p>
+
+<p>
+<orth>Maladie coxale</orth>(Haen)
+<term/>sciatique , maladie de rarticulation ischio-fémorale
+</p>
+
+<p>
+<orth>Marasme</orth>
+<term/>dernier degré d’amaigrissement
+</p>
+
+<p>
+<orth>Marcores</orth>(Cullen)
+<term/>amaigris' sement
+</p>
+
+<p>
+<orth>Marmarige</orth>(Hippocrate),^appoapvyn, spiendeur
+<term/>berlue scintillanteoù l’on croit voir des étincelles
+</p>
+
+<p>
+<orth>Mastodynie</orth>
+<term/>phlegmon des mamclles
+</p>
+
+<p>
+<orth>Malacostéon</orth>( Svvédiaur)
+<term/>ramollissement des os, osteo-malaxie (Pinel), rachitis
+</p>
+<pb n="477"/>
+
+<p>
+<orth>Mélancolie</orth>
+<term/>aliénation d’esprit sur un seul objet. <hi>Nos. phil.</hi>
+</p>
+
+<p>
+<orth>Melasictère</orth>, de uua,, noir, et d’ixvnpoç, ictére
+<term/>maiadie bleue de Fantin
+</p>
+
+<p>
+<orth>Mélœne</orth>, maladie noire
+<term/>diarrhée noire
+</p>
+
+<p>
+<orth>Mélèna</orth>, ou maladie noire, vomissement de sang noirâtre
+</p>
+
+<p>
+<orth>Mésentérésie</orth>, ou mésenterite (Vogel)
+<term/>inflammation du mésentr're
+</p>
+
+<p>
+<orth>Mérocèle</orth>(Vogel)
+<term/>hernieinguinale qu fémoraîe (Chaussier)
+</p>
+
+<p>
+<orth>Metremphraxis</orth>(Plouquet), de μητρα , matrice , et ιΙ’εμ,ραςςω , j’obstrue
+<term/>squirrhe de i’utérus (Rœderer)
+</p>
+
+<p>
+<orth>Métritie</orth>, métrite
+<term/>phlegmon de la matrice
+</p>
+
+<p>
+<orth>Métrorrhagie</orth>
+<term/>hémorragie utérine, ménorrhagie
+</p>
+
+<p>
+<orth>Ménorrhagie</orth>
+<term/>fluxou écoulemeut meutruel, hémorragie utérine
+</p>
+
+<p>
+<orth>Méseutéremphraxis</orth>(Plouquet) , obstruction du mésentère
+</p>
+
+<p>
+<orth>Météorisme</orth>
+<term/>intumescence fugace de l’abdomen
+</p>
+
+<p>
+<orth>Métose</orth>
+<term/>phthisie de la prunelle, constriction spasniodiqne de la prunelle
+</p>
+
+<p>
+<orth>Métralgie</orth>(Baldinger)
+<term/>douleur de la matrice
+</p>
+
+<p>
+<orth>Migraine</orth>
+<term/>douleur fixe, aiguë etpérlodique, qui occupe les deux côtés de )a téte, sur-tout les tempes, le front, les arcades sourcilières
+</p>
+
+<p>
+<orth>Misauthropie</orth>
+<term/>ltaine pour les hommes, désir de les iuir, parce qu’on est irrité de leurs déihuts
+</p>
+
+<p>
+<orth>Millet</orth>,millot, millaire
+<term/>pourpre blancou rouge des français
+</p>
+
+<p>
+<orth>Miséréré</orth>
+<term/>colique atroce
+</p>
+
+<p>
+<orth>Misogynie</orth>, de μιςις, haine , et de yvh , feinme
+<term/>haine pour les femmes , penchant à s’irriter de leurs délauts
+</p>
+
+<p>
+<orth>Morphée</orth>, de μορ,ί , ferme , groupe de petites tacbcs avec dépression de la peau
+</p>
+
+<p>
+<orth>Muguet</orth>(Doublet)
+<term/>aphthes des enfans
+</p>
+
+<p>
+<orth>Mutité</orth>(Sauvages), muétisme (Weiler)
+<term/>impuissance de parler
+</p>
+
+<p>
+<orth>Myopie</orth>, myopiasc
+<term/>vue courte, vue des jeunes gens
+</p>
+
+<p>
+<orth>Myocéphale</orth>
+<term/>hernie oculaire qui a la figure d’une tête de mouche
+</p>
+
+<p>
+<orth>Myodynie</orth>(Swédiaur)
+<term/>douleur rliumatique des muscles
+</p>
+
+<p>
+<orth>Myositie</orth>(Sagar)
+<term/>rhumatisme
+</p>
+
+<p>
+<orth>Narcotisme</orth>
+<term/>affection soporeuse
+</p>
+
+<p>
+<orth>Nécrose</orth>
+<term/>gangréne sèche , mort des os
+</p>
+
+<p>
+<orth>Négrendis</orth>
+<term/>manque de dents (Vogel)
+</p>
+
+<p>
+<orth>Mephralgie</orth>
+<term/>doitleur des reias ou des lombes
+</p>
+
+<p>
+<orth>Néphremphraxis</orth>( Plouquet )
+<term/>obstruction des reins
+</p>
+
+<p>
+<orth>Nephritie</orth>, néphrite
+<term/>phlegmoa des reins
+</p>
+
+<p>
+<orth>Névroses</orth>
+<hi>Nosogr. phil.</hi> ch. Iv
+<term/>maladies du système nerveux
+</p>
+
+<p>
+<orth>Nostalgie</orth>
+<term/>maladie du pays
+</p>
+
+<p>
+<orth>Nostomanie</orth>
+<term/>inaladie du pays
+</p>
+
+<p>
+<orth>Nyctalopie</orth>
+<term/>cécité nocturue, héméralopie des Grecs , <title>Nos. phil.</title> ch. ιν, névroses ; ordr. m, ano-» malics nerveuses locales
+</p>
+
+<p>
+<orth>Nym phomanie</orth>
+<term/>fureur utérine
+</p>
+
+<p>
+<orth>Nystagme</orth>, dençr^oo, je penche la tête, accablé de sommeil ; spasine de Pœil ou de la paupière (Sauvages, Sagar)
+</p>
+
+<p>
+<orth>Obésité</orth>
+<term/>embonpoint excessif
+</p>
+
+<p>
+<orth>Obstipité</orth>
+<term/>torticolis, îéte de travers
+</p>
+
+<p>
+<orth>Odaxisme</orth> μΡοδαξιςμος , prurît dea gencives
+<term/>prurit douloureux de$ gencives avant la sortie des dents
+</p>
+
+<p>
+<orth>Odontalgie</orth>
+<term/>nial de dents
+</p>
+
+<p>
+<orth>OEdème</orth>
+<term/>gonflement, tuméfaction
+</p>
+
+<p>
+<orth>OEstromanie</orth>(Swédiaur)
+<term/>satyriase, nymphomanie
+</p>
+
+<p>
+<orth>Omentésie</orth>(Vogel)
+<term/>phlegmasie de Pépiploon, épiploésie(Sauvages)
+</p>
+
+<p>
+<orth>OmphaJocèle</orth>(Vogel)
+<term/>hernie ombilicale (Chaussier)
+</p>
+
+<p>
+<orth>Ornphalorragie</orth>
+<term/>hémorragie ombilicale
+</p>
+
+<p>
+<orth>Onéirodynie</orth>
+<term/>cauchemar
+</p>
+
+<p>
+<orth>OnyxdesGrecs</orth>, d’owf, ongle
+<term/>. ophthalmie par Punguis
+</p>
+
+<p>
+<orth>Ophiase</orth>
+<term/>chauvete, pelade, cbute des poils;trichose dépilative
+</p>
+
+<p>
+<orth>Oplithalgie</orth>
+<term/>douleur des ycux sans inflammation
+</p>
+
+<p>
+<orth>Ophthalmie</orth>
+<term/>inflammation de l’œil, catarrhe oculaire
+</p>
+
+<p>
+<orth>Ophtiialniocèle</orth>
+<term/>hernie de Pœil
+</p>
+
+<p>
+<orth>Ophthalmodynie</orth>(Plenck)
+<term/>douleur des yeux non inflammatoire
+</p>
+<pb n="478"/>
+
+<p>
+<orth>Ophthalmorragie</orth>
+<term/>hémorragie oculaire
+</p>
+
+<p>
+<orth>Opodeccèle</orth>(Sagar)
+<term/>hernie sous-pubienne (Chaussier) ; hernie du trou ovale ou obturateur
+</p>
+
+<p>
+<orth>Orcbiocèle</orth>(Swédiaur)
+<term/>tunieur du testicule; hernie hurnorale
+</p>
+
+<p>
+<orth>Ortbopnée</orth>
+<term/>difficultc de respirer avec rnenace de suffocation, surtout quand on est couché sur le dos
+</p>
+
+<p>
+<orth>Oschéocèle</orth>
+<term/>tuineur du scrotuin , hernie toinbée dans les bourses
+</p>
+
+<p>
+<orth>Ostéomalaxie</orth>(Pinel)
+<term/>rachiûs
+</p>
+
+<p>
+<orth>Ostéostéatome</orth>(Hermann, Murray)
+<term/> changement d’un os enmatière graisseuse
+</p>
+
+<p>
+<orth>OtaIgie</orth>
+<term/>douleur d’oreille sans inflammation
+</p>
+
+<p>
+<orth>Otite</orth>
+<term/>catarrhe auriculaire
+</p>
+
+<p>
+<orth>Oxypbonie</orth>, Η’ὸξος, et de φω,η,voix aiguë
+</p>
+
+<p>
+<orth>Ozène</orth>
+<term/>ulcère fétide dcs narines
+</p>
+
+<p>
+<orth>Panaris</orth>
+<term/>inflammation, occupant l’extrémité il’un doigt
+</p>
+
+<p>
+<orth>Pancréatemphraxis</orth>( Plpuquet)
+<term/>obstruction du pancréas
+</p>
+
+<p>
+<orth>Pancréatique</orth>(Vogel)
+<term/>inflammation du pancréas (Wedckind)
+</p>
+
+<p>
+<orth>Fanpphobie</orth>
+<term/>terreur paniqne
+</p>
+
+<p>
+<orth>Papule</orth>(Linné)
+<term/>bouton , tubercule
+</p>
+
+<p>
+<orth>Paracuse</orth>(Sauvages), de παραχούω, j’eutends mal
+<term/>audition desons réels, inais avec des circonstances extraordinaires
+</p>
+
+<p>
+<orth>Paraglosse</orth>(Sauvages) , de π«ρά , mal,auprès, et εΐβγλωςςα, langue
+<term/>chute de la langue
+</p>
+
+<p>
+<orth>Paralysie</orth>
+<term/>relâchement, asthéi,ie ou débilité musculaire
+</p>
+
+<p>
+<orth>Paraphonie</orth>
+<term/>voix désagréable, rauque, obscure
+</p>
+
+<p>
+<orth>Paraphrosyne</orth>
+<term/>délire
+</p>
+
+<p>
+<orth>Paraphymosis</orth>
+<term/>rétraction du prépnce , qui ne peut recouvrir le gland
+</p>
+
+<p>
+<orth>Paraplégie</orth>
+<term/>paralysie qui succède ordinairement a l’apoplexie
+</p>
+
+<p>
+<orth>Parorchide</orth>, de στ,αρά, auprès, et d’opn.i,, testicule
+<term/>déviation des testicules
+</p>
+
+<p>
+<orth>Parotide</orth>
+<term/>phlegmon desglandes parotides , oreillon
+</p>
+
+<p>
+<orth>Panilis XVogel)</orth>
+<term/>petit phlegmon des gencives
+</p>
+
+<p>
+<orth>Pédarthrocace</orth>(Marcus Aurelius Severinus)
+<term/>. tumeur douloureuse et oedémateuse d'une partie munie d’os cylindriqucs avec érosion , ulcération et écoulenrent ile sanie très-fétide
+</p>
+
+<p>
+<orth>Pélagie</orth>
+<hi>mal rosso , mal del sole</hi> des ltaliens
+<term/>érysipèle écailleux des mains,quelquelois des janibes , rarement de la face
+</p>
+
+<p>
+<orth>IPemphygus</orth>, pempliygue , feu persique ( <hi>Rhazes ad ^tmanzor)</hi> , rose bullée (Kridl)
+<term/>grosses bulles séreuses, transparentes sur toute la surface du corps
+</p>
+
+<p>
+<orth>Périnéocèle</orth>( Sagar)
+<term/>hernie au périnée
+</p>
+
+<p>
+<orth>Periostose</orth>, hypcrostose
+<term/>tumeur dure , indolente ou douloureuse de l’os
+</p>
+
+<p>
+<orth>Pétéchies</orth>( Linné) , péticules et pestichies <hi>lsaliusdirersusy</hi>
+<term/>taches lenticulaires, rondcs, planes , superficielles , sur la peau , avec symptômes febriles
+</p>
+
+<p>
+<orth>Phalacrote</orth>, ιΐνφαλαηρος, chanve
+<term/>chutc despoils chez les phthisiqnes et les convalescens de maladies graves
+</p>
+
+<p>
+<orth>Phalangose</orth>
+<term/>double ou triple rangée de cils (Vogel)
+</p>
+
+<p>
+<orth>Phantasme</orth>(Limié)
+<term/>vision mensongère
+</p>
+
+<p>
+<orth>Philopatridalgie</orth>(Stoll)
+<term/>maladie du pays
+</p>
+
+<p>
+<orth>Philopatridomanie</orth>(Stoll)
+<term/>maladic du pays
+</p>
+
+<p>
+<orth>Phlegmasie</orth>
+<term/>inflammation. <title>Nosographie phil.</title> ch. Ii
+</p>
+
+<p>
+<orth>Phlogopyre</orth>(Swédiaur), de φλέγ», j’enflamme, et tle «vp, feu
+<term/>lièvre angiothénique (Pinel), synoque desGrecs, inflammàtoire
+</p>
+
+<p>
+<orth>Phlyctène</orth>
+<term/>vésicule transparente, séreuse
+</p>
+
+<p>
+<orth>Phoxe</orth>( Vogel ), de φοξὸς , tête pointue, turbinée
+<term/>tète en pointe
+</p>
+
+<p>
+<orth>Phthisie</orth>
+<term/>consomplion et dépérissetnent général du corps,avec suppuration Ilans quelque partie , et ftèvre lente ou hectique
+</p>
+
+<p>
+<orth>Phymosis</orth>
+<term/>resserrement du prépuce , qui ne peut découvrir le gland
+</p>
+
+<p>
+<orth>Pica</orth>
+<term/>appétit absurde, erroné ; citta
+</p>
+
+<p>
+<orth>Pléthore</orth>, surabondance de sang
+</p>
+
+<p>
+<orth>Pleurésie</orth>
+<term/>phleguiasie de Ia plèvre
+</p>
+
+<p>
+<orth>Pieurodynie</orth>
+<term/>douleur de côté
+</p>
+<pb n="479"/>
+
+<p>
+<orth>Phthiriase</orth>
+<term/>maladie pédiculaire , ou causée par les ponx
+</p>
+
+<p>
+<orth>Plithisie</orth>
+<term/>corruption , consomption
+</p>
+
+<p>
+<orth>Pllygéthlon</orth>(Celse ), de ,ύγεθλον , petite tumeur, de ,νω, je nais
+<term/>-- tumeur large, peu élevée
+</p>
+
+<p>
+<orth>Physconie</orth>, de ,ύ...» , ventreux
+<term/>intumescence abdominale
+</p>
+
+<p>
+<orth>Physomètre</orth>
+<term/>intrnuescence flatueuse ou venteuse de la matrfee
+</p>
+
+<p>
+<orth>Pneumatocéle</orth>
+<term/>tumeur llalulenle ou venteuse du scrotum
+</p>
+
+<p>
+<orth>Pneumatose</orth>
+<term/>tumeur aérienne
+</p>
+
+<p>
+<orth>Pneumocèle</orth>(Chaussier)
+<term/>pleurocèle (Sagar) ; hernie thoracique
+</p>
+
+<p>
+<orth>Pneumonitie</orth>
+<term/>péripneuvnonie
+</p>
+  
+<p>
+<orth>Pneumorrhagie</orth>
+<term/>hémoptysie
+</p>
+  
+<p>
+<orth>Polycholie</orth>(Stolf, J. P. Frank , J. Gh. Reil)
+<term/>maladies bilieuses, fièvres méningo-gastriques. <title>Nos. philos</title>
+</p>
+
+<p>
+<orth>Polydipsie</orth>
+<term/>désir excessif de la boisson
+</p>
+
+<p>
+<orth>Polymérisine</orth>(Sagar) , de πολὺς , plusieurs , et de μ,ρςς, partie
+<term/>nombre excédant des parties
+</p>
+
+<p>
+<orth>Polype</orth>, excroissance fongueuse des niembranes inuqiieuses
+</p>
+
+<p>
+<orth>Polysarcie</orth>
+<term/>excès d’embonpoint, corpulence exeessive
+</p>
+
+<p>
+<orth>Porcelaine</orth>
+<term/>taches rouges et larges sur la peau , sans donleur ni démangeaison
+</p>
+
+<p>
+<orth>Pourriture d’hôpiial</orth>
+<term/>gangrène d’hôpital
+</p>
+
+<p>
+<orth>Pressure</orth>(Linué)
+<term/>panaris ungulaire
+</p>
+
+<p>
+<orth>Priapisme</orth>
+<term/>éreetion du membre viril, sans appétit vénérien
+</p>
+
+<p>
+<orth>Proctalgie</orth>, de πρωχτὸς, l’anus , et d’oAYlt, douleur
+<term/>douleur du Ibndement (Sauvages)
+</p>
+
+<p>
+<orth>Proctitis</orth>(Sauvages)
+<term/>phelgmon de l’anus
+</p>
+
+<p>
+<orth>Proctoptose</orth>
+<term/>chute du sphincter de l’anus et du rectuin
+</p>
+
+<p>
+<orth>Prolapse</orth>, procidencè ( Linné )
+<term/>chute d’une partie
+</p>
+
+<p>
+<orth>Proptome</orth>. de πριπτέω , je tombe
+<term/>prolongement contre nature rl’une partie
+</p>
+
+<p>
+<orth>Prosopalgie</orth>, de πρίσωπω, visage, ct d’oAYh., HouleuV
+<term/>tic douloureux, douleur de la face (J. M. Weisse)
+</p>
+
+<p>
+<orth>Psellismc</orth>
+<term/>bégaiement , difficulté d’articuler les nsots
+</p>
+
+<p>
+<orth>Pseudoblepsie</orth>(Cullen)
+<term/>vision mensongère
+</p>
+
+<p>
+<orth>Psora</orth>
+<term/>dartre, gale
+</p>
+
+<p>
+<orth>Psydracie</orth>(Sauvages), de ψύδρα-, αος, pustules , etde ψαω, je bràle
+<term/>pustules
+</p>
+
+<p>
+<orth>Ptylose</orth>
+<term/>cliute des cils avec dureté calleuse des paupiéres
+</p>
+
+<p>
+<orth>Ptyalisme</orth>
+<term/>flux de salive
+</p>
+  
+<p>
+<orth>Pudendagre</orth>(Sauvages)
+<term/>douleur du vagin, de la vulve
+</p>
+
+<p>
+<orth>Pyogénie</orth>( Dauiel ) , de ..τύ,ν , pus , et de γε,ιάω , j’engendre; génération de pus
+<term/>abcès, apostème , ilépot
+</p>
+
+<p>
+<orth>Pyorrliée</orth>(Plouqnet), de πύιν , pus, et de ρέω , je coule
+<term/>effesioii .le pus
+</p>
+
+<p>
+<orth>Pyurie</orth>
+<term/>écoulement de pus par les voies urinaires
+</p>
+
+<p>
+<orth>Rachialgie</orth>(Sauvages)
+<term/>colique minérale, végétale, de Poitou
+</p>
+
+<p>
+<orth>Raphanie</orth>
+<term/>contraction spasmodique des articulations , causée par le <hi>liaphanistrum</hi> (Linné)
+</p>
+
+<p>
+<orth>Rhacose</orth>( Vogel )
+<term/>ulcération, excoriation du scroturn relâché
+</p>
+
+<p>
+<orth>Khimose</orth>( Vogel) , de ρ,,ὸς, 1» peau , ou de ρ,χ,ος, rugueux
+<term/>corrugation de la peau et exténuation du corps
+</p>
+
+<p>
+<orth>Rhœas</orth>
+<term/>défaut dela caroncule lacrymale (Voijel)
+</p>
+
+<p>
+<orth>Rhumapyre</orth>(S wédiaur)
+<term/>fièvre rhumatique
+</p>
+
+<p>
+<orth>Rodation</orth>(Vogel)
+<term/>accourcissemenl des poils
+</p>
+
+<p>
+<orth>Saniodes</orth>( Vogel ), de ςαειωδης , semblable à une planche
+<term/>étroitesse du thorax
+</p>
+
+<p>
+<orth>Sapropyre</orth>(Svvédiaur), de ςατ-ρὸς, putride, et de «p , feu
+<term/>synochus ou fièvre putride
+</p>
+
+<p>
+<orth>Sarcome</orth>
+<term/>excroissance carni. forme
+</p>
+
+<p>
+<orth>Sarrette</orth>
+<term/>mal de mûchoire, trismus iles nouveaux nés
+</p>
+
+<p>
+<orth>Satyriase</orth>
+<term/>désir insatiable des plaisirs vénériens
+</p>
+
+<p>
+<orth>Scarlatine</orth>(Juncker)
+<term/>fiévra rouge
+</p>
+
+<p>
+<orth>Scélotyrbe</orth>
+<term/>danse de SaintGuy
+</p>
+
+<p>
+<orth>Sciatique</orth>
+<term/>goutte Ôu rliumatisme de îa hanche; uévralgie ischiatique
+</p>
+
+<p>
+<orth>Scrophules</orth>
+<term/>écrouelles
+</p>
+
+<p>
+<orth>Sepsis</orth>(Qaniel), ile je putréfie <term/>putridité
+</p>
+<pb n="480"/>
+
+<p>
+<orth>Séquestre</orth>
+<term/>os gangrené renfermé dans un nouvel os
+</p>
+
+<p>
+<orth>Somnambuli</orth>.sme
+<term/>promenade, marche pendant le somrneil
+</p>
+
+<p>
+<orth>Spanopogon</orth>, σπανοπωγων , de ςπανὸς , TaKe, et de πωγων , barbe
+<term/>poils rares â la barbe, et sujets a tomber (Vogel)
+</p>
+
+<p>
+<orth>Spasmes</orth>
+<term/>mouvemens ιηνοlontaires et non naturels des fibres musculaires
+</p>
+
+<p>
+<orth>Spermatocèlf</orth>
+<term/>enflure des vaisseaux spennatiqnes
+</p>
+
+<p>
+<orth>Sphacèle</orth>(Linné)
+<term/>gangrène (Sauvages)
+</p>
+
+<p>
+<orth>Splénalgie</orth>
+<term/>douleur de la ratc ou de l’hypocondre gauche
+</p>
+
+<p>
+<orth>Splénemphraxis</orth>(Plouquet),squirrhe ou obstruction de la rate
+</p>
+
+<p>
+<orth>Splenitie</orth>(Juncker)
+<term/>phlegmon de la rate
+</p>
+
+<p>
+<orth>Splénocèle</orth>
+<term/>hernie formée par la rate
+</p>
+
+<p>
+<orth>Spléno-parectame</orth>(Plouquet), volume excessif de la rate
+</p>
+
+<p>
+<orth>Staphylome</orth>
+<term/>tumeur ouhernie oculaire semblable à un grain de raisin
+</p>
+
+<p>
+<orth>Stéatite</orth>(Vogel)
+<term/>intumescence abdominale, par un amas cle graisse dans l’épiploon
+</p>
+
+<p>
+<orth>Stéatome</orth>
+<term/>tumeur enkystée, indolente et contenant une inatière sébacée
+</p>
+
+<p>
+<orth>Stérilité</orth>
+<term/>suppression de la faculté d’engendrer
+</p>
+
+<p>
+<orth>Stomacace</orth>
+<term/>mauvais état de la boudie, comme dans le scorbut
+</p>
+
+<p>
+<orth>Strabisme</orth>
+<term/>défaut de convergcnce dans lés axes optiques, par affection tonique de l’un des yeux
+</p>
+
+<p>
+<orth>Strangurie</orth>(Linné et Vogel)
+<term/>écouæment de l’urine goutteâ goutte
+</p>
+
+<p>
+<orth>Strumes</orth>
+<term/>écrouelles, malaclies des glandesjymphatiques
+</p>
+
+<p>
+<orth>Stupeur</orth>
+<term/>diminution plus ou moins grande de l’action des sens
+</p>
+
+<p>
+<orth>Stymatose</orth>
+<term/>hémorragie de la verge, ou phalloragie
+</p>
+
+<p>
+<orth>Suette</orth>
+<term/>maladie accompagnée de sueurs excessives
+</p>
+
+<p>
+<orth>Symbléphare</orth>(Plenck) , de ςύν , avec, ensemble, et de βλεφαρον, paupiere
+<term/>union de la paupiére avec le bulbe de l’œil
+</p>
+
+<p>
+<orth>Syncope</orth>
+<term/>défaillance,pamoison
+</p>
+
+<p>
+<orth>Synéchie</orth>(Plenck) , de σύν, avec, et <hi>ά’ίχ</hi>?, j’ai
+<term/>concrétion de
+<cb/>l’iris avec la cornée ou avec la capsule du crystallin
+</p>
+
+<p>
+<orth>Synizésis</orth>(Vogel) , de σονίυω , je séjourne
+<term/>accrétion de la pupille
+</p>
+
+<p>
+<orth>Syphilis</orth>, siphylis
+<term/>vérole,maladie vénérienne ; scorre pestilentielle , gore , rnal Napolitain, mal Francais, <hi>bubas</hi> des Espagnols ; feu Persan dès Indous ; <hi>yavv.s</hi> des Africains ; <hi>siwins</hi> des Ecossais ; mal Anglais des Canadiens
+</p>
+
+<p>
+<orth>Teigne</orth>
+<term/>éruption de boutons sur la partie chevelue de la tête, lesquels répandent unehumeur qui se change en croûte
+</p>
+
+<p>
+<orth>Ténesme</orth>
+<term/>envie fréquente, mais inutile, d'aller a la selle, avec évacuation d’une petite quantité de glaires
+</p>
+
+<p>
+<orth>Tétartophie</orth>
+<term/>fièvre quarte rémitttente
+</p>
+
+<p>
+<orth>Therminthe</orth>
+<term/>pustule rouge, purpurine
+</p>
+
+<p>
+<orth>Thyrocèle</orth>(Swédiaur)
+<term/>bronchocèle ; goître
+</p>
+
+<p>
+<orth>Tic</orth>
+<term/>distorsioninvolontaire et habituelle des musclesqui meuvent les joucs, les yeux et la mâchoire
+</p>
+
+<p>
+<orth>Tophus</orth>
+<term/>tumeur noueusede Fos
+</p>
+
+<p>
+<orth>Trachélopbyme</orth>
+<term/>goître
+</p>
+
+<p>
+<orth>Trichiase f Linné)</orth>
+<term/>diiection des cils vers le globe de Pœil
+</p>
+
+<p>
+<orth>Trichome</orth>(Sauvages)
+<term/>plique Polonaise (Linné)
+</p>
+
+<p>
+<orth>Trismus</orth>
+<term/>tic, rigidité spasmodique de la mâchoire inferieure
+</p>
+
+<p>
+<orth>Tritéophie fSauvages)</orth>
+<term/>fîèvre tierce remittente
+</p>
+
+<p>
+<orth>Tritœophie élodc</orth>
+<term/>tierce diphorétique, avec sueur aussitôt aprés le froid, sans calme sensible pendant l’accès ; typhode de quelques auteurs ; éphidrose fiévreuse de Sauvages
+</p>
+
+<p>
+<orth>Tympanite</orth>
+<term/>- intumescence aérienne de l’abdomcn
+</p>
+
+<p>
+<orth>Typhus</orth>
+<term/>fièvre adynamique
+</p>
+
+<p>
+<orth>Typhus grave de Cullen</orth>
+<term/>fièvre maligne, ataxique
+</p>
+
+<p>
+<orth>Typhus modéré</orth>
+<term/>fièvre putride adynamique
+</p>
+
+<p>
+<orth>Uriase</orth>(Swédiaur)
+<term/>maladie par calcul des voies uriunaires
+<term/>lithiasis
+</p>
+
+<p>
+<orth>Varice</orth>
+<term/>tumeur sanguine produite par 1a dilatation d’une veine
+</p>
+
+<p>
+<orth>Varicelle</orth>
+<term/>vérolette, fausse petite vérole
+</p>
+
+<p>
+<orth>Varicocèle</orth>
+<term/>tumeur variqueuse du scrotum
+</p>
+<pb n="481"/>
+
+<p>
+<orth>Varicomphale</orth>
+<term/>tumeur variqueuse du nombril
+</p>
+
+<p>
+<orth>Variole</orth>(Juncker), petite vérole
+</p>
+
+<p>
+<orth>Vertige</orth>
+<term/>tournoiement apparent des objets par lésion de la vue
+</p>
+
+<p>
+<orth>Vésanie</orth>, alienation d’esprit. Nos. <hi>phil</hi>. ClasseIv , névroses ; ord. I
+<term/>lésion des facultés de l’entendement et des affections de l’ame
+</p>
+
+<p>
+<orth>Vésicule</orth>
+<term/>élévatiou molle qui contient un fluide
+</p>
+
+<p>
+<orth>Vitilige</orth>
+<term/>petites taches nvec dépression à la peau (Sauvages)
+</p>
+
+<p>
+<orth>Volvulus</orth>
+<term/>passion iliaque , ou colique très-intense
+</p>
+
+<p>
+<orth>Vomique</orth>
+<term/>abcès dans la poitrine
+</p>
+
+<p>
+<orth>Xérasie</orth>(Vogel)
+<term/>surface laineuse des poils
+</p>
+
+<p>
+<orth>Zoster</orth>
+<term/>ceinture érysipélateuse
+</p>
+
+</div>
+</body>
+  </text>
+</TEI>

@@ -1,5 +1,5 @@
 <?php declare(strict_types=1);
-
+// a local installation of teinte, this code is not for distribution
 include_once(dirname(__DIR__, 2) . '/teinte_php/vendor/autoload.php');
 
 use Psr\Log\LogLevel;
@@ -8,7 +8,25 @@ use Oeuvres\Teinte\Format\{Docx};
 
 Log::setLogger(new LoggerCli(LogLevel::DEBUG));
 
+$dst_dir = dirname(__DIR__) . '/xml/';
+$docx_file = $argv[1];
+capuron_syn($docx_file);
 
+function capuron_syn($docx_file) {
+    global $dst_dir;
+    $src_name = pathinfo($docx_file, PATHINFO_FILENAME);
+    $dst_file = $dst_dir . $src_name . ".xml";
+    Log::info('Load: ' . $docx_file);
+    $docx = new Docx();
+    $docx->user_template(__DIR__ . "/tmpl.xml");
+    $docx->load($docx_file);
+    $docx->tei([
+        "pb" => 440
+    ]);
+    $xml = $docx->xml();
+    
+    file_put_contents($dst_file, $xml);
+}
 
 function capuron_docx($docx_file)
 {

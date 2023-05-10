@@ -153,14 +153,16 @@
             <text/>
             <ref name="cb"/>
             <ref name="damage"/>
-            <ref name="i"/>
-            <ref name="lb"/>
+            <ref name="etym"/>
             <ref name="figure"/>
             <ref name="foreign"/>
             <ref name="form"/>
             <ref name="formula"/>
+            <ref name="gloss"/>
             <ref name="gram"/>
             <ref name="graphic"/>
+            <ref name="i"/>
+            <ref name="lb"/>
             <ref name="num"/>
             <ref name="note"/>
             <ref name="persName"/>
@@ -170,6 +172,7 @@
             <ref name="sc"/>
             <ref name="sup"/>
             <ref name="term"/>
+            <ref name="title"/>
           </choice>
         </oneOrMore>
       </element>
@@ -386,6 +389,7 @@
             <ref name="i"/>
             <ref name="damage"/>
             <ref name="num"/>
+            <ref name="lb"/>
             <ref name="pb"/>
             <ref name="ref"/>
           </choice>
@@ -424,11 +428,12 @@
     </define>
     <define name="gloss">
       <element name="gloss">
-        <a:documentation>Glose qui n’est un équivalent traductionnel simple</a:documentation>
+        <a:documentation>Glose qui n’est pas un un terme lexical exploitable</a:documentation>
         <zeroOrMore>
           <choice>
             <text/>
             <ref name="i"/>
+            <ref name="foreign"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -505,6 +510,16 @@
       <element name="sup">
         <a:documentation>Exposants (souvent scorie d’OCR)</a:documentation>
         <text/>
+      </element>
+    </define>
+    <define name="title">
+      <element name="title">
+        <a:documentation>Titre cité en italique, permet de sémantiser tous les italiques</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+          </choice>
+        </zeroOrMore>
       </element>
     </define>
     <define name="term">
@@ -767,6 +782,7 @@
       <attribute name="xml:lang">
         <a:documentation>Code normalisé de langue</a:documentation>
         <choice>
+          <value>ara</value>
           <value>deu</value>
           <value>eng</value>
           <value>spa</value>

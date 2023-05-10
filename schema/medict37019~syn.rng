@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fra">
+  <include href="medict.rng">
+    <define name="body">
+      <element name="body">
+        <oneOrMore>
+          <choice>
+            <ref name="div"/>
+            <ref name="pb"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+  </include>
+
+  <define name="div">
+    <element name="div">
+      <ref name="head"/>
+      <choice>
+        <oneOrMore>
+          <ref name="div"/>
+        </oneOrMore>
+        <zeroOrMore>
+          <choice>
+            <ref name="p"/>
+            <ref name="pb"/>
+          </choice>
+        </zeroOrMore>
+      </choice>
+    </element>
+  </define>
+
+  
+  
+</grammar>
