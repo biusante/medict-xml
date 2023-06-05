@@ -5,15 +5,16 @@
       <element name="body">
         <oneOrMore>
           <choice>
-            <ref name="entryFree"/>
+            <ref name="entry"/>
             <ref name="label"/>
             <ref name="pb"/>
           </choice>
         </oneOrMore>
       </element>
     </define>
-    <define name="entryFree">
-      <element name="entryFree">
+    <define name="entry">
+      <element name="entry">
+        <ref name="orth"/>
         <zeroOrMore>
           <choice>
             <text/>
