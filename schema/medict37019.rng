@@ -16,9 +16,14 @@
       <element name="entryFree">
         <zeroOrMore>
           <choice>
-            <ref name="cb"/>
-            <ref name="p"/>
+            <text/>
+            <ref name="gram"/>
+            <ref name="i"/>
+            <ref name="lb"/>
+            <ref name="orth"/>
             <ref name="pb"/>
+            <ref name="ref"/>
+            <ref name="term"/>
           </choice>
         </zeroOrMore>
       </element>

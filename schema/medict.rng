@@ -432,8 +432,9 @@
         <zeroOrMore>
           <choice>
             <text/>
-            <ref name="i"/>
             <ref name="foreign"/>
+            <ref name="i"/>
+            <ref name="lb"/>
           </choice>
         </zeroOrMore>
       </element>
