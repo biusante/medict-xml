@@ -11,6 +11,27 @@
         </oneOrMore>
       </element>
     </define>
+    <define name="entry">
+      <element name="entry">
+        <ref name="orth"/>
+        <mixed>
+          <oneOrMore>
+            <choice>
+              <ref name="cb"/>
+              <ref name="foreign"/>
+              <ref name="gloss"/>
+              <ref name="i"/>
+              <ref name="lb"/>
+              <ref name="orth"/>
+              <ref name="pb"/>
+              <ref name="ref"/>
+              <ref name="term"/>
+              <ref name="title"/>
+            </choice>
+          </oneOrMore>
+        </mixed>
+      </element>
+    </define>
   </include>
 
   <define name="div">
@@ -18,14 +39,25 @@
       <ref name="head"/>
       <choice>
         <oneOrMore>
-          <ref name="div"/>
-        </oneOrMore>
-        <zeroOrMore>
           <choice>
-            <ref name="p"/>
+            <ref name="div"/>
             <ref name="pb"/>
           </choice>
-        </zeroOrMore>
+        </oneOrMore>
+        <group>
+          <zeroOrMore>
+            <choice>
+              <ref name="p"/>
+              <ref name="pb"/>
+            </choice>
+          </zeroOrMore>
+          <oneOrMore>
+            <choice>
+              <ref name="entry"/>
+              <ref name="pb"/>
+            </choice>
+          </oneOrMore>
+        </group>
       </choice>
     </element>
   </define>
