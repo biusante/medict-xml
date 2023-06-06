@@ -18,6 +18,7 @@
         <zeroOrMore>
           <choice>
             <text/>
+            <ref name="foreign"/>
             <ref name="gram"/>
             <ref name="i"/>
             <ref name="lb"/>
