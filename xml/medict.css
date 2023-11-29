@@ -4,15 +4,25 @@ TEI {
     font-family: sans-serif;
 }
 
-dictScrap,
+sense,
 entry,
 entryFree,
-form,
 label,
 p,
 TEI,
 text {
     display: block;
+}
+
+entry,
+entryFree {
+    display: block;
+    margin: 1rem 0;
+    text-align: justify;
+}
+
+sense[n = "1"] {
+    display: inline;
 }
 
 body {
@@ -25,11 +35,6 @@ body {
     margin-right: auto;
 }
 
-entry,
-entryFree {
-    display: block;
-    margin: 1rem 0;
-}
 
 p {
     text-align: justify;
@@ -46,25 +51,51 @@ hi {
     font-style: italic;
 }
 
-foreign {
-    display: block;
-    color: #080;
-}
-
-foreign:before {
-    color:#888;
-    content: "["attr(xml|lang)"] ";
-}
 
 teiHeader {
     display: none;
 }
 
 dictScrap {
+    /*
     border: 0.5px solid #ccc;
     padding: 0.2rem 0.5rem;
     margin: 2px 0;
+    */
 }
+
+dictScrap:before {
+    content: ' [';
+}
+
+dictScrap:after {
+    content: '] ';
+}
+
+foreign {
+    color: #080;
+}
+
+foreign[xml|lang="deu"]:before {
+    color:#888;
+    content: "all. ";
+}
+
+foreign[xml|lang="eng"]:before {
+    color:#888;
+    content: "angl. ";
+}
+
+foreign[xml|lang="ita"]:before {
+    color:#888;
+    content: "it. ";
+}
+
+foreign[xml|lang="spa"]:before {
+    color:#888;
+    content: "esp. ";
+}
+
 
 ref {
     color: blue;
