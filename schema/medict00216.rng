@@ -64,6 +64,18 @@
     </define>
     <define name="orth">
       <element name="orth">
+        <a:documentation>Redéfinition des vedettes, toujours avec une langue</a:documentation>
+        <ref name="lang"/>
+        <text/>
+      </element>
+    </define>
+    <define name="term">
+      <element name="term">
+        <a:documentation>Redéfinition des sous-vedettes, toujours avec une langue</a:documentation>
+        <ref name="lang"/>
+        <optional>
+          <attribute name="rend"/>
+        </optional>
         <text/>
       </element>
     </define>
