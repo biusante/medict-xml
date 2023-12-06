@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/medict37019~syn.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="medict.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
+<?xml-model href="../schema/medict37019~syn.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="medict.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -41,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><pb n="440"/>
+    <body><pb n="440" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0456/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=456"/>
 
 
 <div>
@@ -226,7 +224,7 @@
 <orth>Machoire diacranienne</orth>
 <lb/><term>mâchoire inférieure</term>
 </entry>
-<pb n="441"/>
+<pb n="441" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0457/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=457"/>
 
 <entry>
 <orth>Màchoire syncranienne</orth>
@@ -470,7 +468,7 @@
 <lb/><term>constricteur inférieur du pharynx</term>
 </entry>
 
-<pb n="442"/>
+<pb n="442" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0458/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=458"/>
 
 <entry>
 <orth>CÏlbito-carpien</orth>
@@ -822,7 +820,7 @@
 <orth>Maxillo-labial</orth>
 <lb/><term>triangujahe dts levres</term>
 </entry>
-<pb n="443"/>
+<pb n="443" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0459/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=459"/>
 
 <entry>
 <orth>maxiuo-scteroticien</orth>
@@ -1122,7 +1120,7 @@
 <orth>Sus-optico-spliéni-scléroticien</orth>
 <lb/><term>muscle droit supérieur de l’œil</term>
 </entry>
-<pb n="444"/>
+<pb n="444" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0460/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=460"/>
 
 <entry>
 <orth>Sous-pubio-coccygien</orth>
@@ -1352,7 +1350,7 @@
 
 
 </div>
-<pb n="445"/>
+<pb n="445" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0461/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=461"/>
 <div>
 
 <head>SECTION IV. ANGEIOLOGIE.</head>
@@ -1564,7 +1562,7 @@
 <orth>Trachélo-sous-cutané</orth>
 <lb/><term>jugulaire externe</term>
 </entry>
-<pb n="446"/>
+<pb n="446" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0462/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=462"/>
 
 
 </div>
@@ -1790,7 +1788,7 @@
 <orth>Vibratilité</orth>
 <lb/><term>balancement alternatif de tension et de relâchement dans les solides</term>
 </entry>
-<pb n="447"/>
+<pb n="447" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0463/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=463"/>
 
 <entry>
 <orth>Acide aérien</orth>
@@ -2042,7 +2040,7 @@
 <orth>Autimoine diaphorétique</orth>
 <lb/><term>oxyde d'antimoine blanc par le nitre</term>
 </entry>
-<pb n="448"/>
+<pb n="448" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0464/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=464"/>
 
 <entry>
 <orth>Antimoine cru</orth>
@@ -2374,7 +2372,7 @@
 <lb/><term>oxyde de mercure sulfuré noir</term>
 </entry>
 
-<pb n="449"/>
+<pb n="449" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0465/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=465"/>
 
 <entry>
 <orth>Ethiops per se</orth>
@@ -2684,7 +2682,7 @@
 <orth>Mercure doux</orth>
 <lb/><term>muriate mercuriel doux</term>
 </entry>
-<pb n="450"/>
+<pb n="450" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0466/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=466"/>
 
 <entry>
 <orth>Mercure précipite blanc</orth>
@@ -3014,7 +3012,7 @@
 <orth>Sel de lait</orth>
 <lb/><term>sucre de lait</term>
 </entry>
-<pb n="451"/>
+<pb n="451" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0467/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=467"/>
 
 <entry>
 <orth>Sel de saturne</orth>
@@ -3347,7 +3345,7 @@
 <lb/><term>mercure</term>
 </entry>
 
-<pb n="452"/>
+<pb n="452" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0468/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=468"/>
 
 <entry>
 <orth>Vinaigre desaturne</orth>
@@ -3444,7 +3442,7 @@
 <orth>Vitriol de zinc</orth>
 <lb/><term>sulfate de zinc</term>
 </entry>
-<pb n="453"/>
+<pb n="453" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0469/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=469"/>
 
 
 </div>
@@ -3678,7 +3676,7 @@
 <lb/><term>matière de la chaleur</term>
 <lb/><term>matière du feu</term>
 <lb/><term>principe de la chaleur</term>
-<pb n="454"/>
+<pb n="454" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0470/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=470"/>
 <lb/><term>principe du feu</term>
 <lb/><term>principe inflammable</term>
 </entry>
@@ -3948,7 +3946,7 @@
 <entry>
 <orth>Gaz hydrogène sulfuré</orth>
 <lb/><term>gaz hépatique</term>
-<pb n="455"/>
+<pb n="455" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0471/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=471"/>
 <lb/><term>air pesant du soufre</term>
 <lb/><term>gaz inflammable sulfuré</term>
 </entry>
@@ -4226,7 +4224,7 @@
 
 <entry>
 <orth>Oxyde d’antimoine sulfuré demi-vitreux</orth>
-<pb n="456"/>
+<pb n="456" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0472/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=472"/>
 <lb/><term>safran des métaux</term>
 <lb/><foreign xml:lang="lat">crocus metallorum</foreign>
 </entry>
@@ -4505,7 +4503,7 @@
 <lb/><term>soude caustique</term>
 <lb/><term>natrum</term>
 </entry>
-<pb n="457"/>
+<pb n="457" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0473/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=473"/>
 
 <entry>
 <orth>Soufre purifié</orth>
@@ -4782,7 +4780,7 @@
 </entry>
 </div>
 
-<pb n="458"/>
+<pb n="458" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0474/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=474"/>
 
 <div>
 
@@ -4955,7 +4953,7 @@
 <lb/><foreign xml:lang="lat">MyroxiloIL perniferum L.</foreign> 
 </entry>
 
-<pb n="459"/>
+<pb n="459" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0475/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=475"/>
 
 <entry>
 <orth>Baume de Tolu</orth>; provient du
@@ -5168,7 +5166,7 @@
 <lb/><foreign xml:lang="lat">teucrium chamœpitys L.</foreign>  Labiées, J. V. Dîdyn. gymnosp. L.; F. 0. Lieuxcuhivés ; été
 <lb/><gloss>herbe , feuilles , fleurs</gloss>
 </entry>
-<pb n="460"/>
+<pb n="460" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0476/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=476"/>
 
 <entry>
 <orth>Chamédrys</orth>
@@ -5392,7 +5390,7 @@ Crucifères, J. V. silicul. ; F. 0.
 <entry>
 <orth>Fiel de terre</orth>
 <lb/><foreign xml:lang="lat">fumaria officinalis L.</foreign>
-<pb n="461"/>
+<pb n="461" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0477/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=477"/>
 Diadelph. bexandr.<ref>Fumeterre</ref>
 </entry>
 
@@ -5605,7 +5603,7 @@ F. ; F
 <orth>Herbe aux écus</orth>
 <lb/><orth>nummulaire</orth>
 <lb/><foreign xml:lang="lat">nummularia L.</foreign>
-<pb n="462"/>Pentandr. monog. ; Lur. mér.
+<pb n="462" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0478/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=478"/>Pentandr. monog. ; Lur. mér.
 <lb/><gloss>herbe cutière</gloss>
 </entry>
 
@@ -5819,7 +5817,7 @@ huile siccative obtcnue par expression des semences du
 <entry>
 <orth>Matricaire</orth>
 <lb/><foreign xml:lang="lat">matricarium parthenium L.</foreign> Syngén. polyg. superf. ;
-<pb n="463"/>
+<pb n="463" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0479/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=479"/>
 F. T ieuxpierreux; été
 <lb/><gloss>herbe , feuilles, fleurs</gloss>
 </entry>
@@ -6046,7 +6044,7 @@ F. T ieuxpierreux; été
 <lb/><foreign xml:lang="lat">Orchis maculata L.</foreign>
 <lb/><foreign xml:lang="lat">Orchis bifolia L.</foreign>
 <lb/><foreign xml:lang="lat">Orchis pyramidalis L.</foreign> Orchidées, J.V.
-<pb n="464"/>
+<pb n="464" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0480/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=480"/>
 Gynandr. diandr. L. ; F.
 <lb/><gloss>racinc ©ii bulbe</gloss>
 </entry>
@@ -6282,7 +6280,7 @@ Graininées,J.V. Triandr. trigyn. L* 5 F-O.
 <orth>Potelée</orth>
 <lb/><ref>jusquiame</ref>
 </entry>
-<pb n="465"/>
+<pb n="465" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0481/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=481"/>
 
 <entry>
 <orth>Poudre de la comtesse</orth>
@@ -6513,7 +6511,7 @@ Graininées,J.V. Triandr. trigyn. L* 5 F-O.
 <entry>
 <orth>Scille</orth>
 <lb/><foreign xml:lang="lat">scilla maritima L.</foreign> Lis, J. Liliacées , V. Hexandr. monogym
-<pb n="466"/>L.; F. m, <hi>IV</hi>
+<pb n="466" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0482/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=482"/>L.; F. m, <hi>IV</hi>
 <lb/><gloss>racine ou oignon</gloss>
 </entry>
   
@@ -6725,7 +6723,7 @@ Graininées,J.V. Triandr. trigyn. L* 5 F-O.
 <entry>
 <orth>Turbith</orth>
 <lb/><foreign xml:lang="lat">convolvulus turp etum L.</foreign>
-<pb n="467"/>
+<pb n="467" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0483/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=483"/>
 Pentand. monogén. ; Indes orient.
 <lb/><gloss>racine</gloss>
 </entry>
@@ -6892,7 +6890,7 @@ Pentand. monogén. ; Indes orient.
 Mammifères quadr.
 <lb/><gloss>lait de femme</gloss>
 </entry>
-<pb n="468"/>
+<pb n="468" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0484/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=484"/>
 
 <entry>
 <orth>Huître</orth>
@@ -6941,7 +6939,7 @@ Mammifères quadr.
 
 </div>
 </div>
-<pb n="469"/>
+<pb n="469" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0485/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=485"/>
 <div>
 
 
@@ -7146,7 +7144,7 @@ Mammifères quadr.
 <lb/><term>privation d’appétit</term>
 <lb/><term>defaut d’appétit</term>
 </entry>
-<pb n="470"/>
+<pb n="470" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0486/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=486"/>
 
 <entry>
 <orth>Anthrax</orth>
@@ -7413,7 +7411,7 @@ Mammifères quadr.
 <orth>Carcinome</orth>
 <lb/><term>ulcère cancéreux</term>
 </entry>
-<pb n="471"/>
+<pb n="471" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0487/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=487"/>
 
 <entry>
 <orth>Cardialgie</orth>
@@ -7673,7 +7671,7 @@ Mammifères quadr.
 <entry>
 <orth>Délire</orth>
 <lb/><term>paraphrosyne</term>
-<pb n="472"/>
+<pb n="472" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0488/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=488"/>
 <lb/><term>signe de lésion dans les fonctions intellectuelles</term>
 </entry>
 
@@ -7921,7 +7919,7 @@ Mammifères quadr.
 
 <entry>
 <orth>Engelures</orth>
-<pb n="473"/>
+<pb n="473" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0489/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=489"/>
 <lb/><term>tumeurs prurigineuses des pieds et des mains, causées par le froid</term>
 </entry>
 
@@ -8162,7 +8160,7 @@ Mammifères quadr.
 
 <entry>
 <orth>Fièvre double quarte</orth>
-<pb n="474"/>
+<pb n="474" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0490/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=490"/>
 fièvre avec un accès le premier jour, correspondant avec celui du quatrième ; un accès le second jour, eorrespondant avec celui du cinquième , le troisieme et le sixième jour étant libres
 </entry>
 
@@ -8351,7 +8349,7 @@ fièvre avec un accès le premier jour, correspondant avec celui du quatrième ;
 <orth>Gastrodynie</orth>
 <lb/><term>douleur d'estomac</term>
 </entry>
-<pb n="475"/>
+<pb n="475" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0491/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=491"/>
 
 <entry>
 <orth>Glaucome</orth>
@@ -8629,7 +8627,7 @@ fièvre avec un accès le premier jour, correspondant avec celui du quatrième ;
 <orth>Hyposarque</orth> (Linné) , d’wro ,sous, et de ςορξ , chair
 <lb/><term>intumescence de l’abdomen</term>
 </entry>
-<pb n="476"/>
+<pb n="476" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0492/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=492"/>
 
 <entry>
 <orth>Hypospadias</orth>
@@ -8891,7 +8889,7 @@ fièvre avec un accès le premier jour, correspondant avec celui du quatrième ;
 <lb/><term>osteo-malaxie</term> (Pinel)
 <lb/><term>rachitis</term>
 </entry>
-<pb n="477"/>
+<pb n="477" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0493/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=493"/>
 
 <entry>
 <orth>Mélancolie</orth>
@@ -9190,7 +9188,7 @@ fièvre avec un accès le premier jour, correspondant avec celui du quatrième ;
 <orth>Ophthalmodynie</orth> (Plenck)
 <lb/><gloss>douleur des yeux non inflammatoire</gloss>
 </entry>
-<pb n="478"/>
+<pb n="478" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0494/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=494"/>
 
 <entry>
 <orth>Ophthalmorragie</orth>
@@ -9438,7 +9436,7 @@ fièvre avec un accès le premier jour, correspondant avec celui du quatrième ;
 <orth>Pieurodynie</orth>
 <lb/><term>douleur de côté</term>
 </entry>
-<pb n="479"/>
+<pb n="479" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0495/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=495"/>
 
 <entry>
 <orth>Phthiriase</orth>
@@ -9713,7 +9711,7 @@ fièvre avec un accès le premier jour, correspondant avec celui du quatrième ;
 <orth>Sepsis</orth> (Qaniel), ile je putréfie
 <lb/><term>putridité</term>
 </entry>
-<pb n="480"/>
+<pb n="480" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0496/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=496"/>
 
 <entry>
 <orth>Séquestre</orth>
@@ -9977,7 +9975,7 @@ fièvre avec un accès le premier jour, correspondant avec celui du quatrième ;
 <orth>Varicocèle</orth>
 <lb/><term>tumeur variqueuse du scrotum</term>
 </entry>
-<pb n="481"/>
+<pb n="481" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0497/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=497"/>
 
 <entry>
 <orth>Varicomphale</orth>

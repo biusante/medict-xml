@@ -74,7 +74,7 @@
   -->
   <xsl:template match="tei:pb[not(@facs)]">
     <xsl:variable name="n" select="number(@n)"/>
-    <xsl:variable name="diff" select="10"/>
+    <xsl:variable name="diff" select="16"/>
     <xsl:if test="$n &lt; 1">
       <xsl:message>pb ? <xsl:value-of select="$n"/></xsl:message>
     </xsl:if>
