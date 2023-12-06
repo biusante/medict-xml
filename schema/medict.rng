@@ -201,6 +201,9 @@
     <define name="sense">
       <element name="sense">
         <a:documentation>Un “sens”, ou au moins une section dans un article (la hiérarchie n’est pas nécessaire)</a:documentation>
+        <optional>
+          <attribute name="n"/>
+        </optional>
         <oneOrMore>
           <choice>
             <ref name="sense.lax"/>
