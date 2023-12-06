@@ -8,6 +8,7 @@
   <!-- To produce a normalised id without diacritics translate("Déjà vu, 4", $idfrom, $idto) = "dejavu4"  To produce a normalised id -->
   <xsl:variable name="idfrom">ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÄÉÈÊÏÎÔÖÛÜÇàâäéèêëïîöôüû_ ,.'’ #</xsl:variable>
   <xsl:variable name="idto"  >abcdefghijklmnopqrstuvwxyzaaaeeeiioouucaaaeeeeiioouu_</xsl:variable>
+  <xsl:variable name="cote" select="/*/@n"/>
   <xsl:key name="key" match="tei:entry" use="translate(tei:form/tei:orth, 
     'ABCDEFGHIJKLMNOPQRSTUVWXYZÆŒÇÀÁÂÃÄÅÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝ_ ,.’ ',
     'abcdefghijklmnopqrstuvwxyzæœçàáâãäåèéêëìíîïòóôõöùúûüý      '
@@ -68,22 +69,29 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:___pb[not(@facs)]">
-    <xsl:variable name="n" select="@n"/>
+  <!-- 
+  <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=387" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0387/full/full/0/default.jpg" n="0373"/>
+  -->
+  <xsl:template match="tei:pb[not(@facs)]">
+    <xsl:variable name="n" select="number(@n)"/>
+    <xsl:variable name="diff" select="10"/>
     <xsl:if test="$n &lt; 1">
       <xsl:message>pb ? <xsl:value-of select="$n"/></xsl:message>
     </xsl:if>
     <xsl:copy>
       <xsl:copy-of select="@n"/>
       <xsl:attribute name="facs">
-        <xsl:text>//www.biusante.parisdescartes.fr/images/livres/37020d/</xsl:text>
-        <xsl:value-of select="format-number($n +14, '0000')" />
-        <xsl:text>.jpg</xsl:text>
-        <!--
-        <xsl:text>https://iiif.archivelab.org/iiif/BIUSante_37020d$</xsl:text>
-        <xsl:value-of select="$n + 13"/>
+        <xsl:text>https://www.biusante.parisdescartes.fr/iiif/2/bibnum:</xsl:text>
+        <xsl:value-of select="$cote"/>
+        <xsl:text>:</xsl:text>
+        <xsl:value-of select="format-number($n +$diff, '0000')" />
         <xsl:text>/full/full/0/default.jpg</xsl:text>
-        -->
+      </xsl:attribute>
+      <xsl:attribute name="corresp">
+        <xsl:text>https://www.biusante.parisdescartes.fr/histmed/medica/page?</xsl:text>
+        <xsl:value-of select="$cote"/>
+        <xsl:text>&amp;p=</xsl:text>
+        <xsl:value-of select="$n +$diff" />
       </xsl:attribute>
     </xsl:copy>
   </xsl:template>
@@ -130,7 +138,7 @@
   
   <!-- Corresp -->
   <xsl:variable name="littre1873" select="document('medict37020d.xml', .)"/>
-  <xsl:template match="tei:entry[not(@corresp)]">
+  <xsl:template match="tei:___entry[not(@corresp)]">
     <xsl:variable name="id" select="@xml:id"/>
     <xsl:variable name="corresp">
       <xsl:for-each select="$littre1873">
