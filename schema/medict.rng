@@ -414,7 +414,7 @@
       <element name="foreign">
         <a:documentation>Mot en langue étrangère, notamment les équivalents traductionnels ou les glossaires</a:documentation>
         <ref name="lang"/>
-        <ref name="foreign.cert"/>
+        <ref name="foreign.atts"/>
         <oneOrMore>
           <choice>
             <ref name="damage"/>
@@ -457,16 +457,7 @@
     <define name="orth">
       <element name="orth">
         <a:documentation>Forme graphique en vedette, généralement en gras et majuscules (accentuées)</a:documentation>
-        <optional>
-          <ref name="resp"/>
-        </optional>
-        <optional>
-          <ref name="cert"/>
-        </optional>
-        <optional>
-          <ref name="lang"/>
-        </optional>
-        <ref name="orth.type"/>
+        <ref name="orth.atts"/>
         <oneOrMore>
           <choice>
             <text/>
@@ -477,6 +468,26 @@
         </oneOrMore>
       </element>
     </define>
+    <define name="orth.atts">
+      <optional>
+        <ref name="cert"/>
+      </optional>
+      <optional>
+        <ref name="lang"/>
+      </optional>
+      <ref name="orth.type"/>
+      <optional>
+        <attribute name="rend">
+          <choice>
+            <value>i</value>
+            <value>sc</value>
+          </choice>
+        </attribute>
+      </optional>
+      <optional>
+        <ref name="resp"/>
+      </optional>
+    </define>
     <define name="persName">
       <element name="persName">
         <a:documentation>Nom de personne, principalement auteur cité</a:documentation>
@@ -486,11 +497,17 @@
     <define name="ref">
       <element name="ref">
         <a:documentation>Renvoi, doit renvoyer à une entrée exacte, voire à une sous-entrée</a:documentation>
-        <optional>
-          <ref name="target"/>
-        </optional>
+        <ref name="ref.atts"/>
         <text/>
       </element>
+    </define>
+    <define name="ref.atts">
+      <optional>
+        <ref name="target"/>
+      </optional>
+      <optional>
+        <attribute name="type"/>
+      </optional>
     </define>
     <define name="sc">
       <element name="rs">
@@ -747,9 +764,12 @@
         </choice>
       </attribute>
     </define>
-    <define name="foreign.cert">
+    <define name="foreign.atts">
       <optional>
         <ref name="cert"/>
+      </optional>
+      <optional>
+        <attribute name="rend"/>
       </optional>
       <optional>
         <ref name="resp"/>
