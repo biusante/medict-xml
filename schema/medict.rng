@@ -498,7 +498,13 @@
       <element name="ref">
         <a:documentation>Renvoi, doit renvoyer à une entrée exacte, voire à une sous-entrée</a:documentation>
         <ref name="ref.atts"/>
-        <text/>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="i"/>
+            <ref name="lb"/>
+          </choice>
+        </zeroOrMore>
       </element>
     </define>
     <define name="ref.atts">
@@ -552,6 +558,7 @@
         <zeroOrMore>
           <choice>
             <text/>
+            <ref name="lb"/>
             <ref name="i"/>
           </choice>
         </zeroOrMore>
@@ -809,11 +816,13 @@
           <value>ara</value>
           <value>deu</value>
           <value>eng</value>
-          <value>spa</value>
           <value>fra</value>
           <value>grc</value>
+          <value>heb</value>
           <value>ita</value>
           <value>lat</value>
+          <value>per</value>
+          <value>spa</value>
         </choice>
       </attribute>
     </define>
