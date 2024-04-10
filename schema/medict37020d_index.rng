@@ -13,6 +13,7 @@
           <choice>
             <ref name="trad"/>
             <ref name="pb"/>
+            <ref name="label"/>
           </choice>
         </oneOrMore>
       </element>
