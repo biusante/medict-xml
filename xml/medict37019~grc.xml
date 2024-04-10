@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/medict37020d_index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="medict.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
+<?xml-model href="../schema/medict37020d_index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="medict.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -42,7 +39,7 @@
 
 <body>
 
-<pb n="419"/>
+<pb n="419" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0435/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=435"/>
 <head>Capuron, glossaire grec</head>
 
 <label>[Alpha]</label>
@@ -396,7 +393,7 @@
 <foreign xml:lang="fra">hémorragie</foreign>
 </entryFree>
 
-<pb n="420"/>
+<pb n="420" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0436/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=436"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ἀιμορροίδες</orth>
@@ -959,7 +956,7 @@
 <foreign xml:lang="fra">anaplérose</foreign>
 </entryFree>
 
-<pb n="421"/>
+<pb n="421" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0437/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=437"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ἀναπνοὴ</orth>
@@ -1519,7 +1516,7 @@
 <foreign xml:lang="fra">aspidique</foreign>
 </entryFree>
 
-<pb n="422"/>
+<pb n="422" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0438/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=438"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ἄση</orth>
@@ -2065,7 +2062,7 @@
 <foreign xml:lang="fra">galéantrophie</foreign>
 </entryFree>
 
-<pb n="423"/>
+<pb n="423" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0439/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=439"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">γαλῆ</orth>
@@ -2638,7 +2635,7 @@
 <foreign xml:lang="fra">diaphane</foreign>
 </entryFree>
 
-<pb n="424"/>
+<pb n="424" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0440/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=440"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">διαφθορά</orth>
@@ -3169,7 +3166,7 @@
 <foreign xml:lang="fra">ectrotique</foreign>
 </entryFree>
 
-<pb n="425"/>
+<pb n="425" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0441/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=441"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ἐκτυλωτικὸς</orth>
@@ -3753,7 +3750,7 @@
 <foreign xml:lang="fra">étésies</foreign>
 </entryFree>
 
-<pb n="426"/>
+<pb n="426" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0442/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=442"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ἐτήσιος</orth>
@@ -4248,7 +4245,7 @@
 <foreign xml:lang="fra">thlipsie</foreign>
 </entryFree>
 
-<pb n="427"/>
+<pb n="427" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0443/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=443"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">θρέψις</orth>
@@ -4777,7 +4774,7 @@
 <foreign xml:lang="fra">fracture</foreign>
 </entryFree>
 
-<pb n="428"/>
+<pb n="428" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0444/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=444"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">καταγματικὸς</orth>
@@ -5363,7 +5360,7 @@
 <foreign xml:lang="fra">cubitus</foreign>
 </entryFree>
 
-<pb n="429"/>
+<pb n="429" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0445/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=445"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">κυϐοειδής</orth>
@@ -5894,7 +5891,7 @@
 <foreign xml:lang="fra">propre à ramollir</foreign>
 </entryFree>
 
-<pb n="430"/>
+<pb n="430" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0446/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=446"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">μανία</orth>
@@ -6451,7 +6448,7 @@
 <foreign xml:lang="fra">nocturne</foreign>
 </entryFree>
 
-<pb n="431"/>
+<pb n="431" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0447/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=447"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">νυχθήμερον</orth>
@@ -6976,7 +6973,7 @@
 <foreign xml:lang="fra">ostéocope</foreign>
 </entryFree>
 
-<pb n="432"/>
+<pb n="432" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0448/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=448"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ὀστέον</orth>
@@ -7520,7 +7517,7 @@
 <foreign xml:lang="fra">pierre</foreign>
 </entryFree>
 
-<pb n="433"/>
+<pb n="433" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0449/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=449"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">πέψις</orth>
@@ -8109,7 +8106,7 @@
 <foreign xml:lang="fra">porocèle</foreign>
 </entryFree>
 
-<pb n="434"/>
+<pb n="434" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0450/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=450"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ῥαβδίον</orth>
@@ -8619,7 +8616,7 @@
 <foreign xml:lang="fra">dur</foreign>
 </entryFree>
 
-<pb n="435"/>
+<pb n="435" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0451/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=451"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">σκληροφθαλμία</orth>
@@ -9196,7 +9193,7 @@
 <foreign xml:lang="fra">fracture avec esquille</foreign>
 </entryFree>
 
-<pb n="436"/>
+<pb n="436" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0452/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=452"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">σχιδιὸν</orth>
@@ -9704,7 +9701,7 @@
 <foreign xml:lang="fra">hyaloïde</foreign>
 </entryFree>
 
-<pb n="437"/>
+<pb n="437" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0453/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=453"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ὑαλόεις</orth>
@@ -10255,7 +10252,7 @@
 <foreign xml:lang="fra">pourpré</foreign>
 </entryFree>
 
-<pb n="438"/>
+<pb n="438" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0454/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=454"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">φρενες</orth>
@@ -10772,7 +10769,7 @@
 <foreign xml:lang="fra">psorique</foreign>
 </entryFree>
 
-<pb n="439"/>
+<pb n="439" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0455/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=455"/>
 
 <entryFree type="tr">
 <orth xml:lang="grc">ψωροφθαλμία</orth>
