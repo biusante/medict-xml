@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/medict37020d_index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="medict.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
+<?xml-model href="../schema/medict37020d_index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="medict.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -46,7 +43,7 @@
   <lb/>QUI CORRESPONDENT AUX MOTS FRANÇAIS
   <lb/>DE CE DICTIONNAIRE</head>
 
-<pb n="367"/>
+<pb n="367" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0383/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=383"/>
 
 
 
@@ -408,7 +405,7 @@
 <foreign xml:lang="fra">acrochordon</foreign>
 </entryFree>
 
-<pb n="368"/>
+<pb n="368" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0384/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=384"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Acromium</orth>
@@ -561,9 +558,17 @@
 <foreign xml:lang="fra">adepte</foreign>
 </entryFree>
 
-<pb n="Adhærenia adhérence"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Adhærenia</orth>
+<foreign xml:lang="fra">adhérence</foreign>
+</entryFree>
 
-<pb n="Adhœsio ; adhésion"/>
+
+<entryFree type="tr">
+<orth xml:lang="lat">Adhœsio</orth>
+<foreign xml:lang="fra">adhésion</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Adiaphorus</orth>
@@ -715,7 +720,10 @@
 <foreign xml:lang="fra">indisposition</foreign>
 </entryFree>
 
-<pb/>
+<entryFree type="tr">
+<orth xml:lang="lat">Ægilops</orth>
+<foreign xml:lang="fra">aegilops</foreign>
+</entryFree>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Ægritudo</orth>
@@ -773,27 +781,71 @@
 <foreign xml:lang="fra">équinoxe</foreign>
 </entryFree>
 
-<pb n="Aër air"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Aër</orth>
+<foreign xml:lang="fra">air</foreign>
+</entryFree>
 
-<pb n="Aëreus aérien"/>
 
-<pb n="Aërificatio aérification"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Aëreus</orth>
+<foreign xml:lang="fra">aérien</foreign>
+</entryFree>
 
-<pb n="Aëricus aérien"/>
 
-<pb n="Aërologia aérologie"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Aërificatio</orth>
+<foreign xml:lang="fra">aérification</foreign>
+</entryFree>
 
-<pb n="Aërometria aérométrie"/>
 
-<pb n="Aërometrum aéromètre"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Aëricus</orth>
+<foreign xml:lang="fra">aérien</foreign>
+</entryFree>
 
-<pb n="Aëronauta aéronaute"/>
 
-<pb n="Aërophobia aérophobie"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Aërologia</orth>
+<foreign xml:lang="fra">aérologie</foreign>
+</entryFree>
 
-<pb n="Aërophobus aérophobe"/>
 
-<pb n="Aërostatdcus aérostatique"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Aërometria</orth>
+<foreign xml:lang="fra">aérométrie</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Aërometrum</orth>
+<foreign xml:lang="fra">aéromètre</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Aëronauta</orth>
+<foreign xml:lang="fra">aéronaute</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Aërophobia</orth>
+<foreign xml:lang="fra">aérophobie</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Aërophobus</orth>
+<foreign xml:lang="fra">aérophobe</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Aërostatdcus</orth>
+<foreign xml:lang="fra">aérostatique</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Ærugineus</orth>
@@ -938,7 +990,7 @@
 <foreign xml:lang="fra">agonostique</foreign>
 </entryFree>
 
-<pb n="369"/>
+<pb n="369" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0385/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=385"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Agonus</orth>
@@ -1529,7 +1581,7 @@
 <foreign xml:lang="fra">amidon</foreign>
 </entryFree>
 
-<pb n="370"/>
+<pb n="370" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0386/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=386"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Amynteria</orth>
@@ -1956,7 +2008,11 @@
 <foreign xml:lang="fra">haleine</foreign>
 </entryFree>
 
-<pb n="Anima ame"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Anima</orth>
+<foreign xml:lang="fra">âme</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Animal</orth>
@@ -2087,7 +2143,7 @@
 <foreign xml:lang="fra">antalgique</foreign>
 </entryFree>
 
-<pb n="371"/>
+<pb n="371" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0387/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=387"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Antaphrodisiacus</orth>
@@ -2624,7 +2680,7 @@
 <foreign xml:lang="fra">aphorisme</foreign>
 </entryFree>
 
-<pb n="372"/>
+<pb n="372" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0388/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=388"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Aphoristicus</orth>
@@ -3201,7 +3257,7 @@
 <foreign xml:lang="fra">arsenical</foreign>
 </entryFree>
 
-<pb n="373"/>
+<pb n="373" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0389/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=389"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Arsenicum</orth>
@@ -3772,7 +3828,7 @@
 <foreign xml:lang="fra">oreillette</foreign>
 </entryFree>
 
-<pb n="374"/>
+<pb n="374" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0390/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=390"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Auricularis</orth>
@@ -4349,7 +4405,7 @@
 <foreign xml:lang="fra">bochet</foreign>
 </entryFree>
 
-<pb n="375"/>
+<pb n="375" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0391/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=391"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Bolides</orth>
@@ -4907,7 +4963,7 @@
 <foreign xml:lang="fra">durillon</foreign>
 </entryFree>
 
-<pb n="376"/>
+<pb n="376" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0392/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=392"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Callipœdia</orth>
@@ -5510,7 +5566,7 @@
 <foreign xml:lang="fra">catacoustique</foreign>
 </entryFree>
 
-<pb n="377"/>
+<pb n="377" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0393/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=393"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Castratio</orth>
@@ -6098,7 +6154,7 @@
 <foreign xml:lang="fra">chélidoine</foreign>
 </entryFree>
 
-<pb n="378"/>
+<pb n="378" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0394/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=394"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Chelonii</orth>
@@ -6671,7 +6727,7 @@
 <foreign xml:lang="fra">clavicule</foreign>
 </entryFree>
 
-<pb n="379"/>
+<pb n="379" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0395/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=395"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Cleisagra</orth>
@@ -7242,7 +7298,7 @@
 <foreign xml:lang="fra">condensable</foreign>
 </entryFree>
 
-<pb n="380"/>
+<pb n="380" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0396/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=396"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Condensabilitas</orth>
@@ -7792,7 +7848,7 @@
 <foreign xml:lang="fra">couronne</foreign>
 </entryFree>
 
-<pb n="381"/>
+<pb n="381" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0397/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=397"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Coronalis</orth>
@@ -8374,7 +8430,7 @@
 <foreign xml:lang="fra">cucurbitain</foreign>
 </entryFree>
 
-<pb n="382"/>
+<pb n="382" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0398/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=398"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Cucurbitula</orth>
@@ -8940,7 +8996,7 @@
 <foreign xml:lang="fra">dérivation</foreign>
 </entryFree>
 
-<pb n="383"/>
+<pb n="383" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0399/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=399"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Defluxio</orth>
@@ -9517,7 +9573,7 @@
 <foreign xml:lang="fra">diaphorétique</foreign>
 </entryFree>
 
-<pb n="384"/>
+<pb n="384" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0400/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=400"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Diaphragma</orth>
@@ -9866,7 +9922,11 @@
 <foreign xml:lang="fra">discrète</foreign>
 </entryFree>
 
-<pb n="Disciforme os rotule"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Disciforme</orth>
+<foreign xml:lang="fra">os rotule</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Discrimen</orth>
@@ -10022,7 +10082,11 @@
 <foreign xml:lang="fra">dividende</foreign>
 </entryFree>
 
-<pb n="Divisio divisoin"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Divisio</orth>
+<foreign xml:lang="fra">division</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Divisor</orth>
@@ -10095,7 +10159,7 @@
 <foreign xml:lang="fra">domestique</foreign>
 </entryFree>
 
-<pb n="385"/>
+<pb n="385" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0401/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=401"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Dorsalis</orth>
@@ -10472,7 +10536,12 @@
 <foreign xml:lang="fra">efficient</foreign>
 </entryFree>
 
-<pb n="Efflorescentia efflorescence exanthême"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Efflorescentia</orth>
+<foreign xml:lang="fra">efflorescence</foreign>
+<foreign xml:lang="fra">exanthême</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Efflorescere</orth>
@@ -10662,7 +10731,7 @@
 <foreign xml:lang="fra">émasculer</foreign>
 </entryFree>
 
-<pb n="386"/>
+<pb n="386" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0402/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=402"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Embolismus</orth>
@@ -11226,7 +11295,7 @@
 <foreign xml:lang="fra">épiginomène</foreign>
 </entryFree>
 
-<pb n="387"/>
+<pb n="387" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0403/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=403"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Epiglottis</orth>
@@ -11809,7 +11878,7 @@
 <foreign xml:lang="fra">exostose</foreign>
 </entryFree>
 
-<pb n="388"/>
+<pb n="388" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0404/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=404"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Exoticus</orth>
@@ -12381,7 +12450,7 @@
 <foreign xml:lang="fra">fissipède</foreign>
 </entryFree>
 
-<pb n="389"/>
+<pb n="389" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0405/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=405"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Fissula</orth>
@@ -12957,7 +13026,7 @@
 <foreign xml:lang="fra">fusion</foreign>
 </entryFree>
 
-<pb n="390"/>
+<pb n="390" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0406/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=406"/>
 
 <label>G</label>
 
@@ -13031,7 +13100,12 @@
 <foreign xml:lang="fra">galactose</foreign>
 </entryFree>
 
-<pb n="Galas actis galacte"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Galas</orth>
+<orth xml:lang="lat">galactis</orth>
+<foreign xml:lang="fra">galacte</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Galaxia</orth>
@@ -13502,7 +13576,7 @@
 <foreign xml:lang="fra">glosso-staphylin</foreign>
 </entryFree>
 
-<pb n="391"/>
+<pb n="391" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0407/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=407"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Glossotomia</orth>
@@ -14056,7 +14130,7 @@
 <foreign xml:lang="fra">héliotrope</foreign>
 </entryFree>
 
-<pb n="392"/>
+<pb n="392" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0408/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=408"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Helix</orth>
@@ -14637,7 +14711,7 @@
 <foreign xml:lang="fra">aqueux</foreign>
 </entryFree>
 
-<pb n="393"/>
+<pb n="393" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0409/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=409"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Hydatoides</orth>
@@ -15167,7 +15241,7 @@
 <foreign xml:lang="fra">hypothénuse</foreign>
 </entryFree>
 
-<pb n="394"/>
+<pb n="394" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0410/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=410"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Hypsiloglossus</orth>
@@ -15739,7 +15813,7 @@
 <foreign xml:lang="fra">indenté</foreign>
 </entryFree>
 
-<pb n="395"/>
+<pb n="395" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0411/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=411"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Index</orth>
@@ -16302,7 +16376,11 @@
 <foreign xml:lang="fra">invulnérable</foreign>
 </entryFree>
 
-<pb n="Ipecacuanha ipecacuanha"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Ipecacuanha</orth>
+<foreign xml:lang="fra">ipecacuanha</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Intoxicatio</orth>
@@ -16324,7 +16402,7 @@
 <foreign xml:lang="fra">liniment</foreign>
 </entryFree>
 
-<pb n="396"/>
+<pb n="396" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0412/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=412"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Iris</orth>
@@ -16837,7 +16915,7 @@
 <foreign xml:lang="fra">laxité</foreign>
 </entryFree>
 
-<pb n="397"/>
+<pb n="397" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0413/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=413"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Legumen</orth>
@@ -17429,7 +17507,7 @@
 <foreign xml:lang="fra">lubricité</foreign>
 </entryFree>
 
-<pb n="398"/>
+<pb n="398" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0414/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=414"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Lucidus</orth>
@@ -17998,7 +18076,7 @@
 <foreign xml:lang="fra">maturation</foreign>
 </entryFree>
 
-<pb n="399"/>
+<pb n="399" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0415/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=415"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Maxilla</orth>
@@ -18575,7 +18653,7 @@
 <foreign xml:lang="fra">mixtion</foreign>
 </entryFree>
 
-<pb n="400"/>
+<pb n="400" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0416/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=416"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Mobilis</orth>
@@ -18872,7 +18950,11 @@
 <foreign xml:lang="fra">multicapsulaire</foreign>
 </entryFree>
 
-<pb n="Multicaulis multicaule"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Multicaulis</orth>
+<foreign xml:lang="fra">multicaule</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Multifidus</orth>
@@ -19131,7 +19213,7 @@
 <foreign xml:lang="fra">enchifrenement</foreign>
 </entryFree>
 
-<pb n="401"/>
+<pb n="401" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0417/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=417"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Nasus</orth>
@@ -19699,7 +19781,7 @@
 <foreign xml:lang="fra">odontoïde</foreign>
 </entryFree>
 
-<pb n="402"/>
+<pb n="402" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0418/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=418"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Odontologia</orth>
@@ -20280,7 +20362,7 @@
 <foreign xml:lang="fra">oxyregmie</foreign>
 </entryFree>
 
-<pb n="403"/>
+<pb n="403" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0419/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=419"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Oxyrrhodinum</orth>
@@ -20826,7 +20908,7 @@
 <foreign xml:lang="fra">pédiculé</foreign>
 </entryFree>
 
-<pb n="404"/>
+<pb n="404" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0420/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=420"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Pediculus</orth>
@@ -21410,7 +21492,7 @@
 <foreign xml:lang="fra">pharmaceutique</foreign>
 </entryFree>
 
-<pb n="405"/>
+<pb n="405" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0421/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=421"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Pharmacia</orth>
@@ -21971,7 +22053,7 @@
 <foreign xml:lang="fra">plomb</foreign>
 </entryFree>
 
-<pb n="406"/>
+<pb n="406" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0422/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=422"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Plurilocularis</orth>
@@ -22451,7 +22533,11 @@
 <foreign xml:lang="fra">priape</foreign>
 </entryFree>
 
-<pb n="Pimitivus primitif"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Pimitivus</orth>
+<foreign xml:lang="fra">primitif</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Principium</orth>
@@ -22554,7 +22640,7 @@
 <foreign xml:lang="fra">prolifique</foreign>
 </entryFree>
 
-<pb n="407"/>
+<pb n="407" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0423/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=423"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Prominentia</orth>
@@ -23133,7 +23219,7 @@
 <foreign xml:lang="fra">pyzidule</foreign>
 </entryFree>
 
-<pb n="408"/>
+<pb n="408" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0424/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=424"/>
 
 <label>Q</label>
 
@@ -23672,7 +23758,7 @@
 <foreign xml:lang="fra">réminiscence</foreign>
 </entryFree>
 
-<pb n="409"/>
+<pb n="409" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0425/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=425"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Remissio</orth>
@@ -24224,7 +24310,7 @@
 <foreign xml:lang="fra">sanie</foreign>
 </entryFree>
 
-<pb n="410"/>
+<pb n="410" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0426/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=426"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Saniosus</orth>
@@ -24805,7 +24891,7 @@
 <foreign xml:lang="fra">septique</foreign>
 </entryFree>
 
-<pb n="411"/>
+<pb n="411" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0427/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=427"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Septum</orth>
@@ -25402,7 +25488,7 @@
 <foreign xml:lang="fra">sphacèle</foreign>
 </entryFree>
 
-<pb n="412"/>
+<pb n="412" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0428/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=428"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Sphœricus</orth>
@@ -25946,7 +26032,7 @@
 <foreign xml:lang="fra">strabisme</foreign>
 </entryFree>
 
-<pb n="413"/>
+<pb n="413" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0429/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=429"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Strangulatio</orth>
@@ -26514,7 +26600,7 @@
 <foreign xml:lang="fra">symbologie</foreign>
 </entryFree>
 
-<pb n="414"/>
+<pb n="414" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0430/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=430"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Symmetria</orth>
@@ -27008,7 +27094,12 @@
 <foreign xml:lang="fra">fièvre tierce</foreign>
 </entryFree>
 
-<pb n="Testa têt ou test"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Testa</orth>
+<foreign xml:lang="fra">têt</foreign>
+<foreign xml:lang="fra">test</foreign>
+</entryFree>
+
 
 <entryFree type="tr">
 <orth xml:lang="lat">Testaceus</orth>
@@ -27075,7 +27166,7 @@
 <foreign xml:lang="fra">tétraptère</foreign>
 </entryFree>
 
-<pb n="415"/>
+<pb n="415" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0431/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=431"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Tetraspermus</orth>
@@ -27635,7 +27726,7 @@
 <foreign xml:lang="fra">trigynie</foreign>
 </entryFree>
 
-<pb n="416"/>
+<pb n="416" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0432/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=432"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Trijugus</orth>
@@ -27925,23 +28016,57 @@
 <foreign xml:lang="fra">tourbillon</foreign>
 </entryFree>
 
-<pb n="Turgescentia turgescence"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Turgescentia</orth>
+<foreign xml:lang="fra">turgescence</foreign>
+</entryFree>
 
-<pb n="Turenda tente"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Turenda</orth>
+<foreign xml:lang="fra">tente</foreign>
+</entryFree>
 
-<pb n="Tussis toux"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Tussis</orth>
+<foreign xml:lang="fra">toux</foreign>
+</entryFree>
 
-<pb n="Tympanites tympanite"/>
 
-<pb n="Tympanum tympan"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Tympanites</orth>
+<foreign xml:lang="fra">tympanite</foreign>
+</entryFree>
 
-<pb n="Typhodes typhode"/>
 
-<pb n="Typhomania typhomanie"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Tympanum</orth>
+<foreign xml:lang="fra">tympan</foreign>
+</entryFree>
 
-<pb n="Typhus typhus"/>
 
-<pb n="Typus type"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Typhodes</orth>
+<foreign xml:lang="fra">typhode</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Typhomania</orth>
+<foreign xml:lang="fra">typhomanie</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Typhus</orth>
+<foreign xml:lang="fra">typhus</foreign>
+</entryFree>
+
+
+<entryFree type="tr">
+<orth xml:lang="lat">Typus</orth>
+<foreign xml:lang="fra">type</foreign>
+</entryFree>
+
 
 <label>U</label>
 
@@ -28188,7 +28313,7 @@
 <foreign xml:lang="fra">urocrise</foreign>
 </entryFree>
 
-<pb n="417"/>
+<pb n="417" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0433/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=433"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Uromantes</orth>
@@ -28765,7 +28890,7 @@
 <foreign xml:lang="fra">poison</foreign>
 </entryFree>
 
-<pb n="418"/>
+<pb n="418" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0434/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=434"/>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Vis</orth>
@@ -29001,11 +29126,14 @@
 <label>Y</label>
 
 <entryFree type="tr">
-<orth xml:lang="lat">YAWS</orth>
+<orth xml:lang="lat">Yaws</orth>
 <foreign xml:lang="fra">yaws</foreign>
 </entryFree>
 
-<pb n="Ytterbi ytterbi"/>
+<entryFree type="tr">
+<orth xml:lang="lat">Ytterbi</orth>
+<foreign xml:lang="fra">ytterbi</foreign>
+</entryFree>
 
 <entryFree type="tr">
 <orth xml:lang="lat">Yuria</orth>
