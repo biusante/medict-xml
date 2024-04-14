@@ -14,6 +14,7 @@
           <choice>
             <ref name="damage"/>
             <ref name="entryFree"/>
+            <ref name="label"/>
             <ref name="pb"/>
           </choice>
         </oneOrMore>

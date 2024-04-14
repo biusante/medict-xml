@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/medict37020d_index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="medict.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019" xml:lang="fra">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="Capuron" n="37019~grc" xml:lang="fra">
   <teiHeader>
     <fileDesc>
       <titleStmt>
