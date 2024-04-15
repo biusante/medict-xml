@@ -361,21 +361,50 @@
   </div>
   <div>
     <a:documentation>Éléments lexicaux balisés dans un article</a:documentation>
-    <define name="i">
-      <element name="hi">
-        <a:documentation>Mot en italique, sémantique en cours de résolution</a:documentation>
-        <optional>
-          <ref name="lang"/>
-        </optional>
+    <define name="abbr">
+      <element name="abbr">
+        <a:documentation>Expansion d’abréviation.</a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="choice.corr">
+      <element name="choice">
+        <a:documentation>Correction philologique.</a:documentation>
+        <ref name="sic"/>
+        <ref name="corr"/>
+      </element>
+    </define>
+    <define name="choice.expan">
+      <element name="choice">
+        <a:documentation>Expansion d’abréviation.</a:documentation>
+        <ref name="abbr"/>
+        <ref name="expan"/>
+      </element>
+    </define>
+    <define name="choice.reg">
+      <element name="choice">
+        <a:documentation>Régularisation philologique.</a:documentation>
+        <ref name="orig"/>
+        <ref name="reg"/>
+      </element>
+    </define>
+    <define name="corr">
+      <element name="corr">
+        <a:documentation>(correction) contient la forme correcte d'un passage qui est considéré erroné dans la copie du texte</a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="ex">
+      <element name="ex">
+        <text/>
+      </element>
+    </define>
+    <define name="expan">
+      <element name="expan">
+        <a:documentation>(expansion) contient l'expansion d'une abréviation.</a:documentation>
         <oneOrMore>
           <choice>
             <text/>
-            <ref name="cb"/>
-            <ref name="lb"/>
-            <ref name="pb"/>
-            <ref name="persName"/>
-            <ref name="sc"/>
-            <ref name="sup"/>
           </choice>
         </oneOrMore>
       </element>
@@ -399,6 +428,21 @@
         </oneOrMore>
       </element>
     </define>
+    <define name="foreign">
+      <element name="foreign">
+        <a:documentation>Mot en langue étrangère, notamment les équivalents traductionnels ou les glossaires</a:documentation>
+        <ref name="lang"/>
+        <ref name="foreign.atts"/>
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="choice.corr"/>
+            <ref name="damage"/>
+            <ref name="ex"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
     <define name="form">
       <element name="form">
         <a:documentation>Sous-entrée, notamment la phraséologie (locutions, expressions)</a:documentation>
@@ -408,19 +452,6 @@
             <ref name="unclear"/>
           </choice>
         </zeroOrMore>
-      </element>
-    </define>
-    <define name="foreign">
-      <element name="foreign">
-        <a:documentation>Mot en langue étrangère, notamment les équivalents traductionnels ou les glossaires</a:documentation>
-        <ref name="lang"/>
-        <ref name="foreign.atts"/>
-        <oneOrMore>
-          <choice>
-            <ref name="damage"/>
-            <text/>
-          </choice>
-        </oneOrMore>
       </element>
     </define>
     <define name="formula">
@@ -448,9 +479,34 @@
         <text/>
       </element>
     </define>
+    <define name="i">
+      <element name="hi">
+        <a:documentation>Mot en italique, sémantique en cours de résolution</a:documentation>
+        <optional>
+          <ref name="lang"/>
+        </optional>
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="cb"/>
+            <ref name="lb"/>
+            <ref name="pb"/>
+            <ref name="persName"/>
+            <ref name="sc"/>
+            <ref name="sup"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
     <define name="num">
       <element name="num">
         <a:documentation>Nombre, en petites capitales, souvent des siècles, reconnu automatiquement. <a:example>qui régna dans le milieu du <num>xivᵉ</num> siècle.</a:example></a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="orig">
+      <element name="orig">
+        <a:documentation>(forme originale) contient une partie notée comme étant fidèle à l'original et non pas normalisée ou corrigée.</a:documentation>
         <text/>
       </element>
     </define>
@@ -461,6 +517,8 @@
         <oneOrMore>
           <choice>
             <text/>
+            <ref name="choice.corr"/>
+            <ref name="ex"/>
             <element name="hi">
               <text/>
             </element>
@@ -515,6 +573,12 @@
         <attribute name="type"/>
       </optional>
     </define>
+    <define name="reg">
+      <element name="reg">
+        <a:documentation>(régularisation) contient une partie qui a été régularisée ou normalisée de façon quelconque</a:documentation>
+        <text/>
+      </element>
+    </define>
     <define name="sc">
       <element name="rs">
         <a:documentation>Petites capitales, non sémantisées (sc : small-caps), par exemple <a:example><orth>MÉTHYLOSPIROYLIQUE</orth> (<rs rend="sc">Acide</rs>).</a:example></a:documentation>
@@ -531,6 +595,12 @@
             <ref name="pb"/>
           </choice>
         </zeroOrMore>
+      </element>
+    </define>
+    <define name="sic">
+      <element name="sic">
+        <a:documentation>(du latin, ainsi) contient du texte reproduit quoiqu'il est apparemment incorrect ou inexact</a:documentation>
+        <text/>
       </element>
     </define>
     <define name="sup">

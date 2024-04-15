@@ -2612,8 +2612,8 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Apantrophia</orth>
-<foreign xml:lang="fra">apantrophie</foreign>
+<orth xml:lang="lat"><choice><sic>Apantrophia</sic><corr>Apanthropia</corr></choice></orth>
+<foreign xml:lang="fra"><choice><sic>apantrophie</sic><corr>apanthropie</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -2669,8 +2669,8 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Aphilantrophia</orth>
-<foreign xml:lang="fra">aphilantrophie</foreign>
+<orth xml:lang="lat"><choice><sic>Aphilantrophia</sic><corr>Aphilanthropia</corr></choice></orth>
+<foreign xml:lang="fra"><choice><sic>aphilantrophie</sic><corr>aphilanthropie</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -4099,7 +4099,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Basioglosus</orth>
-<foreign xml:lang="fra">basioglose</foreign>
+<foreign xml:lang="fra"><choice><sic>basioglose</sic> <corr>basioglosse</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -4427,7 +4427,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Bombyas</orth>
-<foreign xml:lang="fra">bombyate</foreign>
+<foreign xml:lang="fra"><choice><sic>bombyate</sic> <corr>bombiate</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -4492,7 +4492,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Bothryon</orth>
-<foreign xml:lang="fra">bothryon</foreign>
+<foreign xml:lang="fra"><choice><sic>bothryon</sic> <corr>bothrion</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -4667,7 +4667,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Buffonites</orth>
-<foreign xml:lang="fra">buffonite</foreign>
+<foreign xml:lang="fra"><choice><sic>buffonite</sic> <corr>bufonite</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -4844,42 +4844,42 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Cœcitas</orth>
+<orth xml:lang="lat"><choice><sic>Cœcitas</sic> <corr>Caecitas</corr></choice></orth>
 <foreign xml:lang="fra">cécité</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Cœcum</orth>
-<foreign xml:lang="fra">cœcum</foreign>
+<orth xml:lang="lat"><choice><sic>Cœcum</sic> <corr>Caecum</corr></choice></orth>
+<foreign xml:lang="fra"><choice><sic>cœcum</sic> <corr>caecum</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Cœcus</orth>
+<orth xml:lang="lat"><choice><sic>Cœcus</sic> <corr>Caecus</corr></choice></orth>
 <foreign xml:lang="fra">aveugle</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Cœmentatio</orth>
+<orth xml:lang="lat"><choice><sic>Cœmentatio</sic> <corr>Caementatio</corr></choice></orth>
 <foreign xml:lang="fra">cémentation</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Cœsaria sectio</orth>
+<orth xml:lang="lat"><choice><sic>Cœsaria</sic> <corr>Caesaria</corr></choice> sectio</orth>
 <foreign xml:lang="fra">section césarienne</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Cœsio</orth>
+<orth xml:lang="lat"><choice><sic>Cœsio</sic> <corr>Caesio</corr></choice></orth>
 <foreign xml:lang="fra">incision</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Coeso</orth>
+<orth xml:lang="lat"><choice><sic>Coeso</sic> <corr>Caesio</corr></choice></orth>
 <foreign xml:lang="fra">né par l’opération césarienne</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Cœsura</orth>
+<orth xml:lang="lat"><choice><sic>Cœsura</sic> <corr>Cæsura</corr></choice></orth>
 <foreign xml:lang="fra">coupure</foreign>
 </entryFree>
 
@@ -5154,7 +5154,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Cannula</orth>
-<foreign xml:lang="fra">cannule</foreign>
+<foreign xml:lang="fra"><choice><sic>cannule</sic> <corr>canule</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -6123,12 +6123,12 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Chamæcerasus</orth>
-<foreign xml:lang="fra">chamæcerasus</foreign>
+<orth xml:lang="lat">Chamæcerasus<!-- L’index porte Chamœcerasus mais le mot est bien Chamæcerasus, voir Métadictionnaire et étymologie --></orth>
+<foreign xml:lang="fra">chamæcerasus<!-- L’index porte chamœcerasus mais le mot est bien écrit chamaecerasus en petites capitales dans le dictionnaire --></foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Chamœcissa</orth>
+<orth xml:lang="lat">Chamœcissa<!-- L’index porte Chamœcissa mais le mot est bien Chamæcissa, voir Métadictionnaire et étymologie --></orth>
 <foreign xml:lang="fra">chamécisse</foreign>
 </entryFree>
 
@@ -6287,7 +6287,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Chondropterigœus</orth>
-<foreign xml:lang="fra">chondroptérigien</foreign>
+<foreign xml:lang="fra">chondroptérigien<!-- Chondroptérygien dans le dictionnaire. FG: <sic> ? --></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -6397,7 +6397,7 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Chrysomelæ</orth>
+<orth xml:lang="lat">Chrysomelæ<!-- Le dictionnaire écrit Chrysomelœ, mais il s’agit d’un féminin pluriel latin --></orth>
 <foreign xml:lang="fra">chrysomèles</foreign>
 </entryFree>
 
@@ -10542,7 +10542,7 @@
 <entryFree type="tr">
 <orth xml:lang="lat">Efflorescentia</orth>
 <foreign xml:lang="fra">efflorescence</foreign>
-<foreign xml:lang="fra">exanthême</foreign>
+<foreign xml:lang="fra">exanthême<!-- <sic> ? --></foreign>
 </entryFree>
 
 
@@ -11220,7 +11220,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Epian</orth>
-<foreign xml:lang="fra">epian</foreign>
+<foreign xml:lang="fra">epian<!-- <sic> ? --></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -18804,57 +18804,57 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— arcuatus</orth>
+<orth xml:lang="lat">Morbus arcuatus</orth>
 <foreign xml:lang="fra">ictère</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— caducus</orth>
+<orth xml:lang="lat">Morbus caducus</orth>
 <foreign xml:lang="fra">épilepsie</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— comitialis</orth>
+<orth xml:lang="lat">Morbus comitialis</orth>
 <foreign xml:lang="fra">épilepsie</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— gallicus</orth>
+<orth xml:lang="lat">Morbus gallicus</orth>
 <foreign xml:lang="fra">vérole</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— herculeus</orth>
+<orth xml:lang="lat">Morbus herculeus</orth>
 <foreign xml:lang="fra">épilepsie</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— hispanicus</orth>
+<orth xml:lang="lat">Morbus hispanicus</orth>
 <foreign xml:lang="fra">vérole</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— interlunis</orth>
+<orth xml:lang="lat">Morbus interlunis</orth>
 <foreign xml:lang="fra">épilepsie</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— neapolitanus</orth>
+<orth xml:lang="lat">Morbus neapolitanus</orth>
 <foreign xml:lang="fra">vérole</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— niger</orth>
+<orth xml:lang="lat">Morbus niger</orth>
 <foreign xml:lang="fra">maladie noire</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— regius</orth>
+<orth xml:lang="lat">Morbus regius</orth>
 <foreign xml:lang="fra">ictère</foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">— sacer</orth>
+<orth xml:lang="lat">Morbus sacer</orth>
 <foreign xml:lang="fra">épilepsie</foreign>
 </entryFree>
 
@@ -22537,7 +22537,7 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Pimitivus</orth>
+<orth xml:lang="lat"><choice><sic>Pimitivus</sic> <corr>Primitivus</corr></choice></orth>
 <foreign xml:lang="fra">primitif</foreign>
 </entryFree>
 
@@ -24507,7 +24507,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Scapula</orth>
-<foreign xml:lang="fra">èpaule</foreign>
+<foreign xml:lang="fra"><choice><sic>èpaule</sic> <corr>épaule</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -24756,7 +24756,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Sedes</orth>
-<foreign xml:lang="fra">siége</foreign>
+<foreign xml:lang="fra"><choice><sic>siége</sic> <corr>siège</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -26418,7 +26418,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Sulfas</orth>
-<foreign xml:lang="fra">sufate</foreign>
+<foreign xml:lang="fra"><choice><sic>sufate</sic> <corr>sulfate</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -29134,6 +29134,7 @@
 </entryFree>
 
 <entryFree type="tr">
+<!-- (faute de transcription) -->
 <orth xml:lang="lat">Ytterbi</orth>
 <foreign xml:lang="fra">ytterbi</foreign>
 </entryFree>

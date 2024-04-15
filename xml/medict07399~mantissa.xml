@@ -948,7 +948,7 @@
 <orth>ARDOR</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Hammi Vaed</foreign>. <foreign xml:lang="ara">Taucad</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Jecod</foreign>. <foreign xml:lang="heb">Chari</foreign>. <foreign xml:lang="heb">Charon</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">κᾶυμα</foreign><!--Autoría desconocida — LIRE : καῦμα-->.
+[<hi>grc</hi>] <foreign xml:lang="grc"><choice><sic>κᾶυμα</sic> <corr>καῦμα</corr></choice></foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Ardeur</foreign>. <foreign xml:lang="fra">Ferveur</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Ardore</foreign>. <foreign xml:lang="ita">Caldo grande</foreign>.
 </entryFree>
@@ -1346,7 +1346,7 @@
 <orth>BALNEUM</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Hammim</foreign>. <foreign xml:lang="ara">Gesal</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Abhta</foreign>. <foreign xml:lang="heb">Rachaz</foreign>. <foreign xml:lang="heb">Rachza</foreign>.<foreign xml:lang="heb">Mesoth</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">λοῦτρον</foreign><!--Autoría desconocida — LIRE : λουτρὸν-->.
+[<hi>grc</hi>] <foreign xml:lang="grc"><choice><sic>λοῦτρον</sic> <corr>λουτρὸν</corr></choice></foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Bain</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Bagno</foreign>.
 </entryFree>
@@ -1400,7 +1400,7 @@
 <orth>BENIGNUM</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Hanin</foreign>. <foreign xml:lang="ara">Hannan</foreign>. <foreign xml:lang="ara">Tib</foreign>. <foreign xml:lang="ara">Taib</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Basim</foreign>. <foreign xml:lang="heb">Tobh</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">ἔυηθες</foreign><!--Autoría desconocida — LIRE : εὔηθες-->.
+[<hi>grc</hi>] <foreign xml:lang="grc"><choice><sic>ἔυηθες</sic> <corr>εὔηθες</corr></choice></foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Benin</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Benigno</foreign>.
 </entryFree>
@@ -1442,14 +1442,12 @@
 </entryFree>
 
 <entryFree>
-<orth>BILIS FLAVA</orth> ET NIGRA<!--Autoría desconocida — Comment inclure les deux adjectifs lorsqu’ils portent sur le même substantif ?
-
-Idem infra-->.
-[<hi>ara</hi>] <foreign xml:lang="ara">Marra Zafra</foreign> &amp; Seudi.
+<orth>BILIS FLAVA</orth> ET <orth><ex>BILIS </ex>NIGRA</orth>.
+[<hi>ara</hi>] <foreign xml:lang="ara">Marra Zafra</foreign> &amp; <foreign xml:lang="ara"><ex>Marra </ex>Seudi</foreign>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Merara</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">χολὴ ξανθὴ</foreign> καὶ μέλαινα.
-[<hi>fra</hi>] <foreign xml:lang="fra">Bile jaune</foreign> &amp; noire.
-[<hi>ita</hi>] <foreign xml:lang="ita">Bile gialla</foreign> e nera.
+[<hi>grc</hi>] <foreign xml:lang="grc">χολὴ ξανθὴ</foreign> καὶ <foreign xml:lang="grc"><ex>χολὴ </ex>μέλαινα</foreign>.
+[<hi>fra</hi>] <foreign xml:lang="fra">Bile jaune</foreign> &amp; <foreign xml:lang="fra"><ex>Bile </ex>noire</foreign>.
+[<hi>ita</hi>] <foreign xml:lang="ita">Bile gialla</foreign> e <foreign xml:lang="ita"><ex>Bile </ex>nera</foreign>.
 </entryFree>
 
 <entryFree>
@@ -1491,9 +1489,7 @@ Idem infra-->.
 <orth>BOLUS ARMENA</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Albin</foreign>. <foreign xml:lang="ara">Alarmen</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Timah</foreign>. <foreign xml:lang="heb">Cardanun</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">βῶλος ἁρμένιος</foreign><!--Autoría desconocida — LIRE : ἀρμένιος
-
-(esprit doux)-->,
+[<hi>grc</hi>] <foreign xml:lang="grc">βῶλος <choice><sic>ἁρμένιος</sic> <corr>ἀρμένιος</corr></choice></foreign>,
 [<hi>fra</hi>] <foreign xml:lang="fra">Bol d’Arménie</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Bol Armeno</foreign>.
 </entryFree>
@@ -1668,7 +1664,7 @@ Idem infra-->.
 <orth>CADAVER</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Gism</foreign>. <foreign xml:lang="ara">Guttah</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Nephelah</foreign>. <foreign xml:lang="heb">Mappelah</foreign>. <foreign xml:lang="heb">Pegar</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">νεκρόν</foreign>, <foreign xml:lang="grc">πεσὸν σῶμα</foreign><!--Autoría desconocida — Deux adjectifs, un substantif-->.
+[<hi>grc</hi>] <foreign xml:lang="grc">νεκρόν<ex> σῶμα</ex></foreign>, <foreign xml:lang="grc">πεσὸν σῶμα</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Cadavre</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Corpo morto</foreign>.
 </entryFree>
@@ -1677,9 +1673,7 @@ Idem infra-->.
 <orth>CADMIA</orth>,
 [<hi>ara</hi>] <foreign xml:lang="ara">Climia</foreign>. <foreign xml:lang="ara">Vasara</foreign>.
 [<hi>heb</hi>] <hi>deficit</hi>.
-[<hi>grc</hi>] <foreign xml:lang="grc">καδμεῖα</foreign><!--Autoría desconocida — LIRE : καδμεία
-
-Accent aigu-->.
+[<hi>grc</hi>] <foreign xml:lang="grc"><choice><sic>καδμεῖα</sic> <corr>καδμεία</corr></choice></foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Cadmia</foreign>
 [<hi>ita</hi>] <foreign xml:lang="ita">Cadmia</foreign>.
 </entryFree>
@@ -1951,7 +1945,7 @@ Accent aigu-->.
 <orth>CARIES</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Susa</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Racabh</foreign>. <foreign xml:lang="heb">Schabas</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">τερεδὼν</foreign><!--Autoría desconocida — LIRE : τερηδὼν-->. <foreign xml:lang="grc">ἐυρὼς</foreign>.
+[<hi>grc</hi>] <foreign xml:lang="grc"><choice><sic>τερεδὼν</sic> <corr>τερηδὼν</corr></choice></foreign>. <foreign xml:lang="grc">ἐυρὼς</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Pourriture d’os</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Caruolo</foreign>. <foreign xml:lang="ita">Tarlo</foreign>.
 </entryFree>
@@ -2654,7 +2648,7 @@ Accent aigu-->.
 <orth>CONFECTIO</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Maagun</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Recach</foreign>.
-[<hi>grc</hi>] <foreign xml:lang="grc">ἥδυσμα</foreign>, <foreign xml:lang="grc">ἄρτομα</foreign><!--Autoría desconocida — LIRE : ἄρτυμα-->.
+[<hi>grc</hi>] <foreign xml:lang="grc">ἥδυσμα</foreign>, <foreign xml:lang="grc"><choice><sic>ἄρτομα</sic> <corr>ἄρτυμα</corr></choice></foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Confection</foreign>. <foreign xml:lang="fra">Confiture</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Confezzione</foreign>.
 </entryFree>
@@ -4719,7 +4713,7 @@ Accent aigu-->.
 [<hi>ara</hi>] <foreign xml:lang="ara">Hami aldac</foreign>. <foreign xml:lang="ara">Meselet</foreign>. <foreign xml:lang="ara">Mucalif</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Hadacia</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">ἑκτικὴ</foreign>.
-[<hi>fra</hi>] <foreign xml:lang="fra">Fiévre Hectique</foreign>, Etique<!--Autoría desconocida — Deux adjectifs, un substantif.-->.
+[<hi>fra</hi>] <foreign xml:lang="fra">Fiévre Hectique</foreign>, <foreign xml:lang="fra"><ex>Fiévre </ex>Etique</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Hectica</foreign>. <foreign xml:lang="ita">Hettica febre</foreign>.
 </entryFree>
 
