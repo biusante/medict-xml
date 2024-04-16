@@ -665,7 +665,7 @@
 
 <entry>
 <orth>Achores</orth>, <gram>s. m. pl.</gram> du latin <foreign xml:lang="lat">achores</foreign>.
-<lb/>ct du grec <foreign xml:lang="grc">ἀκὼρ</foreign>, ulcère humide’
+  <lb/>ct du grec <foreign xml:lang="grc"><choice><sic>ἀκὼρ</sic><corr>ἀχὼρ</corr></choice></foreign>, ulcère humide’
 <lb/>de la tête;teigne humide desenfans.
 </entry>
 
@@ -880,7 +880,7 @@
 
 <entry>
 <orth>Acrotériasme</orth>, <gram>s. m.</gram>’ <foreign xml:lang="lat">acroteriasmus</foreign>,
-<lb/>du grec <foreign xml:lang="grc">ἀκρωτηριασμὸ</foreign>, dérivé
+  <lb/>du grec <foreign xml:lang="grc"><choice><sic>ἀκρωτηριασμὸ</sic><corr>ἀκρωτηριασμὸς</corr></choice></foreign>, dérivé
 <lb/>du verbe ἀκρωτηρία’ω, je mntile;
 <lb/>ampuratiou n’un membre
 <lb/>considérable, par exemple d’une
@@ -1075,7 +1075,7 @@
 
 <entry>
 <orth>Adiaphore</orth>, <gram>adj.</gram> <foreign xml:lang="lat">adiaphorus</foreign>,
-<lb/><foreign xml:lang="grc">ἀδίαφορος</foreign>, indiffércnt, d’à privatif, et
+  <lb/><foreign xml:lang="grc"><choice><sic>ἀδίαφορος</sic><corr>ἀδιάφορος</corr></choice></foreign>, indiffércnt, d’à privatif, et
 <lb/>de δίαφέρει, il importe; comme qui
 <lb/>diroit : <hi>à qui il Idimporte point, à</hi>
 <lb/><hi>qui tout estégal</hi>. NOm que BOyle
@@ -2751,7 +2751,7 @@
 
 <entry>
 <orth>Ammoniac</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sal ammoniacum</foreign>,
-<lb/><foreign xml:lang="grc">ἄλς ἀμμωνιακὸς</foreign>, ίΐ’ἄμμος, SUble,
+<lb/><foreign xml:lang="grc"><choice><sic>ἄλς ἀμμωνιακὸς</sic><corr>ἅλς ἀμμωνιακὸς</corr></choice></foreign>, ίΐ’ἄμμος, SUble,
 <lb/>muriate d’ammoniaquc ; substance
 <lb/>saline ainsi appelée, parce tju’on
 <lb/>la retiroit autiefois dcs sablonnières
@@ -4841,7 +4841,7 @@
 </entry>
 
 <entry>
-<orth>Apostème</orth>, <gram>s. m.</gram> <foreign xml:lang="grc">ἀποστήμα</foreign>,
+<orth>Apostème</orth>, <gram>s. m.</gram> <foreign xml:lang="grc"><choice><sic>ἀποστήμα</sic><corr>ἀπόστημα</corr></choice></foreign>,
 <lb/>Α^ἀφισταμαι, )G ndelotgne d un lieu
 <lb/>poiir me lixcr dans un autre; tusneur
 <lb/>contre natufe formée par
@@ -44142,8 +44142,8 @@
 <lb/>est attachée a la matrice chez les
 <lb/>femmes grosses, et Pautre membraneuse
 <lb/>est baignée par l’eau des
-<lb/>amnios ; — en botanique, <foreign xml:lang="lat">placenta,
-<lb/>receptaculum seminis</foreign>, partie inlerne
+  <lb/>amnios ; — en botanique, <foreign xml:lang="lat">placenta</foreign>,
+  <lb/><foreign xml:lang="lat">receptaculum seminis</foreign>, partie inlerne
 <lb/>du péricarpe a laquelle la
 <lb/>graine estattachée.
 </entry>
