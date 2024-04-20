@@ -99,7 +99,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la14">
           <orth xml:lang="lat">Abrotonum</orth>
-          ou <orth xml:lang="lat">abrotonus</orth>
+          <orth xml:lang="lat">abrotonus</orth>
           <foreign xml:lang="fra">aurone</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la15">
@@ -150,11 +150,11 @@
         <entryFree type="tr" xml:id="la26">
           <orth xml:lang="lat">Acarus</orth>
           <foreign xml:lang="fra">acarus</foreign>
-          ou <foreign xml:lang="fra">ciron</foreign>
+          <foreign xml:lang="fra">ciron</foreign>
         </entryFree>
         <entryFree type="subtr" xml:id="la27">
           <orth xml:lang="lat">Acarus scabiei</orth>
-          ou <orth xml:lang="lat">Acarus subcutaneus</orth>
+          <orth xml:lang="lat">Acarus subcutaneus</orth>
           <foreign xml:lang="fra">ciron de la gale</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la28">
@@ -3302,7 +3302,9 @@
         </entryFree>
         <entryFree type="tr" xml:id="la786">
           <orth xml:lang="lat">Chorea</orth>
-          <foreign>chorée</foreign><gloss>danse de Saint-Weith ou de Saint-Guy</gloss>
+          <foreign xml:lang="fra">chorée</foreign>
+          <foreign xml:lang="fra">danse de Saint-Weith</foreign>
+          <foreign xml:lang="fra">danse de Saint-Guy</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la787">
           <orth xml:lang="lat">Chorion</orth>
