@@ -44,7 +44,7 @@
       <head>Glossaire grec</head>
       <entryFree type="tr" xml:id="grc1">
         <orth xml:lang="grc">ἀβάπτιστον</orth>
-        <foreign xml:lang="fra">sorte de trépan</foreign>
+        <gloss xml:lang="fra">sorte de trépan</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc2">
         <orth xml:lang="grc">ἀβρότονον</orth>
@@ -56,7 +56,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc4">
         <orth xml:lang="grc">ἀγάλακτος</orth>
-        <foreign xml:lang="fra">qui n’a point de lait</foreign>
+        <gloss xml:lang="fra">qui n’a point de lait</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc5">
         <orth xml:lang="grc">ἀγάλλοχον</orth>
@@ -75,13 +75,13 @@
         <orth xml:lang="grc">ἄγγος</orth>
         <foreign xml:lang="fra">vaisseau</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc9">
+      <entryFree type="subtr" xml:id="grc9">
         <orth xml:lang="grc">ἀγγεῖον κυητήριον</orth>
         <foreign xml:lang="fra">utérus</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc10">
         <orth xml:lang="grc">ἀγευστία</orth>
-        <foreign xml:lang="fra">privation du goût</foreign>
+        <gloss xml:lang="fra">privation du goût</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc11">
         <orth xml:lang="grc">ἀγήρατον</orth>
@@ -89,8 +89,8 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc12">
         <orth xml:lang="grc">ἀγκύλη</orth>
-        <foreign xml:lang="fra">le jarret</foreign>
-        <foreign xml:lang="fra">le pli du bras</foreign>
+        <foreign xml:lang="fra">jarret (le)</foreign>
+        <foreign xml:lang="fra">pli du bras (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc13">
         <orth xml:lang="grc">ἀγκυλοβλέφαρον</orth>
@@ -125,7 +125,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc20">
         <orth xml:lang="grc">ἄγνος</orth>
-        <foreign xml:lang="fra">l’agnus-castus</foreign>
+        <foreign xml:lang="fra">agnus-castus (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc21">
         <orth xml:lang="grc">ἀγονία</orth>
@@ -133,10 +133,10 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc22">
         <orth xml:lang="grc">ἄγονος</orth>
-        <foreign xml:lang="fra">femme qui n’a point encore eu d’enfants</foreign>
+        <gloss xml:lang="fra">femme qui n’a point encore eu d’enfants</gloss>
       </entryFree>
-      <entryFree type="tr" xml:id="grc23">
-        <orth xml:lang="grc">Αγονοι ἡμέραι</orth>
+      <entryFree type="subtr" xml:id="grc23">
+        <orth xml:lang="grc"><choice><sic>Αγονοι</sic><corr>Ἄγονοι</corr></choice> ἡμέραι</orth>
         <foreign xml:lang="fra">jours pairs</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc24">
@@ -145,11 +145,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc25">
         <orth xml:lang="grc">ἄγρυπνος</orth>
-        <foreign xml:lang="fra">qui est privé du sommeil</foreign>
+        <gloss xml:lang="fra">qui est privé du sommeil</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc26">
         <orth xml:lang="grc">ἀγυμνασία</orth>
-        <foreign xml:lang="fra">défaut d’exercice</foreign>
+        <gloss xml:lang="fra">défaut d’exercice</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc27">
         <orth xml:lang="grc">ἀγχίλωψ</orth>
@@ -178,7 +178,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc33">
         <orth xml:lang="grc">ἀδιαπνευστία</orth>
-        <foreign xml:lang="fra">défaut de respiration</foreign>
+        <gloss xml:lang="fra">défaut de respiration</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc34">
         <orth xml:lang="grc">ἀδιάῤῥοια</orth>
@@ -186,8 +186,8 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc35">
         <orth xml:lang="grc">ἄδιψος</orth>
-        <foreign xml:lang="fra">qui est sans soif</foreign>
-        <foreign xml:lang="fra">qui désaltère</foreign>
+        <gloss xml:lang="fra">qui est sans soif</gloss>
+        <gloss xml:lang="fra">qui désaltère</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc36">
         <orth xml:lang="grc">ἀδυναμία</orth>
@@ -200,7 +200,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc38">
         <orth xml:lang="grc">ἀείζωον</orth>
-        <foreign xml:lang="fra">la joubarbe</foreign>
+        <foreign xml:lang="fra">joubarbe (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc39">
         <orth xml:lang="grc">ἀερόφοβος</orth>
@@ -214,7 +214,7 @@
       <entryFree type="tr" xml:id="grc41">
         <orth xml:lang="grc">ἄζυμος</orth>
         <foreign xml:lang="fra">azyme</foreign>
-        <foreign xml:lang="fra">non fermenté</foreign>
+        <gloss xml:lang="fra">non fermenté</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc42">
         <orth xml:lang="grc">ἀὴρ</orth>
@@ -243,7 +243,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc48">
         <orth xml:lang="grc">αἰδοῖα</orth>
-        <foreign xml:lang="fra">les parties génitales</foreign>
+        <foreign xml:lang="fra">parties génitales (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc49">
         <orth xml:lang="grc">αἰθὴρ</orth>
@@ -252,7 +252,7 @@
       <entryFree type="tr" xml:id="grc50">
         <orth xml:lang="grc">αἰθόλιξ</orth>
         <foreign xml:lang="fra">bulle</foreign>
-        <foreign xml:lang="fra">tache rouge à la peau</foreign>
+        <gloss xml:lang="fra">tache rouge à la peau</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc51">
         <orth xml:lang="grc">αἷμα</orth>
@@ -276,7 +276,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc56">
         <orth xml:lang="grc">αἱματοποιητικὸς</orth>
-        <foreign xml:lang="fra">qui fait du sang</foreign>
+        <gloss xml:lang="fra">qui fait du sang</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc57">
         <orth xml:lang="grc">αἱματώδης</orth>
@@ -288,11 +288,12 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc59">
         <orth xml:lang="grc">αἱμοπτυϊκὸς</orth>
-        <foreign xml:lang="fra">crachant du sang</foreign>
+        <gloss xml:lang="fra">crachant du sang</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc60">
         <orth xml:lang="grc">αἱμοῤῥαγία</orth>
-        <foreign xml:lang="fra">hémorrhagie en général ou hémorrhagie nasale</foreign>
+        <foreign xml:lang="fra">hémorrhagie</foreign><gloss> en général</gloss>
+        <foreign xml:lang="fra">hémorrhagie</foreign><gloss> nasale</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc61">
         <orth xml:lang="grc">αἱμοῤῥοΐδες</orth>
@@ -300,16 +301,16 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc62">
         <orth xml:lang="grc">αἱμοῤῥοϊδοκαύστης</orth>
-        <foreign xml:lang="fra">instrument pour brûler les hémorrhoïdes</foreign>
+        <gloss xml:lang="fra">instrument pour brûler les hémorrhoïdes</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc63">
         <orth xml:lang="grc">αἱμόῤῥοος</orth>
-        <foreign xml:lang="fra">sujet aux écoulements de sang</foreign>
-        <foreign xml:lang="fra">femme qui a ses menstrues</foreign>
+        <gloss xml:lang="fra">sujet aux écoulements de sang</gloss>
+        <gloss xml:lang="fra">femme qui a ses menstrues</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc64">
         <orth xml:lang="grc">αἱμόφοβος</orth>
-        <foreign xml:lang="fra">qui craint la saignée</foreign>
+        <gloss xml:lang="fra">qui craint la saignée</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc65">
         <orth xml:lang="grc">αἱμωδία</orth>
@@ -318,7 +319,7 @@
       <entryFree type="tr" xml:id="grc66">
         <orth xml:lang="grc">αἴσθησις</orth>
         <foreign xml:lang="fra">sentiment</foreign>
-        <foreign xml:lang="fra">faculté de sentir</foreign>
+        <gloss xml:lang="fra">faculté de sentir</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc67">
         <orth xml:lang="grc">αἰσθητήριον</orth>
@@ -326,7 +327,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc68">
         <orth xml:lang="grc">αἰσθητικὸς</orth>
-        <foreign xml:lang="fra">doué du sentiment</foreign>
+        <gloss xml:lang="fra">doué du sentiment</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc69">
         <orth xml:lang="grc">αἰτία</orth>
@@ -342,7 +343,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc72">
         <orth xml:lang="grc">αἰώρα</orth>
-        <foreign xml:lang="fra">instrument qui servait à balancer un malade</foreign>
+        <gloss xml:lang="fra">instrument qui servait à balancer un malade</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc73">
         <orth xml:lang="grc">ἀκαθαρσία</orth>
@@ -373,8 +374,8 @@
         <foreign xml:lang="fra">ciron</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc80">
-        <orth xml:lang="grc">ἄκέομαι</orth>
-        <foreign xml:lang="fra">je guéris</foreign>
+        <orth xml:lang="grc">ἀκέομαι</orth>
+        <foreign xml:lang="fra">guéris (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc81">
         <orth xml:lang="grc">ἀκέσιμος</orth>
@@ -413,11 +414,11 @@
       <entryFree type="tr" xml:id="grc88">
         <orth xml:lang="grc">ἀκμὴ</orth>
         <foreign xml:lang="fra">vigueur de l’âge</foreign>
-        <foreign xml:lang="fra">l’état d’une maladie</foreign>
+        <foreign xml:lang="fra">état (l')</foreign><gloss> d’une maladie</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc89">
-        <orth xml:lang="grc">ἀκοή</orth>
-        <foreign xml:lang="fra">l’ouïe</foreign>
+        <orth xml:lang="grc">ἀκοὴ</orth>
+        <foreign xml:lang="fra">ouïe (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc90">
         <orth xml:lang="grc">ἀκόνιτον</orth>
@@ -425,7 +426,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc91">
         <orth xml:lang="grc">ἄκοπος</orth>
-        <foreign xml:lang="fra">qui délasse</foreign>
+        <gloss xml:lang="fra">qui délasse</gloss>
         <foreign xml:lang="fra">anodin</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc92">
@@ -442,11 +443,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc95">
         <orth xml:lang="grc">ἀκούω</orth>
-        <foreign xml:lang="fra">j’entends</foreign>
+        <foreign xml:lang="fra">entends (j')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc96">
         <orth xml:lang="grc">ἀκραίπαλος</orth>
-        <foreign xml:lang="fra">qui dissipe l’ivresse</foreign>
+        <gloss xml:lang="fra">qui dissipe l’ivresse</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc97">
         <orth xml:lang="grc">ἀκρασία</orth>
@@ -458,7 +459,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc99">
         <orth xml:lang="grc">ἄκρεα</orth>
-        <foreign xml:lang="fra">les extrémités</foreign>
+        <foreign xml:lang="fra">extrémités (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc100">
         <orth xml:lang="grc">ἀκρισία</orth>
@@ -466,7 +467,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc101">
         <orth xml:lang="grc">ἀκρόασις</orth>
-        <foreign xml:lang="fra">l’ouïe</foreign>
+        <foreign xml:lang="fra">ouïe (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc102">
         <orth xml:lang="grc">ἀκροβυστία</orth>
@@ -474,19 +475,19 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc103">
         <orth xml:lang="grc">ἀκροδακτύλιον</orth>
-        <foreign xml:lang="fra">le bout des doigts</foreign>
+        <foreign xml:lang="fra">bout des doigts (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc104">
         <orth xml:lang="grc">ἀκρομφάλιον</orth>
-        <foreign xml:lang="fra">le milieu du nombril</foreign>
+        <foreign xml:lang="fra">milieu du nombril (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc105">
         <orth xml:lang="grc">ἀκροποσθία</orth>
-        <foreign xml:lang="fra">le prépuce</foreign>
+        <foreign xml:lang="fra">prépuce (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc106">
         <orth xml:lang="grc">ἀκροχειρισμὸς</orth>
-        <foreign xml:lang="fra">exercice qui consistait à mouvoir les bras</foreign>
+        <gloss xml:lang="fra">exercice qui consistait à mouvoir les bras</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc107">
         <orth xml:lang="grc">ἀκροχορδὼν</orth>
@@ -494,12 +495,12 @@
         <foreign xml:lang="fra">verrue</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc108">
-        <orth xml:lang="grc">ἀκρώμίον</orth>
+        <orth xml:lang="grc">ἀκρώμιον</orth>
         <foreign xml:lang="fra">acromion</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc109">
         <orth xml:lang="grc">ἀκρωτήρια</orth>
-        <foreign xml:lang="fra">les extrémités</foreign>
+        <foreign xml:lang="fra">extrémités (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc110">
         <orth xml:lang="grc">ἀκτῆ</orth>
@@ -513,7 +514,7 @@
         <orth xml:lang="grc">ἄλγημα</orth>
         <orth xml:lang="grc">ἄλγος</orth>
         <foreign xml:lang="fra">douleur</foreign>
-        <foreign xml:lang="fra">maladie</foreign>
+        quelquefois <foreign xml:lang="fra">maladie</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc113">
         <orth xml:lang="grc">ἄλειμμα</orth>
@@ -523,11 +524,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc114">
         <orth xml:lang="grc">ἀλείπτης</orth>
-        <foreign xml:lang="fra">celui qui oint</foreign>
+        <gloss xml:lang="fra">celui qui oint</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc115">
         <orth xml:lang="grc">ἀλείφω</orth>
-        <foreign xml:lang="fra">je fais des frictions</foreign>
+        <foreign xml:lang="fra">fais des frictions (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc116">
         <orth xml:lang="grc">ἀλεξητήριον</orth>
@@ -576,7 +577,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc127">
         <orth xml:lang="grc">ἅλς</orth>
-        <foreign xml:lang="fra">-sel</foreign>
+        <foreign xml:lang="fra">sel</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc128">
         <orth xml:lang="grc">ἁλτῆρες</orth>
@@ -628,11 +629,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc139">
         <orth xml:lang="grc">ἀμβλωτρίδιον</orth>
-        <foreign xml:lang="fra">moyen abortif</foreign>
+        <gloss xml:lang="fra">moyen abortif</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc140">
         <orth xml:lang="grc">ἀμέθυστος</orth>
-        <foreign xml:lang="fra">qui empêche ou dissipe l’ivresse</foreign>
+        <gloss xml:lang="fra">qui empêche ou dissipe l’ivresse</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc141">
         <orth xml:lang="grc">ἀμίαντος</orth>
@@ -652,7 +653,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc145">
         <orth xml:lang="grc">ἄμπωσις</orth>
-        <foreign xml:lang="fra">reflux des humeurs</foreign>
+        <foreign xml:lang="fra">reflux</foreign><gloss> des humeurs</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc146">
         <orth xml:lang="grc">ἀμυγδάλη</orth>
@@ -664,7 +665,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc148">
         <orth xml:lang="grc">ἄμυος</orth>
-        <foreign xml:lang="fra">sans muscles</foreign>
+        <gloss xml:lang="fra">sans muscles</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc149">
         <orth xml:lang="grc">ἀμυχὴ</orth>
@@ -685,7 +686,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc153">
         <orth xml:lang="grc">ἀμφιβράγχια</orth>
-        <foreign xml:lang="fra">région autour des amygdales</foreign>
+        <gloss xml:lang="fra">région autour des amygdales</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc154">
         <orth xml:lang="grc">ἀμφιδέξιος</orth>
@@ -693,11 +694,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc155">
         <orth xml:lang="grc">ἀμφίδεον</orth>
-        <foreign xml:lang="fra">le bord de l’utérus</foreign>
+        <gloss xml:lang="fra">bord de l’utérus (le)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc156">
         <orth xml:lang="grc">ἀμφιμήτριος</orth>
-        <foreign xml:lang="fra">qui avoisine l’utérus</foreign>
+        <gloss xml:lang="fra">qui avoisine l’utérus</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc157">
         <orth xml:lang="grc">ἀμφίπνευμα</orth>
@@ -754,7 +755,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc170">
         <orth xml:lang="grc">ἀνακαθαίρω</orth>
-        <foreign xml:lang="fra">je purge par le haut</foreign>
+        <foreign xml:lang="fra">purge par le haut (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc171">
         <orth xml:lang="grc">ἀνακάθαρσις</orth>
@@ -766,13 +767,13 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc173">
         <orth xml:lang="grc">ἀνάκλισις</orth>
-        <foreign xml:lang="fra">le décubitus</foreign>
+        <foreign xml:lang="fra">décubitus (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc174">
         <orth xml:lang="grc">ἀνακομίζω</orth>
-        <foreign xml:lang="fra">je rétablis</foreign>
-        <foreign xml:lang="fra">je ranime</foreign>
-        <foreign xml:lang="fra">je rends les forces</foreign>
+        <foreign xml:lang="fra">rétablis (je)</foreign>
+        <foreign xml:lang="fra">ranime (je)</foreign>
+        <foreign xml:lang="fra">rends les forces (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc175">
         <orth xml:lang="grc">ἀναληπτικὸς</orth>
@@ -800,7 +801,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc181">
         <orth xml:lang="grc">ἀναπέτεια</orth>
-        <foreign xml:lang="fra">état des yeux ouverts</foreign>
+        <gloss xml:lang="fra">état des yeux ouverts</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc182">
         <orth xml:lang="grc">ἀναπετεῖς ὀφθαλμοὶ</orth>
@@ -820,7 +821,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc186">
         <orth xml:lang="grc">ἀναπτύω</orth>
-        <foreign xml:lang="fra">j’expectore</foreign>
+        <foreign xml:lang="fra">expectore (j')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc187">
         <orth xml:lang="grc">ἀνάσπασις</orth>
@@ -832,7 +833,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc189">
         <orth xml:lang="grc">ἀνάστασις</orth>
-        <foreign xml:lang="fra">action de se mettre sur son séant</foreign>
+        <gloss xml:lang="fra">action de se mettre sur son séant</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc190">
         <orth xml:lang="grc">ἀναστόμωσις</orth>
@@ -964,7 +965,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc220">
         <orth xml:lang="grc">ἀντικνήμιον</orth>
-        <foreign xml:lang="fra">le tibia</foreign>
+        <foreign xml:lang="fra">tibia (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc221">
         <orth xml:lang="grc">ἀντιπάθεια</orth>
@@ -980,20 +981,19 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc224">
         <orth xml:lang="grc">ἀντίχειρ</orth>
-        <foreign xml:lang="fra">le pouce</foreign>
+        <foreign xml:lang="fra">pouce (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc225">
         <orth xml:lang="grc">ἀνώδυνος</orth>
         <foreign xml:lang="fra">anodin</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc226">
-        <orth xml:lang="grc">ἄνω κοιλία</orth>
-        <orth xml:lang="grc">ἡ</orth>
-        <foreign xml:lang="fra">la poitrine</foreign>
+        <orth xml:lang="grc">ἄνω κοιλία, ἡ</orth>
+        <foreign xml:lang="fra">poitrine (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc227">
         <orth xml:lang="grc">ἀνωμαλία</orth>
-        <orth xml:lang="grc">άνωμαλότης</orth>
+        <orth xml:lang="grc">ἀνωμαλότης</orth>
         <foreign xml:lang="fra">anomalie</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc228">
@@ -1014,7 +1014,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc232">
         <orth xml:lang="grc">ἀορταὶ</orth>
-        <foreign xml:lang="fra">les bronches</foreign>
+        <foreign xml:lang="fra">bronches (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc233">
         <orth xml:lang="grc">ἀορτὴ</orth>
@@ -1026,11 +1026,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc235">
         <orth xml:lang="grc">ἄπεπτος</orth>
-        <foreign xml:lang="fra">qui est à l’état de crudité</foreign>
+        <gloss xml:lang="fra">qui est à l’état de crudité</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc236">
         <orth xml:lang="grc">ἀπευθυσμένον</orth>
-        <foreign xml:lang="fra">le rectum</foreign>
+        <foreign xml:lang="fra">rectum (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc237">
         <orth xml:lang="grc">ἀπεψία</orth>
@@ -1039,11 +1039,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc238">
         <orth xml:lang="grc">ἀπήχημα</orth>
-        <foreign xml:lang="fra">fracture par contre-coup</foreign>
+        <foreign xml:lang="fra">fracture</foreign><gloss> par contre-coup</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc239">
         <orth xml:lang="grc">ἄπνους</orth>
-        <foreign xml:lang="fra">qui est sans respiration</foreign>
+        <gloss xml:lang="fra">qui est sans respiration</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc240">
         <orth xml:lang="grc">ἀπόβρεγμα</orth>
@@ -1055,11 +1055,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc242">
         <orth xml:lang="grc">ἀπογλαύκωσις</orth>
-        <foreign xml:lang="fra">formation de la cataracte</foreign>
+        <gloss xml:lang="fra">formation de la cataracte</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc243">
         <orth xml:lang="grc">ἀποδακρυτικὸς</orth>
-        <foreign xml:lang="fra">propre à exciter les larmes</foreign>
+        <gloss xml:lang="fra">propre à exciter les larmes</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc244">
         <orth xml:lang="grc">ἀπόζεμα</orth>
@@ -1071,11 +1071,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc246">
         <orth xml:lang="grc">ἀπόθερμον</orth>
-        <foreign xml:lang="fra">sorte de breuvage usité dans l’antiquité</foreign>
+        <gloss xml:lang="fra">sorte de breuvage usité dans l’antiquité</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc247">
         <orth xml:lang="grc">ἀπόθεσις</orth>
-        <foreign xml:lang="fra">position fixe donnée à un membre cassé ou démis</foreign>
+        <gloss xml:lang="fra">position fixe donnée à un membre cassé ou démis</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc248">
         <orth xml:lang="grc">ἀποθυμίασις</orth>
@@ -1108,7 +1108,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc255">
         <orth xml:lang="grc">ἄπονος</orth>
-        <foreign xml:lang="fra">qui délasse</foreign>
+        <gloss xml:lang="fra">qui délasse</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc256">
         <orth xml:lang="grc">ἀποπάτημα</orth>
@@ -1140,7 +1140,7 @@
         <foreign xml:lang="fra">arcane</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc263">
-        <orth xml:lang="grc">ἀπορροὴ</orth>
+        <orth xml:lang="grc">ἀποῤῥοὴ</orth>
         <foreign xml:lang="fra">effluve</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc264">
@@ -1149,12 +1149,12 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc265">
         <orth xml:lang="grc">ἀποσκεπαρνισμὸς</orth>
-        <foreign xml:lang="fra">fracture du crâne où la pièce est emportée comme avec une doloire</foreign>
+        <foreign xml:lang="fra">fracture du crâne</foreign><gloss> où la pièce est emportée comme avec une doloire</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc266">
         <orth xml:lang="grc">ἀποσκίῤῥωμα</orth>
         <foreign xml:lang="fra">tumeur dure</foreign>
-        <foreign xml:lang="fra">squirrheuse</foreign>
+        <foreign xml:lang="fra">tumeur squirrheuse</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc267">
         <orth xml:lang="grc">ἀποσπαστικὸς</orth>
@@ -1173,7 +1173,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc270">
         <orth xml:lang="grc">ἀποσχάζω</orth>
-        <foreign xml:lang="fra">je scarifie</foreign>
+        <foreign xml:lang="fra">scarifie (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc271">
         <orth xml:lang="grc">ἀπόσχασις</orth>
@@ -1197,7 +1197,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc276">
         <orth xml:lang="grc">ἀποφλεγματισμὸς</orth>
-        <foreign xml:lang="fra">tout ce qui fait couler la pituite</foreign>
+        <gloss xml:lang="fra">tout ce qui fait couler la pituite</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc277">
         <orth xml:lang="grc">ἀπόφυσις</orth>
@@ -1212,12 +1212,12 @@
         <foreign xml:lang="fra">aptère</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc280">
-        <orth xml:lang="grc">ἀπτικὸς</orth>
+        <orth xml:lang="grc"><choice><sic>ἀπτικὸς</sic><corr>ἁπτικὸς</corr></choice></orth>
         <foreign xml:lang="fra">tactile</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc281">
         <orth xml:lang="grc">ἄπτυστος</orth>
-        <foreign xml:lang="fra">qui ne crache pas</foreign>
+        <gloss xml:lang="fra">qui ne crache pas</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc282">
         <orth xml:lang="grc">ἀπυρεξία</orth>
@@ -1225,7 +1225,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc283">
         <orth xml:lang="grc">ἀπύρετος</orth>
-        <foreign xml:lang="fra">sans fièvre</foreign>
+        <gloss xml:lang="fra">sans fièvre</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc284">
         <orth xml:lang="grc">ἀραιόπορος</orth>
@@ -1235,13 +1235,13 @@
         <orth xml:lang="grc">ἀραιὸς</orth>
         <foreign xml:lang="fra">celluleux</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc286">
+      <entryFree type="subtr" xml:id="grc286">
         <orth xml:lang="grc">ἀραιὸν ὀστέον</orth>
         <foreign xml:lang="fra">os spongieux</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc287">
         <orth xml:lang="grc">ἀραιόσαρκος</orth>
-        <foreign xml:lang="fra">dont les chairs sont spongieuses</foreign>
+        <gloss xml:lang="fra">dont les chairs sont spongieuses</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc288">
         <orth xml:lang="grc">ἀραίωμα</orth>
@@ -1307,11 +1307,11 @@
       <entryFree type="tr" xml:id="grc302">
         <orth xml:lang="grc">ἄῤῥοια</orth>
         <foreign xml:lang="fra">suppression d’un écoulement</foreign>
-        <foreign xml:lang="fra">particulièrement des menstrues</foreign>
+        <gloss xml:lang="fra">particulièrement des menstrues</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc303">
         <orth xml:lang="grc">ἀρτηρία</orth>
-        <foreign xml:lang="fra">la trachée-artère</foreign>
+        <foreign xml:lang="fra">trachée-artère (la)</foreign>
         <foreign xml:lang="fra">artère</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc304">
@@ -1363,7 +1363,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc315">
         <orth xml:lang="grc">ἄσιτος</orth>
-        <foreign xml:lang="fra">qui ne prend pas d’aliments</foreign>
+        <gloss xml:lang="fra">qui ne prend pas d’aliments</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc316">
         <orth xml:lang="grc">ἀσκαρὶς</orth>
@@ -1392,15 +1392,15 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc322">
         <orth xml:lang="grc">ἄσφυκτος</orth>
-        <foreign xml:lang="fra">qui est sans pouls</foreign>
+        <gloss xml:lang="fra">qui est sans pouls</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc323">
         <orth xml:lang="grc">ἀσφυξία</orth>
-        <foreign xml:lang="fra">cessation du pouls</foreign>
+        <gloss xml:lang="fra">cessation du pouls</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc324">
         <orth xml:lang="grc">ἀτεκνία</orth>
-        <foreign xml:lang="fra">absence d’enfants</foreign>
+        <gloss xml:lang="fra">absence d’enfants</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc325">
         <orth xml:lang="grc">ἀτοκία</orth>
@@ -1416,7 +1416,7 @@
         <foreign xml:lang="fra">imperforé</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc328">
-        <orth xml:lang="grc">ἀτροφία</orth>
+        <orth xml:lang="grc"><choice><sic>ἁτροφία</sic><corr>ἀτροφία</corr></choice></orth>
         <foreign xml:lang="fra">atrophie</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc329">
@@ -1428,8 +1428,8 @@
         <foreign xml:lang="fra">accroissement</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc331">
-        <orth xml:lang="grc">αὔχην</orth>
-        <foreign xml:lang="fra">la nuque</foreign>
+        <orth xml:lang="grc"><choice><sic>αὔχην</sic><corr>αὐχὴν</corr></choice></orth>
+        <foreign xml:lang="fra">nuque (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc332">
         <orth xml:lang="grc">ἀφαίρεσις</orth>
@@ -1444,7 +1444,7 @@
         <foreign xml:lang="fra">apozème</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc335">
-        <orth xml:lang="grc">ἀφὴ</orth>
+        <orth xml:lang="grc">ἁφὴ</orth>
         <foreign xml:lang="fra">toucher</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc336">
@@ -1462,7 +1462,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc339">
         <orth xml:lang="grc">ἀφροδισιασμὸς</orth>
-        <foreign xml:lang="fra">usage des plaisirs vénériens</foreign>
+        <gloss xml:lang="fra">usage des plaisirs vénériens</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc340">
         <orth xml:lang="grc">ἀφροδίσιος</orth>
@@ -1502,10 +1502,10 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc349">
         <orth xml:lang="grc">βαθμὶς</orth>
-        <foreign xml:lang="fra">cavité articulaire d’un os</foreign>
+        <foreign xml:lang="fra">cavité articulaire</foreign><gloss> d’un os</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc350">
-        <orth xml:lang="grc">βάθρον Ιπποκράτειον</orth>
+        <orth xml:lang="grc">βάθρον <choice><sic>Ιπποκράτειον</sic><corr>Ἱπποκράτειον</corr></choice></orth>
         <foreign xml:lang="fra">banc d’Hippocrate</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc351">
@@ -1553,7 +1553,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc361">
         <orth xml:lang="grc">βηχίον</orth>
-        <foreign xml:lang="fra">petite toux</foreign>
+        <gloss xml:lang="fra">petite toux</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc362">
         <orth xml:lang="grc">βλαισὸς</orth>
@@ -1565,7 +1565,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc364">
         <orth xml:lang="grc">βλεφαρίδες</orth>
-        <foreign xml:lang="fra">les cils</foreign>
+        <foreign xml:lang="fra">cils (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc365">
         <orth xml:lang="grc">βλέφαρον</orth>
@@ -1573,7 +1573,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc366">
         <orth xml:lang="grc">βλεφαρόξυστρον</orth>
-        <foreign xml:lang="fra">instrument propre à racler les paupières</foreign>
+        <gloss xml:lang="fra">instrument propre à racler les paupières</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc367">
         <orth xml:lang="grc">βόθριον</orth>
@@ -1613,7 +1613,7 @@
         <foreign xml:lang="fra">fenugrec</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc376">
-        <orth xml:lang="grc">βουλιμία</orth>
+        <orth xml:lang="grc"><choice><sic>βουλίμια</sic><corr>βουλιμία</corr></choice></orth>
         <orth xml:lang="grc">βουλιμίασις</orth>
         <orth xml:lang="grc">βούλιμος</orth>
         <foreign xml:lang="fra">boulimie</foreign>
@@ -1632,7 +1632,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc380">
         <orth xml:lang="grc">βράγχια</orth>
-        <foreign xml:lang="fra">branqfries</foreign>
+        <foreign xml:lang="fra">branchies</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc381">
         <orth xml:lang="grc">βράγχος</orth>
@@ -1644,7 +1644,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc383">
         <orth xml:lang="grc">βράθυ</orth>
-        <foreign xml:lang="fra">la sabine</foreign>
+        <foreign xml:lang="fra">sabine (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc384">
         <orth xml:lang="grc">βραχίων</orth>
@@ -1652,11 +1652,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc385">
         <orth xml:lang="grc">βραχύπνους</orth>
-        <foreign xml:lang="fra">qui a l’haleine courte</foreign>
+        <gloss xml:lang="fra">qui a l’haleine courte</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc386">
         <orth xml:lang="grc">βραχυπότης</orth>
-        <foreign xml:lang="fra">qui boit peu</foreign>
+        <gloss xml:lang="fra">qui boit peu</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc387">
         <orth xml:lang="grc">βρέγμα</orth>
@@ -1669,7 +1669,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc389">
         <orth xml:lang="grc">βρόγχια</orth>
-        <foreign xml:lang="fra">les bronches</foreign>
+        <foreign xml:lang="fra">bronches (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc390">
         <orth xml:lang="grc">βρογχοκήλη</orth>
@@ -1707,11 +1707,11 @@
         <orth xml:lang="grc">γάλα</orth>
         <foreign xml:lang="fra">lait</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc399">
+      <entryFree type="subtr" xml:id="grc399">
         <orth xml:lang="grc">γάλα σχιστὸν</orth>
         <foreign xml:lang="fra">petit-lait</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc400">
+      <entryFree type="subtr" xml:id="grc400">
         <orth xml:lang="grc">γάλα ὀρνίθων</orth>
         <foreign xml:lang="fra">lait de poule</foreign>
       </entryFree>
@@ -1721,7 +1721,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc402">
         <orth xml:lang="grc">γαλακτοφάγος</orth>
-        <foreign xml:lang="fra">qui vit de lait</foreign>
+        <gloss xml:lang="fra">qui vit de lait</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc403">
         <orth xml:lang="grc">γαλακτοφόρος</orth>
@@ -1733,7 +1733,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc405">
         <orth xml:lang="grc">γαλιάγκων</orth>
-        <foreign xml:lang="fra">bras déformé à la suite d’une luxation congénitale</foreign>
+        <gloss xml:lang="fra">bras déformé à la suite d’une luxation congénitale</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc406">
         <orth xml:lang="grc">γαργαρεὼν</orth>
@@ -1742,7 +1742,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc407">
         <orth xml:lang="grc">γαργαρίζω</orth>
-        <foreign xml:lang="fra">je gargarise</foreign>
+        <foreign xml:lang="fra">gargarise (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc408">
         <orth xml:lang="grc">γαργαρισμὸς</orth>
@@ -1767,7 +1767,7 @@
         <orth xml:lang="grc">γέλως</orth>
         <foreign xml:lang="fra">ris</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc413">
+      <entryFree type="subtr" xml:id="grc413">
         <orth xml:lang="grc">γέλως σαρδῶος</orth>
         <foreign xml:lang="fra">ris sardonique</foreign>
       </entryFree>
@@ -1823,7 +1823,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc426">
         <orth xml:lang="grc">γλυκαίνω</orth>
-        <foreign xml:lang="fra">j’édulcore</foreign>
+        <foreign xml:lang="fra">édulcore (j')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc427">
         <orth xml:lang="grc">γλυκύῤῥιζα</orth>
@@ -1873,7 +1873,7 @@
         <foreign xml:lang="fra">fœtus</foreign>
         <foreign xml:lang="fra">semence</foreign>
         <foreign xml:lang="fra">sperme</foreign>
-        <foreign xml:lang="fra">la matrice</foreign>
+        <foreign xml:lang="fra">matrice (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc438">
         <orth xml:lang="grc">γόνιμος</orth>
@@ -1947,7 +1947,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc455">
         <orth xml:lang="grc">δευτέριον</orth>
-        <foreign xml:lang="fra">l’arrière-faix</foreign>
+        <foreign xml:lang="fra">arrière-faix (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc456">
         <orth xml:lang="grc">δευτεροπάθεια</orth>
@@ -1985,7 +1985,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc464">
         <orth xml:lang="grc">διαιτητικὴ</orth>
-        <foreign xml:lang="fra">la diététique</foreign>
+        <foreign xml:lang="fra">diététique (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc465">
         <orth xml:lang="grc">διακοπὴ</orth>
@@ -2002,7 +2002,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc468">
         <orth xml:lang="grc">διαπνέω</orth>
-        <foreign xml:lang="fra">je transpire</foreign>
+        <foreign xml:lang="fra">transpire (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc469">
         <orth xml:lang="grc">διαπνοὴ</orth>
@@ -2039,7 +2039,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc477">
         <orth xml:lang="grc">διάτριμμα</orth>
-        <foreign xml:lang="fra">excoriation par frottement</foreign>
+        <foreign xml:lang="fra">excoriation</foreign><gloss> par frottement</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc478">
         <orth xml:lang="grc">διαφόρησις</orth>
@@ -2052,7 +2052,7 @@
       <entryFree type="tr" xml:id="grc480">
         <orth xml:lang="grc">διάφραγμα</orth>
         <foreign xml:lang="fra">diaphragme</foreign>
-        <foreign xml:lang="fra">voile du palais</foreign>
+        <foreign xml:lang="fra">voile</foreign><gloss> du palais</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc481">
         <orth xml:lang="grc">διάφυσις</orth>
@@ -2075,7 +2075,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc485">
         <orth xml:lang="grc">διδυμοτόκος</orth>
-        <foreign xml:lang="fra">qui est accouchée de deux jumeaux</foreign>
+        <gloss xml:lang="fra">qui est accouchée de deux jumeaux</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc486">
         <orth xml:lang="grc">διήθησις</orth>
@@ -2170,13 +2170,13 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc508">
         <orth xml:lang="grc">δρώπαξ</orth>
-        <foreign xml:lang="fra">remède dépilatoire</foreign>
+        <gloss xml:lang="fra">remède dépilatoire</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc509">
         <orth xml:lang="grc">δύναμις</orth>
         <foreign xml:lang="fra">force</foreign>
         <foreign xml:lang="fra">remède</foreign>
-        <foreign xml:lang="fra">efficacité d’un remède</foreign>
+        <foreign xml:lang="fra">efficacité</foreign><gloss> d’un remède</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc510">
         <orth xml:lang="grc">δυσαισθησία</orth>
@@ -2184,14 +2184,14 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc511">
         <orth xml:lang="grc">δυσαναγωγὸς</orth>
-        <foreign xml:lang="fra">difficile à expectorer</foreign>
+        <gloss xml:lang="fra">difficile à expectorer</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc512">
         <orth xml:lang="grc">δυσεντερία</orth>
         <foreign xml:lang="fra">dysentérie</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc513">
-        <orth xml:lang="grc">δυσηκοΐα</orth>
+        <orth xml:lang="grc">δυσηκοΐα</orth>
         <foreign xml:lang="fra">dureté de l’ouïe</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc514">
@@ -2200,7 +2200,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc515">
         <orth xml:lang="grc">δυσκινησία</orth>
-        <foreign xml:lang="fra">difficulté à se mouvoir</foreign>
+        <gloss xml:lang="fra">difficulté à se mouvoir</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc516">
         <orth xml:lang="grc">δυσκρασία</orth>
@@ -2250,11 +2250,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc527">
         <orth xml:lang="grc">ἐγκέφαλος</orth>
-        <foreign xml:lang="fra">encéphale. cerveau</foreign>
+        <foreign xml:lang="fra">encéphale</foreign>
+        <foreign xml:lang="fra">cerveau</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc528">
-        <orth xml:lang="grc">ἐγκέφαλος</orth>
-        <orth xml:lang="grc">ὀπίσθιος</orth>
+      <entryFree type="subtr" xml:id="grc528">
+        <orth xml:lang="grc">ἐγκέφαλος ὀπίσθιος</orth>
         <foreign xml:lang="fra">cervelet</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc529">
@@ -2263,7 +2263,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc530">
         <orth xml:lang="grc">ἐγκοπὴ</orth>
-        <foreign xml:lang="fra">incision en dédolant</foreign>
+        <foreign xml:lang="fra">incision</foreign><gloss> en dédolant</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc531">
         <orth xml:lang="grc">ἐγχάραξις</orth>
@@ -2350,7 +2350,7 @@
       <entryFree type="tr" xml:id="grc550">
         <orth xml:lang="grc">ἐκπίεσμα</orth>
         <foreign xml:lang="fra">ecpiesme</foreign>
-        <foreign xml:lang="fra">fracture du crâne</foreign>
+        <gloss xml:lang="fra">fracture du crâne</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc551">
         <orth xml:lang="grc">ἔκπληξις</orth>
@@ -2375,7 +2375,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc556">
         <orth xml:lang="grc">ἔκρυσις</orth>
-        <foreign xml:lang="fra">écoulement de la semence</foreign>
+        <foreign xml:lang="fra">écoulement</foreign><gloss> de la semence</gloss>
         <foreign xml:lang="fra">faux germe</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc557">
@@ -2383,7 +2383,7 @@
         <foreign xml:lang="fra">transport</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc558">
-        <orth xml:lang="grc">ἐκτικὸς</orth>
+        <orth xml:lang="grc">ἑκτικὸς</orth>
         <foreign xml:lang="fra">hectique</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc559">
@@ -2445,11 +2445,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc572">
         <orth xml:lang="grc">ἑλκτικὸς</orth>
-        <foreign xml:lang="fra">qui tire</foreign>
+        <gloss xml:lang="fra">qui tire</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc573">
         <orth xml:lang="grc">ἑλκύδριον</orth>
-        <foreign xml:lang="fra">petit ulcère</foreign>
+        <gloss xml:lang="fra">petit ulcère</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc574">
         <orth xml:lang="grc">ἑλκυστὴρ</orth>
@@ -2483,7 +2483,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc580">
         <orth xml:lang="grc">ἐμβολὴ</orth>
-        <foreign xml:lang="fra">réduction des luxations</foreign>
+        <foreign xml:lang="fra">réduction</foreign><gloss> des luxations</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc581">
         <orth xml:lang="grc">ἐμβροχὴ</orth>
@@ -2491,7 +2491,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc582">
         <orth xml:lang="grc">ἐμβρυοθλάστης</orth>
-        <foreign xml:lang="fra">instrument pour écraser l’embryon</foreign>
+        <gloss xml:lang="fra">instrument pour écraser l’embryon</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc583">
         <orth xml:lang="grc">ἐμβρυοτομία</orth>
@@ -2499,7 +2499,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc584">
         <orth xml:lang="grc">ἐμβρυουλκὸς</orth>
-        <foreign xml:lang="fra">crochet pour extraire le fœtus mort dans la matrice</foreign>
+        <gloss xml:lang="fra">crochet pour extraire le fœtus mort dans la matrice</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc585">
         <orth xml:lang="grc">ἐμεσία</orth>
@@ -2553,17 +2553,17 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc597">
         <orth xml:lang="grc">ἔμπυος</orth>
-        <foreign xml:lang="fra">qui expectore des crachats purulents</foreign>
-        <foreign xml:lang="fra">qui a du pus dans une cavité</foreign>
-        <foreign xml:lang="fra">dans la poitrine</foreign>
+        <gloss xml:lang="fra">qui expectore des crachats purulents</gloss>
+        <gloss xml:lang="fra">qui a du pus dans une cavité</gloss>
+        <gloss xml:lang="fra">qui a du pus dans la poitrine</gloss>
       </entryFree>
-      <entryFree type="tr" xml:id="grc598">
+      <entryFree type="subtr" xml:id="grc598">
         <orth xml:lang="grc">ἔμπυος μότος</orth>
-        <foreign xml:lang="fra">charpie ou tente que l’on introduit dans une plaie suppurante</foreign>
+        <gloss xml:lang="fra">charpie ou tente que l’on introduit dans une plaie suppurante</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc599">
         <orth xml:lang="grc">ἔμπυρος</orth>
-        <foreign xml:lang="fra">qui a la fièvre</foreign>
+        <gloss xml:lang="fra">qui a la fièvre</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc600">
         <orth xml:lang="grc">ἐμφρακτικὸς</orth>
@@ -2613,7 +2613,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc611">
         <orth xml:lang="grc">ἔνθλασις</orth>
-        <foreign xml:lang="fra">fracture avec enfoncement</foreign>
+        <foreign xml:lang="fra">fracture</foreign><gloss> avec enfoncement</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc612">
         <orth xml:lang="grc">ἐνιαύσιος</orth>
@@ -2621,11 +2621,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc613">
         <orth xml:lang="grc">ἔνορμων</orth>
-        <foreign xml:lang="fra">l’énormon</foreign>
+        <foreign xml:lang="fra">énormon (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc614">
-        <orth xml:lang="grc">ἔνουλον</orth>
-        <foreign xml:lang="fra">le dedans des gencives</foreign>
+        <orth xml:lang="grc"><choice><sic>ἐνουλον</sic><corr>ἔνουλον</corr></choice></orth>
+        <gloss xml:lang="fra">dedans des gencives (le)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc615">
         <orth xml:lang="grc">ἔντασις</orth>
@@ -2663,11 +2663,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc623">
         <orth xml:lang="grc">ἐξεχέβρογχος</orth>
-        <foreign xml:lang="fra">affecté de bronchocèle</foreign>
+        <gloss xml:lang="fra">affecté de bronchocèle</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc624">
         <orth xml:lang="grc">ἐξεχέγλουτος</orth>
-        <foreign xml:lang="fra">qui a une hanche saillante</foreign>
+        <gloss xml:lang="fra">qui a une hanche saillante</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc625">
         <orth xml:lang="grc">ἕξις</orth>
@@ -2696,12 +2696,12 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc631">
         <orth xml:lang="grc">ἐπανθισμὸς</orth>
-        <foreign xml:lang="fra">une grosse veine</foreign>
+        <gloss xml:lang="fra">grosse veine (une)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc632">
         <orth xml:lang="grc">ἔπαρμα</orth>
-        <foreign xml:lang="fra">tumeur en général</foreign>
-        <foreign xml:lang="fra">parotide</foreign>
+        <foreign xml:lang="fra">tumeur</foreign> en général
+        particulièrement <foreign xml:lang="fra">parotide (une)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc633">
         <orth xml:lang="grc">ἔπαρσις</orth>
@@ -2714,7 +2714,7 @@
       <entryFree type="tr" xml:id="grc635">
         <orth xml:lang="grc">ἐπιγονατὶς</orth>
         <orth xml:lang="grc">ἐπιγουνὶς</orth>
-        <foreign xml:lang="fra">la rotule</foreign>
+        <foreign xml:lang="fra">rotule (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc636">
         <orth xml:lang="grc">ἐπιδερμὶς</orth>
@@ -2744,12 +2744,12 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc642">
         <orth xml:lang="grc">ἐπίκαυμα</orth>
-        <foreign xml:lang="fra">brûlure légère</foreign>
+        <gloss xml:lang="fra">brûlure légère</gloss>
         <foreign xml:lang="fra">épicaume</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc643">
         <orth xml:lang="grc">ἐπικράνιος</orth>
-        <foreign xml:lang="fra">épicranien</foreign>
+        <foreign xml:lang="fra">épicrânien</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc644">
         <orth xml:lang="grc">ἐπικρανὶς</orth>
@@ -2758,7 +2758,7 @@
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1744" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1744/full/full/0/default.jpg" n="1730"/>
       <entryFree type="tr" xml:id="grc645">
         <orth xml:lang="grc">ἐπικτένιον</orth>
-        <foreign xml:lang="fra">pubis</foreign>
+        <foreign xml:lang="fra">pubis (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc646">
         <orth xml:lang="grc">ἐπικύημα</orth>
@@ -2774,7 +2774,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc649">
         <orth xml:lang="grc">ἐπιμυλὶς</orth>
-        <foreign xml:lang="fra">la rotule</foreign>
+        <foreign xml:lang="fra">rotule (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc650">
         <orth xml:lang="grc">ἐπινυκτὶς</orth>
@@ -2823,7 +2823,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc661">
         <orth xml:lang="grc">ἐπίφλεβος</orth>
-        <foreign xml:lang="fra">qui a des veines très-apparentes</foreign>
+        <gloss xml:lang="fra">qui a des veines très-apparentes</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc662">
         <orth xml:lang="grc">ἐπιφορὰ</orth>
@@ -2852,7 +2852,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc668">
         <orth xml:lang="grc">ἐπωμὶς</orth>
-        <foreign xml:lang="fra">le haut de l’épaule</foreign>
+        <gloss xml:lang="fra">haut de l’épaule (le)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc669">
         <orth xml:lang="grc">ἐρέθισμα</orth>
@@ -2878,7 +2878,7 @@
         <foreign xml:lang="fra">hermaphrodite</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc674">
-        <orth xml:lang="grc">ἕρπης</orth>
+        <orth xml:lang="grc"><choice><sic>ἔρπης</sic><corr>ἕρπης</corr></choice></orth>
         <foreign xml:lang="fra">dartre</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc675">
@@ -2890,7 +2890,7 @@
         <foreign xml:lang="fra">errhin</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc677">
-        <orth xml:lang="grc">ἐρυγμὸς</orth>
+        <orth xml:lang="grc">ἐρυγμός</orth>
         <foreign xml:lang="fra">Voyez ἐρευγμὸς</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc678">
@@ -2931,11 +2931,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc687">
         <orth xml:lang="grc">εὐδιάπνευστος</orth>
-        <foreign xml:lang="fra">qui transpire facilement</foreign>
+        <gloss xml:lang="fra">qui transpire facilement</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc688">
         <orth xml:lang="grc">εὐεξία</orth>
-        <foreign xml:lang="fra">bon état du corps</foreign>
+        <gloss xml:lang="fra">bon état du corps</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc689">
         <orth xml:lang="grc">εὐήθεια</orth>
@@ -2943,20 +2943,20 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc690">
         <orth xml:lang="grc">εὐήθης</orth>
-        <foreign xml:lang="fra">de bonne nature</foreign>
+        <gloss xml:lang="fra">de bonne nature</gloss>
         <foreign xml:lang="fra">bénin</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc691">
         <orth xml:lang="grc">εὐθυμία</orth>
-        <foreign xml:lang="fra">bonne disposition morale</foreign>
+        <gloss xml:lang="fra">bonne disposition morale</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc692">
         <orth xml:lang="grc">εὐθύπνους</orth>
-        <foreign xml:lang="fra">qui a la respiration facile</foreign>
+        <gloss xml:lang="fra">qui a la respiration facile</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc693">
         <orth xml:lang="grc">εὐκοίλιος</orth>
-        <foreign xml:lang="fra">qui entretient la liberté du ventre</foreign>
+        <gloss xml:lang="fra">qui entretient la liberté du ventre</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc694">
         <orth xml:lang="grc">εὐκρασία</orth>
@@ -2964,7 +2964,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc695">
         <orth xml:lang="grc">εὔκριτος</orth>
-        <foreign xml:lang="fra">qui a une crise heureuse</foreign>
+        <gloss xml:lang="fra">qui a une crise heureuse</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc696">
         <orth xml:lang="grc">εὐνουχισμὸς</orth>
@@ -3008,7 +3008,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc706">
         <orth xml:lang="grc">ἔφοδος</orth>
-        <foreign xml:lang="fra">visite du médecin</foreign>
+        <foreign xml:lang="fra">visite</foreign><gloss> du médecin</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc707">
         <orth xml:lang="grc">ἕψημα</orth>
@@ -3023,9 +3023,8 @@
         <foreign xml:lang="fra">zygoma</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc710">
-        <orth xml:lang="grc">ζύθος</orth>
-        <foreign xml:lang="fra">bière</foreign>
-        <foreign xml:lang="fra">boisson</foreign>
+        <orth xml:lang="grc"><choice><sic>ζύθος</sic><corr>ζῦθος</corr></choice></orth>
+        <foreign xml:lang="fra">bière, boisson</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc711">
         <orth xml:lang="grc">ζύμη</orth>
@@ -3044,7 +3043,7 @@
         <foreign xml:lang="fra">vie</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc715">
-        <orth xml:lang="grc">ζῶον</orth>
+        <orth xml:lang="grc"><choice><sic>ζῶον</sic><corr>ζῷον</corr></choice></orth>
         <foreign xml:lang="fra">animal</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc716">
@@ -3060,7 +3059,7 @@
         <foreign xml:lang="fra">animalcule</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc719">
-        <orth xml:lang="grc">ἥβη</orth>
+        <orth xml:lang="grc"><choice><sic>ἤβη</sic><corr>ἥβη</corr></choice></orth>
         <foreign xml:lang="fra">puberté</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc720">
@@ -3072,7 +3071,7 @@
         <foreign xml:lang="fra">nubile</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc722">
-        <orth xml:lang="grc">ἥδυσμα</orth>
+        <orth xml:lang="grc"><choice><sic>ἤδυσμα</sic><corr>ἥδυσμα</corr></choice></orth>
         <foreign xml:lang="fra">condiment</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc723">
@@ -3081,7 +3080,8 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc724">
         <orth xml:lang="grc">ἤλεκτρον</orth>
-        <foreign xml:lang="fra">ambre jaune ou succin</foreign>
+        <foreign xml:lang="fra">ambre jaune</foreign>
+        <foreign xml:lang="fra">succin</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc725">
         <orth xml:lang="grc">ἡλικία</orth>
@@ -3097,11 +3097,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc728">
         <orth xml:lang="grc">ἡμικρανικὸς</orth>
-        <foreign xml:lang="fra">qui est atteint de migraine</foreign>
+        <gloss xml:lang="fra">qui est atteint de migraine</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc729">
         <orth xml:lang="grc">ἡμικράνιον</orth>
-        <foreign xml:lang="fra">chaque moitié latérale de la tête</foreign>
+        <gloss xml:lang="fra">chaque moitié latérale de la tête</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc730">
         <orth xml:lang="grc">ἡμιπληξία</orth>
@@ -3118,7 +3118,7 @@
       <entryFree type="tr" xml:id="grc733">
         <orth xml:lang="grc">ἡπατικὸς</orth>
         <foreign xml:lang="fra">hépatique</foreign>
-        <foreign xml:lang="fra">affecté d’hépatite</foreign>
+        <gloss xml:lang="fra">affecté d’hépatite</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc734">
         <orth xml:lang="grc">ἡπατῖτις</orth>
@@ -3126,12 +3126,12 @@
         <foreign xml:lang="fra">veine cave</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc735">
-        <orth xml:lang="grc">ἠπίαλος</orth>
+        <orth xml:lang="grc"><choice><sic>ἡπίαλος</sic><corr>ἠπίαλος</corr></choice></orth>
         <foreign xml:lang="fra">épiale</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc736">
-        <orth xml:lang="grc">ἠπιαλώδης</orth>
-        <foreign xml:lang="fra">qui a la fièvre épiale</foreign>
+        <orth xml:lang="grc"><choice><sic>ἡπιαλώδης</sic><corr>ἠπιαλώδης</corr></choice></orth>
+        <gloss xml:lang="fra">qui a la fièvre épiale</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc737">
         <orth xml:lang="grc">ἤπιος</orth>
@@ -3154,7 +3154,7 @@
       <entryFree type="tr" xml:id="grc741">
         <orth xml:lang="grc">θέναρ</orth>
         <foreign xml:lang="fra">éminence thénar</foreign>
-        <foreign xml:lang="fra">paume de la main</foreign>
+        <foreign xml:lang="fra">paume</foreign><gloss> de la main</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc742">
         <orth xml:lang="grc">θεραπεία</orth>
@@ -3167,7 +3167,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc744">
         <orth xml:lang="grc">θεραπευτικὸς</orth>
-        <foreign xml:lang="fra">qui a la vertu de guérir</foreign>
+        <gloss xml:lang="fra">qui a la vertu de guérir</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc745">
         <orth xml:lang="grc">θέρμασμα</orth>
@@ -3197,7 +3197,7 @@
       <entryFree type="tr" xml:id="grc751">
         <orth xml:lang="grc">θλάσις</orth>
         <orth xml:lang="grc">θλάσμα</orth>
-        <foreign xml:lang="fra">fracture avec dépression des os du crâne</foreign>
+        <foreign xml:lang="fra">fracture</foreign><gloss> avec dépression des os du crâne</gloss>
         <foreign xml:lang="fra">contusion</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc752">
@@ -3225,7 +3225,7 @@
         <orth xml:lang="grc">θρόμβος</orth>
         <orth xml:lang="grc">θρόμβωσις</orth>
         <foreign xml:lang="fra">thrombus</foreign>
-        <foreign xml:lang="fra">caillot de sang</foreign>
+        <foreign xml:lang="fra">caillot</foreign><gloss> de sang</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc758">
         <orth xml:lang="grc">θυμίαμα</orth>
@@ -3234,7 +3234,7 @@
       <entryFree type="tr" xml:id="grc759">
         <orth xml:lang="grc">θύμος</orth>
         <foreign xml:lang="fra">thym (plante)</foreign>
-        <foreign xml:lang="fra">le thymus</foreign>
+        <foreign xml:lang="fra">thymus (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc760">
         <orth xml:lang="grc">θυρεοειδὴς</orth>
@@ -3254,7 +3254,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc764">
         <orth xml:lang="grc">ἰατρεῖον</orth>
-        <foreign xml:lang="fra">boutique de médecin</foreign>
+        <gloss xml:lang="fra">boutique de médecin</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc765">
         <orth xml:lang="grc">ἰατρικὴ</orth>
@@ -3325,7 +3325,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc781">
         <orth xml:lang="grc">ἵππος</orth>
-        <foreign xml:lang="fra">affection des yeux dans laquelle ils se meuvent constamment</foreign>
+        <gloss xml:lang="fra">affection des yeux dans laquelle ils se meuvent constamment</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc782">
         <orth xml:lang="grc">ἶρις</orth>
@@ -3337,7 +3337,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc784">
         <orth xml:lang="grc">ἰσχιὰς</orth>
-        <foreign xml:lang="fra">la sciatique</foreign>
+        <foreign xml:lang="fra">sciatique (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc785">
         <orth xml:lang="grc">ἰσχίον</orth>
@@ -3377,7 +3377,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc794">
         <orth xml:lang="grc">καθαίρω</orth>
-        <foreign xml:lang="fra">je purge</foreign>
+        <foreign xml:lang="fra">purge (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc795">
         <orth xml:lang="grc">καθάρσεις</orth>
@@ -3404,7 +3404,7 @@
         <foreign xml:lang="fra">quotidien</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc801">
-        <orth xml:lang="grc">κακοηθὴς</orth>
+        <orth xml:lang="grc">κακοηθής</orth>
         <foreign xml:lang="fra">cacoèthe</foreign>
         <foreign xml:lang="fra">malin</foreign>
       </entryFree>
@@ -3485,9 +3485,9 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc820">
         <orth xml:lang="grc">καρπὸς</orth>
-        <foreign xml:lang="fra">le carpe</foreign>
+        <foreign xml:lang="fra">carpe (le)</foreign>
         <foreign xml:lang="fra">fruit</foreign>
-        <foreign xml:lang="fra">semence des fleurs</foreign>
+        <foreign xml:lang="fra">semence</foreign><gloss> des fleurs</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc821">
         <orth xml:lang="grc">καρυόφυλλον</orth>
@@ -3527,7 +3527,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc830">
         <orth xml:lang="grc">κατάληψις</orth>
-        <foreign xml:lang="fra">invasion d’une maladie</foreign>
+        <foreign xml:lang="fra">invasion</foreign><gloss> d’une maladie</gloss>
         <foreign xml:lang="fra">catalepsie</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc831">
@@ -3548,7 +3548,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc835">
         <orth xml:lang="grc">κατάῤῥηξις</orth>
-        <foreign xml:lang="fra">débordement d’humeur</foreign>
+        <foreign xml:lang="fra">débordement</foreign><gloss> d’humeur</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc836">
         <orth xml:lang="grc">καταῤῥοικὸς</orth>
@@ -3561,8 +3561,8 @@
       <entryFree type="tr" xml:id="grc838">
         <orth xml:lang="grc">κατάστασις</orth>
         <orth xml:lang="grc">κατάστημα</orth>
-        <foreign xml:lang="fra">constitution du corps</foreign>
-        <foreign xml:lang="fra">de la saison</foreign>
+        <foreign xml:lang="fra">constitution</foreign><gloss> du corps</gloss>
+        <foreign xml:lang="fra">constitution</foreign><gloss> de la saison</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc839">
         <orth xml:lang="grc">κατάτασις</orth>
@@ -3570,7 +3570,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc840">
         <orth xml:lang="grc">καταφορὰ</orth>
-        <foreign xml:lang="fra">profond assoupissement</foreign>
+        <gloss xml:lang="fra">profond assoupissement</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc841">
         <orth xml:lang="grc">κατουλωτικὸς</orth>
@@ -3587,10 +3587,10 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc844">
         <orth xml:lang="grc">κατωτερικὸς</orth>
-        <foreign xml:lang="fra">qui mène par le bas</foreign>
+        <gloss xml:lang="fra">qui mène par le bas</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc845">
-        <orth xml:lang="grc">καύμα</orth>
+        <orth xml:lang="grc"><choice><sic>καύμα</sic><corr>καῦμα</corr></choice></orth>
         <foreign xml:lang="fra">brûlure</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc846">
@@ -3603,7 +3603,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc848">
         <orth xml:lang="grc">καυτήριον</orth>
-        <foreign xml:lang="fra">cautère actuel</foreign>
+        <foreign xml:lang="fra">cautère</foreign><gloss> actuel</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc849">
         <orth xml:lang="grc">καχεξία</orth>
@@ -3640,7 +3640,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc857">
         <orth xml:lang="grc">κερατοειδὴς</orth>
-        <foreign xml:lang="fra">la cornée</foreign>
+        <foreign xml:lang="fra">cornée (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc858">
         <orth xml:lang="grc">κερκὶς</orth>
@@ -3648,7 +3648,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc859">
         <orth xml:lang="grc">κέρκωσις</orth>
-        <foreign xml:lang="fra">végétation à l’orifice utérin</foreign>
+        <gloss xml:lang="fra">végétation à l’orifice utérin</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc860">
         <orth xml:lang="grc">κεφαλαία</orth>
@@ -3729,7 +3729,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc879">
         <orth xml:lang="grc">κίων</orth>
-        <foreign xml:lang="fra">luette tuméfiée</foreign>
+        <foreign xml:lang="fra">luette</foreign><gloss> tuméfiée</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc880">
         <orth xml:lang="grc">κλεῖθρον</orth>
@@ -3753,7 +3753,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc885">
         <orth xml:lang="grc">κλινικὸς</orth>
-        <foreign xml:lang="fra">médecin qui visite les malades</foreign>
+        <gloss xml:lang="fra">médecin qui visite les malades</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc886">
         <orth xml:lang="grc">κλυστὴρ</orth>
@@ -3773,20 +3773,20 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc890">
         <orth xml:lang="grc">κόγχη</orth>
-        <foreign xml:lang="fra">conque de l’oreille</foreign>
+        <foreign xml:lang="fra">conque</foreign><gloss> de l’oreille</gloss>
         <foreign xml:lang="fra">rotule</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc891">
         <orth xml:lang="grc">κοιλία</orth>
         <foreign xml:lang="fra">ventre</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc892">
+      <entryFree type="subtr" xml:id="grc892">
         <orth xml:lang="grc">ἡ ἄνω κοιλία</orth>
-        <foreign xml:lang="fra">la poitrine</foreign>
+        <foreign xml:lang="fra">poitrine (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc893">
         <orth xml:lang="grc">κοίλωμα</orth>
-        <foreign xml:lang="fra">ulcération de la cornée</foreign>
+        <foreign xml:lang="fra">ulcération</foreign><gloss> de la cornée</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc894">
         <orth xml:lang="grc">κόκκος</orth>
@@ -3850,7 +3850,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc909">
         <orth xml:lang="grc">κόρη</orth>
-        <foreign xml:lang="fra">la pupille</foreign>
+        <foreign xml:lang="fra">pupille (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc910">
         <orth xml:lang="grc">κόρυζα</orth>
@@ -3858,7 +3858,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc911">
         <orth xml:lang="grc">κοσμητικὴ</orth>
-        <foreign xml:lang="fra">la cosmétique</foreign>
+        <foreign xml:lang="fra">cosmétique (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc912">
         <orth xml:lang="grc">κοτύλη</orth>
@@ -3878,7 +3878,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc916">
         <orth xml:lang="grc">κοχώνη</orth>
-        <foreign xml:lang="fra">la région postérieure entre les hanches</foreign>
+        <gloss xml:lang="fra">région postérieure entre les hanches (la)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc917">
         <orth xml:lang="grc">κράμβη</orth>
@@ -3939,7 +3939,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc931">
         <orth xml:lang="grc">κτεὶς</orth>
-        <foreign xml:lang="fra">le pubis chez la femme</foreign>
+        <foreign xml:lang="fra">pubis (le)</foreign><gloss> chez la femme</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc932">
         <orth xml:lang="grc">κύβιτον</orth>
@@ -3965,11 +3965,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc937">
         <orth xml:lang="grc">κῦλα</orth>
-        <foreign xml:lang="fra">le dessous des yeux</foreign>
+        <gloss xml:lang="fra">dessous des yeux (le)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc938">
         <orth xml:lang="grc">κύλλωσις</orth>
-        <foreign xml:lang="fra">gibbosité en avant</foreign>
+        <foreign xml:lang="fra">gibbosité</foreign><gloss> en avant</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc939">
         <orth xml:lang="grc">κυνάγχη</orth>
@@ -3985,7 +3985,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc942">
         <orth xml:lang="grc">κύρτωμα</orth>
-        <foreign xml:lang="fra">gibbosité en arrière</foreign>
+        <foreign xml:lang="fra">gibbosité</foreign><gloss> en arrière</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc943">
         <orth xml:lang="grc">κύστις</orth>
@@ -3997,7 +3997,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc945">
         <orth xml:lang="grc">κυψελὶς</orth>
-        <foreign xml:lang="fra">cérumen des oreilles</foreign>
+        <foreign xml:lang="fra">cérumen</foreign><gloss> des oreilles</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc946">
         <orth xml:lang="grc">κωδία</orth>
@@ -4009,7 +4009,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc948">
         <orth xml:lang="grc">κωλικὴ διάθεσις</orth>
-        <foreign xml:lang="fra">la colique</foreign>
+        <foreign xml:lang="fra">colique (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc949">
         <orth xml:lang="grc">κῶλον</orth>
@@ -4064,7 +4064,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc961">
         <orth xml:lang="grc">λαπάραι</orth>
-        <foreign xml:lang="fra">les flancs</foreign>
+        <foreign xml:lang="fra">flancs (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc962">
         <orth xml:lang="grc">λάρυγξ</orth>
@@ -4109,11 +4109,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc972">
         <orth xml:lang="grc">λεπρικὸς</orth>
-        <foreign xml:lang="fra">qui tient de la lèpre</foreign>
+        <gloss xml:lang="fra">qui tient de la lèpre</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc973">
         <orth xml:lang="grc">λεπτὸν</orth>
-        <foreign xml:lang="fra">l’intestin grêle</foreign>
+        <foreign xml:lang="fra">intestin grêle (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc974">
         <orth xml:lang="grc">λέπτυνσις</orth>
@@ -4141,7 +4141,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc980">
         <orth xml:lang="grc">λεχὼ</orth>
-        <foreign xml:lang="fra">une accouchée</foreign>
+        <foreign xml:lang="fra">accouchée (une)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc981">
         <orth xml:lang="grc">ληθαργικὸς</orth>
@@ -4252,7 +4252,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1007">
         <orth xml:lang="grc">λοχὸς</orth>
-        <foreign xml:lang="fra">une accouchée</foreign>
+        <foreign xml:lang="fra">accouchée (une)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1008">
         <orth xml:lang="grc">λυγγώδης</orth>
@@ -4293,15 +4293,15 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1016">
         <orth xml:lang="grc">μάγνης</orth>
-        <foreign xml:lang="fra">l’aimant</foreign>
+        <foreign xml:lang="fra">aimant (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1017">
         <orth xml:lang="grc">μαδάρωσις</orth>
-        <foreign xml:lang="fra">chute des cheveux</foreign>
+        <gloss xml:lang="fra">chute des cheveux</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1018">
         <orth xml:lang="grc">μάζα</orth>
-        <foreign xml:lang="fra">pâte de farine d’orge</foreign>
+        <foreign xml:lang="fra">pâte</foreign><gloss> de farine d’orge</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1019">
         <orth xml:lang="grc">μαζὸς</orth>
@@ -4315,11 +4315,11 @@
       <entryFree type="tr" xml:id="grc1021">
         <orth xml:lang="grc">μαιεία</orth>
         <orth xml:lang="grc">μαίευσις</orth>
-        <foreign xml:lang="fra">l’art des accouchements</foreign>
+        <gloss xml:lang="fra">art des accouchements (l')</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1022">
         <orth xml:lang="grc">μαιεύω</orth>
-        <foreign xml:lang="fra">je pratique un accouchement</foreign>
+        <foreign xml:lang="fra">pratique un accouchement (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1023">
         <orth xml:lang="grc">μακροκέφαλος</orth>
@@ -4339,7 +4339,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1027">
         <orth xml:lang="grc">μαλάσσω</orth>
-        <foreign xml:lang="fra">je malaxe</foreign>
+        <foreign xml:lang="fra">malaxe (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1028">
         <orth xml:lang="grc">μαλθακαὶ πλεῦραι</orth>
@@ -4347,7 +4347,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1029">
         <orth xml:lang="grc">μαλθακώδης</orth>
-        <foreign xml:lang="fra">propre à ramollir</foreign>
+        <gloss xml:lang="fra">propre à ramollir</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1030">
         <orth xml:lang="grc">μάλκη</orth>
@@ -4388,11 +4388,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1039">
         <orth xml:lang="grc">μεγαλόσπλαγχνος</orth>
-        <foreign xml:lang="fra">qui a les viscères engorgés</foreign>
+        <gloss xml:lang="fra">qui a les viscères engorgés</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1040">
         <orth xml:lang="grc">μέδω</orth>
-        <foreign xml:lang="fra">je soigne</foreign>
+        <foreign xml:lang="fra">soigne (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1041">
         <orth xml:lang="grc">μέθη</orth>
@@ -4480,7 +4480,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1061">
         <orth xml:lang="grc">μῆλα</orth>
-        <foreign xml:lang="fra">les joues</foreign>
+        <foreign xml:lang="fra">joues (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1062">
         <orth xml:lang="grc">μήλη</orth>
@@ -4492,8 +4492,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1064">
         <orth xml:lang="grc">μήνιγξ</orth>
-        <foreign xml:lang="fra">méninge</foreign>
-        <foreign xml:lang="fra">membrane</foreign>
+        <foreign xml:lang="fra">méninge, membrane</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1065">
         <orth xml:lang="grc">μηρὸς</orth>
@@ -4514,11 +4513,11 @@
       <entryFree type="tr" xml:id="grc1069">
         <orth xml:lang="grc">μίλφαι</orth>
         <orth xml:lang="grc">μίλφωσις</orth>
-        <foreign xml:lang="fra">chute des cils</foreign>
+        <gloss xml:lang="fra">chute des cils</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1070">
         <orth xml:lang="grc">μιξόπυος</orth>
-        <foreign xml:lang="fra">mêlé de pus</foreign>
+        <gloss xml:lang="fra">mêlé de pus</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1071">
         <orth xml:lang="grc">μογιλαλία</orth>
@@ -4603,7 +4602,7 @@
       <entryFree type="tr" xml:id="grc1090">
         <orth xml:lang="grc">μυρτόχειλα</orth>
         <orth xml:lang="grc">μυρτοχειλίδες</orth>
-        <foreign xml:lang="fra">parties charnues situées près du clitoris</foreign>
+        <gloss xml:lang="fra">parties charnues situées près du clitoris</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1091">
         <orth xml:lang="grc">μῦς</orth>
@@ -4615,7 +4614,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1092b">
         <orth xml:lang="grc">μυχὸς ἀπόῤῥητος</orth>
-        <foreign xml:lang="fra">la vulve</foreign>
+        <foreign xml:lang="fra">vulve (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1093">
         <orth xml:lang="grc">μυωπία</orth>
@@ -4705,7 +4704,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1113">
         <orth xml:lang="grc">νῆστις</orth>
-        <foreign xml:lang="fra">l’intestin jéjunum</foreign>
+        <foreign xml:lang="fra">intestin jéjunum (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1114">
         <orth xml:lang="grc">νίτρον</orth>
@@ -4757,7 +4756,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1125">
         <orth xml:lang="grc">νυχθήμερον</orth>
-        <foreign xml:lang="fra">l’espace d’un jour et d’une nuit</foreign>
+        <gloss xml:lang="fra">espace d’un jour et d’une nuit (l')</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1126">
         <orth xml:lang="grc">νωθρότης</orth>
@@ -4769,7 +4768,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1128">
         <orth xml:lang="grc">νῶτος</orth>
-        <foreign xml:lang="fra">le dos</foreign>
+        <foreign xml:lang="fra">dos (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1129">
         <orth xml:lang="grc">ξήρανσις</orth>
@@ -4785,11 +4784,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1132">
         <orth xml:lang="grc">ξήριον</orth>
-        <foreign xml:lang="fra">médicament sec (par exemple, une poudre)</foreign>
+        <gloss xml:lang="fra">médicament sec : par exemple, une poudre</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1133">
         <orth xml:lang="grc">ξηρόσαρκος</orth>
-        <foreign xml:lang="fra">qui a les chairs sèches</foreign>
+        <gloss xml:lang="fra">qui a les chairs sèches</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1134">
         <orth xml:lang="grc">ξηροφθαλμία</orth>
@@ -4852,7 +4851,7 @@
         <foreign xml:lang="fra">dentifrice</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1149">
-        <orth xml:lang="grc">ὀδοντοφυΐα</orth>
+        <orth xml:lang="grc">ὀδοντοφυΐα</orth>
         <foreign xml:lang="fra">dentition</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1150">
@@ -4894,7 +4893,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1159">
         <orth xml:lang="grc">ὀλιγαιμία</orth>
-        <foreign xml:lang="fra">défaut de sang</foreign>
+        <gloss xml:lang="fra">défaut de sang</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1160">
         <orth xml:lang="grc">ὀλιγόσπερμος</orth>
@@ -4902,7 +4901,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1161">
         <orth xml:lang="grc">ὀλιγότροφος</orth>
-        <foreign xml:lang="fra">mal nourri</foreign>
+        <gloss xml:lang="fra">mal nourri</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1162">
         <orth xml:lang="grc">ὀλιγόφυλλος</orth>
@@ -4914,11 +4913,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1164">
         <orth xml:lang="grc">ὁλμίσκοι</orth>
-        <foreign xml:lang="fra">alvéoles des dents</foreign>
+        <foreign xml:lang="fra">alvéoles</foreign><gloss> des dents</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1165">
         <orth xml:lang="grc">ὁλόστεος</orth>
-        <foreign xml:lang="fra">entièrement osseux</foreign>
+        <gloss xml:lang="fra">entièrement osseux</gloss>
       </entryFree>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1747" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1747/full/full/0/default.jpg" n="1733"/>
       <entryFree type="tr" xml:id="grc1166">
@@ -4936,7 +4935,7 @@
       <entryFree type="tr" xml:id="grc1169">
         <orth xml:lang="grc">ὀμφαλοτομία</orth>
         <foreign xml:lang="fra">omphalotomie</foreign>
-        <foreign xml:lang="fra">métier de sage-femme</foreign>
+        <gloss xml:lang="fra">métier de sage-femme</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1170">
         <orth xml:lang="grc">ὀμφαλοτόμος</orth>
@@ -5021,7 +5020,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1189">
         <orth xml:lang="grc">ὀρθόκυλλος</orth>
-        <foreign xml:lang="fra">dont un membre est ankylosé et droit</foreign>
+        <gloss xml:lang="fra">dont un membre est ankylosé et droit</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1190">
         <orth xml:lang="grc">ὀρθόπνοια</orth>
@@ -5075,7 +5074,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1202">
         <orth xml:lang="grc">ὀσφύες</orth>
-        <foreign xml:lang="fra">les lombes</foreign>
+        <foreign xml:lang="fra">lombes (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1203">
         <orth xml:lang="grc">ὄσχεον</orth>
@@ -5098,7 +5097,7 @@
       <entryFree type="tr" xml:id="grc1207">
         <orth xml:lang="grc">οὐρανὸς</orth>
         <orth xml:lang="grc">οὐρανίσκος</orth>
-        <foreign xml:lang="fra">le palais</foreign>
+        <foreign xml:lang="fra">palais (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1208">
         <orth xml:lang="grc">οὐρήθρα</orth>
@@ -5106,7 +5105,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1209">
         <orth xml:lang="grc">οὔρησις</orth>
-        <foreign xml:lang="fra">l’action d’uriner</foreign>
+        <gloss xml:lang="fra">action d’uriner (l')</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1210">
         <orth xml:lang="grc">οὐρητὴρ</orth>
@@ -5151,9 +5150,9 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1220">
         <orth xml:lang="grc">ὄψις</orth>
-        <foreign xml:lang="fra">la pupille</foreign>
-        <foreign xml:lang="fra">l’œil</foreign>
-        <foreign xml:lang="fra">le facies</foreign>
+        <foreign xml:lang="fra">pupille (la)</foreign>
+        <foreign xml:lang="fra">œil (l')</foreign>
+        <foreign xml:lang="fra">facies (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1221">
         <orth xml:lang="grc">πάγκρεας</orth>
@@ -5181,7 +5180,7 @@
         <foreign xml:lang="fra">affection</foreign>
         <foreign xml:lang="fra">maladie</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc1227">
+      <entryFree type="subtr" xml:id="grc1227">
         <orth xml:lang="grc">πάθος παιδικὸν</orth>
         <foreign xml:lang="fra">épilepsie</foreign>
       </entryFree>
@@ -5268,7 +5267,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1248">
         <orth xml:lang="grc">παραπήχιον</orth>
-        <foreign xml:lang="fra">le radius</foreign>
+        <foreign xml:lang="fra">radius (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1249">
         <orth xml:lang="grc">παραπληγία</orth>
@@ -5340,7 +5339,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1266">
         <orth xml:lang="grc">παρωπίαι</orth>
-        <foreign xml:lang="fra">les angles externes de l’œil</foreign>
+        <gloss xml:lang="fra">angles externes de l’œil (les)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1267">
         <orth xml:lang="grc">παρωτὶς</orth>
@@ -5356,7 +5355,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1270">
         <orth xml:lang="grc">πελίωμα</orth>
-        <foreign xml:lang="fra">tache livide</foreign>
+        <gloss xml:lang="fra">tache livide</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1271">
         <orth xml:lang="grc">πελίωσις</orth>
@@ -5377,7 +5376,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1275">
         <orth xml:lang="grc">περητήριον</orth>
-        <foreign xml:lang="fra">sorte de trépan</foreign>
+        <gloss xml:lang="fra">sorte de trépan</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1276">
         <orth xml:lang="grc">περίαμμα</orth>
@@ -5386,11 +5385,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1277">
         <orth xml:lang="grc">περίβλεψις</orth>
-        <foreign xml:lang="fra">action de jeter des regards effrayés autour de soi</foreign>
+        <gloss xml:lang="fra">action de jeter des regards effrayés autour de soi</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1278">
         <orth xml:lang="grc">περικάρδιος</orth>
-        <foreign xml:lang="fra">qui est autour du cœur</foreign>
+        <gloss xml:lang="fra">qui est autour du cœur</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1279">
         <orth xml:lang="grc">περικάρπιον</orth>
@@ -5449,7 +5448,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1292">
         <orth xml:lang="grc">περιωδυνία</orth>
-        <foreign xml:lang="fra">forte douleur</foreign>
+        <gloss xml:lang="fra">forte douleur</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1293">
         <orth xml:lang="grc">περόνη</orth>
@@ -5473,7 +5472,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1298">
         <orth xml:lang="grc">πηγὴ</orth>
-        <foreign xml:lang="fra">le canthus interne</foreign>
+        <foreign xml:lang="fra">canthus interne (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1299">
         <orth xml:lang="grc">πηδηθμὸς φλεβῶν</orth>
@@ -5489,9 +5488,9 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1302">
         <orth xml:lang="grc">πῆχυς</orth>
-        <foreign xml:lang="fra">le cubitus</foreign>
-        <foreign xml:lang="fra">le coude</foreign>
-        <foreign xml:lang="fra">l’avant-bras</foreign>
+        <foreign xml:lang="fra">cubitus (le)</foreign>
+        <foreign xml:lang="fra">coude (le)</foreign>
+        <foreign xml:lang="fra">avant-bras (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1303">
         <orth xml:lang="grc">πίεσις</orth>
@@ -5512,7 +5511,7 @@
       <entryFree type="tr" xml:id="grc1307">
         <orth xml:lang="grc">πίτυρον</orth>
         <foreign xml:lang="fra">son</foreign>
-        <foreign xml:lang="fra">crasse de tête</foreign>
+        <foreign xml:lang="fra">crasse</foreign><gloss> de tête</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1308">
         <orth xml:lang="grc">πιτυρώδης</orth>
@@ -5565,12 +5564,12 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1320">
         <orth xml:lang="grc">πνεῦμα</orth>
-        <foreign xml:lang="fra">le pneuma</foreign>
+        <foreign xml:lang="fra">pneuma (le)</foreign>
         <foreign xml:lang="fra">respiration</foreign>
         <foreign xml:lang="fra">dyspnée</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1321">
-        <orth xml:lang="grc">πευνματικὸς</orth>
+        <orth xml:lang="grc"><choice><sic>πευνματικὸς</sic><corr>πνευματικὸς</corr></choice></orth>
         <foreign xml:lang="fra">pneumatique</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1322">
@@ -5598,7 +5597,7 @@
         <orth xml:lang="grc">πνιγμὸς</orth>
         <foreign xml:lang="fra">suffocation</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc1328">
+      <entryFree type="subtr" xml:id="grc1328">
         <orth xml:lang="grc">πνὶξ ὑστερικὴ</orth>
         <foreign xml:lang="fra">hystérie</foreign>
       </entryFree>
@@ -5633,7 +5632,7 @@
       <entryFree type="tr" xml:id="grc1336">
         <orth xml:lang="grc">πολυχρόνιος</orth>
         <foreign xml:lang="fra">chronique</foreign>
-        <foreign xml:lang="fra">de longue durée</foreign>
+        <gloss xml:lang="fra">de longue durée</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1337">
         <orth xml:lang="grc">πόμα</orth>
@@ -5669,7 +5668,7 @@
         <foreign xml:lang="fra">potion</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1345">
-        <orth xml:lang="grc">ποῦς</orth>
+        <orth xml:lang="grc"><choice><sic>ποῦς</sic><corr>ποὺς</corr></choice></orth>
         <foreign xml:lang="fra">pied</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1346">
@@ -5703,11 +5702,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1353">
         <orth xml:lang="grc">προκάρδιον</orth>
-        <foreign xml:lang="fra">région précordiale</foreign>
+        <gloss xml:lang="fra">région précordiale</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1354">
         <orth xml:lang="grc">προκάρπιον</orth>
-        <foreign xml:lang="fra">l’avant-main</foreign>
+        <foreign xml:lang="fra">avant-main (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1355">
         <orth xml:lang="grc">προκαταρκτικὸς</orth>
@@ -5715,19 +5714,19 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1356">
         <orth xml:lang="grc">προκνήμιον</orth>
-        <foreign xml:lang="fra">le tibia</foreign>
+        <foreign xml:lang="fra">tibia (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1357">
         <orth xml:lang="grc">προληπτικὸς</orth>
         <foreign xml:lang="fra">proleptique</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1358">
-        <orth xml:lang="grc">προμετωπίδιον</orth>
+        <orth xml:lang="grc"><choice><sic>πρόμετωπίδιον</sic><corr>προμετωπίδιον</corr></choice></orth>
         <foreign xml:lang="fra">frontal (subst.)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1359">
         <orth xml:lang="grc">προπήχιον</orth>
-        <foreign xml:lang="fra">le cubitus</foreign>
+        <foreign xml:lang="fra">cubitus (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1360">
         <orth xml:lang="grc">πρόπολις</orth>
@@ -5747,16 +5746,16 @@
         <foreign xml:lang="fra">affusion</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1364">
-        <orth xml:lang="grc">προσώπον</orth>
+        <orth xml:lang="grc">πρόσωπον</orth>
         <foreign xml:lang="fra">visage</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1365">
-        <orth xml:lang="grc">προφυλαχτικὸς</orth>
+        <orth xml:lang="grc">προφυλακτικὸς</orth>
         <foreign xml:lang="fra">prophylactique</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1366">
         <orth xml:lang="grc">πρόχειλος</orth>
-        <foreign xml:lang="fra">la partie antérieure et moyenne des lèvres</foreign>
+        <gloss xml:lang="fra">partie antérieure et moyenne des lèvres (la)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1367">
         <orth xml:lang="grc">πρωκτὸς</orth>
@@ -5793,14 +5792,14 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1375">
         <orth xml:lang="grc">πτερυγώματα</orth>
-        <foreign xml:lang="fra">grandes lèvres de la vulve</foreign>
+        <gloss xml:lang="fra">grandes lèvres de la vulve</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1376">
         <orth xml:lang="grc">πτίλωσις</orth>
-        <foreign xml:lang="fra">perte des cils</foreign>
+        <gloss xml:lang="fra">perte des cils</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1377">
-        <orth xml:lang="grc">πτισσάνη</orth>
+        <orth xml:lang="grc"><choice><sic>πτισσάνη</sic><corr>πτισάνη</corr></choice></orth>
         <foreign xml:lang="fra">décoction d’orge</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1378">
@@ -5850,7 +5849,7 @@
         <foreign xml:lang="fra">feu</foreign>
         <foreign xml:lang="fra">fièvre intense</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc1388">
+      <entryFree type="subtr" xml:id="grc1388">
         <orth xml:lang="grc">πῦρ ἄγριον</orth>
         <foreign xml:lang="fra">érysipèle</foreign>
       </entryFree>
@@ -5944,7 +5943,7 @@
         <foreign xml:lang="fra">rachis</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1410">
-        <orth xml:lang="grc">ῥάχιτης μυελὸς</orth>
+        <orth xml:lang="grc"><choice><sic>ῥάχιτης</sic><corr>ῥαχίτης</corr></choice> μυελὸς</orth>
         <foreign xml:lang="fra">moelle épinière</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1411">
@@ -5999,13 +5998,13 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1422">
         <orth xml:lang="grc">ῥὶς</orth>
-        <foreign xml:lang="fra">le nez</foreign>
+        <foreign xml:lang="fra">nez (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1423">
         <orth xml:lang="grc">ῥόα</orth>
         <orth xml:lang="grc">ῥοιὰ</orth>
-        <foreign xml:lang="fra">le grenadier</foreign>
-        <foreign xml:lang="fra">la grenade</foreign>
+        <foreign xml:lang="fra">grenadier (le)</foreign>
+        <foreign xml:lang="fra">grenade (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1424">
         <orth xml:lang="grc">ῥόγχος</orth>
@@ -6021,14 +6020,14 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1427">
         <orth xml:lang="grc">ῥοπάλωσις</orth>
-        <foreign xml:lang="fra">rigidité des cheveux</foreign>
+        <gloss xml:lang="fra">rigidité des cheveux</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1428">
         <orth xml:lang="grc">ῥοῦς</orth>
         <foreign xml:lang="fra">écoulement</foreign>
         <foreign xml:lang="fra">flux</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc1429">
+      <entryFree type="subtr" xml:id="grc1429">
         <orth xml:lang="grc">ῥοῦς γυναικεῖος</orth>
         <foreign xml:lang="fra">leucorrhée</foreign>
       </entryFree>
@@ -6067,7 +6066,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1439">
         <orth xml:lang="grc">σάλπιγξ</orth>
-        <foreign xml:lang="fra">trompe d’Eustache</foreign>
+        <foreign xml:lang="fra">trompe</foreign><gloss> d’Eustache</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1440">
         <orth xml:lang="grc">σανδαράχη</orth>
@@ -6091,7 +6090,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1445">
         <orth xml:lang="grc">σαρκοκόλλα</orth>
-        <foreign xml:lang="fra">sàrcocolle</foreign>
+        <foreign xml:lang="fra">sarcocolle</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1446">
         <orth xml:lang="grc">σαρκοφυΐα</orth>
@@ -6124,7 +6123,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1453">
         <orth xml:lang="grc">σατυρισμὸς</orth>
-        <foreign xml:lang="fra">engorgement des parotides</foreign>
+        <foreign xml:lang="fra">engorgement</foreign><gloss> des parotides</gloss>
         <foreign xml:lang="fra">satyriasis</foreign>
         <foreign xml:lang="fra">éléphantiasis</foreign>
       </entryFree>
@@ -6143,7 +6142,8 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1457">
         <orth xml:lang="grc">σημασία</orth>
-        <foreign xml:lang="fra">invasion d’une maladie ou accès</foreign>
+        <gloss xml:lang="fra">invasion d’une maladie</gloss>
+        <gloss xml:lang="fra">accès d’une maladie</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1458">
         <orth xml:lang="grc">σημεῖον</orth>
@@ -6253,7 +6253,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1484">
         <orth xml:lang="grc">σκεπαρνισμὸς</orth>
-        <foreign xml:lang="fra">fracture du crâne en dédolant</foreign>
+        <gloss xml:lang="fra">fracture du crâne en dédolant</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1485">
         <orth xml:lang="grc">σκίλλα</orth>
@@ -6298,7 +6298,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1495">
         <orth xml:lang="grc">σκυταλὶς</orth>
-        <foreign xml:lang="fra">phalange des doigts</foreign>
+        <foreign xml:lang="fra">phalange</foreign><gloss> des doigts</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1496">
         <orth xml:lang="grc">σκωληκίζων</orth>
@@ -6356,7 +6356,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1509">
         <orth xml:lang="grc">σπλὴν</orth>
-        <foreign xml:lang="fra">la rate</foreign>
+        <foreign xml:lang="fra">rate (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1510">
         <orth xml:lang="grc">σπληνικὸς</orth>
@@ -6393,11 +6393,12 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1518">
         <orth xml:lang="grc">σταφυλάγρα</orth>
-        <foreign xml:lang="fra">pince pour saisir la luette engorgée</foreign>
+        <gloss xml:lang="fra">pince pour saisir la luette engorgée</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1519">
         <orth xml:lang="grc">σταφύλη</orth>
-        <foreign xml:lang="fra">luette ou inflammation de la luette</foreign>
+        <foreign xml:lang="fra">luette</foreign>
+        <foreign xml:lang="fra">inflammation</foreign><gloss> de la luette</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1520">
         <orth xml:lang="grc">σταφύλωμα</orth>
@@ -6437,10 +6438,10 @@
         <foreign xml:lang="fra">suture coronale</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1529">
-        <orth xml:lang="grc">Στῆθος</orth>
-        <foreign xml:lang="fra">la poitrine</foreign>
-        <foreign xml:lang="fra">la paume de la main</foreign>
-        <foreign xml:lang="fra">la plante du pied</foreign>
+        <orth xml:lang="grc">στῆθος</orth>
+        <foreign xml:lang="fra">poitrine (la)</foreign>
+        <foreign xml:lang="fra">paume (la)</foreign><gloss> de la main</gloss>
+        <foreign xml:lang="fra">plante (la)</foreign><gloss> du pied</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1530">
         <orth xml:lang="grc">στίμμι</orth>
@@ -6452,8 +6453,8 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1532">
         <orth xml:lang="grc">στόμα</orth>
-        <foreign xml:lang="fra">la bouche</foreign>
-        <foreign xml:lang="fra">orifice de l’utérus</foreign>
+        <foreign xml:lang="fra">bouche (la)</foreign>
+        <foreign xml:lang="fra">orifice</foreign><gloss> de l’utérus</gloss>
       </entryFree>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1749" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1749/full/full/0/default.jpg" n="1735"/>
       <entryFree type="tr" xml:id="grc1533">
@@ -6471,11 +6472,11 @@
         <foreign xml:lang="fra">pylore</foreign>
         <foreign xml:lang="fra">estomac</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc1536">
+      <entryFree type="subtr" xml:id="grc1536">
         <orth xml:lang="grc">στόμαχος τῆς κύστιος</orth>
         <foreign xml:lang="fra">col de la vessie</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc1537">
+      <entryFree type="subtr" xml:id="grc1537">
         <orth xml:lang="grc">στόμαχος τῆς μήτρας</orth>
         <foreign xml:lang="fra">col de la matrice</foreign>
       </entryFree>
@@ -6493,7 +6494,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1541">
         <orth xml:lang="grc">στρυφνὸς</orth>
-        <foreign xml:lang="fra">âpre au goût</foreign>
+        <foreign xml:lang="fra">âpre</foreign><gloss> au goût</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1542">
         <orth xml:lang="grc">στυλοειδὴς</orth>
@@ -6580,7 +6581,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1562">
         <orth xml:lang="grc">συναγχικὸς</orth>
-        <foreign xml:lang="fra">affecté d’esquinancie</foreign>
+        <gloss xml:lang="fra">affecté d’esquinancie</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1563">
         <orth xml:lang="grc">συνάρθρωσις</orth>
@@ -6632,7 +6633,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1575">
         <orth xml:lang="grc">σφαγὴ</orth>
-        <foreign xml:lang="fra">la gorge</foreign>
+        <foreign xml:lang="fra">gorge (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1576">
         <orth xml:lang="grc">σφαγῖτις</orth>
@@ -6674,7 +6675,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1585">
         <orth xml:lang="grc">σχέσις</orth>
-        <foreign xml:lang="fra">l’habitude du corps</foreign>
+        <foreign xml:lang="fra">habitude (l')</foreign><gloss> du corps</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1586">
         <orth xml:lang="grc">σχίδιον</orth>
@@ -6696,7 +6697,7 @@
         <foreign xml:lang="fra">corporel</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1590">
-        <orth xml:lang="grc">σωφρονιστῆρες ὁδόντες</orth>
+        <orth xml:lang="grc">σωφρονιστῆρες ὀδόντες</orth>
         <foreign xml:lang="fra">dents de sagesse</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1591">
@@ -6705,7 +6706,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1592">
         <orth xml:lang="grc">ταρσὸς</orth>
-        <foreign xml:lang="fra">le tarse</foreign>
+        <foreign xml:lang="fra">tarse (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1593">
         <orth xml:lang="grc">τεινεσμὸς</orth>
@@ -6713,7 +6714,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1594">
         <orth xml:lang="grc">τεινεσμώδης</orth>
-        <foreign xml:lang="fra">affecté de ténesme</foreign>
+        <gloss xml:lang="fra">affecté de ténesme</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1595">
         <orth xml:lang="grc">τένων</orth>
@@ -6741,7 +6742,7 @@
         <foreign xml:lang="fra">tétanos</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1601">
-        <orth xml:lang="grc">τετραπους</orth>
+        <orth xml:lang="grc"><choice><sic>τετραπους</sic><corr>τετράπους</corr></choice></orth>
         <foreign xml:lang="fra">quadrupède</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1602">
@@ -6825,7 +6826,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1621">
         <orth xml:lang="grc">τράχηλος</orth>
-        <foreign xml:lang="fra">le cou</foreign>
+        <foreign xml:lang="fra">cou (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1622">
         <orth xml:lang="grc">τραχύτης</orth>
@@ -6837,11 +6838,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1624">
         <orth xml:lang="grc">τρέφω</orth>
-        <foreign xml:lang="fra">je nourris</foreign>
+        <foreign xml:lang="fra">nourris (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1625">
         <orth xml:lang="grc">τρίβω</orth>
-        <foreign xml:lang="fra">je frotte</foreign>
+        <foreign xml:lang="fra">frotte (je)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1626">
         <orth xml:lang="grc">τριγλώχιν</orth>
@@ -6854,7 +6855,7 @@
       <entryFree type="tr" xml:id="grc1628">
         <orth xml:lang="grc">τριχία</orth>
         <foreign xml:lang="fra">poil</foreign>
-        <foreign xml:lang="fra">affection de la mamelle</foreign>
+        <gloss xml:lang="fra">affection de la mamelle</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1629">
         <orth xml:lang="grc">τριχίασις</orth>
@@ -6919,12 +6920,12 @@
         <foreign xml:lang="fra">caséeux</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1644">
-        <orth xml:lang="grc">θυφλὸς</orth>
+        <orth xml:lang="grc"><choice><sic>θυφλὸς</sic><corr>τυφλὸς</corr></choice></orth>
         <foreign xml:lang="fra">aveugle</foreign>
       </entryFree>
-      <entryFree type="tr" xml:id="grc1645">
+      <entryFree type="subtr" xml:id="grc1645">
         <orth xml:lang="grc">τυφλὸς ἔντερον</orth>
-        <foreign xml:lang="fra">le cæcum</foreign>
+        <foreign xml:lang="fra">cæcum (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1646">
         <orth xml:lang="grc">τύφλωσις</orth>
@@ -6949,11 +6950,12 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1651">
         <orth xml:lang="grc">ὑγιάζω</orth>
-        <foreign xml:lang="fra">je guéris ou rends la santé</foreign>
+        <foreign xml:lang="fra">guéris (je)</foreign>
+        <gloss xml:lang="fra">rends la santé (je)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1652">
         <orth xml:lang="grc">ὑγιαίνω</orth>
-        <foreign xml:lang="fra">je me porte bien</foreign>
+        <foreign xml:lang="fra">porte bien (je me)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1653">
         <orth xml:lang="grc">ὑγίανσις</orth>
@@ -6965,7 +6967,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1655">
         <orth xml:lang="grc">ὑγιεινὸς</orth>
-        <foreign xml:lang="fra">qui a rapport à la santé</foreign>
+        <gloss xml:lang="fra">qui a rapport à la santé</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1656">
         <orth xml:lang="grc">ὑγιὴς</orth>
@@ -6977,7 +6979,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1658">
         <orth xml:lang="grc">ὑγροκοίλιος</orth>
-        <foreign xml:lang="fra">qui a le ventre humide</foreign>
+        <gloss xml:lang="fra">qui a le ventre humide</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1659">
         <orth xml:lang="grc">ὑγρὸς</orth>
@@ -7068,8 +7070,8 @@
         <foreign xml:lang="fra">hypersarcose</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1681">
-        <orth xml:lang="grc">ὑπερῶα</orth>
-        <foreign xml:lang="fra">le palais</foreign>
+        <orth xml:lang="grc"><choice><sic>ὑπερῷα</sic><corr>ὑπερῴα</corr></choice></orth>
+        <foreign xml:lang="fra">palais (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1682">
         <orth xml:lang="grc">ὑπήλατος</orth>
@@ -7101,7 +7103,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1689">
         <orth xml:lang="grc">ὑποῤῥίνιον</orth>
-        <foreign xml:lang="fra">le dessous des narines</foreign>
+        <gloss xml:lang="fra">dessous des narines (le)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1690">
         <orth xml:lang="grc">ὑποσαρκίδιος ὕδρωψ</orth>
@@ -7110,7 +7112,7 @@
       <entryFree type="tr" xml:id="grc1691">
         <orth xml:lang="grc">ὑποσπαθισμὸς</orth>
         <foreign xml:lang="fra">hypospathisme</foreign>
-        <foreign xml:lang="fra">opération par laquelle on décolle la peau de dessus le crâne</foreign>
+        <gloss xml:lang="fra">opération par laquelle on décolle la peau de dessus le crâne</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1692">
         <orth xml:lang="grc">ὑπόστασις</orth>
@@ -7119,15 +7121,15 @@
       <entryFree type="tr" xml:id="grc1693">
         <orth xml:lang="grc">ὑπόφασις</orth>
         <foreign xml:lang="fra">hypophase</foreign>
-        <foreign xml:lang="fra">entr’ouverture des yeux pendant le sommeil</foreign>
+        <gloss xml:lang="fra">entr’ouverture des yeux pendant le sommeil</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1694">
         <orth xml:lang="grc">ὑποφθάλμια</orth>
-        <foreign xml:lang="fra">le dessous de l’œil</foreign>
+        <gloss xml:lang="fra">dessous de l’œil (le)</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1695">
         <orth xml:lang="grc">ὑποφορὰ</orth>
-        <foreign xml:lang="fra">trajet sinueux</foreign>
+        <gloss xml:lang="fra">trajet sinueux</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1696">
         <orth xml:lang="grc">ὑποχόνδριον</orth>
@@ -7141,7 +7143,7 @@
       <entryFree type="tr" xml:id="grc1698">
         <orth xml:lang="grc">ὑποχώρημα</orth>
         <orth xml:lang="grc">ὑποχώρησις</orth>
-        <foreign xml:lang="fra">déjections</foreign>
+        <foreign xml:lang="fra">déjection</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1699">
         <orth xml:lang="grc">ὑπτιασμὸς</orth>
@@ -7153,7 +7155,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1701">
         <orth xml:lang="grc">ὑστέρα</orth>
-        <foreign xml:lang="fra">la matrice</foreign>
+        <foreign xml:lang="fra">matrice (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1702">
         <orth xml:lang="grc">ὑστεραλγία</orth>
@@ -7197,7 +7199,7 @@
       <entryFree type="tr" xml:id="grc1711">
         <orth xml:lang="grc">φαρμακεία</orth>
         <orth xml:lang="grc">φαρμακοποσία</orth>
-        <foreign xml:lang="fra">breuvage purgatif</foreign>
+        <gloss xml:lang="fra">breuvage purgatif</gloss>
         <foreign xml:lang="fra">médecine</foreign>
       </entryFree>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1750" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1750/full/full/0/default.jpg" n="1736"/>
@@ -7228,7 +7230,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1718">
         <orth xml:lang="grc">φθινώδης</orth>
-        <foreign xml:lang="fra">disposé à la phthisie</foreign>
+        <gloss xml:lang="fra">disposé à la phthisie</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1719">
         <orth xml:lang="grc">φθισικὸς</orth>
@@ -7245,7 +7247,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1721">
         <orth xml:lang="grc">φίμωσις</orth>
-        <foreign xml:lang="fra">occlusion d’un conduit ou d’une ouverture quelconque</foreign>
+        <gloss xml:lang="fra">occlusion d’un conduit ou d’une ouverture quelconque</gloss>
         <foreign xml:lang="fra">phimosis</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1722">
@@ -7301,11 +7303,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1734">
         <orth xml:lang="grc">φλυκταινώδης</orth>
-        <foreign xml:lang="fra">plein de phlyctènes</foreign>
+        <gloss xml:lang="fra">plein de phlyctènes</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1735">
         <orth xml:lang="grc">φλυκταίνωσις</orth>
-        <foreign xml:lang="fra">éruption de pustules</foreign>
+        <foreign xml:lang="fra">éruption</foreign><gloss> de pustules</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1736">
         <orth xml:lang="grc">φοινιγμὸς</orth>
@@ -7372,15 +7374,15 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1751">
         <orth xml:lang="grc">φυσιολογία</orth>
-        <foreign xml:lang="fra">étude de la nature</foreign>
+        <gloss xml:lang="fra">étude de la nature</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1752">
         <orth xml:lang="grc">φυσιολόγος</orth>
-        <foreign xml:lang="fra">qui étudie la nature</foreign>
+        <gloss xml:lang="fra">qui étudie la nature</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1753">
         <orth xml:lang="grc">φύσις</orth>
-        <foreign xml:lang="fra">la nature</foreign>
+        <foreign xml:lang="fra">nature (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1754">
         <orth xml:lang="grc">φυσώδης</orth>
@@ -7422,8 +7424,8 @@
       <entryFree type="tr" xml:id="grc1763">
         <orth xml:lang="grc">χείριξις</orth>
         <orth xml:lang="grc">χειρισμὸς</orth>
-        <foreign xml:lang="fra">l’action d explorer</foreign>
-        <foreign xml:lang="fra">de palper</foreign>
+        <gloss xml:lang="fra">action d'explorer (l')</gloss>
+        <gloss xml:lang="fra">action de palper (l')</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1764">
         <orth xml:lang="grc">χειροβόλον</orth>
@@ -7488,7 +7490,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1779">
         <orth xml:lang="grc">χολοποιὸς</orth>
-        <foreign xml:lang="fra">qui fait la bile</foreign>
+        <gloss xml:lang="fra">qui fait la bile</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1780">
         <orth xml:lang="grc">χολώδης</orth>
@@ -7513,7 +7515,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1785">
         <orth xml:lang="grc">χορδὴ</orth>
-        <foreign xml:lang="fra">l’intestin</foreign>
+        <foreign xml:lang="fra">intestin (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1786">
         <orth xml:lang="grc">χόριον</orth>
@@ -7541,8 +7543,8 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1792">
         <orth xml:lang="grc">χρὼς</orth>
-        <foreign xml:lang="fra">la peau</foreign>
-        <foreign xml:lang="fra">l’épiderme</foreign>
+        <foreign xml:lang="fra">peau (la)</foreign>
+        <foreign xml:lang="fra">épiderme (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1793">
         <orth xml:lang="grc">χυλὸς</orth>
@@ -7595,7 +7597,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1804">
         <orth xml:lang="grc">ψοΐτης μυελὸς</orth>
-        <foreign xml:lang="fra">la moelle de la région lombaire</foreign>
+        <foreign xml:lang="fra">moelle de la région lombaire (la)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1805">
         <orth xml:lang="grc">ψόφος</orth>
@@ -7611,7 +7613,7 @@
         <foreign xml:lang="fra">rafraîchissant</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1808">
-        <orth xml:lang="grc">ψύξις</orth>
+        <orth xml:lang="grc"><choice><sic>ψύξις</sic><corr>ψῦξις</corr></choice></orth>
         <foreign xml:lang="fra">réfrigération</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1809">
@@ -7632,11 +7634,11 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1813">
         <orth xml:lang="grc">ὠδὶν</orth>
-        <foreign xml:lang="fra">douleur de l’enfantement</foreign>
+        <gloss xml:lang="fra">douleur de l’enfantement</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1814">
         <orth xml:lang="grc">ὠκυτόκιον</orth>
-        <foreign xml:lang="fra">remède qui aide l’accouchement</foreign>
+        <gloss xml:lang="fra">remède qui aide l’accouchement</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1815">
         <orth xml:lang="grc">ὠλέκρανον</orth>
@@ -7644,17 +7646,17 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1816">
         <orth xml:lang="grc">ὠλένη</orth>
-        <foreign xml:lang="fra">le cubitus</foreign>
-        <foreign xml:lang="fra">le coude</foreign>
+        <foreign xml:lang="fra">cubitus (le)</foreign>
+        <foreign xml:lang="fra">coude (le)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1817">
         <orth xml:lang="grc">ὠμοπλάται</orth>
-        <foreign xml:lang="fra">les omoplates</foreign>
+        <foreign xml:lang="fra">omoplates (les)</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1818">
         <orth xml:lang="grc">ὦμος</orth>
-        <foreign xml:lang="fra">l’épaule</foreign>
-        <foreign xml:lang="fra">l’humérus</foreign>
+        <foreign xml:lang="fra">épaule (l')</foreign>
+        <foreign xml:lang="fra">humérus (l')</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1819">
         <orth xml:lang="grc">ὠμὸς</orth>
@@ -7665,7 +7667,7 @@
         <foreign xml:lang="fra">crudité</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1821">
-        <orth xml:lang="grc">ὠὸν</orth>
+        <orth xml:lang="grc"><choice><sic>ὠὸν</sic><corr>ᾠὸν</corr></choice></orth>
         <foreign xml:lang="fra">œuf</foreign>
       </entryFree>
       <entryFree type="tr" xml:id="grc1822">
@@ -7678,7 +7680,7 @@
       </entryFree>
       <entryFree type="tr" xml:id="grc1824">
         <orth xml:lang="grc">ὠταλγικὸς</orth>
-        <foreign xml:lang="fra">sujet à l’otalgie</foreign>
+        <gloss xml:lang="fra">sujet à l’otalgie</gloss>
       </entryFree>
       <entryFree type="tr" xml:id="grc1825">
         <orth xml:lang="grc">ὠτεγχύτης</orth>

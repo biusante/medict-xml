@@ -99,7 +99,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la14">
           <orth xml:lang="lat">Abrotonum</orth>
-          <orth xml:lang="lat">abrotonus</orth>
+          ou <orth xml:lang="lat">abrotonus</orth>
           <foreign xml:lang="fra">aurone</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la15">
@@ -150,16 +150,16 @@
         <entryFree type="tr" xml:id="la26">
           <orth xml:lang="lat">Acarus</orth>
           <foreign xml:lang="fra">acarus</foreign>
-          <foreign xml:lang="fra">ciron</foreign>
+          ou <foreign xml:lang="fra">ciron</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la27">
+        <entryFree type="subtr" xml:id="la27">
           <orth xml:lang="lat">Acarus scabiei</orth>
-          <orth xml:lang="lat">Acarus subcutaneus</orth>
+          ou <orth xml:lang="lat">Acarus subcutaneus</orth>
           <foreign xml:lang="fra">ciron de la gale</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la28">
           <orth xml:lang="lat">Acataposis</orth>
-          <foreign xml:lang="fra">impossibilité d’avaler</foreign>
+          <gloss xml:lang="fra">impossibilité d’avaler</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la29">
           <orth xml:lang="lat">Acceleratio</orth>
@@ -214,7 +214,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la41">
           <orth xml:lang="lat">Acetabulum</orth>
-          <foreign xml:lang="fra">cotyle [mesure)</foreign>
+          <foreign xml:lang="fra">cotyle (mesure)</foreign>
           <foreign xml:lang="fra">cavité</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la42">
@@ -247,7 +247,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la49">
           <orth xml:lang="lat">Acinaciformis</orth>
-          <foreign xml:lang="fra">en forme de cimeterre</foreign>
+          <gloss xml:lang="fra">en forme de cimeterre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la50">
           <orth xml:lang="lat">Acinesia</orth>
@@ -255,7 +255,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la51">
           <orth xml:lang="lat">Acinosa tunica</orth>
-          <foreign xml:lang="fra">l’uvée</foreign>
+          <foreign xml:lang="fra">uvée (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la52">
           <orth xml:lang="lat">Acinus</orth>
@@ -272,7 +272,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la55">
           <orth xml:lang="lat">Acme</orth>
-          <foreign xml:lang="fra">summum d’une maladie</foreign>
+          <foreign xml:lang="fra">summum</foreign><gloss xml:lang="fra"> d'une maladie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la56">
           <orth xml:lang="lat">Acologia</orth>
@@ -284,7 +284,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la58">
           <orth xml:lang="lat">Acopa</orth>
-          <foreign xml:lang="fra">remèdes qui raniment les forces</foreign>
+          <gloss xml:lang="fra">remèdes qui raniment les forces</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la59">
           <orth xml:lang="lat">Acor</orth>
@@ -361,8 +361,8 @@
           <foreign xml:lang="fra">aigu</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la77">
-          <orth xml:lang="lat">Ayesis</orth>
-          <foreign xml:lang="fra">stérilité chez la femme</foreign>
+          <orth xml:lang="lat">Acyesis</orth>
+          <gloss xml:lang="fra">stérilité chez la femme</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la78">
           <orth xml:lang="lat">Adamas</orth>
@@ -416,7 +416,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la90">
           <orth xml:lang="lat">Adnata tunica</orth>
-          <foreign xml:lang="fra">la conjonctive</foreign>
+          <foreign xml:lang="fra">conjonctive (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la91">
           <orth xml:lang="lat">Adolescentia</orth>
@@ -453,11 +453,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la99">
           <orth xml:lang="lat">Ædœographia</orth>
-          <foreign xml:lang="fra">œdœographie</foreign>
+          <foreign xml:lang="fra">ædœographie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la100">
           <orth xml:lang="lat">Ædœologia</orth>
-          <foreign xml:lang="fra">œdœologie</foreign>
+          <foreign xml:lang="fra">ædœologie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la101">
           <orth xml:lang="lat">Æger</orth>
@@ -470,11 +470,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la103">
           <orth xml:lang="lat">Ægilops</orth>
-          <foreign xml:lang="fra">œgilops</foreign>
+          <foreign xml:lang="fra">ægilops</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la104">
           <orth xml:lang="lat">Ægoceros</orth>
-          <foreign xml:lang="fra">fenugreç</foreign>
+          <foreign xml:lang="fra">fenugrec</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la105">
           <orth xml:lang="lat">Ægritudo</orth>
@@ -514,12 +514,15 @@
           <orth xml:lang="lat">Ærugo</orth>
           <foreign xml:lang="fra">rouille de cuivre</foreign>
           <foreign xml:lang="fra">verdet</foreign>
-          <foreign xml:lang="fra">V. cuivre</foreign>
+        </entryFree>
+      <entryFree type="tr" xml:id="la114">
+        <orth xml:lang="lat">Æs</orth>
+          <foreign xml:lang="fra">cuivre</foreign>
         </entryFree>
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1722" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1722/full/full/0/default.jpg" n="1708"/>
         <entryFree type="tr" xml:id="la114">
           <orth xml:lang="lat">Æsculus</orth>
-          <foreign xml:lang="fra">sorte de chêne</foreign>
+          <gloss xml:lang="fra">sorte de chêne</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la115">
           <orth xml:lang="lat">Æstheterium</orth>
@@ -548,7 +551,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la121">
           <orth xml:lang="lat">Æthiops</orth>
-          <foreign xml:lang="fra">poudre noi^e</foreign>
+          <gloss xml:lang="fra">poudre noire</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la122">
           <orth xml:lang="lat">Æthusa</orth>
@@ -560,7 +563,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la124">
           <orth xml:lang="lat">Aetites</orth>
-          <foreign xml:lang="fra">aélite</foreign>
+          <foreign xml:lang="fra">aétite</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la125">
           <orth xml:lang="lat">Affectio</orth>
@@ -678,11 +681,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la152">
           <orth xml:lang="lat">Alares musculi</orth>
-          <foreign xml:lang="fra">ptéry gordiens</foreign>
+          <foreign xml:lang="fra">ptérygoïdiens</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la153">
           <orth xml:lang="lat">Alaria ossa</orth>
-          <foreign xml:lang="fra">apophyses ptéry g dides</foreign>
+          <foreign xml:lang="fra">apophyses ptérygoïdes</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la154">
           <orth xml:lang="lat">Alatus</orth>
@@ -690,7 +693,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la155">
           <orth xml:lang="lat">Albugineus</orth>
-          <foreign xml:lang="fra">albugine</foreign>
+          <foreign xml:lang="fra">albuginé</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la156">
           <orth xml:lang="lat">Album canis</orth>
@@ -703,7 +706,7 @@
         <entryFree type="tr" xml:id="la158">
           <orth xml:lang="lat">Album Rhasis</orth>
           <foreign xml:lang="fra">blanc de Rhazès</foreign>
-          <foreign xml:lang="fra">sorte d’onguent</foreign>
+          <gloss xml:lang="fra">sorte d’onguent</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la159">
           <orth xml:lang="lat">Albumen</orth>
@@ -715,7 +718,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la161">
           <orth xml:lang="lat">Alcea</orth>
-          <foreign xml:lang="fra">dlcée</foreign>
+          <foreign xml:lang="fra">alcée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la162">
           <orth xml:lang="lat">Alectorius lapis</orth>
@@ -743,8 +746,8 @@
           <foreign xml:lang="fra">alexipyrétique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la168">
-          <orth xml:lang="lat">Aiga</orth>
-          <foreign xml:lang="fra">aigue</foreign>
+          <orth xml:lang="lat">Alga</orth>
+          <foreign xml:lang="fra">algue</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la169">
           <orth xml:lang="lat">Algida febris</orth>
@@ -761,16 +764,16 @@
         </entryFree>
         <entryFree type="tr" xml:id="la172">
           <orth xml:lang="lat">Alica</orth>
-          <foreign xml:lang="fra">sorte de gruau</foreign>
+          <gloss xml:lang="fra">sorte de gruau</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la173">
-          <orth xml:lang="lat">Alienatio mentis^</orth>
+          <orth xml:lang="lat">Alienatio mentis</orth>
           <foreign xml:lang="fra">aliénation</foreign>
           <foreign xml:lang="fra">manie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la174">
           <orth xml:lang="lat">Aliformes musculi</orth>
-          <foreign xml:lang="fra">ptéry goïdiens</foreign>
+          <foreign xml:lang="fra">ptérygoïdiens</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la175">
           <orth xml:lang="lat">Alimentum</orth>
@@ -778,16 +781,16 @@
         </entryFree>
         <entryFree type="tr" xml:id="la176">
           <orth xml:lang="lat">Alindesis</orth>
-          <gloss>action de se rouler dans la poussière le corps frotté d’huile</gloss>
+          <gloss>action de se rouler dans la poussière, le corps frotté d’huile</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la177">
           <orth xml:lang="lat">Alipta</orth>
-          <foreign xml:lang="fra">celui qui fait des onctions</foreign>
+          <gloss xml:lang="fra">celui qui fait des onctions</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la178">
           <orth xml:lang="lat">Alisma</orth>
           <foreign xml:lang="fra">flûteau</foreign>
-          <foreign xml:lang="fra">plante</foreign>
+          <gloss xml:lang="fra">plante</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la179">
           <orth xml:lang="lat">Alites</orth>
@@ -812,7 +815,7 @@
         <entryFree type="tr" xml:id="la184">
           <orth xml:lang="lat">Alnus</orth>
           <foreign xml:lang="fra">aune</foreign>
-          <foreign xml:lang="fra">arbre</foreign>
+          <gloss xml:lang="fra">arbre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la185">
           <orth xml:lang="lat">Aloe</orth>
@@ -834,7 +837,7 @@
         <entryFree type="tr" xml:id="la189">
           <orth xml:lang="lat">Alphitedon</orth>
           <foreign xml:lang="fra">alphitédon</foreign>
-          <foreign xml:lang="fra">se dit d’une fracture comminutive</foreign>
+          <gloss xml:lang="fra">se dit d’une fracture comminutive</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la190">
           <orth xml:lang="lat">Alphus</orth>
@@ -843,7 +846,7 @@
         <entryFree type="tr" xml:id="la191">
           <orth xml:lang="lat">Alsine</orth>
           <foreign xml:lang="fra">morgeline</foreign>
-          <foreign xml:lang="fra">plante</foreign>
+          <gloss xml:lang="fra">plante</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la192">
           <orth xml:lang="lat">Alterans</orth>
@@ -879,18 +882,18 @@
         </entryFree>
         <entryFree type="tr" xml:id="la200">
           <orth xml:lang="lat">Alveus ampullascens</orth>
-          <gloss>nom donné par Pecquct aux deux troncs chylifères qui sortent du réservoir du chyle</gloss>
+          <gloss>nom donné par Pecquet aux deux troncs chylifères qui sortent du réservoir du chyle</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la201">
           <orth xml:lang="lat">Alviduca</orth>
-          <foreign xml:lang="fra">les purgatifs</foreign>
+          <foreign xml:lang="fra">purgatifs (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la202">
           <orth xml:lang="lat">Alvinus</orth>
           <foreign xml:lang="fra">alvin</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la203">
-          <orth xml:lang="lat">Al vi profluvium</orth>
+          <orth xml:lang="lat">Alvi profluvium</orth>
           <foreign xml:lang="fra">cours de ventre</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la204">
@@ -903,7 +906,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la206">
           <orth xml:lang="lat">Amaracum</orth>
-          <foreign xml:lang="fra">espèce de marjolaine</foreign>
+          <gloss xml:lang="fra">espèce de marjolaine</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la207">
           <orth xml:lang="lat">Amarantus</orth>
@@ -923,7 +926,7 @@
           <foreign xml:lang="fra">chlorose</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la211">
-          <orth xml:lang="lat">Amatorii musculi (Casserius)</orth>
+          <orth xml:lang="lat">Amatorii musculi (Cassérius)</orth>
           <foreign xml:lang="fra">muscles obliques de l’œil</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la212">
@@ -958,7 +961,7 @@
           <foreign xml:lang="fra">brûlure</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la219">
-          <orth xml:lang="lat">Amenorrhoea</orth>
+          <orth xml:lang="lat">Amenorrhœa</orth>
           <foreign xml:lang="fra">aménorrhée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la220">
@@ -971,8 +974,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la222">
           <orth xml:lang="lat">Amethysta</orth>
-          <foreign xml:lang="fra">médicaments</foreign>
-          <foreign xml:lang="fra">remèdes contre l’ivresse</foreign>
+          <gloss xml:lang="fra">médicaments, remèdes contre l’ivresse</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la223">
           <orth xml:lang="lat">Amiantus</orth>
@@ -1017,7 +1019,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la233">
           <orth xml:lang="lat">Amphibranchia</orth>
-          <foreign xml:lang="fra">les parties autour des amygdales</foreign>
+          <gloss xml:lang="fra">parties autour des amygdales (les)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la234">
           <orth xml:lang="lat">Amphismile</orth>
@@ -1029,7 +1031,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la236">
           <orth xml:lang="lat">Amplexicaulis</orth>
-          <foreign xml:lang="fra">amplexicaulc</foreign>
+          <foreign xml:lang="fra">amplexicaule</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la237">
           <orth xml:lang="lat">Ampulla</orth>
@@ -1048,7 +1050,8 @@
           <foreign xml:lang="fra">marc d’huile</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la241">
-          <orth xml:lang="lat">Amygdala et amygdalum</orth>
+          <orth xml:lang="lat">Amygdala</orth>
+          <orth xml:lang="lat">amygdalum</orth>
           <foreign xml:lang="fra">amande</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la242">
@@ -1078,7 +1081,7 @@
         <entryFree type="tr" xml:id="la248">
           <orth xml:lang="lat">Anacatharsis</orth>
           <foreign xml:lang="fra">expectoration</foreign>
-          <foreign xml:lang="fra">évacuation par le haut</foreign>
+          <gloss xml:lang="fra">évacuation par le haut</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la249">
           <orth xml:lang="lat">Anacatharticus</orth>
@@ -1086,15 +1089,16 @@
         </entryFree>
         <entryFree type="tr" xml:id="la250">
           <orth xml:lang="lat">Anacollema</orth>
-          <gloss>Uniment appliqué sur le front et les oreilles pour les maux d’yeux et les épistaxis</gloss>
+          <gloss>liniment appliqué sur le front et les oreilles pour les maux d’yeux et les épistaxis</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la251">
-          <orth xml:lang="lat">Anâctorion</orth>
+          <orth xml:lang="lat">Anactorion</orth>
           <foreign xml:lang="fra">glaïeul</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la252">
           <orth xml:lang="lat">Anadiplosis</orth>
-          <gloss>répétition des redoublements, changement d’une fièvre simple en une fièvre composée</gloss>
+          <gloss>répétition des redoublements</gloss>
+          <gloss>changement d’une fièvre simple en une fièvre composée</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la253">
           <orth xml:lang="lat">Anæmia</orth>
@@ -1110,7 +1114,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la256">
           <orth xml:lang="lat">Analeptica</orth>
-          <foreign xml:lang="fra">les analeptiquue</foreign>
+          <foreign xml:lang="fra"><choice><sic>analeptiquue (les)</sic><corr>analeptiques (les)</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la257">
           <orth xml:lang="lat">Analogismus</orth>
@@ -1139,7 +1143,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la263">
           <orth xml:lang="lat">Anarrhopia</orth>
-          <foreign xml:lang="fra">fluxion vers le haut</foreign>
+          <gloss xml:lang="fra">fluxion vers le haut</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la264">
           <orth xml:lang="lat">Anas</orth>
@@ -1155,7 +1159,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la267">
           <orth xml:lang="lat">Anastomotica</orth>
-          <foreign xml:lang="fra">médicaments qui ouvrent lespores</foreign>
+          <gloss xml:lang="fra">médicaments qui ouvrent les pores</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la268">
           <orth xml:lang="lat">Anastrophe</orth>
@@ -1187,12 +1191,12 @@
           <foreign xml:lang="fra">coude</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la275">
-          <orth xml:lang="lat">Anderes</orth>
+          <orth xml:lang="lat">Ancteres</orth>
           <foreign xml:lang="fra">boucles</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la276">
           <orth xml:lang="lat">Ancyle</orth>
-          <foreign xml:lang="fra">ankylosé</foreign>
+          <foreign xml:lang="fra">ankylose</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la277">
           <orth xml:lang="lat">Ancyloblepharum</orth>
@@ -1205,15 +1209,15 @@
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1723" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1723/full/full/0/default.jpg" n="1709"/>
         <entryFree type="tr" xml:id="la279">
           <orth xml:lang="lat">Ancylosis</orth>
-          <foreign xml:lang="fra">ankylosé</foreign>
+          <foreign xml:lang="fra">ankylose</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la280">
           <orth xml:lang="lat">Ancylotomus</orth>
-          <foreign xml:lang="fra">an cy latome</foreign>
+          <foreign xml:lang="fra">ancylotome</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la281">
           <orth xml:lang="lat">Ancyroides</orth>
-          <foreign xml:lang="fra">ancyrdide</foreign>
+          <foreign xml:lang="fra">ancyroïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la282">
           <orth xml:lang="lat">Androgynus</orth>
@@ -1241,7 +1245,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la288">
           <orth xml:lang="lat">Aneticus</orth>
-          <foreign xml:lang="fra">où il y a rémission</foreign>
+          <gloss xml:lang="fra">où il y a rémission</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la289">
           <orth xml:lang="lat">Aneurysma</orth>
@@ -1270,7 +1274,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la295">
           <orth xml:lang="lat">Anglicus sudor</orth>
-          <foreign xml:lang="fra">suetle</foreign>
+          <foreign xml:lang="fra">suette</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la296">
           <orth xml:lang="lat">Angor</orth>
@@ -1326,8 +1330,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la308">
           <orth xml:lang="lat">Ani scalptor musculus</orth>
-          <orth xml:lang="lat">Ani scalptorlatissimus</orth>
-          <foreign xml:lang="fra">le grand dorsal</foreign>
+          <orth xml:lang="lat">ani scalptor latissimus</orth>
+          <foreign xml:lang="fra">grand dorsal (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la309">
           <orth xml:lang="lat">Anisum</orth>
@@ -1347,11 +1351,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la313">
           <orth xml:lang="lat">Annulus osseus</orth>
-          <gloss>le cercle osseux du tympan chez le fœtus</gloss>
+          <gloss>cercle osseux du tympan chez le fœtus (le)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la314">
           <orth xml:lang="lat">Annus climactericus</orth>
-          <foreign xml:lang="fra">année clima- - térique</foreign>
+          <foreign xml:lang="fra">année climatérique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la315">
           <orth xml:lang="lat">Anodynus</orth>
@@ -1384,11 +1388,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la322">
           <orth xml:lang="lat">Anosphresia</orth>
-          <foreign xml:lang="fra">perte de l’olfaction</foreign>
+          <gloss xml:lang="fra">perte de l’olfaction</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la323">
           <orth xml:lang="lat">Ansa capitis</orth>
-          <foreign xml:lang="fra">l’apophyse zygomatique</foreign>
+          <foreign xml:lang="fra">apophyse zygomatique (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la324">
           <orth xml:lang="lat">Anser</orth>
@@ -1416,7 +1420,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la330">
           <orth xml:lang="lat">Antemeticus</orth>
-          <foreign xml:lang="fra">antémé tique</foreign>
+          <foreign xml:lang="fra">antémétique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la331">
           <orth xml:lang="lat">Anteponens febris</orth>
@@ -1435,7 +1439,7 @@
           <foreign xml:lang="fra">camomille</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la335">
-          <orth xml:lang="lat">Anlhera medicamenta</orth>
+          <orth xml:lang="lat">Anthera medicamenta</orth>
           <gloss>médicaments, surtout métalliques, de couleur brillante</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la336">
@@ -1469,7 +1473,7 @@
           <gloss>animaux dont la forme ressemble à celle de l’homme</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la343">
-          <orth xml:lang="lat">Anthronophagus</orth>
+          <orth xml:lang="lat">Anthropophagus</orth>
           <foreign xml:lang="fra">anthropophage</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la344">
@@ -1490,7 +1494,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la348">
           <orth xml:lang="lat">Anticardium</orth>
-          <foreign xml:lang="fra">le creux de l’estomac</foreign>
+          <gloss xml:lang="fra">creux de l’estomac (le)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la349">
           <orth xml:lang="lat">Antichir</orth>
@@ -1502,7 +1506,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la351">
           <orth xml:lang="lat">Antidotarium</orth>
-          <foreign xml:lang="fra">antidoiaire</foreign>
+          <foreign xml:lang="fra">antidotaire</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la352">
           <orth xml:lang="lat">Antidotum</orth>
@@ -1551,7 +1555,9 @@
         </entryFree>
         <entryFree type="tr" xml:id="la363">
           <orth xml:lang="lat">Anus</orth>
-          <gloss>l’anus ou l’ouverture inférieur du rectum ; l’ouverture postérieure des couches optiques</gloss>
+          <foreign xml:lang="fra">anus (l')</foreign>
+          <gloss xml:lang="fra">ouverture <choice><sic>inférieur</sic><corr>inférieure</corr></choice> du rectum (l')</gloss>
+          <gloss xml:lang="fra">ouverture postérieure des couches optiques (l')</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la364">
           <orth xml:lang="lat">Anxietas</orth>
@@ -1566,7 +1572,7 @@
           <foreign xml:lang="fra">apanthropie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la367">
-          <orth xml:lang="lat">Aparin^</orth>
+          <orth xml:lang="lat">Aparine</orth>
           <foreign xml:lang="fra">grateron</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la368">
@@ -1617,7 +1623,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la379">
           <orth xml:lang="lat">Aphrodisiacus</orth>
-          <foreign xml:lang="fra">aprodisiaque</foreign>
+          <foreign xml:lang="fra"><choice><sic>aprodisiaque</sic><corr>aphrodisiaque</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la380">
           <orth xml:lang="lat">Aphrodisiasmus</orth>
@@ -1642,7 +1648,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la385">
           <orth xml:lang="lat">Apios</orth>
-          <foreign xml:lang="fra">espèce de tithymale</foreign>
+          <gloss xml:lang="fra">espèce de tithymale</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la386">
           <orth xml:lang="lat">Apis</orth>
@@ -1670,7 +1676,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la392">
           <orth xml:lang="lat">Apocrusticus</orth>
-          <foreign xml:lang="fra">qui repousse les humeurs</foreign>
+          <gloss xml:lang="fra">qui repousse les humeurs</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la393">
           <orth xml:lang="lat">Apocynum</orth>
@@ -1678,11 +1684,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la394">
           <orth xml:lang="lat">Apodacryticus</orth>
-          <foreign xml:lang="fra">qui excite les larmes</foreign>
+          <gloss xml:lang="fra">qui excite les larmes</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la395">
           <orth xml:lang="lat">Apomeli</orth>
-          <foreign xml:lang="fra">hydromel étendu d’eau</foreign>
+          <foreign xml:lang="fra">hydromel <gloss> étendu d’eau</gloss></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la396">
           <orth xml:lang="lat">Aponeurosis</orth>
@@ -1714,7 +1720,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la403">
           <orth xml:lang="lat">Aposceparnismus</orth>
-          <gloss>enlèvement, en dédolant, d’une portion dit crâne</gloss>
+          <gloss>enlèvement, en dédolant, d’une portion du crâne</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la404">
           <orth xml:lang="lat">Apositia</orth>
@@ -1726,7 +1732,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la406">
           <orth xml:lang="lat">Apostema</orth>
-          <foreign xml:lang="fra">abcès ou dépôt</foreign>
+          <foreign xml:lang="fra">abcès</foreign>
+          <foreign xml:lang="fra">dépôt</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la407">
           <orth xml:lang="lat">Aposyrma</orth>
@@ -1738,11 +1745,12 @@
         </entryFree>
         <entryFree type="tr" xml:id="la409">
           <orth xml:lang="lat">Apotherapia</orth>
-          <gloss>friction d’huile, ou onction qui s’administrait à la fin de l’exercice dans les gymnases</gloss>
+          <gloss>friction d’huile</gloss>
+          <gloss>onction qui s’administrait à la fin de l’exercice dans les gymnases</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la410">
           <orth xml:lang="lat">Apothermon</orth>
-          <foreign xml:lang="fra">sorte de boisson</foreign>
+          <gloss xml:lang="fra">sorte de boisson</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la411">
           <orth xml:lang="lat">Apozema</orth>
@@ -1771,7 +1779,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la417">
           <orth xml:lang="lat">Applicata</orth>
-          <foreign xml:lang="fra">les applicata</foreign>
+          <foreign xml:lang="fra">applicata (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la418">
           <orth xml:lang="lat">Apprehensio</orth>
@@ -1801,7 +1809,7 @@
           <orth xml:lang="lat">Aqua</orth>
           <foreign xml:lang="fra">eau</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la425">
+        <entryFree type="subtr" xml:id="la425">
           <orth xml:lang="lat">Aqua mulsa</orth>
           <foreign xml:lang="fra">hydromel</foreign>
         </entryFree>
@@ -1831,7 +1839,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la432">
           <orth xml:lang="lat">Aquula</orth>
-          <foreign xml:lang="fra">hydatidé</foreign>
+          <foreign xml:lang="fra">hydatide</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la433">
           <orth xml:lang="lat">Aquula acustica</orth>
@@ -1839,16 +1847,16 @@
         </entryFree>
         <entryFree type="tr" xml:id="la434">
           <orth xml:lang="lat">Arabicum gummi</orth>
-          <foreign xml:lang="fra">gomme ara· bique</foreign>
+          <foreign xml:lang="fra">gomme arabique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la435">
-          <orth xml:lang="lat">Arachnoïdes</orth>
+          <orth xml:lang="lat">Arachnoides</orth>
           <orth xml:lang="lat">arachnoideus</orth>
           <foreign xml:lang="fra">arachnoïdien</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la436">
           <orth xml:lang="lat">Arachnois</orth>
-          <foreign xml:lang="fra">l’arachnoïde</foreign>
+          <foreign xml:lang="fra">arachnoïde (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la437">
           <orth xml:lang="lat">Aranea</orth>
@@ -1875,12 +1883,12 @@
           <foreign xml:lang="fra">archiatre</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la443">
-          <orth xml:lang="lat">Arenalia ossa</orth>
-          <foreign xml:lang="fra">os du sinciput</foreign>
-          <foreign xml:lang="fra">os temporaux</foreign>
+          <orth xml:lang="lat">Arcualia ossa</orth>
+          <foreign xml:lang="fra">os du sinciput</foreign> suivant les uns
+          <foreign xml:lang="fra">os temporaux</foreign> suivant les autres
         </entryFree>
         <entryFree type="tr" xml:id="la444">
-          <orth xml:lang="lat">Arcuatis sutura</orth>
+          <orth xml:lang="lat">Arcualis sutura</orth>
           <foreign xml:lang="fra">suture coronale</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la445">
@@ -1895,7 +1903,7 @@
         <entryFree type="tr" xml:id="la447">
           <orth xml:lang="lat">Ardor</orth>
           <foreign xml:lang="fra">ardeur</foreign>
-          <foreign xml:lang="fra">sentiment de chaleur</foreign>
+          <gloss xml:lang="fra">sentiment de chaleur</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la448">
           <orth xml:lang="lat">Area</orth>
@@ -1904,7 +1912,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la449">
           <orth xml:lang="lat">Arefactio</orth>
-          <foreign xml:lang="fra">aréfaetion</foreign>
+          <foreign xml:lang="fra">aréfaction</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la450">
           <orth xml:lang="lat">Arenatio</orth>
@@ -1929,7 +1937,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la455">
           <orth xml:lang="lat">Argyropœia</orth>
-          <foreign xml:lang="fra">transmutation des métaux vils en argent</foreign>
+          <gloss xml:lang="fra">transmutation des métaux vils en argent</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la456">
           <orth xml:lang="lat">Arista</orth>
@@ -1949,7 +1957,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la460">
           <orth xml:lang="lat">Aroma</orth>
-          <foreign xml:lang="fra">arôme</foreign>
+          <foreign xml:lang="fra">arome</foreign>
           <foreign xml:lang="fra">aromate</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la461">
@@ -1974,7 +1982,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la466">
           <orth xml:lang="lat">Arteriographia</orth>
-          <foreign xml:lang="fra">artériographie</foreign>
+          <foreign xml:lang="fra"><choice><sic>arteriographie</sic><corr>artériographie</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la467">
           <orth xml:lang="lat">Arteriologia</orth>
@@ -2013,7 +2021,7 @@
           <orth xml:lang="lat">Articularis</orth>
           <foreign xml:lang="fra">articulaire</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la476">
+        <entryFree type="subtr" xml:id="la476">
           <orth xml:lang="lat">Articularis morbus</orth>
           <foreign xml:lang="fra">goutte</foreign>
         </entryFree>
@@ -2039,17 +2047,17 @@
           <foreign xml:lang="fra">roseau</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la482">
-          <orth xml:lang="lat">Aryarytænoideus (Morgagni, Santorini)</orth>
-          <foreign xml:lang="fra">aryténoidifin transverse</foreign>
+          <orth xml:lang="lat">Ary-arytænoideus (Morgagni, Santorini)</orth>
+          <foreign xml:lang="fra">aryténoïdien transverse</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la483">
-          <orth xml:lang="lat">Arytænoepiglotticus ( Winslow )</orth>
+          <orth xml:lang="lat">Arytæno-epiglotticus ( Winslow )</orth>
           <foreign xml:lang="fra">aryténo-épiglottique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la484">
           <orth xml:lang="lat">Arytænoides</orth>
           <orth xml:lang="lat">arytænoideus</orth>
-          <foreign xml:lang="fra">aryténoidien</foreign>
+          <foreign xml:lang="fra">aryténoïdien</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la485">
           <orth xml:lang="lat">Asaphia</orth>
@@ -2260,7 +2268,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la535">
           <orth xml:lang="lat">Atypus</orth>
-          <foreign xml:lang="fra">sans type</foreign>
+          <gloss xml:lang="fra">sans type</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la536">
           <orth xml:lang="lat">Auctio</orth>
@@ -2273,7 +2281,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la538">
           <orth xml:lang="lat">Auditus</orth>
-          <foreign xml:lang="fra">ouie</foreign>
+          <foreign xml:lang="fra">ouïe</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la539">
           <orth xml:lang="lat">Augmentum</orth>
@@ -2281,7 +2289,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la540">
           <orth xml:lang="lat">Aura seminalis</orth>
-          <foreign xml:lang="fra">vapeur supposée s’exhalant du sperme</foreign>
+          <gloss xml:lang="fra">vapeur supposée s’exhalant du sperme</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la541">
           <orth xml:lang="lat">Auricula</orth>
@@ -2318,7 +2326,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la549">
           <orth xml:lang="lat">Autopsia</orth>
-          <foreign xml:lang="fra">autopsié</foreign>
+          <foreign xml:lang="fra">autopsie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la550">
           <orth xml:lang="lat">Autumnus</orth>
@@ -2400,7 +2408,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la569">
           <orth xml:lang="lat">Balneum laconicum</orth>
-          <foreign xml:lang="fra">bain de var peur</foreign>
+          <foreign xml:lang="fra">bain de vapeur</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la570">
           <orth xml:lang="lat">Balsamum</orth>
@@ -2420,12 +2428,12 @@
         </entryFree>
         <entryFree type="tr" xml:id="la574">
           <orth xml:lang="lat">Basilica</orth>
-          <foreign xml:lang="fra">la veine basilique</foreign>
+          <foreign xml:lang="fra">veine basilique (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la575">
           <orth xml:lang="lat">Basilicon</orth>
-          <foreign xml:lang="fra">espèce de collyre</foreign>
-          <foreign xml:lang="fra">espèce d’emplâtre</foreign>
+          <gloss xml:lang="fra">espèce de collyre</gloss>
+          <gloss xml:lang="fra">espèce d’emplâtre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la576">
           <orth xml:lang="lat">Bathrum</orth>
@@ -2469,7 +2477,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la586">
           <orth xml:lang="lat">Bidentatus</orth>
-          <foreign xml:lang="fra">bidcnté</foreign>
+          <foreign xml:lang="fra">bidenté</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la587">
           <orth xml:lang="lat">Biennis</orth>
@@ -2505,7 +2513,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la595">
           <orth xml:lang="lat">Bisulcus</orth>
-          <foreign xml:lang="fra">flssipède</foreign>
+          <foreign xml:lang="fra">fissipède</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la596">
           <orth xml:lang="lat">Bitumen</orth>
@@ -2550,7 +2558,7 @@
         <entryFree type="tr" xml:id="la606">
           <orth xml:lang="lat">Bombus</orth>
           <foreign xml:lang="fra">bourdonnement</foreign>
-          <foreign xml:lang="fra">tinte· ment d’oreille</foreign>
+          <gloss xml:lang="fra">tintement d’oreille</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la607">
           <orth xml:lang="lat">Borborygmus</orth>
@@ -2594,7 +2602,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la617">
           <orth xml:lang="lat">Brochitas</orth>
-          <foreign xml:lang="fra">saillie des dents</foreign>
+          <gloss xml:lang="fra">saillie des dents</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la618">
           <orth xml:lang="lat">Bronchocele</orth>
@@ -2713,7 +2721,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la646">
           <orth xml:lang="lat">Cæso</orth>
-          <foreign xml:lang="fra">né par l’opération césarienne</foreign>
+          <gloss xml:lang="fra">né par l’opération césarienne</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la647">
           <orth xml:lang="lat">Cæsura</orth>
@@ -2721,7 +2729,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la648">
           <orth xml:lang="lat">Calamintha</orth>
-          <foreign xml:lang="fra">cal ament</foreign>
+          <foreign xml:lang="fra">calament</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la649">
           <orth xml:lang="lat">Calamus aromaticus </orth>
@@ -2729,7 +2737,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la650">
           <orth xml:lang="lat">Calcaneum</orth>
-          <foreign xml:lang="fra">le calcanéum</foreign>
+          <foreign xml:lang="fra">calcanéum (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la651">
           <orth xml:lang="lat">Calcarius</orth>
@@ -2798,11 +2806,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la666">
           <orth xml:lang="lat">Camarosis</orth>
-          <foreign xml:lang="fra">camarosis [fracturé)</foreign>
+          <foreign xml:lang="fra">camarosis (fracture)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la667">
           <orth xml:lang="lat">Canaliculus renum</orth>
-          <foreign xml:lang="fra">le bassinet des reins</foreign>
+          <foreign xml:lang="fra">bassinet des reins (le)</foreign>
           <foreign xml:lang="fra">gouttière</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la668">
@@ -2817,7 +2825,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la670">
           <orth xml:lang="lat">Canna gutturis</orth>
-          <foreign xml:lang="fra">la trachée-artère</foreign>
+          <foreign xml:lang="fra">trachée-artère (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la671">
           <orth xml:lang="lat">Cannabis</orth>
@@ -2859,7 +2867,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la680">
           <orth xml:lang="lat">Capreolus</orth>
-          <foreign xml:lang="fra">vrille des plantes sarmenteuses</foreign>
+          <foreign xml:lang="fra">vrille</foreign><gloss> des plantes sarmenteuses</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la681">
           <orth xml:lang="lat">Caput</orth>
@@ -2885,7 +2893,7 @@
         <entryFree type="tr" xml:id="la686">
           <orth xml:lang="lat">Carcinoma</orth>
           <foreign xml:lang="fra">carcinome</foreign>
-          <foreign xml:lang="fra">ulcère cancéreux</foreign>
+          <gloss xml:lang="fra">ulcère cancéreux</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la687">
           <orth xml:lang="lat">Cardiace</orth>
@@ -2895,7 +2903,7 @@
           <orth xml:lang="lat">Cardiacus</orth>
           <foreign xml:lang="fra">cardiaque</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la689">
+        <entryFree type="subtr" xml:id="la689">
           <orth xml:lang="lat">Cardiacus morbus</orth>
           <foreign xml:lang="fra">maladie cardiaque</foreign>
         </entryFree>
@@ -2960,7 +2968,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la704">
           <orth xml:lang="lat">Castor</orth>
-          <foreign xml:lang="fra">le castor</foreign>
+          <foreign xml:lang="fra">castor (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la705">
           <orth xml:lang="lat">Castoreum</orth>
@@ -2972,8 +2980,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la707">
           <orth xml:lang="lat">Cataclysmus</orth>
-          <foreign xml:lang="fra">affusion</foreign>
-          <foreign xml:lang="fra">douche</foreign>
+          proprement <foreign xml:lang="fra">affusion</foreign>
+          parfois <foreign xml:lang="fra">douche</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la708">
           <orth xml:lang="lat">Catagma</orth>
@@ -3012,21 +3020,21 @@
           <orth xml:lang="lat">Catarrhus</orth>
           <foreign xml:lang="fra">catarrhe</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la717">
+        <entryFree type="subtr" xml:id="la717">
           <orth xml:lang="lat">Catarrhus ad nares</orth>
           <foreign xml:lang="fra">coryza</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la718">
+        <entryFree type="subtr" xml:id="la718">
           <orth xml:lang="lat">Catarrhus ad pectus</orth>
           <foreign xml:lang="fra">rhume</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la719">
-          <orth xml:lang="lat">Catastaltieus</orth>
+          <orth xml:lang="lat">Catastalticus</orth>
           <foreign xml:lang="fra">catastaltique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la720">
           <orth xml:lang="lat">Catastasis</orth>
-          <foreign xml:lang="fra">l’habitude du corps</foreign>
+          <foreign xml:lang="fra">habitude du corps (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la721">
           <orth xml:lang="lat">Cathæresis</orth>
@@ -3138,7 +3146,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la748">
           <orth xml:lang="lat">Ceratoides</orth>
-          <foreign xml:lang="fra">en forme de corne</foreign>
+          <gloss xml:lang="fra">en forme de corne</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la749">
           <orth xml:lang="lat">Ceratum</orth>
@@ -3225,7 +3233,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la769">
           <orth xml:lang="lat">Chilon</orth>
-          <foreign xml:lang="fra">qui a de grosses lèvres</foreign>
+          <gloss xml:lang="fra">qui a de grosses lèvres</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la770">
           <orth xml:lang="lat">Chiragra</orth>
@@ -3264,7 +3272,7 @@
           <foreign xml:lang="fra">cholédoque</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la779">
-          <orth xml:lang="lat">Choiera</orth>
+          <orth xml:lang="lat">Cholera</orth>
           <foreign xml:lang="fra">choléra</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la780">
@@ -3273,7 +3281,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la781">
           <orth xml:lang="lat">Cholopœeticus</orth>
-          <foreign xml:lang="fra">qui forme la bile</foreign>
+          <gloss xml:lang="fra">qui forme la bile</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la782">
           <orth xml:lang="lat">Chondrographia</orth>
@@ -3294,7 +3302,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la786">
           <orth xml:lang="lat">Chorea</orth>
-          <gloss>chorée, danse de Saint-Weith ou de Saint-Guy</gloss>
+          <foreign>chorée</foreign><gloss>danse de Saint-Weith ou de Saint-Guy</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la787">
           <orth xml:lang="lat">Chorion</orth>
@@ -3368,7 +3376,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la804">
           <orth xml:lang="lat">Cinnamomum</orth>
-          <foreign xml:lang="fra">cannéllier</foreign>
+          <foreign xml:lang="fra">cannellier</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la805">
           <orth xml:lang="lat">Circuitus</orth>
@@ -3385,7 +3393,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la808">
           <orth xml:lang="lat">Circumfusa</orth>
-          <foreign xml:lang="fra">les circumfusa</foreign>
+          <foreign xml:lang="fra">circumfusa (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la809">
           <orth xml:lang="lat">Cirratus</orth>
@@ -3412,7 +3420,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la814">
           <orth xml:lang="lat">Cirsomphalus</orth>
-          <foreign xml:lang="fra">cirsomphate</foreign>
+          <foreign xml:lang="fra">cirsomphale</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la815">
           <orth xml:lang="lat">Cisterna</orth>
@@ -3421,7 +3429,7 @@
         <entryFree type="tr" xml:id="la816">
           <orth xml:lang="lat">Cisterna lumbaris</orth>
           <foreign xml:lang="fra">citerne lombaire</foreign>
-          <foreign xml:lang="fra">réservoir de Pecquel</foreign>
+          <foreign xml:lang="fra">réservoir de Pecquet</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la817">
           <orth xml:lang="lat">Citrus medica</orth>
@@ -3429,7 +3437,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la818">
           <orth xml:lang="lat">Citta</orth>
-          <foreign xml:lang="fra">lepica</foreign>
+          <foreign xml:lang="fra">pica (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la819">
           <orth xml:lang="lat">Clarificatio</orth>
@@ -3441,13 +3449,14 @@
         </entryFree>
         <entryFree type="tr" xml:id="la821">
           <orth xml:lang="lat">Clavicula</orth>
-          <gloss>la clavicule. — Vrille des plantes sarmenteuses</gloss>
+          <foreign>clavicule (la)</foreign>
+          <foreign>Vrille</foreign><gloss> des plantes sarmenteuses</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la822">
           <orth xml:lang="lat">Clavus</orth>
           <foreign xml:lang="fra">clou</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la823">
+        <entryFree type="subtr" xml:id="la823">
           <orth xml:lang="lat">Clavus pedis</orth>
           <foreign xml:lang="fra">cor</foreign>
         </entryFree>
@@ -3475,7 +3484,7 @@
         <entryFree type="tr" xml:id="la829">
           <orth xml:lang="lat">Clyster</orth>
           <orth xml:lang="lat">clysterium</orth>
-          <foreign xml:lang="fra">clystere</foreign>
+          <foreign xml:lang="fra">clystère</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la830">
           <orth xml:lang="lat">Coagulans</orth>
@@ -3521,7 +3530,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la840">
           <orth xml:lang="lat">Cochleare</orth>
-          <foreign xml:lang="fra">une curette</foreign>
+          <foreign xml:lang="fra">curette (une)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la841">
           <orth xml:lang="lat">Coctio</orth>
@@ -3529,11 +3538,11 @@
           <foreign xml:lang="fra">digestion</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la842">
-          <orth xml:lang="lat">Coeliacus</orth>
+          <orth xml:lang="lat">Cœliacus</orth>
           <foreign xml:lang="fra">cœliaque</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la843">
-          <orth xml:lang="lat">Coeliacus morbus</orth>
+        <entryFree type="subtr" xml:id="la843">
+          <orth xml:lang="lat">Cœliacus morbus</orth>
           <foreign xml:lang="fra">flux cœliaque</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la844">
@@ -3546,7 +3555,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la846">
           <orth xml:lang="lat">Coitus</orth>
-          <foreign xml:lang="fra">coit</foreign>
+          <foreign xml:lang="fra">coït</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la847">
           <orth xml:lang="lat">Colatura</orth>
@@ -3574,7 +3583,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la853">
           <orth xml:lang="lat">Colleticus</orth>
-          <foreign xml:lang="fra">qui agglutine</foreign>
+          <gloss xml:lang="fra">qui agglutine</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la854">
           <orth xml:lang="lat">Colliquans</orth>
@@ -3645,17 +3654,17 @@
         </entryFree>
         <entryFree type="tr" xml:id="la870">
           <orth xml:lang="lat">Compernis</orth>
-          <foreign xml:lang="fra">qui a les genoux tournés en dedans</foreign>
+          <gloss xml:lang="fra">qui a les genoux tournés en dedans</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la871">
           <orth xml:lang="lat">Complexio</orth>
           <foreign xml:lang="fra">complexion</foreign>
-          <foreign xml:lang="fra">. tempérament</foreign>
+          <foreign xml:lang="fra">tempérament</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la872">
           <orth xml:lang="lat">Conarium</orth>
-          <foreign xml:lang="fra">conarium</foreign>
-          <foreign xml:lang="fra">glande pinéale</foreign>
+          <foreign xml:lang="fra">conarium (le)</foreign>
+          <foreign xml:lang="fra">glande pinéale (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la873">
           <orth xml:lang="lat">Conceptio</orth>
@@ -3663,7 +3672,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la874">
           <orth xml:lang="lat">Concha</orth>
-          <foreign xml:lang="fra">conque</foreign>
+          <foreign xml:lang="fra">conque (la)</foreign>
           <foreign xml:lang="fra">pavillon de l’oreille</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la875">
@@ -3867,7 +3876,7 @@
         <entryFree type="tr" xml:id="la922">
           <orth xml:lang="lat">Coracoideus</orth>
           <foreign xml:lang="fra">coracoïde</foreign>
-          <foreign xml:lang="fra">coracoidien</foreign>
+          <foreign xml:lang="fra">coracoïdien</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la923">
           <orth xml:lang="lat">Corallium</orth>
@@ -3878,7 +3887,7 @@
           <foreign xml:lang="fra">peau</foreign>
           <foreign xml:lang="fra">chorion</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la925">
+        <entryFree type="subtr" xml:id="la925">
           <orth xml:lang="lat">Corium sanguinis</orth>
           <foreign xml:lang="fra">couenne du sang</foreign>
         </entryFree>
@@ -3905,7 +3914,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la931">
           <orth xml:lang="lat">Coronoideus</orth>
-          <foreign xml:lang="fra">corondide</foreign>
+          <foreign xml:lang="fra">coronoïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la932">
           <orth xml:lang="lat">Corpulentia</orth>
@@ -3943,7 +3952,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la940">
           <orth xml:lang="lat">Corticeus</orth>
-          <foreign xml:lang="fra">qui appartient à l’écorce</foreign>
+          <gloss xml:lang="fra">qui appartient à l’écorce</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la941">
           <orth xml:lang="lat">Corybantiasmus</orth>
@@ -3951,7 +3960,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la942">
           <orth xml:lang="lat">Corymbifer</orth>
-          <foreign xml:lang="fra">corymbifero</foreign>
+          <foreign xml:lang="fra">corymbifère</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la943">
           <orth xml:lang="lat">Corymbus</orth>
@@ -3988,7 +3997,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la951">
           <orth xml:lang="lat">Cotyloides</orth>
-          <foreign xml:lang="fra">cotyloiide</foreign>
+          <foreign xml:lang="fra">cotyloïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la952">
           <orth xml:lang="lat">Coxa</orth>
@@ -4001,11 +4010,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la954">
           <orth xml:lang="lat">Crasis</orth>
-          <foreign xml:lang="fra">erase</foreign>
+          <foreign xml:lang="fra">crase</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la955">
           <orth xml:lang="lat">Crassa meninx</orth>
-          <foreign xml:lang="fra">la dure-mère</foreign>
+          <foreign xml:lang="fra">dure-mère (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la956">
           <orth xml:lang="lat">Crassamentum</orth>
@@ -4013,15 +4022,15 @@
         </entryFree>
         <entryFree type="tr" xml:id="la957">
           <orth xml:lang="lat">Cratægus</orth>
-          <foreign xml:lang="fra">aligier</foreign>
+          <foreign xml:lang="fra">alisier</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la958">
           <orth xml:lang="lat">Cremaster</orth>
-          <foreign xml:lang="fra">le crémaster</foreign>
+          <foreign xml:lang="fra">crémaster (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la959">
           <orth xml:lang="lat">Crematio</orth>
-          <foreign xml:lang="fra">action de brûler</foreign>
+          <gloss xml:lang="fra">action de brûler</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la960">
           <orth xml:lang="lat">Cremor</orth>
@@ -4078,7 +4087,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la973">
           <orth xml:lang="lat">Crotaphites</orth>
-          <foreign xml:lang="fra">le muscle crotaphite</foreign>
+          <foreign xml:lang="fra">muscle crotaphite (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la974">
           <orth xml:lang="lat">Croton</orth>
@@ -4104,7 +4113,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la979">
           <orth xml:lang="lat">Cruor</orth>
-          <foreign xml:lang="fra">le sang</foreign>
+          <foreign xml:lang="fra">sang (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la980">
           <orth xml:lang="lat">Cruralis</orth>
@@ -4118,9 +4127,9 @@
           <orth xml:lang="lat">Crusta</orth>
           <foreign xml:lang="fra">croûte</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la983">
+        <entryFree type="subtr" xml:id="la983">
           <orth xml:lang="lat">Crusta pleuretica sanguinis</orth>
-          <foreign xml:lang="fra">la couenne inflammatoire du sang</foreign>
+          <foreign xml:lang="fra">couenne inflammatoire du sang (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la984">
           <orth xml:lang="lat">Crypta</orth>
@@ -4140,33 +4149,34 @@
         </entryFree>
         <entryFree type="tr" xml:id="la988">
           <orth xml:lang="lat">Cubitus</orth>
-          <foreign xml:lang="fra">le coude</foreign>
-          <foreign xml:lang="fra">le cubitus</foreign>
-          <foreign xml:lang="fra">l’olécrane</foreign>
+          <foreign xml:lang="fra">coude (le)</foreign>
+          <foreign xml:lang="fra">cubitus (le)</foreign>
+          <foreign xml:lang="fra">olécrane (l')</foreign>
+          <foreign xml:lang="fra">coucher (Le)</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la989">
+        <entryFree type="subtr" xml:id="la989">
           <orth xml:lang="lat">Cubitus pronus</orth>
-          <foreign xml:lang="fra">le coucher sur le ventre</foreign>
+          <foreign xml:lang="fra">coucher sur le ventre (le)</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la990">
+        <entryFree type="subtr" xml:id="la990">
           <orth xml:lang="lat">Cubitus resupinus</orth>
-          <orth xml:lang="lat">supinus</orth>
-          <foreign xml:lang="fra">le coucher sur le dos</foreign>
+          <orth xml:lang="lat">cubitus supinus</orth>
+          <foreign xml:lang="fra">coucher sur le dos (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la991">
-          <orth xml:lang="lat">Cuboïdes</orth>
+          <orth xml:lang="lat">Cuboides</orth>
           <orth xml:lang="lat">cubiformis</orth>
           <foreign xml:lang="fra">cuboïde</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la992">
+        <entryFree type="subtr" xml:id="la992">
           <orth xml:lang="lat">Os cubiforme</orth>
-          <foreign xml:lang="fra">l’os cuboïde</foreign>
+          <foreign xml:lang="fra">os cuboïde (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la993">
           <orth xml:lang="lat">Cucullatus</orth>
           <foreign xml:lang="fra">capuchonné</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la994">
+        <entryFree type="subtr" xml:id="la994">
           <orth xml:lang="lat">Cucullatus musculus</orth>
           <foreign xml:lang="fra">muscle trapèze</foreign>
         </entryFree>
@@ -4227,7 +4237,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1007">
           <orth xml:lang="lat">Cuticularis musculus</orth>
-          <foreign xml:lang="fra">le peaucier</foreign>
+          <foreign xml:lang="fra">peaucier (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1008">
           <orth xml:lang="lat">Cutis</orth>
@@ -4247,7 +4257,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1012">
           <orth xml:lang="lat">Cydonia arbor</orth>
-          <foreign xml:lang="fra">le cognassier</foreign>
+          <foreign xml:lang="fra">cognassier (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1013">
           <orth xml:lang="lat">Cylindraceus</orth>
@@ -4255,7 +4265,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1014">
           <orth xml:lang="lat">Cylindroides</orth>
-          <foreign xml:lang="fra">cylindroide</foreign>
+          <foreign xml:lang="fra">cylindroïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1015">
           <orth xml:lang="lat">Cylindrus</orth>
@@ -4270,7 +4280,7 @@
           <orth xml:lang="lat">Cynanche</orth>
           <foreign xml:lang="fra">angine</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1018">
+        <entryFree type="subtr" xml:id="la1018">
           <orth xml:lang="lat">Cynanche stridula</orth>
           <foreign xml:lang="fra">croup</foreign>
         </entryFree>
@@ -4329,7 +4339,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1032">
           <orth xml:lang="lat">Cystocele</orth>
-          <foreign xml:lang="fra">cystocele</foreign>
+          <foreign xml:lang="fra">cystocèle</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1033">
           <orth xml:lang="lat">Cystodynia</orth>
@@ -4353,7 +4363,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1038">
           <orth xml:lang="lat">Dacryopœus</orth>
-          <foreign xml:lang="fra">qui produit des larmes</foreign>
+          <gloss xml:lang="fra">qui produit des larmes</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1039">
           <orth xml:lang="lat">Dactylus</orth>
@@ -4400,12 +4410,12 @@
           <foreign xml:lang="fra">déclivité</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1050">
-          <orth xml:lang="lat">Decoetio</orth>
+          <orth xml:lang="lat">Decoctio</orth>
           <foreign xml:lang="fra">décoction</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1051">
           <orth xml:lang="lat">Decoctum</orth>
-          <gloss>une décoction (le produit de la décoction)</gloss>
+          <foreign>décoction (une)</foreign><gloss>(le produit de la décoction)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1052">
           <orth xml:lang="lat">Decorticatio</orth>
@@ -4422,14 +4432,14 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1055">
           <orth xml:lang="lat">Decurrens</orth>
-          <foreign xml:lang="fra">decurrent</foreign>
+          <foreign xml:lang="fra">décurrent</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1056">
           <orth xml:lang="lat">Decussatio</orth>
           <foreign xml:lang="fra">décussation</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1057">
-          <orth xml:lang="lat">Defecatio</orth>
+          <orth xml:lang="lat">Defæcatio</orth>
           <foreign xml:lang="fra">dépuration</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1058">
@@ -4464,7 +4474,10 @@
           <orth xml:lang="lat">Defluxio</orth>
           <foreign xml:lang="fra">défluxion</foreign>
         </entryFree>
-        <!-- (Cæl. Au­rel.) <emph>diarrhée</emph>. -->
+        <entryFree type="subtr" xml:id="la1065">
+          <orth xml:lang="lat">Defluxio (Cæl. Au­rel.)</orth>
+          <foreign xml:lang="fra">diarrhée</foreign>
+        </entryFree>
         <entryFree type="tr" xml:id="la1066">
           <orth xml:lang="lat">Defoliatio</orth>
           <foreign xml:lang="fra">défeuillaison</foreign>
@@ -4484,7 +4497,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1070">
           <orth xml:lang="lat">Deligare</orth>
-          <foreign xml:lang="fra">bander.une plaie</foreign>
+          <foreign xml:lang="fra">bander une plaie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1071">
           <orth xml:lang="lat">Deliquium</orth>
@@ -4500,7 +4513,7 @@
           <foreign xml:lang="fra">dislocation</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1074">
-          <orth xml:lang="lat">Deltoïdes</orth>
+          <orth xml:lang="lat">Deltoides</orth>
           <foreign xml:lang="fra">deltoïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1075">
@@ -4527,9 +4540,9 @@
           <orth xml:lang="lat">Dentarius</orth>
           <foreign xml:lang="fra">dentaire</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1081">
+        <entryFree type="subtr" xml:id="la1081">
           <orth xml:lang="lat">Dentaria herba</orth>
-          <foreign xml:lang="fra">la dentaire</foreign>
+          <foreign xml:lang="fra">dentaire (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1082">
           <orth xml:lang="lat">Dentatus</orth>
@@ -4565,8 +4578,8 @@
           <foreign xml:lang="fra">peau</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1090">
-          <orth xml:lang="lat">Derma toides</orth>
-          <foreign xml:lang="fra">der ma toi de</foreign>
+          <orth xml:lang="lat">Dermatoides</orth>
+          <foreign xml:lang="fra">dermatoïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1091">
           <orth xml:lang="lat">Desiccativus</orth>
@@ -4639,11 +4652,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1108">
           <orth xml:lang="lat">Diætetica</orth>
-          <foreign xml:lang="fra">la diététique</foreign>
+          <foreign xml:lang="fra">diététique (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1109">
           <orth xml:lang="lat">Diagnosis</orth>
-          <foreign xml:lang="fra">le diagnostic</foreign>
+          <foreign xml:lang="fra">diagnostic (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1110">
           <orth xml:lang="lat">Diagnosticus</orth>
@@ -4675,7 +4688,7 @@
           <foreign xml:lang="fra">diaphyse</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1117">
-          <orth xml:lang="lat">Diarrhoea</orth>
+          <orth xml:lang="lat">Diarrhœa</orth>
           <foreign xml:lang="fra">diarrhée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1118">
@@ -4687,7 +4700,7 @@
           <foreign xml:lang="fra">diastole</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1120">
-          <orth xml:lang="lat">Dia thesis</orth>
+          <orth xml:lang="lat">Diathesis</orth>
           <foreign xml:lang="fra">diathèse</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1121">
@@ -4696,7 +4709,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1122">
           <orth xml:lang="lat">Dicondyli</orth>
-          <foreign xml:lang="fra">doigts réunis par une membrane</foreign>
+          <gloss xml:lang="fra">doigts réunis par une membrane</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1123">
           <orth xml:lang="lat">Dictamnus</orth>
@@ -4737,7 +4750,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1132">
           <orth xml:lang="lat">Dilaceratio</orth>
-          <foreign xml:lang="fra">dilacération</foreign>
+          <foreign xml:lang="fra"><choice><sic>dilaceration</sic><corr>dilacération</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1133">
           <orth xml:lang="lat">Dilatatio</orth>
@@ -4766,12 +4779,12 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1139">
           <orth xml:lang="lat">Disciforme os</orth>
-          <foreign xml:lang="fra">la rotule</foreign>
+          <foreign xml:lang="fra">rotule (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1140">
           <orth xml:lang="lat">Discoides</orth>
           <foreign xml:lang="fra">discoïde</foreign>
-          <foreign xml:lang="fra">le cristallin (Albinus)</foreign>
+          <foreign xml:lang="fra">cristallin (Albinus) (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1141">
           <orth xml:lang="lat">Discretus</orth>
@@ -4809,7 +4822,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1149">
           <orth xml:lang="lat">Distichiasis</orth>
-          <foreign xml:lang="fra">distichasis</foreign>
+          <foreign xml:lang="fra">distichiasis</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1150">
           <orth xml:lang="lat">Distorsio</orth>
@@ -4842,7 +4855,7 @@
         <entryFree type="tr" xml:id="la1157">
           <orth xml:lang="lat">Dogmatica medicina</orth>
           <foreign xml:lang="fra">médecine dogmatique</foreign>
-          <foreign xml:lang="fra">rationnelle</foreign>
+          <foreign xml:lang="fra">médecine rationnelle</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1158">
           <orth xml:lang="lat">Dolor</orth>
@@ -4874,7 +4887,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1165">
           <orth xml:lang="lat">Drupa</orth>
-          <foreign xml:lang="fra">olive qui commence à mûrir</foreign>
+          <gloss xml:lang="fra">olive qui commence à mûrir</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1166">
           <orth xml:lang="lat">Ductilis</orth>
@@ -4906,14 +4919,14 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1173">
           <orth xml:lang="lat">Dysenteria</orth>
-          <foreign xml:lang="fra">dysenterie</foreign>
+          <foreign xml:lang="fra">dysentérie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1174">
           <orth xml:lang="lat">Dysentericus</orth>
           <foreign xml:lang="fra">dysentérique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1175">
-          <orth xml:lang="lat">Dysmenorrhoea</orth>
+          <orth xml:lang="lat">Dysmenorrhœa</orth>
           <foreign xml:lang="fra">dysménorrhée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1176">
@@ -4976,7 +4989,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1190">
           <orth xml:lang="lat">Eclegma</orth>
-          <foreign xml:lang="fra">èclegme</foreign>
+          <foreign xml:lang="fra">éclegme</foreign>
           <foreign xml:lang="fra">looch</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1191">
@@ -5176,7 +5189,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1238">
           <orth xml:lang="lat">Enodis</orth>
-          <foreign xml:lang="fra">sans nœuds</foreign>
+          <gloss xml:lang="fra">sans nœuds</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1239">
           <orth xml:lang="lat">Ensiformis</orth>
@@ -5188,7 +5201,7 @@
           <foreign xml:lang="fra">entérocèle</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1241">
-          <orth xml:lang="lat">Eritomologia</orth>
+          <orth xml:lang="lat">Entomologia</orth>
           <foreign xml:lang="fra">entomologie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1242">
@@ -5197,7 +5210,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1243">
           <orth xml:lang="lat">Enuresis</orth>
-          <foreign xml:lang="fra">incontinence d’urine</foreign>
+          <gloss xml:lang="fra">incontinence d’urine</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1244">
           <orth xml:lang="lat">Ephelis</orth>
@@ -5214,7 +5227,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1247">
           <orth xml:lang="lat">Ephippium</orth>
-          <foreign xml:lang="fra">'selle (turcique du sphénoïde)</foreign>
+          <foreign xml:lang="fra">selle (turcique du sphénoïde)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1248">
           <orth xml:lang="lat">Epicrisis</orth>
@@ -5258,7 +5271,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1258">
           <orth xml:lang="lat">Epinyctis</orth>
-          <foreign xml:lang="fra">épinydide</foreign>
+          <foreign xml:lang="fra">épinyctide</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1259">
           <orth xml:lang="lat">Epiphora</orth>
@@ -5424,7 +5437,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1299">
           <orth xml:lang="lat">Excisorius</orth>
-          <foreign xml:lang="fra">qui sert à couper</foreign>
+          <gloss xml:lang="fra">qui sert à couper</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1300">
           <orth xml:lang="lat">Excoriatio</orth>
@@ -5440,7 +5453,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1303">
           <orth xml:lang="lat">Excreta</orth>
-          <foreign xml:lang="fra">les excreta</foreign>
+          <foreign xml:lang="fra">excreta (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1304">
           <orth xml:lang="lat">Excretio</orth>
@@ -5548,7 +5561,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1329">
           <orth xml:lang="lat">Exungulare</orth>
-          <gloss>perdre ses soles (en parlant d’un cheval)</gloss>
+          <foreign>perdre ses soles</foreign><gloss>(en parlant d’un cheval)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1330">
           <orth xml:lang="lat">Facies</orth>
@@ -5610,8 +5623,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1344">
           <orth xml:lang="lat">Fauces</orth>
-          <foreign xml:lang="fra">le gosier</foreign>
-          <foreign xml:lang="fra">le pharynx</foreign>
+          <foreign xml:lang="fra">gosier (le)</foreign>
+          <foreign xml:lang="fra">pharynx (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1345">
           <orth xml:lang="lat">Febricitans</orth>
@@ -5640,7 +5653,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1351">
           <orth xml:lang="lat">Femen</orth>
-          <gloss>la cuisse, et particulièrement sa partie interne; le fémur</gloss>
+          <foreign xml:lang="fra">cuisse</foreign><gloss xml:lang="fra">et particulièrement sa partie interne</gloss>
+          <foreign xml:lang="fra">fémur (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1352">
           <orth xml:lang="lat">Femina</orth>
@@ -5652,12 +5666,12 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1354">
           <orth xml:lang="lat">Femur</orth>
-          <foreign xml:lang="fra">l’os fémur</foreign>
-          <foreign xml:lang="fra">.la cuisse</foreign>
+          <foreign xml:lang="fra">os fémur (l')</foreign>
+          <foreign xml:lang="fra">cuisse (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1355">
           <orth xml:lang="lat">Fendicæ</orth>
-          <gloss>le feuillet, l’un des estomacs des ruminants</gloss>
+          <foreign xml:lang="fra">feuillet (le)</foreign><gloss xml:lang="fra">l’un des estomacs des ruminants</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1356">
           <orth xml:lang="lat">Fermentescere</orth>
@@ -5669,7 +5683,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1358">
           <orth xml:lang="lat">Ferramentum</orth>
-          <foreign xml:lang="fra">instrument de chirurgie</foreign>
+          <gloss xml:lang="fra">instrument de chirurgie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1359">
           <orth xml:lang="lat">Ferraria aqua</orth>
@@ -5691,7 +5705,7 @@
         <entryFree type="tr" xml:id="la1363">
           <orth xml:lang="lat">Ferula</orth>
           <foreign xml:lang="fra">éclisse</foreign>
-          <foreign xml:lang="fra">la férule (plante)</foreign>
+          <foreign xml:lang="fra">férule (la) (plante)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1364">
           <orth xml:lang="lat">Fibra</orth>
@@ -5709,11 +5723,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1367">
           <orth xml:lang="lat">Ficosus</orth>
-          <foreign xml:lang="fra">couvert de fies</foreign>
+          <foreign xml:lang="fra">couvert de fics</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1368">
           <orth xml:lang="lat">Ficus</orth>
-          <foreign xml:lang="fra">fie</foreign>
+          <foreign xml:lang="fra">fic</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1369">
           <orth xml:lang="lat">Filix</orth>
@@ -5771,7 +5785,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1382">
           <orth xml:lang="lat">Fœniculum</orth>
-          <foreign xml:lang="fra">le fenouil</foreign>
+          <foreign xml:lang="fra">fenouil</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1383">
           <orth xml:lang="lat">Fœnum</orth>
@@ -5854,7 +5868,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1402">
           <orth xml:lang="lat">Fricatorium</orth>
-          <foreign xml:lang="fra">Uniment</foreign>
+          <foreign xml:lang="fra">liniment</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1403">
           <orth xml:lang="lat">Frictio</orth>
@@ -5944,7 +5958,7 @@
         <entryFree type="tr" xml:id="la1424">
           <orth xml:lang="lat">Furfur</orth>
           <foreign xml:lang="fra">son</foreign>
-          <foreign xml:lang="fra">squames de la tête</foreign>
+          <foreign xml:lang="fra">squames</foreign><gloss xml:lang="fra"> de la tête</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1425">
           <orth xml:lang="lat">Furfuraceus</orth>
@@ -5977,7 +5991,7 @@
           <foreign xml:lang="fra">galène</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1432">
-          <orth xml:lang="lat">Galeniçus</orth>
+          <orth xml:lang="lat">Galenicus</orth>
           <foreign xml:lang="fra">galénique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1433">
@@ -5993,7 +6007,7 @@
           <foreign xml:lang="fra">ganglion</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1436">
-          <orth xml:lang="lat">Gangraena</orth>
+          <orth xml:lang="lat">Gangræna</orth>
           <foreign xml:lang="fra">gangrène</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1437">
@@ -6015,19 +6029,19 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1441">
           <orth xml:lang="lat">Gelasinus</orth>
-          <foreign xml:lang="fra">la fossette des joues</foreign>
+          <foreign xml:lang="fra">fossette (la)</foreign><gloss xml:lang="fra"> des joues</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1442">
           <orth xml:lang="lat">Gelatum jus</orth>
           <foreign xml:lang="fra">gelée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1443">
-          <orth xml:lang="lat">Gemell us</orth>
+          <orth xml:lang="lat">Gemellus</orth>
           <foreign xml:lang="fra">jumeau</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1444">
           <orth xml:lang="lat">Gemma</orth>
-          <foreign xml:lang="fra">bourgeon des plantes</foreign>
+          <foreign xml:lang="fra">bourgeon</foreign><gloss xml:lang="fra"> des plantes</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1445">
           <orth xml:lang="lat">Gemmatio</orth>
@@ -6183,7 +6197,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1481">
           <orth xml:lang="lat">Grando</orth>
-          <foreign xml:lang="fra">grêle</foreign>
+          <foreign xml:lang="fra">grêle (s.f.)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1482">
           <orth xml:lang="lat">Granum</orth>
@@ -6192,7 +6206,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1483">
           <orth xml:lang="lat">Gravatio</orth>
-          <foreign xml:lang="fra">appesantissement du corps</foreign>
+          <foreign xml:lang="fra">appesantissement</foreign><gloss xml:lang="fra"> du corps</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1484">
           <orth xml:lang="lat">Gravedo</orth>
@@ -6237,7 +6251,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1494">
           <orth xml:lang="lat">Gustus</orth>
-          <foreign xml:lang="fra">le goût</foreign>
+          <foreign xml:lang="fra">goût (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1495">
           <orth xml:lang="lat">Gutta</orth>
@@ -6259,7 +6273,7 @@
         <entryFree type="tr" xml:id="la1499">
           <orth xml:lang="lat">Habitus</orth>
           <orth xml:lang="lat">habitudo</orth>
-          <foreign xml:lang="fra">l’habitude dû corps</foreign>
+          <foreign xml:lang="fra">habitude du corps (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1500">
           <orth xml:lang="lat">Hæmatites</orth>
@@ -6274,15 +6288,15 @@
           <foreign xml:lang="fra">hémoptysie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1503">
-          <orth xml:lang="lat">Haemorrhagia</orth>
+          <orth xml:lang="lat">Hæmorrhagia</orth>
           <foreign xml:lang="fra">hémorrhagie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1504">
           <orth xml:lang="lat">Hæmorrhoicus</orth>
-          <foreign xml:lang="fra">qui a des hémorrhoides</foreign>
+          <gloss xml:lang="fra">qui a des hémorrhoïdes</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1505">
-          <orth xml:lang="lat">Haemorrhoides</orth>
+          <orth xml:lang="lat">Hæmorrhoides</orth>
           <foreign xml:lang="fra">hémorrhoïdes</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1506">
@@ -6320,7 +6334,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1514">
           <orth xml:lang="lat">Hastatus</orth>
-          <foreign xml:lang="fra">haslé</foreign>
+          <foreign xml:lang="fra">hasté</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1515">
           <orth xml:lang="lat">Hebetudo visus</orth>
@@ -6328,11 +6342,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1516">
           <orth xml:lang="lat">Hedera</orth>
-          <foreign xml:lang="fra">le lierre</foreign>
+          <foreign xml:lang="fra">lierre (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1517">
           <orth xml:lang="lat">Hedysma</orth>
-          <foreign xml:lang="fra">essence de fleurs</foreign>
+          <foreign xml:lang="fra">essence</foreign><gloss xml:lang="fra">de fleurs</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1518">
           <orth xml:lang="lat">Helix</orth>
@@ -6344,7 +6358,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1520">
           <orth xml:lang="lat">Helleborus</orth>
-          <foreign xml:lang="fra">l’ellébore</foreign>
+          <foreign xml:lang="fra">ellébore</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1521">
           <orth xml:lang="lat">Hemerobius</orth>
@@ -6365,7 +6379,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1525">
           <orth xml:lang="lat">Hepatia</orth>
-          <foreign xml:lang="fra">les intestins</foreign>
+          <foreign xml:lang="fra">intestins (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1526">
           <orth xml:lang="lat">Hepatice</orth>
@@ -6374,7 +6388,7 @@
         <entryFree type="tr" xml:id="la1527">
           <orth xml:lang="lat">Hepaticus</orth>
           <foreign xml:lang="fra">hépatique</foreign>
-          <foreign xml:lang="fra">qui a unê hépatite</foreign>
+          <gloss xml:lang="fra">qui a une hépatite</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1528">
           <orth xml:lang="lat">Hepatitis</orth>
@@ -6444,11 +6458,11 @@
         <entryFree type="tr" xml:id="la1544">
           <orth xml:lang="lat">Hilum</orth>
           <foreign xml:lang="fra">hile</foreign>
-          <foreign xml:lang="fra">ombilic d’une graine</foreign>
+          <foreign xml:lang="fra">ombilic</foreign><gloss xml:lang="fra">d’une graine</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1545">
           <orth xml:lang="lat">Hippuris</orth>
-          <foreign xml:lang="fra">prèle</foreign>
+          <foreign xml:lang="fra">prêle</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1546">
           <orth xml:lang="lat">Hirudo</orth>
@@ -6463,7 +6477,7 @@
           <foreign xml:lang="fra">homme</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1549">
-          <orth xml:lang="lat">Homoeomeria</orth>
+          <orth xml:lang="lat">Homœomeria</orth>
           <foreign xml:lang="fra">homœomérie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1550">
@@ -6484,7 +6498,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1554">
           <orth xml:lang="lat">Horror</orth>
-          <foreign xml:lang="fra">le frissonnement</foreign>
+          <foreign xml:lang="fra">frissonnement (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1555">
           <orth xml:lang="lat">Humectans</orth>
@@ -6532,7 +6546,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1566">
           <orth xml:lang="lat">Hydrenterocele</orth>
-          <foreign xml:lang="fra">hydr entérocèle</foreign>
+          <foreign xml:lang="fra">hydrentérocèle</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1567">
           <orth xml:lang="lat">Hydrocele</orth>
@@ -6540,7 +6554,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1568">
           <orth xml:lang="lat">Hydrocelicus</orth>
-          <foreign xml:lang="fra">qui a une hydrocèle</foreign>
+          <gloss xml:lang="fra">qui a une hydrocèle</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1569">
           <orth xml:lang="lat">Hydromeli</orth>
@@ -6573,11 +6587,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1576">
           <orth xml:lang="lat">Hygra</orth>
-          <foreign xml:lang="fra">sorte de collyre</foreign>
+          <gloss xml:lang="fra">sorte de collyre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1577">
           <orth xml:lang="lat">Hygrophobia</orth>
-          <foreign xml:lang="fra">horreur pour les liquides</foreign>
+          <gloss xml:lang="fra">horreur pour les liquides</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1578">
           <orth xml:lang="lat">Hymen</orth>
@@ -6598,12 +6612,12 @@
         <entryFree type="tr" xml:id="la1582">
           <orth xml:lang="lat">Hypersarcosis</orth>
           <foreign xml:lang="fra">hypersarcose</foreign>
-          <foreign xml:lang="fra">ex­croissance</foreign>
+          <foreign xml:lang="fra">excroissance</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1583">
           <orth xml:lang="lat">Hypnobates</orth>
           <foreign xml:lang="fra">hypnobate</foreign>
-          <foreign xml:lang="fra">somnam­bule</foreign>
+          <foreign xml:lang="fra">somnambule</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1584">
           <orth xml:lang="lat">Hypnoticus</orth>
@@ -6664,7 +6678,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1598">
           <orth xml:lang="lat">Iatrice</orth>
-          <foreign xml:lang="fra">la médecine</foreign>
+          <foreign xml:lang="fra">médecine (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1599">
           <orth xml:lang="lat">Iatricus</orth>
@@ -6672,7 +6686,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1600">
           <orth xml:lang="lat">Iatrus</orth>
-          <foreign xml:lang="fra">le doigt annulaire</foreign>
+          <foreign xml:lang="fra">doigt annulaire (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1601">
           <orth xml:lang="lat">Ichor</orth>
@@ -6684,7 +6698,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1603">
           <orth xml:lang="lat">Ichthyophagus</orth>
-          <foreign xml:lang="fra">Ichthyophage</foreign>
+          <foreign xml:lang="fra">ichthyophage</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1604">
           <orth xml:lang="lat">Icterus</orth>
@@ -6703,8 +6717,8 @@
           <foreign xml:lang="fra">idée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1608">
-          <orth xml:lang="lat">Idiopalhia</orth>
-          <foreign xml:lang="fra">idiopalhie</foreign>
+          <orth xml:lang="lat">Idiopathia</orth>
+          <foreign xml:lang="fra">idiopathie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1609">
           <orth xml:lang="lat">Idiotismus</orth>
@@ -6714,7 +6728,7 @@
           <orth xml:lang="lat">Ignis</orth>
           <foreign xml:lang="fra">feu</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1611">
+        <entryFree type="subtr" xml:id="la1611">
           <orth xml:lang="lat">Ignis sacer</orth>
           <foreign xml:lang="fra">feu sacré</foreign>
           <foreign xml:lang="fra">érysipèle</foreign>
@@ -6722,23 +6736,23 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1612">
           <orth xml:lang="lat">Ileon</orth>
-          <foreign xml:lang="fra">l’iléon</foreign>
+          <foreign xml:lang="fra">iléon (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1613">
           <orth xml:lang="lat">Ileosus</orth>
-          <foreign xml:lang="fra">sujet aux coliques</foreign>
+          <gloss xml:lang="fra">sujet aux coliques</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1614">
           <orth xml:lang="lat">Ileus</orth>
-          <foreign xml:lang="fra">l’iléus</foreign>
+          <foreign xml:lang="fra">iléus (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1615">
           <orth xml:lang="lat">Ilex</orth>
-          <foreign xml:lang="fra">le houx</foreign>
+          <foreign xml:lang="fra">houx (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1616">
           <orth xml:lang="lat">Ilia</orth>
-          <foreign xml:lang="fra">les flancs</foreign>
+          <foreign xml:lang="fra">flancs (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1617">
           <orth xml:lang="lat">Illacrymatio</orth>
@@ -6771,12 +6785,12 @@
           <foreign xml:lang="fra">dartre</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1624">
-          <orth xml:lang="lat">Impraeputiatus</orth>
+          <orth xml:lang="lat">Impræputiatus</orth>
           <foreign xml:lang="fra">circoncis</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1625">
           <orth xml:lang="lat">Impubes</orth>
-          <foreign xml:lang="fra">qui n’a pas de poils</foreign>
+          <gloss xml:lang="fra">qui n’a pas de poils</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1626">
           <orth xml:lang="lat">Inania</orth>
@@ -6812,7 +6826,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1634">
           <orth xml:lang="lat">Incontinens</orth>
-          <foreign xml:lang="fra">qui ne retient pas</foreign>
+          <gloss xml:lang="fra">qui ne retient pas</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1635">
           <orth xml:lang="lat">Incontinentia</orth>
@@ -6844,11 +6858,11 @@
         <entryFree type="tr" xml:id="la1641">
           <orth xml:lang="lat">Incus</orth>
           <orth xml:lang="lat">os incudis</orth>
-          <foreign xml:lang="fra">l’enclume</foreign>
+          <foreign xml:lang="fra">enclume (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1642">
           <orth xml:lang="lat">Index</orth>
-          <foreign xml:lang="fra">l’index</foreign>
+          <foreign xml:lang="fra">index (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1643">
           <orth xml:lang="lat">Indicans</orth>
@@ -6856,7 +6870,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1644">
           <orth xml:lang="lat">Indicatio</orth>
-          <foreign xml:lang="fra">l’indication</foreign>
+          <foreign xml:lang="fra">indication (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1645">
           <orth xml:lang="lat">Indicatura</orth>
@@ -6890,7 +6904,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1652">
           <orth xml:lang="lat">Inedia</orth>
-          <foreign xml:lang="fra">privation de nourriture</foreign>
+          <gloss xml:lang="fra">privation de nourriture</gloss>
           <foreign xml:lang="fra">diète</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1653">
@@ -6907,7 +6921,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1656">
           <orth xml:lang="lat">Infanticidium</orth>
-          <foreign xml:lang="fra">meurtre d’un enfant</foreign>
+          <gloss xml:lang="fra">meurtre d’un enfant</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1657">
           <orth xml:lang="lat">Infibulatio</orth>
@@ -6929,7 +6943,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1661">
           <orth xml:lang="lat">Inflexus</orth>
-          <foreign xml:lang="fra">inflexion de la voix</foreign>
+          <foreign xml:lang="fra">inflexion</foreign><gloss xml:lang="fra"> de la voix</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1662">
           <orth xml:lang="lat">Infundibuliformis</orth>
@@ -6941,7 +6955,9 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1664">
           <orth xml:lang="lat">Infusio</orth>
-          <gloss>action de verser dans, injection, lavement</gloss>
+          <gloss>action de verser dans</gloss>
+          <gloss>injection</gloss>
+          <gloss>lavement</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1665">
           <orth xml:lang="lat">Ingluvies</orth>
@@ -6949,7 +6965,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1666">
           <orth xml:lang="lat">Ingesta</orth>
-          <foreign xml:lang="fra">les ingesta</foreign>
+          <foreign xml:lang="fra">ingesta (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1667">
           <orth xml:lang="lat">Inguen</orth>
@@ -6969,7 +6985,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1671">
           <orth xml:lang="lat">Inoculatio</orth>
-          <foreign xml:lang="fra">ente en écusson</foreign>
+          <foreign xml:lang="fra">ente</foreign><gloss xml:lang="fra"> en écusson</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1672">
           <orth xml:lang="lat">Inquietudo</orth>
@@ -7079,7 +7095,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1697">
           <orth xml:lang="lat">Intellectualitas</orth>
-          <foreign xml:lang="fra">intellectüalité</foreign>
+          <foreign xml:lang="fra">intellectualité</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1698">
           <orth xml:lang="lat">Intellectus</orth>
@@ -7099,7 +7115,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1702">
           <orth xml:lang="lat">Intercilium</orth>
-          <foreign xml:lang="fra">entre-deux des sourcils</foreign>
+          <gloss xml:lang="fra">entre-deux des sourcils</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1703">
           <orth xml:lang="lat">Intercurrens</orth>
@@ -7151,11 +7167,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1715">
           <orth xml:lang="lat">Inula</orth>
-          <foreign xml:lang="fra">année</foreign>
+          <foreign xml:lang="fra">aunée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1716">
           <orth xml:lang="lat">Inunctio</orth>
-          <foreign xml:lang="fra">Uniment</foreign>
+          <foreign xml:lang="fra">liniment</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1717">
           <orth xml:lang="lat">Involucrum</orth>
@@ -7183,7 +7199,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1723">
           <orth xml:lang="lat">Ischias</orth>
-          <foreign xml:lang="fra">la sciatique</foreign>
+          <foreign xml:lang="fra">sciatique (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1724">
           <orth xml:lang="lat">Ischuria</orth>
@@ -7192,7 +7208,7 @@
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1731" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1731/full/full/0/default.jpg" n="1717"/>
         <entryFree type="tr" xml:id="la1725">
           <orth xml:lang="lat">Isthmus gutturis</orth>
-          <foreign xml:lang="fra">l’isthme du pharynx</foreign>
+          <foreign xml:lang="fra">isthme du pharynx (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1726">
           <orth xml:lang="lat">Iulus</orth>
@@ -7204,7 +7220,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1728">
           <orth xml:lang="lat">Jecinorosus</orth>
-          <foreign xml:lang="fra">qui a te foie malade</foreign>
+          <gloss xml:lang="fra">qui a le foie malade</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1729">
           <orth xml:lang="lat">Jecoralis</orth>
@@ -7228,7 +7244,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1734">
           <orth xml:lang="lat">Juglans</orth>
-          <foreign xml:lang="fra">le noyer</foreign>
+          <foreign xml:lang="fra">noyer (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1735">
           <orth xml:lang="lat">Jugulum</orth>
@@ -7252,7 +7268,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1740">
           <orth xml:lang="lat">Labiosus</orth>
-          <foreign xml:lang="fra">qui a de grosses lèvres</foreign>
+          <gloss xml:lang="fra">qui a de grosses lèvres</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1741">
           <orth xml:lang="lat">Labium</orth>
@@ -7269,10 +7285,10 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1744">
           <orth xml:lang="lat">Lacertus</orth>
-          <foreign xml:lang="fra">la partie supérieure du bras</foreign>
+          <gloss xml:lang="fra">partie supérieure du bras (la)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1745">
-          <orth xml:lang="lat">Lacini'atus</orth>
+          <orth xml:lang="lat">Laciniatus</orth>
           <foreign xml:lang="fra">lacinié</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1746">
@@ -7283,7 +7299,7 @@
           <orth xml:lang="lat">Lacrymalis</orth>
           <foreign xml:lang="fra">lacrymal</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1748">
+        <entryFree type="subtr" xml:id="la1748">
           <orth xml:lang="lat">Os lacrymale</orth>
           <foreign xml:lang="fra">os unguis</foreign>
         </entryFree>
@@ -7344,11 +7360,11 @@
         <entryFree type="tr" xml:id="la1762">
           <orth xml:lang="lat">Lambdacismus</orth>
           <foreign xml:lang="fra">lambdacisme</foreign>
-          <gloss>prononciation vicieuse de l’L</gloss>
+          <gloss xml:lang="fra">prononciation vicieuse de l’L</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1763">
           <orth xml:lang="lat">Lambdoides</orth>
-          <foreign xml:lang="fra">lambdoide</foreign>
+          <foreign xml:lang="fra">lambdoïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1764">
           <orth xml:lang="lat">Lanceolatus</orth>
@@ -7366,9 +7382,9 @@
           <orth xml:lang="lat">Lapidosus</orth>
           <foreign xml:lang="fra">pierreux</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1768">
+        <entryFree type="subtr" xml:id="la1768">
           <orth xml:lang="lat">Lapidosum os</orth>
-          <foreign xml:lang="fra">le rocher</foreign>
+          <foreign xml:lang="fra">rocher (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1769">
           <orth xml:lang="lat">Lapis</orth>
@@ -7376,7 +7392,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1770">
           <orth xml:lang="lat">Lappa</orth>
-          <foreign xml:lang="fra">bar dane</foreign>
+          <foreign xml:lang="fra">bardane</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1771">
           <orth xml:lang="lat">Lassitudo</orth>
@@ -7435,7 +7451,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1784">
           <orth xml:lang="lat">Lentiginosus</orth>
-          <foreign xml:lang="fra">couvert de taches de rousseur</foreign>
+          <gloss xml:lang="fra">couvert de taches de rousseur</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1785">
           <orth xml:lang="lat">Lentigines</orth>
@@ -7465,7 +7481,7 @@
         <entryFree type="tr" xml:id="la1791">
           <orth xml:lang="lat">Lethalis</orth>
           <foreign xml:lang="fra">mortel</foreign>
-          <foreign xml:lang="fra">qui donne la mort</foreign>
+          <gloss xml:lang="fra">qui donne la mort</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1792">
           <orth xml:lang="lat">Lethargia</orth>
@@ -7494,16 +7510,16 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1798">
           <orth xml:lang="lat">Liber</orth>
-          <foreign xml:lang="fra">le liber</foreign>
+          <foreign xml:lang="fra">liber (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1799">
-          <orth xml:lang="lat">Lichen </orth>
-          <foreign xml:lang="fra">(planté)</foreign>
+          <orth xml:lang="lat">Lichen</orth>
+          <gloss xml:lang="fra">(plante)</gloss>
           <foreign xml:lang="fra">lichen</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1800">
+        <entryFree type="subtr" xml:id="la1800">
           <orth xml:lang="lat">Lichen</orth>
-          <foreign xml:lang="fra">maladie de la peau</foreign>
+          <gloss xml:lang="fra">maladie de la peau</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1801">
           <orth xml:lang="lat">Lien</orth>
@@ -7576,7 +7592,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1818">
           <orth xml:lang="lat">Linimen</orth>
-          <foreign xml:lang="fra">Uniment</foreign>
+          <foreign xml:lang="fra">liniment</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1819">
           <orth xml:lang="lat">Linteamen</orth>
@@ -7639,7 +7655,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1833">
           <orth xml:lang="lat">Litus</orth>
-          <foreign xml:lang="fra">Uniment</foreign>
+          <foreign xml:lang="fra">liniment</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1834">
           <orth xml:lang="lat">Livor</orth>
@@ -7667,11 +7683,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1839">
           <orth xml:lang="lat">Logica medicina</orth>
-          <foreign xml:lang="fra">la médecine théorique</foreign>
+          <foreign xml:lang="fra">médecine théorique (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1840">
           <orth xml:lang="lat">Longano</orth>
-          <foreign xml:lang="fra">le rectum</foreign>
+          <foreign xml:lang="fra">rectum (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1841">
           <orth xml:lang="lat">Loquacitas</orth>
@@ -7703,7 +7719,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1848">
           <orth xml:lang="lat">Lumbricosus</orth>
-          <foreign xml:lang="fra">qui a des lombrics</foreign>
+          <gloss xml:lang="fra">qui a des lombrics</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1849">
           <orth xml:lang="lat">Lumbricus</orth>
@@ -7728,7 +7744,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1854">
           <orth xml:lang="lat">Lutamentum</orth>
-          <foreign xml:lang="fra">action de luter</foreign>
+          <gloss xml:lang="fra">action de luter</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1855">
           <orth xml:lang="lat">Lutum</orth>
@@ -7744,7 +7760,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1858">
           <orth xml:lang="lat">Lymphaticus</orth>
-          <foreign xml:lang="fra">qui a le délire</foreign>
+          <gloss xml:lang="fra">qui a le délire</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1859">
           <orth xml:lang="lat">Lymphationes</orth>
@@ -7756,7 +7772,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1861">
           <orth xml:lang="lat">Lysis</orth>
-          <foreign xml:lang="fra">crise sans phénomènes sensibles</foreign>
+          <gloss xml:lang="fra">crise sans phénomènes sensibles</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1862">
           <orth xml:lang="lat">Lytta</orth>
@@ -7768,7 +7784,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1864">
           <orth xml:lang="lat">Machinamentum</orth>
-          <foreign xml:lang="fra">appareil de chirurgie</foreign>
+          <gloss xml:lang="fra">appareil de chirurgie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1865">
           <orth xml:lang="lat">Macies</orth>
@@ -7820,16 +7836,16 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1876">
           <orth xml:lang="lat">Malabathrum</orth>
-          <foreign xml:lang="fra">malobathrum</foreign>
+          <foreign xml:lang="fra">malabathrum</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1877">
           <orth xml:lang="lat">Malache</orth>
           <orth xml:lang="lat">maloche</orth>
-          <foreign xml:lang="fra">espèce demauve</foreign>
+          <gloss xml:lang="fra">espèce de mauve</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1878">
           <orth xml:lang="lat">Malacia</orth>
-          <foreign xml:lang="fra">malade</foreign>
+          <foreign xml:lang="fra">malacie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1879">
           <orth xml:lang="lat">Malacticus</orth>
@@ -7837,7 +7853,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1880">
           <orth xml:lang="lat">Malagma</orth>
-          <foreign xml:lang="fra">cataplasme émollient</foreign>
+          <gloss xml:lang="fra">cataplasme émollient</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1881">
           <orth xml:lang="lat">Malandria</orth>
@@ -7849,7 +7865,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1883">
           <orth xml:lang="lat">Malandriosus</orth>
-          <foreign xml:lang="fra">atteint de malandrie</foreign>
+          <gloss xml:lang="fra">atteint de malandrie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1884">
           <orth xml:lang="lat">Malaxare</orth>
@@ -7858,7 +7874,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1885">
           <orth xml:lang="lat">Malaxatio</orth>
-          <foreign xml:lang="fra">action de malaxer</foreign>
+          <gloss xml:lang="fra">action de malaxer</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1886">
           <orth xml:lang="lat">Malleolus</orth>
@@ -7934,7 +7950,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1903">
           <orth xml:lang="lat">Mantile</orth>
-          <foreign xml:lang="fra">bandage de corps</foreign>
+          <gloss xml:lang="fra">bandage de corps</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1904">
           <orth xml:lang="lat">Manua</orth>
@@ -7946,7 +7962,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1906">
           <orth xml:lang="lat">Marcor</orth>
-          <foreign xml:lang="fra">le carus</foreign>
+          <foreign xml:lang="fra">carus (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1907">
           <orth xml:lang="lat">Margarita</orth>
@@ -7954,7 +7970,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1908">
           <orth xml:lang="lat">Marisca</orth>
-          <foreign xml:lang="fra">fie</foreign>
+          <foreign xml:lang="fra">fic</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1909">
           <orth xml:lang="lat">Marrubium</orth>
@@ -8074,7 +8090,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1937">
           <orth xml:lang="lat">Melania</orth>
-          <foreign xml:lang="fra">tache noire à la peau</foreign>
+          <foreign xml:lang="fra">tache noire</foreign><gloss xml:lang="fra"> à la peau</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1938">
           <orth xml:lang="lat">Meliceris</orth>
@@ -8143,7 +8159,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1954">
           <orth xml:lang="lat">Mercurialis</orth>
-          <foreign xml:lang="fra">la mercuriale (plante)</foreign>
+          <foreign xml:lang="fra">mercuriale (plante) (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1955">
           <orth xml:lang="lat">Mergus</orth>
@@ -8162,7 +8178,7 @@
           <foreign xml:lang="fra">métamorphose</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1959">
-          <orth xml:lang="lat">Meiathesis</orth>
+          <orth xml:lang="lat">Metathesis</orth>
           <foreign xml:lang="fra">métathèse</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1960">
@@ -8183,7 +8199,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1964">
           <orth xml:lang="lat">Mithridatium</orth>
-          <foreign xml:lang="fra">le mithridate</foreign>
+          <foreign xml:lang="fra">mithridate (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1965">
           <orth xml:lang="lat">Mitigatorius</orth>
@@ -8212,7 +8228,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1971">
           <orth xml:lang="lat">Monoculus</orth>
-          <foreign xml:lang="fra">qui n’a qu’un œil</foreign>
+          <gloss xml:lang="fra">qui n’a qu’un œil</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1972">
           <orth xml:lang="lat">Monstrum</orth>
@@ -8231,11 +8247,11 @@
           <orth xml:lang="lat">Morbus</orth>
           <foreign xml:lang="fra">maladie</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1976">
+        <entryFree type="subtr" xml:id="la1976">
           <orth xml:lang="lat">Morbus comitialis</orth>
           <foreign xml:lang="fra">épilepsie</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la1977">
+        <entryFree type="subtr" xml:id="la1977">
           <orth xml:lang="lat">Morbus costalis </orth>
           <foreign xml:lang="fra">pleurésie</foreign>
         </entryFree>
@@ -8263,7 +8279,7 @@
         <entryFree type="tr" xml:id="la1983">
           <orth xml:lang="lat">Mortalis</orth>
           <foreign xml:lang="fra">mortel</foreign>
-          <foreign xml:lang="fra">sujet à la mort</foreign>
+          <gloss xml:lang="fra">sujet à la mort</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1984">
           <orth xml:lang="lat">Mortalitas</orth>
@@ -8284,11 +8300,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1988">
           <orth xml:lang="lat">Motio</orth>
-          <foreign xml:lang="fra">accès de fièvre</foreign>
+          <gloss xml:lang="fra">accès de fièvre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1989">
           <orth xml:lang="lat">Motiuncula</orth>
-          <foreign xml:lang="fra">léger accès de fièvre</foreign>
+          <gloss xml:lang="fra">léger accès de fièvre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la1990">
           <orth xml:lang="lat">Motor</orth>
@@ -8309,11 +8325,12 @@
         </entryFree>
         <entryFree type="tr" xml:id="la1994">
           <orth xml:lang="lat">Muliebria</orth>
-          <gloss>parties sexuelles de la femme, menstrues</gloss>
+          <gloss xml:lang="fra">parties sexuelles de la femme</gloss>
+          <foreign xml:lang="fra">menstrues</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1995">
           <orth xml:lang="lat">Mulomedicina</orth>
-          <foreign xml:lang="fra">l’hippiatrique</foreign>
+          <foreign xml:lang="fra">hippiatrique (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la1996">
           <orth xml:lang="lat">Mulomedicus</orth>
@@ -8351,7 +8368,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2004">
           <orth xml:lang="lat">Mundificativus</orth>
-          <foreign xml:lang="fra">mondiflcatif</foreign>
+          <foreign xml:lang="fra">mondificatif</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2005">
           <orth xml:lang="lat">Muria</orth>
@@ -8407,7 +8424,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2018">
           <orth xml:lang="lat">Myagros</orth>
-          <foreign xml:lang="fra">la caméline</foreign>
+          <foreign xml:lang="fra">caméline (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2019">
           <orth xml:lang="lat">Mydriasis</orth>
@@ -8451,7 +8468,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2029">
           <orth xml:lang="lat">Nævus</orth>
-          <foreign xml:lang="fra">nœvus</foreign>
+          <foreign xml:lang="fra">nævus</foreign>
           <foreign xml:lang="fra">envie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2030">
@@ -8467,7 +8484,7 @@
           <foreign xml:lang="fra">navet</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2033">
-          <orth xml:lang="lat">Narçe</orth>
+          <orth xml:lang="lat">Narce</orth>
           <foreign xml:lang="fra">engourdissement</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2034">
@@ -8480,7 +8497,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2036">
           <orth xml:lang="lat">Narthecium</orth>
-          <foreign xml:lang="fra">boite à serrer les médicaments</foreign>
+          <gloss xml:lang="fra">boite à serrer les médicaments</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2037">
           <orth xml:lang="lat">Nasalis</orth>
@@ -8506,7 +8523,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2042">
           <orth xml:lang="lat">Naturalia</orth>
-          <foreign xml:lang="fra">les parties naturelles</foreign>
+          <foreign xml:lang="fra">parties naturelles (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2043">
           <orth xml:lang="lat">Nausea</orth>
@@ -8534,7 +8551,7 @@
           <foreign xml:lang="fra">néphrétique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2049">
-          <orth xml:lang="lat">Nephritis; </orth>
+          <orth xml:lang="lat">Nephritis</orth>
           <foreign xml:lang="fra">néphrite</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2050">
@@ -8543,7 +8560,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2051">
           <orth xml:lang="lat">Nervicus</orth>
-          <foreign xml:lang="fra">qui soufre de la goutte</foreign>
+          <gloss xml:lang="fra">qui<choice><sic> soufre</sic><corr> souffre</corr></choice> de la goutte</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2052">
           <orth xml:lang="lat">Nervinus</orth>
@@ -8654,7 +8671,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2078">
           <orth xml:lang="lat">Nutritura</orth>
-          <foreign xml:lang="fra">action d’élever un enfant</foreign>
+          <gloss xml:lang="fra">action d’élever un enfant</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2079">
           <orth xml:lang="lat">Nutrix</orth>
@@ -8674,12 +8691,12 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2083">
           <orth xml:lang="lat">Nymphæa</orth>
-          <foreign xml:lang="fra">le nénuphar</foreign>
+          <foreign xml:lang="fra">nénuphar (le)</foreign>
         </entryFree>
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1733" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1733/full/full/0/default.jpg" n="1719"/>
         <entryFree type="tr" xml:id="la2084">
           <orth xml:lang="lat">Obductio</orth>
-          <foreign xml:lang="fra">action de fermer une plaie</foreign>
+          <gloss xml:lang="fra">action de fermer une plaie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2085">
           <orth xml:lang="lat">Obdulcare</orth>
@@ -8695,7 +8712,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2088">
           <orth xml:lang="lat">Obstetricia</orth>
-          <foreign xml:lang="fra">soins donnés par une sage-femme</foreign>
+          <gloss xml:lang="fra">soins donnés par une sage-femme</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2089">
           <orth xml:lang="lat">Obstetrix</orth>
@@ -8703,7 +8720,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2090">
           <orth xml:lang="lat">Obstipus</orth>
-          <foreign xml:lang="fra">qui a le torticolis</foreign>
+          <gloss xml:lang="fra">qui a le torticolis</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2091">
           <orth xml:lang="lat">Obstructio</orth>
@@ -8733,7 +8750,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2097">
           <orth xml:lang="lat">Ocimum</orth>
-          <foreign xml:lang="fra">le basilic</foreign>
+          <foreign xml:lang="fra">basilic (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2098">
           <orth xml:lang="lat">Ocularis</orth>
@@ -8753,7 +8770,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2102">
           <orth xml:lang="lat">Odoratio</orth>
-          <foreign xml:lang="fra">action de flairer</foreign>
+          <gloss xml:lang="fra">action de flairer</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2103">
           <orth xml:lang="lat">Odoratus</orth>
@@ -8764,7 +8781,7 @@
           <foreign xml:lang="fra">économie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2105">
-          <orth xml:lang="lat">Œdema. </orth>
+          <orth xml:lang="lat">Œdema</orth>
           <foreign xml:lang="fra">œdème</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2106">
@@ -8816,7 +8833,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2117">
           <orth xml:lang="lat">Omnivorus</orth>
-          <foreign xml:lang="fra">qui mange de tout</foreign>
+          <gloss xml:lang="fra">qui mange de tout</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2118">
           <orth xml:lang="lat">Omphalus</orth>
@@ -8858,7 +8875,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2127">
           <orth xml:lang="lat">Orbiculus</orth>
-          <foreign xml:lang="fra">orbite de l’œil</foreign>
+          <foreign xml:lang="fra">orbite</foreign><gloss> de l’œil</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2128">
           <orth xml:lang="lat">Orexis</orth>
@@ -8901,13 +8918,11 @@
           <foreign xml:lang="fra">riz</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2138">
-          <orth xml:lang="lat">Os</orth>
-          <orth xml:lang="lat">oris</orth>
+          <orth xml:lang="lat">Os, oris</orth>
           <foreign xml:lang="fra">bouche</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2139">
-          <orth xml:lang="lat">Os</orth>
-          <orth xml:lang="lat">ossis</orth>
+          <orth xml:lang="lat">Os, ossis</orth>
           <foreign xml:lang="fra">os</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2140">
@@ -8917,7 +8932,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2141">
           <orth xml:lang="lat">Osculatio</orth>
-          <foreign xml:lang="fra">ouverture d’une veine</foreign>
+          <foreign xml:lang="fra">ouverture</foreign><gloss> d’une veine</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2142">
           <orth xml:lang="lat">Osseus</orth>
@@ -8949,7 +8964,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2149">
           <orth xml:lang="lat">Oxyporum</orth>
-          <foreign xml:lang="fra">breuvage digestif</foreign>
+          <gloss xml:lang="fra">breuvage digestif</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2150">
           <orth xml:lang="lat">Ozæna</orth>
@@ -8961,13 +8976,13 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2152">
           <orth xml:lang="lat">Palæstrica</orth>
-          <foreign xml:lang="fra">la gymnastique</foreign>
+          <foreign xml:lang="fra">gymnastique (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2153">
           <orth xml:lang="lat">Palatum</orth>
           <foreign xml:lang="fra">palais</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la2154">
+        <entryFree type="subtr" xml:id="la2154">
           <orth xml:lang="lat">Palatum molle</orth>
           <foreign xml:lang="fra">voile du palais</foreign>
         </entryFree>
@@ -8985,7 +9000,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2158">
           <orth xml:lang="lat">Palmula</orth>
-          <foreign xml:lang="fra">paume de la main</foreign>
+          <foreign xml:lang="fra">paume</foreign><gloss> de la main</gloss>
           <foreign xml:lang="fra">datte</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2159">
@@ -9043,7 +9058,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2172">
           <orth xml:lang="lat">Pannositas</orth>
-          <foreign xml:lang="fra">rugosité de la peau</foreign>
+          <foreign xml:lang="fra">rugosité</foreign><gloss> de la peau</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2173">
           <orth xml:lang="lat">Pannus</orth>
@@ -9056,7 +9071,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2175">
           <orth xml:lang="lat">Panus</orth>
-          <foreign xml:lang="fra">sorte de tumeur</foreign>
+          <gloss xml:lang="fra">sorte de tumeur</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2176">
           <orth xml:lang="lat">Papaver</orth>
@@ -9077,7 +9092,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2180">
           <orth xml:lang="lat">Papyraceus</orth>
-          <foreign xml:lang="fra">papy racé</foreign>
+          <foreign xml:lang="fra">papyracé</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2181">
           <orth xml:lang="lat">Parabolani</orth>
@@ -9113,7 +9128,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2189">
           <orth xml:lang="lat">Parietaria</orth>
-          <foreign xml:lang="fra">la pariétaire</foreign>
+          <foreign xml:lang="fra">pariétaire (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2190">
           <orth xml:lang="lat">Paronychia</orth>
@@ -9125,7 +9140,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2192">
           <orth xml:lang="lat">Partibilis</orth>
-          <foreign xml:lang="fra">partiale</foreign>
+          <foreign xml:lang="fra">partible</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2193">
           <orth xml:lang="lat">Partitus</orth>
@@ -9146,11 +9161,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2197">
           <orth xml:lang="lat">Parvibibulus</orth>
-          <foreign xml:lang="fra">qui boit peu</foreign>
+          <gloss xml:lang="fra">qui boit peu</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2198">
           <orth xml:lang="lat">Parvicollis</orth>
-          <foreign xml:lang="fra">qui a le cou court</foreign>
+          <gloss xml:lang="fra">qui a le cou court</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2199">
           <orth xml:lang="lat">Passio</orth>
@@ -9178,7 +9193,7 @@
           <foreign xml:lang="fra">ouverture des narines</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2205">
-          <orth xml:lang="lat">Pavot aquæ</orth>
+          <orth xml:lang="lat">Pavor aquæ</orth>
           <foreign xml:lang="fra">hydrophobie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2206">
@@ -9232,7 +9247,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2218">
           <orth xml:lang="lat">Pelvis</orth>
-          <foreign xml:lang="fra">le bassin</foreign>
+          <foreign xml:lang="fra">bassin (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2219">
           <orth xml:lang="lat">Penicillum</orth>
@@ -9252,7 +9267,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2223">
           <orth xml:lang="lat">Pepticus</orth>
-          <foreign xml:lang="fra">peplique</foreign>
+          <foreign xml:lang="fra">peptique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2224">
           <orth xml:lang="lat">Perculsus</orth>
@@ -9309,7 +9324,7 @@
           <foreign xml:lang="fra">jarretière</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2237">
-          <orth xml:lang="lat">Peritonaeum</orth>
+          <orth xml:lang="lat">Peritonæum</orth>
           <foreign xml:lang="fra">péritoine</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2238">
@@ -9384,10 +9399,10 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2255">
           <orth xml:lang="lat">Phænomena</orth>
-          <foreign xml:lang="fra">les phénomènes</foreign>
+          <foreign xml:lang="fra">phénomènes (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2256">
-          <orth xml:lang="lat">Phagedaena</orth>
+          <orth xml:lang="lat">Phagedæna</orth>
           <foreign xml:lang="fra">phagédène</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2257">
@@ -9518,7 +9533,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2287">
           <orth xml:lang="lat">Physice</orth>
-          <foreign xml:lang="fra">la physique</foreign>
+          <foreign xml:lang="fra">physique (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2288">
           <orth xml:lang="lat">Physiognomon</orth>
@@ -9530,7 +9545,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2290">
           <orth xml:lang="lat">Picra</orth>
-          <foreign xml:lang="fra">médicament fait d’aloès</foreign>
+          <gloss xml:lang="fra">médicament fait d’aloès</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2291">
           <orth xml:lang="lat">Pigmenta</orth>
@@ -9591,7 +9606,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2305">
           <orth xml:lang="lat">Pistatio</orth>
-          <foreign xml:lang="fra">pislatipn</foreign>
+          <foreign xml:lang="fra">pistation</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2306">
           <orth xml:lang="lat">Pistillum</orth>
@@ -9628,7 +9643,7 @@
         <entryFree type="tr" xml:id="la2314">
           <orth xml:lang="lat">Planta</orth>
           <foreign xml:lang="fra">plante</foreign>
-          <foreign xml:lang="fra">plante du pied</foreign>
+          <foreign xml:lang="fra">plante</foreign><gloss> du pied</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2315">
           <orth xml:lang="lat">Plantago</orth>
@@ -9669,7 +9684,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2324">
           <orth xml:lang="lat">Plicatilis</orth>
-          <foreign xml:lang="fra">plicàtile</foreign>
+          <foreign xml:lang="fra">plicatile</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2325">
           <orth xml:lang="lat">Pluma</orth>
@@ -9697,7 +9712,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2331">
           <orth xml:lang="lat">Podagra</orth>
-          <foreign xml:lang="fra">goutte aux pieds</foreign>
+          <foreign xml:lang="fra">goutte</foreign><gloss> aux pieds</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2332">
           <orth xml:lang="lat">Podagricus</orth>
@@ -9709,7 +9724,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2334">
           <orth xml:lang="lat">Podex</orth>
-          <foreign xml:lang="fra">l’anus</foreign>
+          <foreign xml:lang="fra">anus (l')</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2335">
           <orth xml:lang="lat">Pollen</orth>
@@ -9735,7 +9750,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2340">
           <orth xml:lang="lat">Polyrrhizos</orth>
-          <foreign xml:lang="fra">qui a beaucoup de racines</foreign>
+          <gloss xml:lang="fra">qui a beaucoup de racines</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2341">
           <orth xml:lang="lat">Polyspaston</orth>
@@ -9767,7 +9782,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2348">
           <orth xml:lang="lat">Porraceus</orth>
-          <foreign xml:lang="fra">pornacé</foreign>
+          <foreign xml:lang="fra">porracé</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2349">
           <orth xml:lang="lat">Porrigo</orth>
@@ -9843,7 +9858,7 @@
           <foreign xml:lang="fra">prescription</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2367">
-          <orth xml:lang="lat">Praeulceratus</orth>
+          <orth xml:lang="lat">Præulceratus</orth>
           <foreign xml:lang="fra">déjà ulcéré</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2368">
@@ -9852,7 +9867,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2369">
           <orth xml:lang="lat">Pravus</orth>
-          <foreign xml:lang="fra">qui n’est pas droit</foreign>
+          <gloss xml:lang="fra">qui n’est pas droit</gloss>
           <foreign xml:lang="fra">tortu</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2370">
@@ -9866,7 +9881,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2372">
           <orth xml:lang="lat">Pressura</orth>
-          <foreign xml:lang="fra">le carus</foreign>
+          <foreign xml:lang="fra">carus (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2373">
           <orth xml:lang="lat">Priapismus</orth>
@@ -10002,11 +10017,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2405">
           <orth xml:lang="lat">Psoadicus</orth>
-          <foreign xml:lang="fra">qui a mal aux lombes</foreign>
+          <gloss xml:lang="fra">qui a mal aux lombes</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2406">
           <orth xml:lang="lat">Psoæ</orth>
-          <foreign xml:lang="fra">les lombes</foreign>
+          <foreign xml:lang="fra">lombes (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2407">
           <orth xml:lang="lat">Psora</orth>
@@ -10018,7 +10033,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2409">
           <orth xml:lang="lat">Psychroluta</orth>
-          <foreign xml:lang="fra">qui se baigne à l’eau froide</foreign>
+          <gloss xml:lang="fra">qui se baigne à l’eau froide</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2410">
           <orth xml:lang="lat">Pterygium</orth>
@@ -10052,7 +10067,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2417">
           <orth xml:lang="lat">Puerpera</orth>
-          <foreign xml:lang="fra">une accouchée</foreign>
+          <foreign xml:lang="fra">accouchée (une)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2418">
           <orth xml:lang="lat">Puerperium</orth>
@@ -10081,7 +10096,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2424">
           <orth xml:lang="lat">Pulmonaria</orth>
-          <foreign xml:lang="fra">la pulmonaire</foreign>
+          <foreign xml:lang="fra">pulmonaire (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2425">
           <orth xml:lang="lat">Pulmonarius</orth>
@@ -10164,7 +10179,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2444">
           <orth xml:lang="lat">Purgationes menstruæ </orth>
-          <foreign xml:lang="fra">mens· trues</foreign>
+          <foreign xml:lang="fra">menstrues</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2445">
           <orth xml:lang="lat">Purgativus</orth>
@@ -10205,7 +10220,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2454">
           <orth xml:lang="lat">Putrefactio</orth>
-          <foreign xml:lang="fra">putréfaction</foreign>
+          <foreign xml:lang="fra"><choice><sic>putrefaction</sic><corr>putréfaction</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2455">
           <orth xml:lang="lat">Putridus</orth>
@@ -10242,7 +10257,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2463">
           <orth xml:lang="lat">Quadripartitus</orth>
-          <foreign xml:lang="fra">quadripartite</foreign>
+          <foreign xml:lang="fra">quadriparti</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2464">
           <orth xml:lang="lat">Quadrumanus</orth>
@@ -10262,7 +10277,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2468">
           <orth xml:lang="lat">Quartanarius</orth>
-          <foreign xml:lang="fra">qui a une fièvre quarte</foreign>
+          <gloss xml:lang="fra">qui a une fièvre quarte</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2469">
           <orth xml:lang="lat">Quassatura</orth>
@@ -10312,7 +10327,7 @@
         <entryFree type="tr" xml:id="la2480">
           <orth xml:lang="lat">Radius</orth>
           <foreign xml:lang="fra">rayon</foreign>
-          <foreign xml:lang="fra">le radius</foreign>
+          <foreign xml:lang="fra">radius (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2481">
           <orth xml:lang="lat">Radix</orth>
@@ -10333,14 +10348,14 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2485">
           <orth xml:lang="lat">Ramicosus</orth>
-          <foreign xml:lang="fra">qui a une hernie</foreign>
+          <gloss xml:lang="fra">qui a une hernie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2486">
           <orth xml:lang="lat">Ramosus</orth>
           <foreign xml:lang="fra">rameux</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2487">
-          <orth xml:lang="lat">Rarnulus</orth>
+          <orth xml:lang="lat">Ramulus</orth>
           <foreign xml:lang="fra">ramille</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2488">
@@ -10377,7 +10392,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2496">
           <orth xml:lang="lat">Rarefaciens</orth>
-          <foreign xml:lang="fra">rarefiant</foreign>
+          <foreign xml:lang="fra"><choice><sic>rarefiant</sic><corr>raréfiant</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2497">
           <orth xml:lang="lat">Rarefactio</orth>
@@ -10385,7 +10400,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2498">
           <orth xml:lang="lat">Raritas</orth>
-          <foreign xml:lang="fra">le peu de densité</foreign>
+          <gloss xml:lang="fra">peu de densité (le)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2499">
           <orth xml:lang="lat">Rasura</orth>
@@ -10445,7 +10460,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2513">
           <orth xml:lang="lat">Recutitus</orth>
-          <foreign xml:lang="fra">dont la peau est enlevée</foreign>
+          <gloss xml:lang="fra">dont la peau est enlevée</gloss>
           <foreign xml:lang="fra">circoncis</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2514">
@@ -10458,11 +10473,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2516">
           <orth xml:lang="lat">Redundantia</orth>
-          <foreign xml:lang="fra">redondance</foreign>
+          <foreign xml:lang="fra"><choice><sic>rédondance</sic><corr>redondance</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2517">
           <orth xml:lang="lat">Reduvia</orth>
-          <foreign xml:lang="fra">envie aux doigts</foreign>
+          <foreign xml:lang="fra">envie</foreign><gloss> aux doigts</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2518">
           <orth xml:lang="lat">Refectio</orth>
@@ -10559,7 +10574,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2541">
           <orth xml:lang="lat">Repullulare</orth>
-          <foreign xml:lang="fra">t épuîluler</foreign>
+          <foreign xml:lang="fra">répulluler</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2542">
           <orth xml:lang="lat">Repulsio</orth>
@@ -10567,7 +10582,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2543">
           <orth xml:lang="lat">Repulsorius</orth>
-          <foreign xml:lang="fra">qui repousse</foreign>
+          <gloss xml:lang="fra">qui repousse</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2544">
           <orth xml:lang="lat">Residuum</orth>
@@ -10579,7 +10594,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2546">
           <orth xml:lang="lat">Resolutio ventris</orth>
-          <orth xml:lang="lat">stomachi</orth>
+          <orth xml:lang="lat">resolutio stomachi</orth>
           <foreign xml:lang="fra">flux de ventre</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2547">
@@ -10609,7 +10624,7 @@
         <entryFree type="tr" xml:id="la2553">
           <orth xml:lang="lat">Retrocessus</orth>
           <foreign xml:lang="fra">rétrocession</foreign>
-          <foreign xml:lang="fra">mouvement rétrograde</foreign>
+          <gloss xml:lang="fra">mouvement rétrograde</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2554">
           <orth xml:lang="lat">Revellens</orth>
@@ -10675,14 +10690,14 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2568">
           <orth xml:lang="lat">Rhinion</orth>
-          <foreign xml:lang="fra">sorte de collyre</foreign>
+          <gloss xml:lang="fra">sorte de collyre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2569">
           <orth xml:lang="lat">Rhododendrum</orth>
           <foreign xml:lang="fra">laurier-rose</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2570">
-          <orth xml:lang="lat">Rhomboïdes</orth>
+          <orth xml:lang="lat">Rhomboides</orth>
           <foreign xml:lang="fra">rhomboïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2571">
@@ -10704,8 +10719,7 @@
         <entryFree type="tr" xml:id="la2575">
           <orth xml:lang="lat">Ricinus</orth>
           <foreign xml:lang="fra">ricin (plante)</foreign>
-          <foreign xml:lang="fra">tique</foreign>
-          <foreign xml:lang="fra">insecte</foreign>
+          <foreign xml:lang="fra">tique, insecte</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2576">
           <orth xml:lang="lat">Rigiditas</orth>
@@ -10725,7 +10739,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2580">
           <orth xml:lang="lat">Roborosus</orth>
-          <foreign xml:lang="fra">qui a le tétanos</foreign>
+          <gloss xml:lang="fra">qui a le tétanos</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2581">
           <orth xml:lang="lat">Robur</orth>
@@ -10758,7 +10772,7 @@
           <orth xml:lang="lat">Rotatio</orth>
           <foreign xml:lang="fra">rotation</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la2588">
+        <entryFree type="subtr" xml:id="la2588">
           <orth xml:lang="lat">Rotator</orth>
           <foreign xml:lang="fra">rotateur</foreign>
         </entryFree>
@@ -10784,7 +10798,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2594">
           <orth xml:lang="lat">Rubigo</orth>
-          <gloss>rouille des métaux; nielle maladie des blés</gloss>
+          <foreign>rouille</foreign><gloss> des métaux</gloss>
+          <foreign>nielle, maladie des blés</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2595">
           <orth xml:lang="lat">Rubor</orth>
@@ -10794,7 +10809,7 @@
           <orth xml:lang="lat">Rubus</orth>
           <foreign xml:lang="fra">ronce</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la2597">
+        <entryFree type="subtr" xml:id="la2597">
           <orth xml:lang="lat">Rubus idæus</orth>
           <foreign xml:lang="fra">framboisier</foreign>
         </entryFree>
@@ -10826,7 +10841,7 @@
         <entryFree type="tr" xml:id="la2604">
           <orth xml:lang="lat">Ruma</orth>
           <orth xml:lang="lat">rumen</orth>
-          <foreign xml:lang="fra">premier estomac des ruminants</foreign>
+          <gloss xml:lang="fra">premier estomac des ruminants</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2605">
           <orth xml:lang="lat">Rumex</orth>
@@ -10855,7 +10870,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2611">
           <orth xml:lang="lat">Ruscus</orth>
-          <foreign xml:lang="fra">frag on</foreign>
+          <foreign xml:lang="fra">fragon</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2612">
           <orth xml:lang="lat">Sabina</orth>
@@ -10907,7 +10922,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2624">
           <orth xml:lang="lat">Salivosus</orth>
-          <foreign xml:lang="fra">qui salive beaucoup</foreign>
+          <gloss xml:lang="fra">qui salive beaucoup</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2625">
           <orth xml:lang="lat">Salix</orth>
@@ -11010,7 +11025,7 @@
         <entryFree type="tr" xml:id="la2649">
           <orth xml:lang="lat">Sarcosis</orth>
           <foreign xml:lang="fra">sarcose</foreign>
-          <foreign xml:lang="fra">enflure des bêtes de somme</foreign>
+          <foreign xml:lang="fra">enflure</foreign><gloss> des bêtes de somme</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2650">
           <orth xml:lang="lat">Sardonius</orth>
@@ -11087,7 +11102,7 @@
           <foreign xml:lang="fra">rugine</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2668">
-          <orth xml:lang="lat">Seammoneum</orth>
+          <orth xml:lang="lat">Scammoneum</orth>
           <orth xml:lang="lat">scammonea</orth>
           <orth xml:lang="lat">scammonia</orth>
           <foreign xml:lang="fra">scammonée</foreign>
@@ -11123,7 +11138,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2676">
           <orth xml:lang="lat">Sciaticus</orth>
-          <foreign xml:lang="fra">qui a la sciatique</foreign>
+          <gloss xml:lang="fra">qui a la sciatique</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2677">
           <orth xml:lang="lat">Scientia</orth>
@@ -11131,13 +11146,13 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2678">
           <orth xml:lang="lat">Scilla</orth>
-          <foreign xml:lang="fra">stille</foreign>
+          <foreign xml:lang="fra">scille</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2679">
           <orth xml:lang="lat">Scillites vinum</orth>
-          <orth xml:lang="lat">acetum</orth>
-          <foreign xml:lang="fra">vin</foreign>
-          <foreign xml:lang="fra">vinaigre de stille</foreign>
+          <foreign xml:lang="fra">vin de scille</foreign>
+          <orth xml:lang="lat">scillites acetum</orth>
+          <foreign xml:lang="fra">vinaigre de scille</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2680">
           <orth xml:lang="lat">Scirrhoma</orth>
@@ -11153,11 +11168,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2683">
           <orth xml:lang="lat">Scobina</orth>
-          <foreign xml:lang="fra">rape</foreign>
+          <foreign xml:lang="fra">râpe</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2684">
           <orth xml:lang="lat">Scobis</orth>
-          <foreign xml:lang="fra">r apure</foreign>
+          <foreign xml:lang="fra">râpure</foreign>
           <foreign xml:lang="fra">limaille</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2685">
@@ -11174,7 +11189,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2688">
           <orth xml:lang="lat">Scotomaticus</orth>
-          <foreign xml:lang="fra">qui a des vertiges</foreign>
+          <gloss xml:lang="fra">qui a des vertiges</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2689">
           <orth xml:lang="lat">Screatus</orth>
@@ -11189,7 +11204,7 @@
           <foreign xml:lang="fra">truie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2692">
-          <orth xml:lang="lat">Scrofulae</orth>
+          <orth xml:lang="lat">Scrofulæ</orth>
           <foreign xml:lang="fra">scrofules</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2693">
@@ -11204,13 +11219,13 @@
           <orth xml:lang="lat">Scutulum</orth>
           <foreign xml:lang="fra">petit bouclier</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la2696">
+        <entryFree type="subtr" xml:id="la2696">
           <orth xml:lang="lat">Scutula operta</orth>
           <foreign xml:lang="fra">omoplates</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2697">
           <orth xml:lang="lat">Scybala</orth>
-          <foreign xml:lang="fra">scy bales</foreign>
+          <foreign xml:lang="fra">scybales</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2698">
           <orth xml:lang="lat">Sebaceus</orth>
@@ -11259,7 +11274,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2709">
           <orth xml:lang="lat">Sensualis</orth>
-          <foreign xml:lang="fra">relatif aux sens</foreign>
+          <gloss xml:lang="fra">relatif aux sens</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2710">
           <orth xml:lang="lat">Sensus</orth>
@@ -11291,7 +11306,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2717">
           <orth xml:lang="lat">Serratus</orth>
-          <foreign xml:lang="fra">en scie</foreign>
+          <gloss xml:lang="fra">en scie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2718">
           <orth xml:lang="lat">Sertulum</orth>
@@ -11304,7 +11319,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2720">
           <orth xml:lang="lat">Sesamoides</orth>
-          <foreign xml:lang="fra">sésamoide</foreign>
+          <foreign xml:lang="fra">sésamoïde</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2721">
           <orth xml:lang="lat">Sesamum</orth>
@@ -11320,7 +11335,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2724">
           <orth xml:lang="lat">Setosus</orth>
-          <foreign xml:lang="fra">hérissé de.soies</foreign>
+          <gloss xml:lang="fra">hérissé de soies</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2725">
           <orth xml:lang="lat">Sexualis</orth>
@@ -11333,7 +11348,7 @@
         <entryFree type="tr" xml:id="la2727">
           <orth xml:lang="lat">Siagones</orth>
           <orth xml:lang="lat">siagonitæ</orth>
-          <foreign xml:lang="fra">muscles des tempes et des mâchoires</foreign>
+          <gloss xml:lang="fra">muscles des tempes et des mâchoires</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2728">
           <orth xml:lang="lat">Sibilus</orth>
@@ -11373,7 +11388,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2737">
           <orth xml:lang="lat">Silicula</orth>
-          <foreign xml:lang="fra">sïlicule</foreign>
+          <foreign xml:lang="fra">silicule</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2738">
           <orth xml:lang="lat">Siliqua</orth>
@@ -11429,10 +11444,10 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2750">
           <orth xml:lang="lat">Siticulosus</orth>
-          <foreign xml:lang="fra">qui altère</foreign>
+          <gloss xml:lang="fra">qui altère</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2751">
-          <orth xml:lang="lat">Skis</orth>
+          <orth xml:lang="lat">Sitis</orth>
           <foreign xml:lang="fra">soif</foreign>
           <foreign xml:lang="fra">altération</foreign>
         </entryFree>
@@ -11471,7 +11486,8 @@
         <entryFree type="tr" xml:id="la2760">
           <orth xml:lang="lat">Somnifer </orth>
           <orth xml:lang="lat">somnificus</orth>
-          <foreign xml:lang="fra">somnifère hypnotique</foreign>
+          <foreign xml:lang="fra">somnifère</foreign>
+          <foreign xml:lang="fra">hypnotique</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2761">
           <orth xml:lang="lat">Somnium</orth>
@@ -11507,7 +11523,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2769">
           <orth xml:lang="lat">Sorbitio</orth>
-          <foreign xml:lang="fra">tisane d’orge</foreign>
+          <foreign xml:lang="fra">tisane</foreign><gloss> d’orge</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2770">
           <orth xml:lang="lat">Spadix</orth>
@@ -11523,7 +11539,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2773">
           <orth xml:lang="lat">Spasticus</orth>
-          <foreign xml:lang="fra">sujet aux spasmes</foreign>
+          <gloss xml:lang="fra">sujet aux spasmes</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2774">
           <orth xml:lang="lat">Spatha</orth>
@@ -11575,7 +11591,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2786">
           <orth xml:lang="lat">Spiræa</orth>
-          <foreign xml:lang="fra">la spirée</foreign>
+          <foreign xml:lang="fra">spirée (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2787">
           <orth xml:lang="lat">Spiritalis arteria</orth>
@@ -11650,7 +11666,7 @@
         <entryFree type="tr" xml:id="la2804">
           <orth xml:lang="lat">Squarrosus</orth>
           <foreign xml:lang="fra">squarreux</foreign>
-          <foreign xml:lang="fra">couvert de boutons</foreign>
+          <gloss xml:lang="fra">couvert de boutons</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2805">
           <orth xml:lang="lat">Stadium</orth>
@@ -11680,7 +11696,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2811">
           <orth xml:lang="lat">Stegnus</orth>
-          <foreign xml:lang="fra">qui arrête la transpiration</foreign>
+          <gloss xml:lang="fra">qui arrête la transpiration</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2812">
           <orth xml:lang="lat">Stercora</orth>
@@ -11700,7 +11716,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2816">
           <orth xml:lang="lat">Stibinus</orth>
-          <foreign xml:lang="fra">slibié</foreign>
+          <foreign xml:lang="fra">stibié</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2817">
           <orth xml:lang="lat">Stibium</orth>
@@ -11721,7 +11737,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2821">
           <orth xml:lang="lat">Stillicidium urinæ</orth>
-          <foreign xml:lang="fra">strangurie énurésie</foreign>
+          <foreign xml:lang="fra">strangurie</foreign>
+          <foreign xml:lang="fra">énurésie</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2822">
           <orth xml:lang="lat">Stimulans</orth>
@@ -11747,7 +11764,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2827">
           <orth xml:lang="lat">Stomachicus</orth>
-          <foreign xml:lang="fra">qui souffre de l’estomac</foreign>
+          <gloss xml:lang="fra">qui souffre de l’estomac</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2828">
           <orth xml:lang="lat">Stomachus</orth>
@@ -11756,11 +11773,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2829">
           <orth xml:lang="lat">Stomatice</orth>
-          <foreign xml:lang="fra">préparation bonne pour la bouche</foreign>
+          <gloss xml:lang="fra">préparation bonne pour la bouche</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2830">
           <orth xml:lang="lat">Stomaticus</orth>
-          <foreign xml:lang="fra">qui a mal à la bouche</foreign>
+          <gloss xml:lang="fra">qui a mal à la bouche</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2831">
           <orth xml:lang="lat">Storax</orth>
@@ -11768,7 +11785,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2832">
           <orth xml:lang="lat">Strabo</orth>
-          <foreign xml:lang="fra">qui est affecté de strabisme</foreign>
+          <gloss xml:lang="fra">qui est affecté de strabisme</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2833">
           <orth xml:lang="lat">Strangulatio</orth>
@@ -11817,7 +11834,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2843">
           <orth xml:lang="lat">Strychnos</orth>
-          <foreign xml:lang="fra">morelle à fruits noirs</foreign>
+          <foreign xml:lang="fra">morelle</foreign><gloss> à fruits noirs</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2844">
           <orth xml:lang="lat">Stupefaciens</orth>
@@ -11833,7 +11850,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2847">
           <orth xml:lang="lat">Stymma</orth>
-          <foreign xml:lang="fra">un astringent</foreign>
+          <foreign xml:lang="fra">astringent (un)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2848">
           <orth xml:lang="lat">Stypticus</orth>
@@ -11841,7 +11858,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2849">
           <orth xml:lang="lat">Styrax</orth>
-          <foreign xml:lang="fra">le styrax</foreign>
+          <foreign xml:lang="fra">styrax (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2850">
           <orth xml:lang="lat">Subcutaneus</orth>
@@ -11849,11 +11866,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2851">
           <orth xml:lang="lat">Suber</orth>
-          <foreign xml:lang="fra">liège</foreign>
+          <foreign xml:lang="fra"><choice><sic>liége</sic><corr>liège</corr></choice></foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2852">
           <orth xml:lang="lat">Subereus</orth>
-          <foreign xml:lang="fra">de liège</foreign>
+          <gloss xml:lang="fra">de <choice><sic>liége</sic><corr>liège</corr></choice></gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2853">
           <orth xml:lang="lat">Subgrundatio</orth>
@@ -11886,7 +11903,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2860">
           <orth xml:lang="lat">Submejulus</orth>
-          <foreign xml:lang="fra">enfant qui pisse au lit</foreign>
+          <gloss xml:lang="fra">enfant qui pisse au lit</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2861">
           <orth xml:lang="lat">Submersio</orth>
@@ -11906,7 +11923,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2865">
           <orth xml:lang="lat">Subventrile</orth>
-          <foreign xml:lang="fra">le bas-ventre</foreign>
+          <foreign xml:lang="fra">bas-ventre (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2866">
           <orth xml:lang="lat">Succedaneus</orth>
@@ -11914,7 +11931,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2867">
           <orth xml:lang="lat">Succenturiati</orth>
-          <foreign xml:lang="fra">succeuturiaux</foreign>
+          <foreign xml:lang="fra">succenturiaux</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2868">
           <orth xml:lang="lat">Succida lana</orth>
@@ -11968,7 +11985,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2880">
           <orth xml:lang="lat">Suffocationes</orth>
-          <foreign xml:lang="fra">attaques d’hystérie</foreign>
+          <foreign xml:lang="fra">attaques</foreign><gloss> d’hystérie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2881">
           <orth xml:lang="lat">Suffusio</orth>
@@ -11979,7 +11996,7 @@
         <entryFree type="tr" xml:id="la2882">
           <orth xml:lang="lat">Sugillatio</orth>
           <foreign xml:lang="fra">sugillation</foreign>
-          <foreign xml:lang="fra">meurtris” sure</foreign>
+          <foreign xml:lang="fra">meurtrissure</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2883">
           <orth xml:lang="lat">Sulfur</orth>
@@ -12008,7 +12025,7 @@
         <entryFree type="tr" xml:id="la2889">
           <orth xml:lang="lat">Supinatio</orth>
           <foreign xml:lang="fra">supination</foreign>
-          <foreign xml:lang="fra">dérangement d’estomac</foreign>
+          <foreign xml:lang="fra">dérangement</foreign><gloss> d’estomac</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2890">
           <orth xml:lang="lat">Suppositorium</orth>
@@ -12033,11 +12050,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2895">
           <orth xml:lang="lat">Suræ radius</orth>
-          <foreign xml:lang="fra">le péroné</foreign>
+          <foreign xml:lang="fra">péroné (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2896">
           <orth xml:lang="lat">Surdaster</orth>
-          <foreign xml:lang="fra">qui a l’oreille dure</foreign>
+          <gloss xml:lang="fra">qui a l’oreille dure</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2897">
           <orth xml:lang="lat">Surditas</orth>
@@ -12074,7 +12091,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2905">
           <orth xml:lang="lat">Sympasma</orth>
-          <foreign xml:lang="fra">topique en poudre</foreign>
+          <foreign xml:lang="fra">topique</foreign><gloss> en poudre</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2906">
           <orth xml:lang="lat">Sympathia</orth>
@@ -12094,11 +12111,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2910">
           <orth xml:lang="lat">Synanchicus</orth>
-          <foreign xml:lang="fra">d’angine</foreign>
+          <gloss xml:lang="fra">d’angine</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2911">
           <orth xml:lang="lat">Synchrisma</orth>
-          <foreign xml:lang="fra">frictions avec un liniment</foreign>
+          <gloss xml:lang="fra">frictions avec un liniment</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2912">
           <orth xml:lang="lat">Synchronus</orth>
@@ -12118,7 +12135,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2916">
           <orth xml:lang="lat">Syntecticus</orth>
-          <foreign xml:lang="fra">qui dépérit</foreign>
+          <gloss xml:lang="fra">qui dépérit</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2917">
           <orth xml:lang="lat">Syntexis</orth>
@@ -12177,7 +12194,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2930">
           <orth xml:lang="lat">Tænia</orth>
-          <foreign xml:lang="fra">le ténia</foreign>
+          <foreign xml:lang="fra">ténia (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2931">
           <orth xml:lang="lat">Tænia</orth>
@@ -12205,7 +12222,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2937">
           <orth xml:lang="lat">Tecolithos</orth>
-          <gloss>pierre qui passait pour dissoudre les calculs de vessie</gloss>
+          <gloss>pierre qui passait pour dissoudre les calculs de la vessie</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2938">
           <orth xml:lang="lat">Tegumen</orth>
@@ -12214,7 +12231,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2939">
           <orth xml:lang="lat">Telum (Serenus Sammonicus)</orth>
-          <foreign xml:lang="fra">la pleurésie</foreign>
+          <foreign xml:lang="fra">pleurésie (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2940">
           <orth xml:lang="lat">Temperamentum</orth>
@@ -12230,7 +12247,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2943">
           <orth xml:lang="lat">Tempora</orth>
-          <foreign xml:lang="fra">les tempes</foreign>
+          <foreign xml:lang="fra">tempes (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2944">
           <orth xml:lang="lat">Temporalis</orth>
@@ -12251,11 +12268,11 @@
         <entryFree type="tr" xml:id="la2948">
           <orth xml:lang="lat">Tensio</orth>
           <foreign xml:lang="fra">tension</foreign>
-          <foreign xml:lang="fra">maladie des nerfs</foreign>
+          <gloss xml:lang="fra">maladie des nerfs</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2949">
           <orth xml:lang="lat">Tentatio</orth>
-          <foreign xml:lang="fra">-atteinte</foreign>
+          <foreign xml:lang="fra">atteinte</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2950">
           <orth xml:lang="lat">Tentigo</orth>
@@ -12263,7 +12280,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2951">
           <orth xml:lang="lat">Tentipellium</orth>
-          <foreign xml:lang="fra">cosmétique contre les rides</foreign>
+          <gloss xml:lang="fra">cosmétique contre les rides</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2952">
           <orth xml:lang="lat">Terebellum</orth>
@@ -12328,11 +12345,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2967">
           <orth xml:lang="lat">Tethalassomenon</orth>
-          <foreign xml:lang="fra">vin mélangé . d’eau de mer</foreign>
+          <gloss xml:lang="fra">vin mélangé d’eau de mer</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2968">
           <orth xml:lang="lat">Tetrapharmacum</orth>
-          <foreign xml:lang="fra">emplâtre fait de quatre ingrédients</foreign>
+          <gloss xml:lang="fra">emplâtre fait de quatre ingrédients</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2969">
           <orth xml:lang="lat">Teucrion</orth>
@@ -12348,7 +12365,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2972">
           <orth xml:lang="lat">Thalictrum</orth>
-          <foreign xml:lang="fra">sorte de renonculacée</foreign>
+          <gloss xml:lang="fra">sorte de renonculacée</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2973">
           <orth xml:lang="lat">Theoria</orth>
@@ -12385,16 +12402,16 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2981">
           <orth xml:lang="lat">Thridax</orth>
-          <foreign xml:lang="fra">sorte de laitue</foreign>
+          <gloss xml:lang="fra">sorte de laitue</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2982">
           <orth xml:lang="lat">Thymatica</orth>
-          <foreign xml:lang="fra">pastilles à brûler</foreign>
-          <foreign xml:lang="fra">'parfum</foreign>
+          <foreign xml:lang="fra">pastilles</foreign><gloss> à brûler</gloss>
+          <foreign xml:lang="fra">parfum</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2983">
           <orth xml:lang="lat">Thymium</orth>
-          <foreign xml:lang="fra">sorte de verrue</foreign>
+          <gloss xml:lang="fra">sorte de verrue</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la2984">
           <orth xml:lang="lat">Thymum</orth>
@@ -12424,8 +12441,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2990">
           <orth xml:lang="lat">Tinea</orth>
-          <foreign xml:lang="fra">teigne</foreign>
-          <foreign xml:lang="fra">insecte</foreign>
+          <foreign xml:lang="fra">teigne, insecte</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2991">
           <orth xml:lang="lat">Tinnitus aurium</orth>
@@ -12447,12 +12463,12 @@
         </entryFree>
         <entryFree type="tr" xml:id="la2995">
           <orth xml:lang="lat">Tonsillae</orth>
-          <foreign xml:lang="fra">amygdalei</foreign>
+          <foreign xml:lang="fra">amygdales</foreign>
         </entryFree>
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1738" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1738/full/full/0/default.jpg" n="1724"/>
         <entryFree type="tr" xml:id="la2996">
           <orth xml:lang="lat">Tonus</orth>
-          <foreign xml:lang="fra">Ion</foreign>
+          <foreign xml:lang="fra">ton</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la2997">
           <orth xml:lang="lat">Tophus</orth>
@@ -12504,11 +12520,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3009">
           <orth xml:lang="lat">Trachia</orth>
-          <foreign xml:lang="fra">la trachée</foreign>
+          <foreign xml:lang="fra">trachée (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3010">
           <orth xml:lang="lat">Trachomaticus</orth>
-          <foreign xml:lang="fra">qui fait disparaître les rugosités</foreign>
+          <gloss xml:lang="fra">qui fait disparaître les rugosités</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3011">
           <orth xml:lang="lat">Tragacantha</orth>
@@ -12577,7 +12593,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3027">
           <orth xml:lang="lat">Triquetrus</orth>
-          <foreign xml:lang="fra">triquetre</foreign>
+          <foreign xml:lang="fra">triquètre</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3028">
           <orth xml:lang="lat">Triticum</orth>
@@ -12589,7 +12605,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3030">
           <orth xml:lang="lat">Trochiscus</orth>
-          <foreign xml:lang="fra">trochisquc</foreign>
+          <foreign xml:lang="fra">trochisque</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3031">
           <orth xml:lang="lat">Trochlea</orth>
@@ -12664,7 +12680,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3048">
           <orth xml:lang="lat">Tympaniticus</orth>
-          <foreign xml:lang="fra">atteint de tympanite</foreign>
+          <gloss xml:lang="fra">atteint de tympanite</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3049">
           <orth xml:lang="lat">Typus</orth>
@@ -12680,7 +12696,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3052">
           <orth xml:lang="lat">Ulcerosus</orth>
-          <foreign xml:lang="fra">plein d’ulcères</foreign>
+          <gloss xml:lang="fra">plein d’ulcères</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3053">
           <orth xml:lang="lat">Ulcus</orth>
@@ -12728,7 +12744,7 @@
           <gloss>crochet, instrument pour l’extraction du fœtus</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3064">
-          <orth xml:lang="lat">Uxlguentum</orth>
+          <orth xml:lang="lat">Unguentum</orth>
           <foreign xml:lang="fra">onguent</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3065">
@@ -12736,8 +12752,8 @@
           <foreign xml:lang="fra">ongle</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3066">
-          <orth xml:lang="lat">Unguia</orth>
-          <foreign xml:lang="fra">sabot de cheval</foreign>
+          <orth xml:lang="lat">Ungula</orth>
+          <foreign xml:lang="fra">sabot</foreign><gloss> de cheval</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3067">
           <orth xml:lang="lat">Uniens</orth>
@@ -12753,8 +12769,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3070">
           <orth xml:lang="lat">Uredo</orth>
-          <foreign xml:lang="fra">nielle</foreign>
-          <foreign xml:lang="fra">maladie des plantes</foreign>
+          <foreign xml:lang="fra">nielle, maladie des plantes</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3071">
           <orth xml:lang="lat">Ureticus</orth>
@@ -12765,12 +12780,12 @@
           <foreign xml:lang="fra">urine</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3073">
-          <orth xml:lang="lat">Urinai</orth>
-          <foreign xml:lang="fra">pot de nuit</foreign>
+          <orth xml:lang="lat">Urinal</orth>
+          <gloss xml:lang="fra">pot de nuit</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3074">
           <orth xml:lang="lat">Urinales viæ</orth>
-          <foreign xml:lang="fra">les voies urinaires</foreign>
+          <foreign xml:lang="fra">voies urinaires (les)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3075">
           <orth xml:lang="lat">Urna</orth>
@@ -12791,7 +12806,7 @@
         <entryFree type="tr" xml:id="la3079">
           <orth xml:lang="lat">Ustulatio</orth>
           <foreign xml:lang="fra">ustulation</foreign>
-          <foreign xml:lang="fra">légère brûlure</foreign>
+          <gloss xml:lang="fra">légère brûlure</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3080">
           <orth xml:lang="lat">Uter</orth>
@@ -12836,7 +12851,7 @@
           <foreign xml:lang="fra">hôpital</foreign>
           <foreign xml:lang="fra">hôpital militaire</foreign>
         </entryFree>
-        <entryFree type="tr" xml:id="la3090">
+        <entryFree type="subtr" xml:id="la3090">
           <orth xml:lang="lat">Optio valetudinarii </orth>
           <foreign xml:lang="fra">aide-infirmier</foreign>
         </entryFree>
@@ -12850,7 +12865,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3093">
           <orth xml:lang="lat">Valgus</orth>
-          <foreign xml:lang="fra">qui a les jambes tournées en dehors</foreign>
+          <gloss xml:lang="fra">qui a les jambes tournées en dehors</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3094">
           <orth xml:lang="lat">Valvula</orth>
@@ -12905,7 +12920,7 @@
           <foreign xml:lang="fra">saignée</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3107">
-          <orth xml:lang="lat">Venelicium</orth>
+          <orth xml:lang="lat">Veneficium</orth>
           <foreign xml:lang="fra">empoisonnement</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3108">
@@ -12950,9 +12965,8 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3118">
           <orth xml:lang="lat">Ventriculus</orth>
-          <foreign xml:lang="fra">l’estomac</foreign>
-          <foreign xml:lang="fra">le ventri</foreign>
-          <foreign xml:lang="fra">cule</foreign>
+          <foreign xml:lang="fra">estomac (l')</foreign>
+          <foreign xml:lang="fra">ventricule (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3119">
           <orth xml:lang="lat">Ventus</orth>
@@ -12965,7 +12979,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3121">
           <orth xml:lang="lat">Veratrum</orth>
-          <foreign xml:lang="fra">le veratrum</foreign>
+          <foreign xml:lang="fra">veratrum (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3122">
           <orth xml:lang="lat">Verbascum</orth>
@@ -12977,7 +12991,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3124">
           <orth xml:lang="lat">Veretrum</orth>
-          <foreign xml:lang="fra">le pénis</foreign>
+          <foreign xml:lang="fra">pénis (le)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3125">
           <orth xml:lang="lat">Vermicularis</orth>
@@ -13042,7 +13056,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3140">
           <orth xml:lang="lat">Veterinarium</orth>
-          <foreign xml:lang="fra">infirmerie pour les bêtes de trait</foreign>
+          <gloss xml:lang="fra">infirmerie pour les bêtes de trait</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3141">
           <orth xml:lang="lat">Veterinarius</orth>
@@ -13070,7 +13084,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3147">
           <orth xml:lang="lat">Vicia</orth>
-          <foreign xml:lang="fra">la vesce</foreign>
+          <foreign xml:lang="fra">vesce (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3148">
           <orth xml:lang="lat">Victus ratio</orth>
@@ -13083,7 +13097,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3150">
           <orth xml:lang="lat">Vinca pervinca</orth>
-          <foreign xml:lang="fra">la pervenche</foreign>
+          <foreign xml:lang="fra">pervenche (la)</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3151">
           <orth xml:lang="lat">Vinculum</orth>
@@ -13167,11 +13181,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3170">
           <orth xml:lang="lat">Vitalia</orth>
-          <foreign xml:lang="fra">les organes essentiels à l vie</foreign>
+          <gloss xml:lang="fra">organes essentiels à la vie (les)</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3171">
           <orth xml:lang="lat">Vitex</orth>
-          <foreign xml:lang="fra">agnus-caslus</foreign>
+          <foreign xml:lang="fra">agnus-castus</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3172">
           <orth xml:lang="lat">Viticula</orth>
@@ -13212,7 +13226,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3181">
           <orth xml:lang="lat">Vola</orth>
-          <foreign xml:lang="fra">paume de la main</foreign>
+          <foreign xml:lang="fra">paume</foreign><gloss> de la main</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3182">
           <orth xml:lang="lat">Volatilis</orth>
@@ -13233,7 +13247,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3186">
           <orth xml:lang="lat">Vomicosus</orth>
-          <foreign xml:lang="fra">qui a une vomique</foreign>
+          <gloss xml:lang="fra">qui a une vomique</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3187">
           <orth xml:lang="lat">Vomitio</orth>
@@ -13246,7 +13260,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3189">
           <orth xml:lang="lat">Vomitus</orth>
-          <foreign xml:lang="fra">vomissements</foreign>
+          <foreign xml:lang="fra">vomissement</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3190">
           <orth xml:lang="lat">Voracitas</orth>
@@ -13279,7 +13293,8 @@
           <foreign xml:lang="fra">visage</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="la3197">
-          <orth xml:lang="lat">Vulva et volva</orth>
+          <orth xml:lang="lat">Vulva</orth>
+          <orth xml:lang="lat">volva</orth>
           <foreign xml:lang="fra">vulve</foreign>
           <foreign xml:lang="fra">volva</foreign>
         </entryFree>
@@ -13297,7 +13312,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3201">
           <orth xml:lang="lat">Xerophagia</orth>
-          <foreign xml:lang="fra">usage des aliments secs</foreign>
+          <gloss xml:lang="fra">usage des aliments secs</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="la3202">
           <orth xml:lang="lat">Xerophthalmia</orth>
@@ -13321,7 +13336,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="la3207">
           <orth xml:lang="lat">Zoster</orth>
-          <foreign xml:lang="fra">le zoster</foreign>
+          <foreign xml:lang="fra">zoster (le)</foreign>
           <foreign xml:lang="fra">zona</foreign>
         </entryFree>
       
