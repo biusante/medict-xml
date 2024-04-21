@@ -3920,7 +3920,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Herba diui Ioannis</orth>
-                    <foreign xml:lang="grc">ἄρτεμισία</foreign>
+                    <foreign xml:lang="grc">ἀρτεμισία</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Herba lactis</orth>
@@ -4074,7 +4074,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Hyssopus humida</orth>
-                    <foreign xml:lang="grc">ὕσσωπον ὑχρόν</foreign>
+                    <foreign xml:lang="grc">ὕσσωπον ὑγρόν</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Iarus</orth>
@@ -4094,7 +4094,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Iecur ficatum</orth>
-                    <foreign xml:lang="grc">συκωτὸν ἥπαρ</foreign>
+                    <foreign xml:lang="grc">συκωτὸν ἧπαρ</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Ieiunum intestinum</orth>
@@ -5011,11 +5011,11 @@
                     <foreign xml:lang="grc">κακόηθες</foreign>
                 </entryFree>
                 <entryFree>
-                    <orth xml:lang="la">Malieoli</orth>
+                    <orth xml:lang="la">Malleoli</orth>
                     <foreign xml:lang="grc">σφυρά</foreign>
                 </entryFree>
                 <entryFree>
-                    <orth xml:lang="la">Malieoli vena</orth>
+                    <orth xml:lang="la">Malleoli vena</orth>
                     <foreign xml:lang="grc">σφυρίτις φλέψ</foreign>
                 </entryFree>
                 <entryFree>
@@ -5048,7 +5048,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Malus canina</orth>
-                    <foreign xml:lang="grc">μανδράγορας</foreign>
+                    <foreign xml:lang="grc">μανδραγόρας</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Malus habitus corporis</orth>
@@ -5060,7 +5060,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Malus terrestris</orth>
-                    <foreign xml:lang="grc">μανδράγορας</foreign>
+                    <foreign xml:lang="grc">μανδραγόρας</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Mamma</orth>
@@ -5206,7 +5206,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Medicamentum cruentum</orth>
-                    <foreign xml:lang="grc">ἐναιμον φάρμακον</foreign>
+                    <foreign xml:lang="grc">ἔναιμον φάρμακον</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Medicamentum purgans</orth>
@@ -5482,8 +5482,8 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Morbilli</orth>
+                    <foreign xml:lang="grc">ἐκθύματα</foreign>
                     <foreign xml:lang="grc">ἐξανθήματα</foreign>
-                    <foreign xml:lang="grc">ἐξατηματα</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Morbosum</orth>
@@ -5780,7 +5780,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Nubes in vrina</orth>
-                    <foreign xml:lang="grc">ὀναιώρημα</foreign>
+                    <foreign xml:lang="grc">ἐναιώρημα</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Nuscitiosi</orth>
@@ -6023,7 +6023,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Oris ventriculi dolor</orth>
-                    <foreign xml:lang="grc">καρδαλγία</foreign>
+                    <foreign xml:lang="grc">καρδιαλγία</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Orthopnoea</orth>
@@ -6046,7 +6046,7 @@
                     <foreign xml:lang="grc">ἀναστόμωσις</foreign>
                 </entryFree>
                 <entryFree>
-                    <orth xml:lang="la">Osiugale</orth>
+                    <orth xml:lang="la">Os iugale</orth>
                     <foreign xml:lang="grc">ζύγωμα</foreign>
                 </entryFree>
                 <entryFree>
@@ -6059,7 +6059,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Ossis extuberatio</orth>
-                    <foreign xml:lang="grc">ἐξόστασις</foreign>
+                    <foreign xml:lang="grc">ἐξόστωσις</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Ossis fractura</orth>
@@ -6071,7 +6071,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Ossium membrana</orth>
-                    <foreign xml:lang="grc">πριόστεος ὑμήν</foreign>
+                    <foreign xml:lang="grc">περιόστεος ὑμήν</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Ossium vnio</orth>
@@ -6099,7 +6099,7 @@
                     <foreign xml:lang="grc">ὀξυλάπαθον</foreign>
                 </entryFree>
                 <entryFree>
-                    <orth xml:lang="la">Ozana</orth>
+                    <orth xml:lang="la">Ozaena</orth>
                     <foreign xml:lang="grc">ὄζαινα</foreign>
                 </entryFree>
                 <entryFree>
@@ -6146,7 +6146,7 @@
                     <foreign xml:lang="grc">δάκτυλοι</foreign>
                 </entryFree>
                 <entryFree>
-                    <orth xml:lang="la">Palmula paßa</orth>
+                    <orth xml:lang="la">Palmula passa</orth>
                     <foreign xml:lang="grc">πατητός</foreign>
                 </entryFree>
                 <entryFree>
@@ -6331,7 +6331,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Perfusio</orth>
-                    <foreign xml:lang="grc">καταιονήσις</foreign>
+                    <foreign xml:lang="grc">καταιόνησις</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Peritonaeum</orth>
@@ -6838,7 +6838,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Pulmonis inflammatio</orth>
-                    <foreign xml:lang="grc">περιπνευμωνία</foreign>
+                    <foreign xml:lang="grc">περιπνευμονία</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Pulsus</orth>
@@ -6874,7 +6874,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Pulsus coincidens</orth>
-                    <foreign xml:lang="grc">παρεμπίπτων σφρυγμός</foreign>
+                    <foreign xml:lang="grc">παρεμπίπτων σφυγμός</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Pulsus creber</orth>
@@ -7018,7 +7018,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Pylorus</orth>
-                    <foreign xml:lang="grc">πολωρός</foreign>
+                    <foreign xml:lang="grc">πυλωρός</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Pyraster</orth>
@@ -7317,7 +7317,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Rigari</orth>
-                    <foreign xml:lang="grc">τέγγεθαι</foreign>
+                    <foreign xml:lang="grc">τέγγεσθαι</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Rigor</orth>
@@ -7909,7 +7909,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Sinus</orth>
-                    <foreign xml:lang="grc">κóλπος</foreign>
+                    <foreign xml:lang="grc">κόλπος</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Sinus brachii</orth>
@@ -7941,7 +7941,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Solanum</orth>
-                    <foreign xml:lang="grc">ἀλικάκαβος</foreign>
+                    <foreign xml:lang="grc">ἁλικάκαβος</foreign>
                     <foreign xml:lang="grc">στρύχνος</foreign>
                 </entryFree>
                 <entryFree>
@@ -8016,7 +8016,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Spina alba</orth>
-                    <foreign xml:lang="grc">άκανθα λευκή</foreign>
+                    <foreign xml:lang="grc">ἄκανθα λευκή</foreign>
                     <foreign xml:lang="grc">ῥάμνος</foreign>
                 </entryFree>
                 <entryFree>
@@ -8163,7 +8163,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Stupefacientia medicamenta</orth>
-                    <foreign xml:lang="grc">κωτικὰ φάρμακα</foreign>
+                    <foreign xml:lang="grc">ναρκωτικὰ φάρμακα</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Stupor</orth>
@@ -8533,7 +8533,7 @@
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Transuersaria</orth>
-                    <foreign xml:lang="grc">δαπήγματα</foreign>
+                    <foreign xml:lang="grc">διαπήγματα</foreign>
                 </entryFree>
                 <entryFree>
                     <orth xml:lang="la">Tremor</orth>
@@ -8682,7 +8682,7 @@
                     <foreign xml:lang="grc">δίπλωμα</foreign>
                 </entryFree>
                 <entryFree>
-                    <orth xml:lang="la">Vasorum in anitio</orth>
+                    <orth xml:lang="la">Vasorum inanitio</orth>
                     <foreign xml:lang="grc">κενεαγγείη</foreign>
                 </entryFree>
                 <entryFree>
@@ -9068,7 +9068,7 @@
                     <foreign xml:lang="grc">μαιμήκυλον</foreign>
                 </entryFree>
                 <entryFree>
-                    <orth xml:lang="la">Vnguenti fæx</orth>
+                    <orth xml:lang="la">Vnguentifæx</orth>
                     <foreign xml:lang="grc">μάγμα</foreign>
                 </entryFree>
                 <entryFree>
