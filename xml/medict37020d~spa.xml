@@ -13689,7 +13689,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="es3368">
           <orth xml:lang="spa">Metabolelogia</orth>
-          <gloss xml:lang="fra">doctrine de la mutation des maladies</foreign>
+          <gloss xml:lang="fra">doctrine de la mutation des maladies</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="es3369">
           <orth xml:lang="spa">Metacarpiano</orth>
@@ -13805,15 +13805,15 @@
         </entryFree>
         <entryFree type="tr" xml:id="es3397">
           <orth xml:lang="spa">Metroloxia</orth>
-          <gloss xml:lang="fra">obliquité de la matrice</foreign>
+          <gloss xml:lang="fra">obliquité de la matrice</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="es3398">
           <orth xml:lang="spa">Metromania</orth>
-          <gloss xml:lang="fra">fureur utérine</foreign>
+          <gloss xml:lang="fra">fureur utérine</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="es3399">
           <orth xml:lang="spa">Metroptosis</orth>
-          <gloss xml:lang="fra">chute de matrice</foreign>
+          <gloss xml:lang="fra">chute de matrice</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="es3400">
           <orth xml:lang="spa">Metrorragia</orth>
@@ -13821,7 +13821,7 @@
         </entryFree>
         <entryFree type="tr" xml:id="es3401">
           <orth xml:lang="spa">Metrorrexia</orth>
-          <gloss xml:lang="fra">déchirure de la matrice</foreign>
+          <gloss xml:lang="fra">déchirure de la matrice</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="es3402">
           <orth xml:lang="spa">Metroscopo</orth>
@@ -14239,11 +14239,11 @@
         </entryFree>
         <entryFree type="tr" xml:id="es3504">
           <orth xml:lang="spa">Moscada</orth>
-          <gloss xml:lang="fra">noix muscade</foreign>
+          <gloss xml:lang="fra">noix muscade</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="es3505">
           <orth xml:lang="spa">Mosquetazo</orth>
-          <gloss xml:lang="fra">coup de mousquet</foreign>
+          <gloss xml:lang="fra">coup de mousquet</gloss>
         </entryFree>
         <entryFree type="tr" xml:id="es3506">
           <orth xml:lang="spa">Mostaza</orth>
@@ -18594,7 +18594,7 @@
           <foreign xml:lang="fra">salivation</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="es4581">
-          <orth xml:lang="spa">Salival/orth>
+          <orth xml:lang="spa">Salival</orth>
           <foreign xml:lang="fra">salivaire</foreign>
         </entryFree>
         <entryFree type="tr" xml:id="es4582">
