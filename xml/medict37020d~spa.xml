@@ -8,6 +8,14 @@
         <title>Glossaire espagnol du Dictionnaire de médecine, chirurgie, pharmacie, de l’art vétérinaire et des sciences qui s’y rapportent, index</title>
         <author>Émile Littré</author>
         <author>Charles Robin</author>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>OCR, structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
+        <respStmt>
+          <name>Fabrice Robert</name>
+          <resp>Relecture</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
@@ -5730,7 +5738,8 @@
         <entryFree>
           <orth xml:lang="spa">Diario</orth>
           <foreign xml:lang="fra">journal</foreign>
-          adj. <foreign xml:lang="fra">journalier</foreign>
+          <usg>adj.</usg>
+          <foreign xml:lang="fra">journalier</foreign>
           <foreign xml:lang="fra">quotidien</foreign>
         </entryFree>
         <entryFree>

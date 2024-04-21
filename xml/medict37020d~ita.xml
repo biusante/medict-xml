@@ -8,6 +8,14 @@
         <title>Glossaire italien, Dictionnaire de médecine, chirurgie, pharmacie, de l’art vétérinaire et des sciences qui s’y rapportent, index</title>
         <author>Émile Littré</author>
         <author>Charles Robin</author>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>OCR, structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
+        <respStmt>
+          <name>Fabrice Robert</name>
+          <resp>Relecture</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
@@ -16530,7 +16538,8 @@
         <entryFree>
           <orth xml:lang="ita">Riscaldamento</orth>
           <foreign xml:lang="fra">échauffement</foreign>
-          c’est-à-dire <foreign xml:lang="fra">constipation</foreign>
+          <usg>c’est-à-dire</usg>
+          <foreign xml:lang="fra">constipation</foreign>
           <foreign xml:lang="fra">uréthrite</foreign>
           <foreign xml:lang="fra">rougeur</foreign><gloss> chez les enfants</gloss>
         </entryFree>

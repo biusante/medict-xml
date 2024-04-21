@@ -8,6 +8,14 @@
         <title>Dictionnaire de médecine, chirurgie, pharmacie, de l’art vétérinaire et des sciences qui s’y rapportent, index</title>
         <author>Émile Littré</author>
         <author>Charles Robin</author>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>OCR, structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
+        <respStmt>
+          <name>Fabrice Robert</name>
+          <resp>Relecture</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
@@ -42,7 +50,7 @@
   <text>
     <body>
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=1721" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1721/full/full/0/default.jpg" n="1707"/>
-        <head>Glossaire latin<note>(1) Nous n’avons pas admis, dans ce glossaire, les mots du bas latin, tels que <emph>focile</emph>, péroné, <emph>lupia</emph>, loupe, <emph>siphac</emph>, péritoine, etc., afin qu’on ne crût pas qu’ils appartiennent à la langue latine ou gréco-latine.</note></head>
+        <head>Glossaire latin<note>(1) Nous n’avons pas admis, dans ce glossaire, les mots du bas latin, tels que <hi>focile</hi>, péroné, <hi>lupia</hi>, loupe, <hi>siphac</hi>, péritoine, etc., afin qu’on ne crût pas qu’ils appartiennent à la langue latine ou gréco-latine.</note></head>
         <entryFree>
           <orth xml:lang="lat">Abaptiston</orth>
           <foreign xml:lang="fra">abaptiste (trépan)</foreign>
@@ -1688,7 +1696,8 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Apomeli</orth>
-          <foreign xml:lang="fra">hydromel <gloss> étendu d’eau</gloss></foreign>
+          <foreign xml:lang="fra">hydromel</foreign>
+          <gloss>étendu d’eau</gloss>
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Aponeurosis</orth>
@@ -1884,8 +1893,8 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Arcualia ossa</orth>
-          <foreign xml:lang="fra">os du sinciput</foreign> suivant les uns
-          <foreign xml:lang="fra">os temporaux</foreign> suivant les autres
+          <foreign xml:lang="fra">os du sinciput</foreign> <usg>suivant les uns</usg>
+          <foreign xml:lang="fra">os temporaux</foreign> <usg>suivant les autres</usg>
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Arcualis sutura</orth>
@@ -2980,8 +2989,8 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Cataclysmus</orth>
-          proprement <foreign xml:lang="fra">affusion</foreign>
-          parfois <foreign xml:lang="fra">douche</foreign>
+          <usg>proprement</usg> <foreign xml:lang="fra">affusion</foreign>
+          <usg>parfois</usg> <foreign xml:lang="fra">douche</foreign>
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Catagma</orth>
@@ -3451,8 +3460,9 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Clavicula</orth>
-          <foreign>clavicule (la)</foreign>
-          <foreign>Vrille</foreign><gloss> des plantes sarmenteuses</gloss>
+          <foreign xml:lang="fra">clavicule</foreign>
+          <foreign xml:lang="fra">Vrille</foreign>
+          <gloss>des plantes sarmenteuses</gloss>
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Clavus</orth>
@@ -4417,7 +4427,8 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Decoctum</orth>
-          <foreign>décoction (une)</foreign><gloss>(le produit de la décoction)</gloss>
+          <foreign xml:lang="fra">décoction</foreign>
+          <gloss>(une) (le produit de la décoction)</gloss>
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Decorticatio</orth>
@@ -5563,7 +5574,8 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Exungulare</orth>
-          <foreign>perdre ses soles</foreign><gloss>(en parlant d’un cheval)</gloss>
+          <foreign xml:lang="fra">perdre ses soles</foreign>
+          <gloss>(en parlant d’un cheval)</gloss>
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Facies</orth>
@@ -10800,8 +10812,10 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Rubigo</orth>
-          <foreign>rouille</foreign><gloss> des métaux</gloss>
-          <foreign>nielle, maladie des blés</foreign>
+          <foreign xml:lang="fra">rouille</foreign>
+          <gloss>des métaux</gloss>
+          <foreign xml:lang="fra">nielle</foreign>
+          <gloss>maladie des blés</gloss>
         </entryFree>
         <entryFree>
           <orth xml:lang="lat">Rubor</orth>
@@ -11153,7 +11167,9 @@
         <entryFree>
           <orth xml:lang="lat">Scillites vinum</orth>
           <foreign xml:lang="fra">vin de scille</foreign>
-          <orth xml:lang="lat">scillites acetum</orth>
+        </entryFree>
+        <entryFree>
+          <orth xml:lang="lat">Scillites acetum</orth>
           <foreign xml:lang="fra">vinaigre de scille</foreign>
         </entryFree>
         <entryFree>

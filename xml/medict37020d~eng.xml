@@ -8,6 +8,14 @@
         <title>Glossaire anglais du dictionnaire de médecine, chirurgie, pharmacie, de l’art vétérinaire et des sciences qui s’y rapportent, index</title>
         <author>Émile Littré</author>
         <author>Charles Robin</author>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>OCR, structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
+        <respStmt>
+          <name>Fabrice Robert</name>
+          <resp>Relecture</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
@@ -8668,6 +8676,7 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="eng">Teeth</orth>
+          <orth xml:lang="eng">Tooth</orth>
           <foreign xml:lang="fra">dents</foreign>
         </entryFree>
         <entryFree>
@@ -8905,10 +8914,6 @@
         <entryFree>
           <orth xml:lang="eng">Tonsil</orth>
           <foreign xml:lang="fra">amygdale</foreign>
-        </entryFree>
-        <entryFree>
-          <orth xml:lang="eng">Tooth</orth>
-          Voy. Teeth
         </entryFree>
         <entryFree>
           <orth xml:lang="eng">Toothache</orth>

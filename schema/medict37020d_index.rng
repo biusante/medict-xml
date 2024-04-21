@@ -18,5 +18,8 @@
         </oneOrMore>
       </element>
     </define>
+    <define name="orth.atts">
+      <ref name="lang"/>
+    </define>
   </include>
 </grammar>

@@ -8,6 +8,14 @@
         <title>Glossaire Allemand du Dictionnaire de médecine, chirurgie, pharmacie, de l’art vétérinaire et des sciences qui s’y rapportent, index</title>
         <author>Émile Littré</author>
         <author>Charles Robin</author>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>OCR, structuration XM/TEI, établissement vedettes et renvois</resp>
+        </respStmt>
+        <respStmt>
+          <name>Fabrice Robert</name>
+          <resp>Relecture</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>DGBDM, BIU Santé - pôle Médecine, Département d’Histoire de la santé</publisher>
@@ -868,10 +876,10 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Auflösend</orth>
-          <foreign>résolutif</foreign>
-          <foreign>fondant</foreign>
-          <foreign>apéritif</foreign>
-          <foreign>dissolvant</foreign>
+          <foreign xml:lang="fra">résolutif</foreign>
+          <foreign xml:lang="fra">fondant</foreign>
+          <foreign xml:lang="fra">apéritif</foreign>
+          <foreign xml:lang="fra">dissolvant</foreign>
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Auflösung</orth>
@@ -1050,10 +1058,11 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Augennagel</orth>
-          <foreign>onglet</foreign>
-          <foreign>onys</foreign>
-          <foreign>unguis</foreign>
-          <foreign>onglée</foreign><gloss> des chevaux</gloss>
+          <foreign xml:lang="fra">onglet</foreign>
+          <foreign xml:lang="fra">onys</foreign>
+          <foreign xml:lang="fra">unguis</foreign>
+          <foreign xml:lang="fra">onglée</foreign>
+          <gloss>des chevaux</gloss>
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Augenrinnen</orth>
@@ -1141,9 +1150,9 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Ausartung</orth>
-          <foreign>perversion</foreign>
-          <foreign>dégénérescence</foreign>
-          <foreign>abâtardissement</foreign>
+          <foreign xml:lang="fra">perversion</foreign>
+          <foreign xml:lang="fra">dégénérescence</foreign>
+          <foreign xml:lang="fra">abâtardissement</foreign>
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Ausdehnbarkeit</orth>
@@ -1161,9 +1170,9 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Ausdünstung</orth>
-          <foreign>exhalation</foreign>
-          <foreign>transpiration</foreign>
-          <foreign>perspiration</foreign>
+          <foreign xml:lang="fra">exhalation</foreign>
+          <foreign xml:lang="fra">transpiration</foreign>
+          <foreign xml:lang="fra">perspiration</foreign>
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Ausfallen</orth>
@@ -1367,7 +1376,8 @@
         <entryFree>
           <orth xml:lang="deu">Backe</orth>
           <foreign xml:lang="fra">joue</foreign>
-          en parlant du cheval <foreign xml:lang="fra">fesses</foreign>
+          <usg>en parlant du cheval</usg>
+          <foreign xml:lang="fra">fesses</foreign>
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Backenbein</orth>
@@ -2417,7 +2427,8 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Blättermagen</orth>
-          <foreign>feuillet</foreign><gloss>troisième estomac des ruminants</gloss>
+          <foreign xml:lang="fra">feuillet</foreign>
+          <gloss>troisième estomac des ruminants</gloss>
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Blättern</orth>
@@ -3293,9 +3304,9 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Brustfieber</orth>
-          <foreign>fièvre asthmatique</foreign>
-          <foreign>péricardite</foreign>
-          <foreign>cardite</foreign>
+          <foreign xml:lang="fra">fièvre asthmatique</foreign>
+          <foreign xml:lang="fra">péricardite</foreign>
+          <foreign xml:lang="fra">cardite</foreign>
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Brustgang</orth>
@@ -3400,7 +3411,8 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Busch</orth>
-          <foreign>feuillet</foreign><gloss> troisième estomac des ruminants</gloss>
+          <foreign xml:lang="fra">feuillet</foreign>
+          <gloss> troisième estomac des ruminants</gloss>
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Büschelchen</orth>
@@ -3625,7 +3637,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Darmeinschiebung</orth>
-          <foreign>intussusception</foreign>
+          <foreign xml:lang="fra">intussusception</foreign>
           <gloss>invagination intestinale</gloss>
         </entryFree>
         <entryFree type="subtr">
@@ -5907,7 +5919,8 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Fettmagen</orth>
-          <foreign>caillette</foreign><gloss> quatrième estomac des ruminants</gloss>
+          <foreign xml:lang="fra">caillette</foreign>
+          <gloss>quatrième estomac des ruminants</gloss>
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Fettsäure</orth>

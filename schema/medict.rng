@@ -341,20 +341,18 @@
             <gloss>en parlant d’un cheval qui a la tête noire, le reste étant gris ou d’autre couleur mêlée</gloss>
           </entryFree>
         </a:example>
-        <ref name="entry.xml_id"/>
         <optional>
-          <attribute name="type">
-            <value>tr</value>
-          </attribute>
+          <attribute name="type"/>
         </optional>
         <oneOrMore>
           <ref name="orth"/>
         </oneOrMore>
         <zeroOrMore>
-          <ref name="foreign"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="gloss"/>
+          <choice>
+            <ref name="foreign"/>
+            <ref name="gloss"/>
+            <ref name="usg"/>
+          </choice>
         </zeroOrMore>
       </element>
     </define>
@@ -463,15 +461,22 @@
     <define name="gloss">
       <element name="gloss">
         <a:documentation>Glose qui n’est pas un un terme lexical exploitable</a:documentation>
+        <ref name="gloss.atts"/>
         <zeroOrMore>
           <choice>
             <text/>
             <ref name="foreign"/>
+            <ref name="choice.corr"/>
             <ref name="i"/>
             <ref name="lb"/>
           </choice>
         </zeroOrMore>
       </element>
+    </define>
+    <define name="gloss.atts">
+      <optional>
+        <ref name="lang"/>
+      </optional>
     </define>
     <define name="gram">
       <element name="gram">
@@ -634,6 +639,12 @@
         </zeroOrMore>
       </element>
     </define>
+    <define name="usg">
+      <element name="usg">
+        <a:documentation>Marque d'usage. N'est pas exploité par le métadictionnaire. Peut servi à envelopper du texte imprévu dans une entrée normalement structurée (sans texte libre).</a:documentation>
+        <text/>
+      </element>
+    </define>
     <define name="xr">
       <element name="xr">
         <a:documentation>Renvoi à une locution sous-entrée</a:documentation>
@@ -763,6 +774,7 @@
             </oneOrMore>
             <oneOrMore>
               <element name="respStmt">
+                <a:documentation>Éditeurs du fichier</a:documentation>
                 <element name="name">
                   <text/>
                 </element>
