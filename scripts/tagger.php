@@ -4,12 +4,12 @@ mb_internal_encoding("UTF-8");
  * Différents outils de restructuration des fichiers après conversion docx > TEI
  */
 
-$xml_file = dirname(__DIR__) . '/xml/medict37019.xml';
- /*
-$xml = Tagger::orth_norm($xml_file);
-file_put_contents($xml_file, $xml);
-*/
-Tagger::ref($xml_file);
+
+foreach(glob($argv[1]) as $file) {
+    echo "$file\n";
+    $xml = Tagger::orth_norm($file);
+    file_put_contents($file, $xml);
+}
 exit();
 
 
