@@ -104,13 +104,13 @@ class Tagger
     {
         $xml = file_get_contents($file);
         $xml = preg_replace_callback(
-            '/<orth>(.)([^<]+)/u',
+            '/(<orth[^>]*>)(.)([^<]+)/u',
             function($matches) {
                 $orth = 
-                  mb_convert_case($matches[1], MB_CASE_UPPER)
-                . mb_convert_case($matches[2], MB_CASE_LOWER);
+                  mb_convert_case($matches[2], MB_CASE_UPPER)
+                . $matches[3];
                 $orth = Normalizer::normalize($orth);
-                return "<orth>" . $orth;
+                return $matches[1] . $orth;
             },
             $xml
         );

@@ -776,7 +776,7 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Asbest</orth>
-          <orth xml:lang="deu">asbeste</orth>
+          <orth xml:lang="deu">Asbeste</orth>
           <foreign xml:lang="fra">amiante</foreign>
         </entryFree>
         <entryFree>
@@ -3017,7 +3017,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Brandicht</orth>
-          <orth xml:lang="deu">brandig</orth>
+          <orth xml:lang="deu">Brandig</orth>
           <foreign xml:lang="fra">gangréneux</foreign>
         </entryFree>
         <entryFree type="subtr">
@@ -4025,7 +4025,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Drüsicht</orth>
-          <orth xml:lang="deu">drüsig</orth>
+          <orth xml:lang="deu">Drüsig</orth>
           <foreign xml:lang="fra">glanduleux</foreign>
         </entryFree>
         <entryFree>
@@ -4825,7 +4825,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Eitericht</orth>
-          <orth xml:lang="deu">eiterig</orth>
+          <orth xml:lang="deu">Eiterig</orth>
           <foreign xml:lang="fra">purulent</foreign>
         </entryFree>
         <entryFree type="subtr">
@@ -5914,7 +5914,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Fettig</orth>
-          <orth xml:lang="deu">fettich</orth>
+          <orth xml:lang="deu">Fettich</orth>
           <foreign xml:lang="fra">adipeux</foreign>
         </entryFree>
         <entryFree type="subtr">
@@ -6913,7 +6913,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Gallicht</orth>
-          <orth xml:lang="deu">gallig</orth>
+          <orth xml:lang="deu">Gallig</orth>
           <foreign xml:lang="fra">bilieux</foreign>
         </entryFree>
         <entryFree type="subtr">
@@ -8157,7 +8157,7 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Gezähnelt</orth>
-          <orth xml:lang="deu">gezahnt</orth>
+          <orth xml:lang="deu">Gezahnt</orth>
           <foreign xml:lang="fra">dentelé</foreign>
         </entryFree>
         <entryFree>
@@ -8515,7 +8515,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Grindicht</orth>
-          <orth xml:lang="deu">grindig</orth>
+          <orth xml:lang="deu">Grindig</orth>
           <foreign xml:lang="fra">teigneux</foreign>
           <foreign xml:lang="fra">impétigineux</foreign>
         </entryFree>
@@ -9333,7 +9333,7 @@
         </entryFree>
         <entryFree>
           <orth xml:lang="deu">Häuticht</orth>
-          <orth xml:lang="deu">häutig</orth>
+          <orth xml:lang="deu">Häutig</orth>
           <foreign xml:lang="fra">membraneux</foreign>
           <foreign xml:lang="fra">couenneux</foreign>
         </entryFree>
@@ -17453,7 +17453,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Schleimicht</orth>
-          <orth xml:lang="deu">schleimig</orth>
+          <orth xml:lang="deu">Schleimig</orth>
           <foreign xml:lang="fra">muqueux</foreign>
           <foreign xml:lang="fra">mucilagineux</foreign>
         </entryFree>
@@ -21654,7 +21654,7 @@
         </entryFree>
         <entryFree type="subtr">
           <orth xml:lang="deu">Warzicht</orth>
-          <orth xml:lang="deu">warzig</orth>
+          <orth xml:lang="deu">Warzig</orth>
           <foreign xml:lang="fra">mamelonné</foreign>
           <foreign xml:lang="fra">verruqueux</foreign>
         </entryFree>
