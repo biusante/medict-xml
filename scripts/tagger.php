@@ -108,7 +108,7 @@ class Tagger
             function($matches) {
                 $orth = 
                   mb_convert_case($matches[2], MB_CASE_UPPER)
-                . $matches[3];
+                . mb_convert_case($matches[3], MB_CASE_LOWER);
                 $orth = Normalizer::normalize($orth);
                 return $matches[1] . $orth;
             },
