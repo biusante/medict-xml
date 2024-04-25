@@ -2462,7 +2462,7 @@
       </entryFree>
       <entryFree>
         <orth xml:lang="grc">ἑλκυστὴρ</orth>
-        <foreign xml:lang="fra">Voyez ἐμβρυουλκός</foreign>
+        <orth xml:lang="grc">ἐμβρυουλκός</orth>
       </entryFree>
       <entryFree>
         <orth xml:lang="grc">ἑλκώδης</orth>
@@ -2900,7 +2900,7 @@
       </entryFree>
       <entryFree>
         <orth xml:lang="grc">ἐρυγμός</orth>
-        <foreign xml:lang="fra">Voyez ἐρευγμὸς</foreign>
+        <foreign xml:lang="grc">ἐρευγμὸς</foreign>
       </entryFree>
       <entryFree>
         <orth xml:lang="grc">ἐρύθημα</orth>
@@ -2924,7 +2924,7 @@
       </entryFree>
       <entryFree>
         <orth xml:lang="grc">ἔσφλασις</orth>
-        <foreign xml:lang="fra">Voyez ἐνθλάσις</foreign>
+        <foreign xml:lang="grc">ἐνθλάσις</foreign>
       </entryFree>
       <entryFree>
         <orth xml:lang="grc">ἐσχάρα</orth>
