@@ -249,7 +249,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">ÆGER</orth>. <orth xml:lang="lat">ÆGROTUS</orth>,
-[<hi>ara</hi>] <foreign xml:lang="ara">Alcuttab</foreign>. <foreign xml:lang="ara">Alil</foreign>. <foreign xml:lang="ara">Alem</foreign>. <foreign xml:lang="ara">Alaleme</foreign>, <hi>i. e. <gloss xml:lang="lat">membra infirma</gloss>.</hi>
+[<hi>ara</hi>] <foreign xml:lang="ara">Alcuttab</foreign>. <foreign xml:lang="ara">Alil</foreign>. <foreign xml:lang="ara">Alem</foreign>. <foreign xml:lang="ara">Alaleme</foreign>, i. e. <gloss xml:lang="lat">membra infirma</gloss>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Cheri</foreign>. <foreign xml:lang="heb">Anusch</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">νοσερὸς</foreign>, <foreign xml:lang="grc">νοσώδης</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Malade</foreign>.
@@ -324,7 +324,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">ÆTAS</orth>,
-[<hi>ara</hi>] <foreign xml:lang="ara">San</foreign>. <foreign xml:lang="ara"><gloss>plural</gloss>Asnan</foreign>.
+[<hi>ara</hi>] <foreign xml:lang="ara">San</foreign>. <hi>plural</hi> <foreign xml:lang="ara">Asnan</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Dor</foreign>. <foreign xml:lang="heb">Cheled</foreign>
 [<hi>grc</hi>] <foreign xml:lang="grc">ἡλικία</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Age</foreign>.
@@ -334,7 +334,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 <entryFree>
 <orth xml:lang="lat">AFFECTIO</orth>, <orth xml:lang="lat">AFFECTUS</orth>,
 [<hi>ara</hi>] <foreign xml:lang="ara">Adib</foreign>.
-  [<hi>heb</hi>] <foreign xml:lang="heb">Haschachah</foreign>. <hi>et</hi> <foreign xml:lang="heb"><gloss xml:lang="lat">in specie Animi</gloss>Zeavah</foreign>
+  [<hi>heb</hi>] <foreign xml:lang="heb">Haschachah</foreign>. <hi>et in specie Animi</hi> <foreign xml:lang="heb">Zeavah</foreign>
 [<hi>grc</hi>] <foreign xml:lang="grc">πάθος</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Passion</foreign>. <foreign xml:lang="fra">Disposition</foreign>. <foreign xml:lang="fra">Accident</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Affetto</foreign>. <foreign xml:lang="ita">Affezzione</foreign>.
@@ -773,7 +773,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">ANTIMONIUM</orth>.
-[<hi>ara</hi>] <foreign xml:lang="ara">Alenut</foreign>. <foreign xml:lang="ara">Efieret</foreign>. <foreign xml:lang="ara">Atemet</foreign>. <foreign xml:lang="ara">Cohol</foreign>. <foreign xml:lang="ara">Aitmad</foreign>. <foreign xml:lang="ara"><hi>Serap</hi></foreign>.
+[<hi>ara</hi>] <foreign xml:lang="ara">Alenut</foreign>. <foreign xml:lang="ara">Efieret</foreign>. <foreign xml:lang="ara">Atemet</foreign>. <foreign xml:lang="ara">Cohol</foreign>. <foreign xml:lang="ara">Aitmad</foreign>. <foreign xml:lang="ara">Serap</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Puk</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">στίβι</foreign>, <foreign xml:lang="grc">στίμμι</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Antimoine</foreign>.
@@ -798,7 +798,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 </entryFree>
 
 <entryFree>
-<orth xml:lang="lat">ANUS <gloss><choice><sic></sic>foemina<corr>femina</corr></choice></gloss></orth>.
+<orth xml:lang="lat">Anus <choice><sic>foemina</sic><corr>femina</corr></choice></orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Kehel</foreign>. <foreign xml:lang="ara">Scheabh</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Dsekenah</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">γραῦς</foreign>.
@@ -1743,7 +1743,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">CALIX</orth>,
-  [<hi>ara</hi>] <foreign xml:lang="ara">Cas</foreign> , <foreign xml:lang="ara"><hi>plur.</hi> cavas</foreign>. <foreign xml:lang="ara">Acvas</foreign>.
+  [<hi>ara</hi>] <foreign xml:lang="ara">Cas</foreign>, <hi>plur.</hi> <foreign xml:lang="ara">cavas</foreign>. <foreign xml:lang="ara">Acvas</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Cos</foreign>. <foreign xml:lang="heb">Aschisch</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">κύλιξ</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Calice</foreign>. <foreign xml:lang="fra">Coupe</foreign>. <foreign xml:lang="fra">Tasse</foreign>.
@@ -1788,7 +1788,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">CALX</orth>,
-[<hi>ara</hi>] <foreign xml:lang="ara">Shearagi</foreign>. <foreign xml:lang="ara">Sehergi</foreign>. <foreign xml:lang="ara">Mura</foreign>. <foreign xml:lang="ara">Almora <gloss>(<hi>calx extincta</hi>)</gloss></foreign> Serap. v. vult</hi>. <foreign xml:lang="ara">Al mura</foreign> <hi>significare calcem vivam.
+[<hi>ara</hi>] <foreign xml:lang="ara">Shearagi</foreign>. <foreign xml:lang="ara">Sehergi</foreign>. <foreign xml:lang="ara">Mura</foreign>. <foreign xml:lang="ara">Almora</foreign> <gloss>(<hi>calx extincta</hi>)</gloss> Serap. v. vult. <foreign xml:lang="ara">Al mura</foreign> <hi>significare calcem vivam</hi>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Gir</foreign>. <foreign xml:lang="heb">Schid</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">τίτανος</foreign>, <foreign xml:lang="grc">κονία</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Chaux</foreign>.
@@ -1997,7 +1997,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">CARUS</orth>,
-[<hi>ara</hi>] <foreign xml:lang="ara">Subeth</foreign>. <foreign xml:lang="ara">Masbat (<hi>æger habens carum.</hi>)</foreign>.
+[<hi>ara</hi>] <foreign xml:lang="ara">Subeth</foreign>. <foreign xml:lang="ara">Masbat</foreign> (<hi>æger habens carum.</hi>).
 [<hi>heb</hi>] <foreign xml:lang="heb">Tarddemah</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">κάρος</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Léthargie</foreign>.
@@ -2007,7 +2007,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 <entryFree>
 <orth xml:lang="lat">CASEUS</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Gieben</foreign>. <foreign xml:lang="ara">Giaben</foreign>. <foreign xml:lang="ara">Gabna</foreign>. <foreign xml:lang="ara">Acad.</foreign>
-[<hi>heb</hi>] <foreign xml:lang="heb">Gebinah</foreign>. <foreign xml:lang="heb">Schephoth</foreign>. <foreign xml:lang="heb">Cherizim (<hi>pl.</hi>)</foreign>.
+[<hi>heb</hi>] <foreign xml:lang="heb">Gebinah</foreign>. <foreign xml:lang="heb">Schephoth</foreign>. <foreign xml:lang="heb">Cherizim</foreign> (<hi>pl.</hi>).
 [<hi>grc</hi>] <foreign xml:lang="grc">τυρὸς</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Fromage</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Formaggio</foreign>.
@@ -2034,7 +2034,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 <entryFree>
 <orth xml:lang="lat">CASTRATIO</orth>. <orth xml:lang="lat">CASTRATUS</orth>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Hikian</foreign>.<foreign xml:lang="ara">Chaifi</foreign>. <foreign xml:lang="ara">Mochz</foreign>. <foreign xml:lang="ara">Mucappan</foreign>.
-[<hi>heb</hi>] <foreign xml:lang="heb">Saris</foreign>. <foreign xml:lang="heb">Mesoras</foreign>. &amp; <hi>in plur.</hi> <foreign xml:lang="heb">Ganchin (<hi>Castrati.</hi>)</foreign>
+[<hi>heb</hi>] <foreign xml:lang="heb">Saris</foreign>. <foreign xml:lang="heb">Mesoras</foreign>. &amp; <hi>in plur.</hi> <foreign xml:lang="heb">Ganchin (Castrati)</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc"><choice><sic>ἐυνουχισμὸς</sic><corr>εὐνουχισμὸς</corr></choice></foreign>, <foreign xml:lang="grc"><choice><sic>ἐυνοῦχος</sic><corr>εὐνοῦχος</corr></choice></foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Châtrement</foreign>. <foreign xml:lang="fra">Châtré</foreign>. <foreign xml:lang="fra">Eunuque</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Castramento</foreign>. <foreign xml:lang="ita">Castrato</foreign>.
@@ -2105,7 +2105,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">CAUSA</orth>;
-  [<hi>ara</hi>] <foreign xml:lang="ara">Sebeb</foreign>. <foreign xml:lang="ara"><gloss><hi>Pl.</hi></gloss> Asbib</foreign>.
+  [<hi>ara</hi>] <foreign xml:lang="ara">Sebeb</foreign>. <hi>Pl.</hi> <foreign xml:lang="ara">Asbib</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Sibbah</foreign>. <foreign xml:lang="heb">Ella</foreign>; <foreign xml:lang="heb">Illa</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">αἰτία</foreign>, <foreign xml:lang="grc">αἴτιον</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Cause</foreign>. <foreign xml:lang="fra">Raison</foreign>.
@@ -2132,7 +2132,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">CAUTERIUM</orth>.
-[<hi>ara</hi>] <foreign xml:lang="ara">Ki</foreign>. <foreign xml:lang="ara">Mucauvi (<hi>Cauterizatus</hi>.)</foreign>. 
+[<hi>ara</hi>] <foreign xml:lang="ara">Ki</foreign>. <foreign xml:lang="ara">Mucauvi</foreign> (<orth xml:lang="lat">Cauterizatus</orth>). 
 [<hi>heb</hi>] <foreign xml:lang="heb">Charac</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">καυτήριον</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Cautére</foreign>.
@@ -2198,7 +2198,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 [<hi>heb</hi>] <hi>deficit</hi>.
 [<hi>grc</hi>] <foreign xml:lang="grc">ζῦθος</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Cervoise</foreign>. <foreign xml:lang="fra">Biére</foreign>.
-[<hi>ita</hi>] <foreign xml:lang="ita">Cervosa, <gloss>bevanda</gloss></foreign>.
+[<hi>ita</hi>] <foreign xml:lang="ita">Cervosa</foreign> <hi>bevanda</hi>.
 </entryFree>
 
 <entryFree>
@@ -2368,7 +2368,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 <entryFree>
 <orth xml:lang="lat">CINNAMOMUM</orth>,
 [<hi>ara</hi>] <foreign xml:lang="ara">Dursini</foreign>. <foreign xml:lang="ara">Paralsini</foreign>.
-  [<hi>heb</hi>] <foreign xml:lang="heb">Darzin</foreign>. &amp; <foreign xml:lang="heb"><gloss xml:lang="lat">(<hi>in stricta signif.</hi>)</gloss> Kelef</foreign>.
+  [<hi>heb</hi>] <foreign xml:lang="heb">Darzin</foreign>. &amp; <gloss xml:lang="lat">(<hi>in stricta signif.</hi>)</gloss> <foreign xml:lang="heb">Kelef</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">κιννάμωμον</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Cinnamome</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Cinamomo</foreign>. <foreign xml:lang="ita">Canella</foreign>.
@@ -2841,7 +2841,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 [<hi>heb</hi>] <hi>deficit</hi>.
 [<hi>grc</hi>] <foreign xml:lang="grc">κόρυζα</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Rhume</foreign>. <foreign xml:lang="fra">Catarrhe</foreign>. <gloss xml:lang="fra">Défluxion du cerveau</gloss>.
-[<hi>ita</hi>] <foreign xml:lang="ita">Catarro</foreign>. <gloss xml:mang="ita">Scesa d’humore cattivo</gloss>.
+[<hi>ita</hi>] <foreign xml:lang="ita">Catarro</foreign>. <gloss xml:lang="ita">Scesa d’humore cattivo</gloss>.
 </entryFree>
 
 <entryFree>
@@ -3147,7 +3147,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 
 <entryFree>
 <orth xml:lang="lat">DENS</orth>. <orth xml:lang="lat">DENTES</orth>,
-[<hi>ara</hi>] <foreign xml:lang="ara">Dars</foreign>. <hi>plur.</hi> <foreign xml:lang="ara">Adras</foreign>, <hi>&amp;</hi> <foreign xml:lang="ara">Adaris</foreign>. <foreign xml:lang="ara">Dars cudumi <hi>in specie <orth xml:lang="lat">Dens incisorius</orth> sive <orth xml:lang="lat">Dens anterior</orth></hi></foreign>.
+[<hi>ara</hi>] <foreign xml:lang="ara">Dars</foreign>. <hi>plur.</hi> <foreign xml:lang="ara">Adras</foreign>, <hi>&amp;</hi> <foreign xml:lang="ara">Adaris</foreign>. <foreign xml:lang="ara">Dars cudumi</foreign> <hi>in specie</hi> <orth xml:lang="lat">Dens incisorius</orth> <hi>sive</hi> <orth xml:lang="lat">Dens anterior</orth>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Schen</foreign>. <hi>plur.</hi> <foreign xml:lang="heb">Schinaim</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">ὀδὼν</foreign>, <foreign xml:lang="grc">ὀδόντες</foreign>.
 [<hi>fra</hi>] <foreign xml:lang="fra">Dent</foreign>. <hi>plur.</hi> <foreign xml:lang="fra">Dents</foreign>.
@@ -3422,7 +3422,7 @@ NB. <orth xml:lang="lat">Acus</orth><gloss xml:lang="lat"> qua oculus perforatur
 [<hi>ara</hi>] <foreign xml:lang="ara">Halfah</foreign>. <foreign xml:lang="ara">Zachia</foreign>. <foreign xml:lang="ara">Adereb</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Chadra</foreign>. <foreign xml:lang="heb">Chali</foreign>. <foreign xml:lang="heb">meaim</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">δυσεντερία</foreign>.
-[<hi>fra</hi>] <foreign xml:lang="fra">Dysenterie</foreign>. <foreign xml:lang="fra"><gloss><hi>Adj.</hi></gloss> Dysenterique</foreign>.
+[<hi>fra</hi>] <foreign xml:lang="fra">Dysenterie</foreign>. Adj. <foreign xml:lang="fra">Dysenterique</foreign>.
 [<hi>ita</hi>] <foreign xml:lang="ita">Disenteria</foreign>.
 </entryFree>
 
@@ -5482,7 +5482,7 @@ Vide <ref xml:lang="lat">Experientia</ref>.
 [<hi>ara</hi>] <foreign xml:lang="ara">Muasin</foreign>. <foreign xml:lang="ara">Misin</foreign>. <foreign xml:lang="ara">Mizin</foreign>. <foreign xml:lang="ara">Ratal</foreign>.
 [<hi>heb</hi>] <foreign xml:lang="heb">Mané</foreign> , <foreign xml:lang="heb">Tecal</foreign>.
 [<hi>grc</hi>] <foreign xml:lang="grc">λίτρα</foreign>.
-[<hi>fra</hi>] <foreign xml:lang="fra">Livre <gloss>poids</gloss></foreign>.
+[<hi>fra</hi>] <foreign xml:lang="fra">Livre</foreign> (<hi>poids</hi>).
 [<hi>ita</hi>] <foreign xml:lang="ita">Libra</foreign>.
 </entryFree>
 
