@@ -37,6 +37,7 @@
             <ref name="cb"/>
             <ref name="damage"/>
             <ref name="foreign"/>
+            <ref name="gloss"/>
             <ref name="i"/>
             <ref name="lb"/>
             <ref name="orth"/>
@@ -561,6 +562,9 @@
       <element name="ref">
         <a:documentation>Renvoi, doit renvoyer à une entrée exacte, voire à une sous-entrée</a:documentation>
         <ref name="ref.atts"/>
+        <optional>
+          <ref name="lang"/>
+        </optional>
         <zeroOrMore>
           <choice>
             <text/>
@@ -901,10 +905,12 @@
           <value>fra</value>
           <value>grc</value>
           <value>heb</value>
+          <value>ind</value>
           <value>ita</value>
           <value>lat</value>
           <value>per</value>
           <value>spa</value>
+          <value>syr</value>
         </choice>
       </attribute>
     </define>
