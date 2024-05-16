@@ -2065,7 +2065,7 @@
 
 <entry>
 <orth>Alcyonien</orth>, IΕΝΝΕ, <gram>adj.</gram> <foreign xml:lang="lat">alcyoneus</foreign>
-<lb/><term>jours alcyoniens</term>, <foreign xml:lang="lat">dies alcyonides</hi>,
+<lb/><term>jours alcyoniens</term>, <foreign xml:lang="lat">dies alcyonides</foreign>,
 <lb/>sept jours avant et sept jours apres
 <lb/>le sols’.ice d’hiver, pendant lesqucls,
 <lb/>dit-on, l’alcyon fait son nid,
@@ -20850,12 +20850,12 @@
 
 <entry>
 <orth>Épilepsie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">epilepsis</foreign>, <foreign xml:lang="lat">epilepsia</foreign>,
-<lb/><foreign xml:lang="lat">prehensio</foreign>, <foreign xml:lang="lat">morbus caducus</foreign>,
-<lb/><foreign xml:lang="lat">m. sacer</foreign>, <foreign xml:lang="lat">m. comitialis</foreign>, <foreign xml:lang="lat">m. herculeus</foreign>,
-<lb/><foreign xml:lang="lat">m. magnus</foreign>, <foreign xml:lang="lat">major</foreign>, <foreign xml:lang="lat">m</foreign>. <hi>interlunis</hi>,
-<lb/>en grec <foreign xml:lang="grc">ἐπίληψις</foreign>, <foreign xml:lang="grc">ἐπίληψια</foreign>, τὰ
-<lb/><foreign xml:lang="grc">ἐπιλήπτικα</foreign>, <foreign xml:lang="grc">ἱηρὴ νοῦσος</foreign>, <foreign xml:lang="grc">σεληναῖα νοῦσος</foreign>,
-<lb/><foreign xml:lang="grc">παιδικὴ νοῦσος</foreign> ; genre ile spasme 011
+<lb/><foreign xml:lang="lat">prehensio</foreign>, <gloss xml:lang="lat">morbus caducus</gloss>,
+<lb/><gloss xml:lang="lat">morbus sacer</gloss>, <gloss xml:lang="lat">morbus comitialis</gloss>, <gloss xml:lang="lat">morbus herculeus</gloss>,
+<lb/><gloss xml:lang="lat">morbus magnus</gloss>, <gloss xml:lang="lat">morbus major</gloss>, <gloss xml:lang="lat">morbus interlunis</gloss>,
+<lb/>en grec <foreign xml:lang="grc">ἐπίληψις</foreign>, <foreign xml:lang="grc"><choice><sic>ἐπίληψια</sic><corr>ἐπιληψία</corr></choice></foreign>, <gloss xml:lang="grc">τὰ <choice><sic>ἐπιλήπτικα</sic><corr>ἐπιληπτικὰ</corr></choice></gloss>,
+<lb/><gloss xml:lang="grc"><choice><sic>ἱηρὴ</sic><corr>ἱερὴ</corr></choice> <choice><sic>νουσος</sic><corr>νοῦσος</corr></choice></gloss>, <foreign xml:lang="grc"><choice><sic>σεληναῖα</sic><corr>σεληναία</corr></choice> <choice><sic>νουσος</sic><corr>νοῦσος</corr></choice></foreign>,
+<lb/><foreign xml:lang="grc">παιδικὴ <choice><sic>νουσος</sic><corr>νοῦσος</corr></choice></foreign> ; genre ile spasme 011
 <lb/>maladie nervcuse qui consiste dans
 <lb/>l’abolition subitedes fonctions des
 <lb/>sens et de Pentendement, accompagnée
@@ -20944,7 +20944,7 @@
 </entry>
 
 <entry>
-<orth>Épineux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">spinosus ;</foreign>
+<orth>Épineux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">spinosus</foreign>;
 <lb/>se dit en histoire naturèlle et en
 <lb/>anatomie, dc toute partie qui ressenible
 <lb/>a une épine.
@@ -20970,7 +20970,7 @@
 </entry>
 
 <entry>
-<orth>Épiphénomènes</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">epiphœnomena</foreign>,
+<orth>Épiphénomènes</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat"><choice><sic>epiphœnomena</sic><corr>epiphænomena</corr></choice></foreign>,
 <lb/>du grec lnî,sur, et
 <lb/>de φαινομενον, phénomène ; sÿmptôrnes
 <lb/>qui paroissent quand la maladie
@@ -21081,7 +21081,7 @@
 </entry>
 
 <entry>
-<orth>Épischèse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">episChesis</foreign>, du
+<orth>Épischèse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">epischesis</foreign>, du
 <lb/>grec <foreign xml:lang="grc">ἐπίσχεσις</foreign>, répression, retard,
 <lb/>qui dénve d’ἐπίσχεω, j’arrête, je
 <lb/>retiens ; suppression des évacuations
@@ -21164,13 +21164,13 @@
 
 <entry>
 <orth>Épreintes</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">tenesmus</foreign>,
-<lb/><foreign xml:lang="lat">desendi conatus</foreign> ; envies fréqueutes
+<lb/><gloss xml:lang="lat">desidendi conatus</gloss> ; envies fréqueutes
 <lb/>et inntiles d’aller à la selle, accompagnees
 <lb/>de douleur. V. <ref>Ténesme</ref>.
 </entry>
 
 <entry>
-<orth>Éptacorde</orth>., <gram>s. m.</gram> « Ι’έπτὰ, sept,
+<orth>Eptacorde</orth>., <gram>s. m.</gram> « Ι’έπτὰ, sept,
 <lb/>et dc χιρδὴ, corde; lyre a sept cordes;
 <lb/>systcme de musique formé de
 <lb/>sept tons.
@@ -21207,7 +21207,7 @@
 </entry>
 
 <entry>
-<orth>Équateur</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œquator</foreign>, du
+<orth>Équateur</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">æquator</foreign>, du
 <lb/>verbe <hi>œquare</hi>, égaler, parIager
 <lb/>également ; grand cercle de la
 <lb/>sphè.’ e, qui la coupe en deux portions
@@ -21217,7 +21217,7 @@
 </entry>
 
 <entry>
-<orth>Équation</orth> <gram>s. f.</gram> <foreign xml:lang="lat">œquatio</foreign>, du
+<orth>Équation</orth> <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>œquatio</sic><corr>æquatio</corr></choice></foreign>, du
 <lb/>verbe <hi>aequare</hi>, partagel egalement;
 <lb/>se dit en astronOmie ponr exprim r
 <lb/>la difference marquee jour par jour,
@@ -21230,7 +21230,7 @@
 </entry>
 
 <entry>
-<orth>Équiangle</orth>, <gram>adj.</gram> <foreign xml:lang="lat">œquiangulus</foreign>,
+<orth>Équiangle</orth>, <gram>adj.</gram> <foreign xml:lang="lat">æquiangulus</foreign>,
 <lb/>du latin <hi>œqiius</hi>, égal, et <hi>d’angnlus</hi>,
 <lb/>angle ; se dit en çeométrie de
 <lb/>deuN figurcs qui ont tous leurs angleségaux,
@@ -21239,8 +21239,8 @@
 </entry>
 
 <entry>
-<orth>Équidistant</orth>, ANTB, <gram>adj.</gram> <foreign xml:lang="lat">œquidistans</foreign>,
-<lb/><foreign xml:lang="lat">d’œquè</foreign>, égalenlcnt, et de
+<orth>Équidistant</orth>, ANTB, <gram>adj.</gram> <foreign xml:lang="lat">æquidistans</foreign>,
+<lb/>d’œquè, égalenlcnt, et de
 <lb/><hi>distare</hi>, être éloigné ; se dit d’un
 <lb/>objet également éloigné d’i.n autre
 <lb/>dans tous. ses points : deux lignes
@@ -21248,21 +21248,21 @@
 </entry>
 
 <entry>
-<orth>Équilatéral</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">œquilateralis</foreign>,
+<orth>Équilatéral</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">æquilateralis</foreign>,
 <lb/>cVœquus, égal, et de <hi>latus</hi>,
 <lb/>côté ; triangle qui a ses trois
 <lb/>côtés égaux.
 </entry>
 
 <entry>
-<orth>Équilatère</orth>, <gram>adj.</gram> <foreign xml:lang="lat">œquilaterus</foreign>,
+<orth>Équilatère</orth>, <gram>adj.</gram> <foreign xml:lang="lat">æquilaterus</foreign>,
 <lb/>d^œquus, egal, et de <hi>latus</hi>, coté ;
 <lb/>se dit de deux fîgures dont les côtés
 <lb/>sont respectivément égaux.
 </entry>
 
 <entry>
-<orth>Équilibre</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œquilibrium</foreign>,
+<orth>Équilibre</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">æquilibrium</foreign>,
 <lb/>d’ccijuus, egal, et du vcrbe <hi>librare</hi>,
 <lb/>peser ; terme de physique qui exprinie
 <lb/>l’état de deux forces ou de
@@ -21275,7 +21275,7 @@
 </entry>
 
 <entry>
-<orth>Équimultiple</orth>, <gram>adj.</gram> <foreign xml:lang="lat">œquimultiplus</foreign>,
+<orth>Équimultiple</orth>, <gram>adj.</gram> <foreign xml:lang="lat"><choice><sic>œquimultiplus</sic><corr>æquimultiplus</corr></choice></foreign>,
 <lb/>d’oequè, également, et tle
 <lb/><hi>multiplus</hi>, imiltiple ; se dit des
 <lb/>nombres qui contiennent leurs sousmultiples
@@ -21284,7 +21284,7 @@
 </entry>
 
 <entry>
-<orth>Équinoxe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œquinoctium</foreign>, ( Vœquusy
+<orth>Équinoxe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat"><choice><sic>œquinoctium</sic><corr>æquinoctium</corr></choice></foreign>, ( Vœquusy
 <lb/>égal, et de <hi>nox</hi>, gen.
 <lb/><hi>noctis</hi>, la nuit ; chacim des deux
 <lb/>tcrnps de l’année où les jours sontr
@@ -21296,7 +21296,7 @@
 </entry>
 
 <entry>
-<orth>Équinoxial</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">œquinoctialis</foreign>,
+<orth>Équinoxial</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat"><choice><sic>œquinoctialis</sic><corr>æquinoctialis</corr></choice></foreign>,
 <lb/>qui appartient à l’équinoxe.
 </entry>
 
@@ -21342,7 +21342,7 @@
 
 <entry>
 <orth>Éréthisme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">erethismus</foreign>, du
-<lb/>grec ἐρέθισμα, irritant, du verbe ἐῤεθίζω,
+<lb/>grec <foreign xml:lang="grc">ἐρέθισμα</foreign>, irritant, du verbe ἐῤεθίζω,
 <lb/>j’irrite, j’agace ;irritation,agaccment,
 <lb/>augmentation non naturelle
 <lb/>des propriétés vitales d’une partie
@@ -21458,8 +21458,8 @@
 </entry>
 
 <entry>
-<orth>Érugineux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">œruginosus</foreign>,
-<lb/><foreign xml:lang="lat">œrugineus</foreign>, du latin <hi>œrugo</hi>,
+<orth>Érugineux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">æruginosus</foreign>,
+<lb/><foreign xml:lang="lat"><choice><sic>œrugineus</sic><corr>ærugineus</corr></choice></foreign>, du latin <hi>œrugo</hi>,
 <lb/>rouille d’un métal quelconque
 <lb/>en général, mais plus particulièrement
 <lb/>celle du cuivre qu’on nomme
@@ -21480,7 +21480,7 @@
 
 <entry>
 <orth>Érysipèle</orth>, e, <gram>s. m.</gram> <foreign xml:lang="lat">erysipelas</foreign>, du
-<lb/>grec <foreign xml:lang="grc">ἐρυσίπελας</foreign>, qui derive ιΐ’ἐρὑω, j’attire,
+<lb/>grec <foreign xml:lang="grc"><choice><sic>ἐρυσίπέλας</sic><corr>ἐρυσίπελας</corr></choice></foreign>, qui derive ιΐ’ἐρὑω, j’attire,
 <lb/>et de πέλας, proche ; maladie
 <lb/>ainsi appelée parce qu’elle. s’étend
 <lb/>quelquefois de proche en proche
@@ -21534,7 +21534,7 @@
 <entry>
 <orth>Escarre</orth>, <orth>Escharre</orth> ou <orth>Eschare</orth>,
 <lb/><gram>s. f.</gram> <foreign xml:lang="lat">eschara</foreign>, du grec
-<lb/><foreign xml:lang="grc">ἐσχάρα</foreign>, croûte ; croûte noire ou
+<lb/><foreign xml:lang="grc"><choice><sic>ἐσχαρα</sic><corr>ἐσχάρα</corr></choice></foreign>, croûte ; croûte noire ou
 <lb/>brunatre qni se forme sur la peau
 <lb/>oü sur la chair par l’application
 <lb/>de quelque caustique, et qui se
@@ -21586,8 +21586,8 @@
 </entry>
 
 <entry>
-<orth>Esquille</orth>, <gram>s.</gram> <foreign xml:lang="lat">ossis fragmentum</foreign>,
-<lb/><foreign xml:lang="lat">assula</foreign>, petite portion qui se sépare
+<orth>Esquille</orth>, <gram>s.</gram> <gloss xml:lang="lat">ossis fragmentum</gloss>,
+<lb/><gloss xml:lang="lat">ossis assula</gloss>, petite portion qui se sépare
 <lb/>des os fracturés ou cariés.
 </entry>
 
@@ -21707,7 +21707,7 @@
 <entry>
 <orth>Étamine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">stamen</foreign>, organé
 <lb/>sexuel mâle des végétaux, composé
-<lb/>ordinairement du lilet, <foreign xml:lang="lat">filamentum</foreign>,
+<lb/>ordinairement du lilet, filamentum,
 <lb/>qui s’élève dtt centre de
 <lb/>la fleur, et de Panthère, <hi>anthera</hi>,
 <lb/>qui terinine le filet en formc de
@@ -21757,12 +21757,12 @@
 </entry>
 
 <entry>
-<orth>Étésies</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">etesiœ</foreign>, en grec
+<orth>Étésies</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">etesiæ</foreign>, en grec
 <lb/><foreign xml:lang="grc">ἐτησίαι</foreign>, vcnts étésiens. V. <ref>Étésien</ref>.
 </entry>
 
 <entry>
-<orth>Éther</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œther</foreign>, du grec
+<orth>Éther</orth>, <gram>s. m.</gram> <foreign xml:lang="lat"><choice><sic>œther</sic><corr>æther</corr></choice></foreign>, du grec
 <lb/><foreign xml:lang="grc">αἰθὴρ</foreign>, air, ou du νειΊIοἀ/θω, je brûle,
 <lb/>j’enfiamme ; matlère subtile et
 <lb/>fluide dans laquelle certains physiciens
@@ -21787,10 +21787,10 @@
 <lb/>visage noir ou brûlé ; on
 <lb/>donnoit autrefois ce nom à des
 <lb/>cliaiix rnétalliques que la nouvelle
-<lb/>chimieappelleoNydes ; <foreign xml:lang="lat">ethiops martial</foreign>,
-<lb/>oxyde de fernoir ; — <foreign xml:lang="lat">ethiops mineral</foreign>,
+<lb/>chimieappelleoNydes ; <term>ethiops martial</term>,
+<lb/>oxyde de fernoir ; — <term>ethiops mineral</term>,
 <lb/>oxyde de mercure snlfuré
-<lb/>noir ; — <foreign xml:lang="lat">ethiops mineral per se</foreign>,
+<lb/>noir ; — <term>ethiops mineral per se</term>,
 <lb/>oxyde demercure noiràlre.
 </entry>
 
@@ -21836,7 +21836,7 @@
 </entry>
 
 <entry>
-<orth>Étiologie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">œtiologia</foreign>, d’oiτία,
+<orth>Étiologie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ætiologia</foreign>, d’oiτία,
 <lb/>cause, et de λόγος, discours ;
 <lb/>partie de la tnédecine qui traite des
 <lb/>diverscs causes des maladies.
@@ -21844,7 +21844,7 @@
 
 <entry>
 <orth>Étique</orth> ou <orth>Hectique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">hecticus</foreign>,
-<lb/><foreign xml:lang="grc">ἐκτικὸς</foreign>, du νβιΒεἔχω, j’ai; qui
+<lb/><foreign xml:lang="grc">ἑκτικὸς</foreign>, du νβιΒεἔχω, j’ai; qui
 <lb/>est dans Phabitudedu corps ; maigre,
 <lb/>décharné, attaqué <hi>d’étisie</hi>.
 </entry>
@@ -21857,7 +21857,7 @@
 </entry>
 
 <entry>
-<orth>Étoc</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">stipes mortua</foreign>, sou- che morte : BOtan. On observe qne
+<orth>Étoc</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">stipes mortua</gloss>, sou- che morte : BOtan. On observe qne
 <lb/>le bolet oblique ne vient jamais
 <lb/>que sur les <hi>étocs</hi>.
 </entry>
@@ -21921,7 +21921,7 @@
 <lb/>μέτρον, inesure; instrument de physique
 <lb/>réceniment inventé pourconnoître
 <lb/>la salubrité de l’air ; — de la
-<lb/><orth><hi>Eudiometrique</hi></orth>, <gram>adj.</gram> qui concerne
+<lb/><orth>Eudiométrique</orth>, <gram>adj.</gram> qui concerne
 <lb/>l’<hi>eudiomètre</hi> ; — <orth>Eudiométrie</orth>, <gram>s. f.</gram>
 <lb/>l’art de faire des <hi>eudiomedres</hi> ou de
 <lb/>s’en servir.
@@ -22049,7 +22049,7 @@
 </entry>
 
 <entry>
-<orth>Évanouissement</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">animi deliquium</foreign>,
+<orth>Évanouissement</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">animi deliquium</gloss>,
 <lb/> <foreign xml:lang="lat">lipothymia</foreign>, défaillance;
 <lb/>perte de connoissance avec cessation
 <lb/>du mouvemeut et du seïitiment.
@@ -22273,7 +22273,7 @@
 <orth>Exhalaison</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">exhalatio</foreign> ; ce
 <lb/>qui s’exhalc d’un corps, comme le.s
 <lb/>vapeurs que le calorique dégage,
-<lb/>les odeurs, les gaz, etc. V. <ref>Émanation</ref>, <ref>Miasme</ref>, <ref>Éffluve</ref>.
+<lb/>les odeurs, les gaz, etc. V. <ref>Émanation</ref>, <ref>Miasme</ref>, <ref>Effluve</ref>.
 </entry>
 
 <entry>
@@ -22347,7 +22347,7 @@
 </entry>
 
 <entry>
-<orth>Expansion</orth> <gram>s. f.</gram> <foreign xml:lang="lat">expansio</foreign>, <foreign xml:lang="lat">dilalatio</foreign>;
+<orth>Expansion</orth> <gram>s. f.</gram> <foreign xml:lang="lat">expansio</foreign>, <foreign xml:lang="lat">dilatatio</foreign>;
 <lb/>se dit, cnphysique, de Paction
 <lb/>ou de l’état d’un fluide qui se
 <lb/>dilate; — en anatomie, du pro- longement d’une partie principale ;
@@ -22434,7 +22434,7 @@
 </entry>
 
 <entry>
-<orth>Exsanguin</orth>, ine, <gram>adj.</gram> <foreign xml:lang="lat">d’ex</foreign>,
+<orth>Exsanguin</orth>, ine, <gram>adj.</gram> d’ex,
 <lb/>hors, et de <hi>sanguis</hi>, sang; privé
 <lb/>de sang.
 </entry>
@@ -22651,7 +22651,7 @@
 
 <entry>
 <orth>Exulcération</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">exulceratio</foreign>,
-<lb/><foreign xml:lang="lat">helcosis</foreign>, <foreign xml:lang="lat">helcoma</foreign>, <foreign xml:lang="grc">ἕλκωσις</foreign>, <foreign xml:lang="grc">ἕλκωμα</foreign>,
+<lb/><foreign xml:lang="lat">helcosis</foreign>, <foreign xml:lang="lat">helcoma</foreign>, <foreign xml:lang="grc">ἕλκωσις</foreign>, <foreign xml:lang="grc"><choice><sic>ελκωμα</sic><corr>ἕλκωμα</corr></choice></foreign>,
 <lb/>ulcération, commencement
 <lb/>d’uicère.
 </entry>
