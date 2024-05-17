@@ -3504,7 +3504,7 @@
 <lb/>de fievres marque par une irri tation
 <lb/>des tuniques des vaisseaux
 <lb/>sanguins ; c’est ce qu’on appelle
-<lb/><term></term><hi>fièvre inflammatoire</hi><term> ; elle est caractérisée
+<lb/><term><hi>fièvre inflammatoire</hi></term> ; elle est caractérisée
 <lb/>par la rougeur de la face,
 <lb/>la tensfon du sysxème artériel, et
 <lb/>la chalcur halitueuse de la peau,
@@ -22668,8 +22668,8 @@
 <orth>Face</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">facies</foreign>, <foreign xml:lang="lat">vultus</foreign>, visage,
 <lb/>partie de Ja tète qui n’est point
 <lb/>couverte de chevcux. — <term>Face hippocratique
-<lb/>ou cadavéreuse</term><hi>, facies</hi>
-<lb/><hi>hippocratica, cadaverosa</hi>, visage
+<lb/>ou cadavéreuse</term> <foreign xml:lang="lat">facies hippocratica</foreign>, <foreign xml:lang="lat">facies cadaverosa</foreign>,
+<lb/>visage
 <lb/>d’un malade qui a lc nez aigu, îcs
 <lb/>yeux enfonccs, les tempes creuses,
 <lb/>les oreilles froides, contractées
@@ -22708,7 +22708,7 @@
 </entry>
 
 <entry>
-<orth>Fade</orth>, <gram>adj.</gram> <foreign xml:lang="lat">fatuus</foreign>, <foreign xml:lang="lat">saporis expers</foreign>,
+<orth>Fade</orth>, <gram>adj.</gram> <foreign xml:lang="lat">fatuus</foreign>, <gloss xml:lang="lat">saporis expers</gloss>,
 <lb/>qui n’a que peu ou point dc goût.
 </entry>
 
@@ -22776,15 +22776,15 @@
 </entry>
 
 <entry>
-<orth>Fanons</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">ferulœ</foreign>, sortes
+<orth>Fanons</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat"><choice><sic>ferulœ</sic><corr>ferulæ</corr></choice></foreign>, sortes
 <lb/>d’attellcs employées datis les fracturcs
 <lb/>des membres ou extrémités.
 <lb/>V. <ref>Éclisse</ref>.
 </entry>
 
 <entry>
-<orth>Fantaisie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">imaginandi vis</foreign>,
-<lb/><foreign xml:lang="grc">φαντασία</foreign>., dll verbe φανταζομαι, je
+<orth>Fantaisie</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">imaginandi vis</gloss>,
+<lb/><foreign xml:lang="grc"><choice><sic>φαντασια</sic><corr>φαντασία</corr></choice></foreign>., dll verbe φανταζομαι, je
 <lb/>Dl’imagine; dérivé de φαινω, je jnontre;
 <lb/>vision, imagination, humeur,
 <lb/>TOlonté, caprice, bisarrerie.
@@ -22948,7 +22948,7 @@
 </entry>
 
 <entry>
-<orth>Fécule</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">fecula</foreign> ou <foreign xml:lang="lat">fœcula</foreign>,
+<orth>Fécule</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">fecula</foreign> ou <foreign xml:lang="lat">fæcula</foreign>,
 <lb/>diminutif de <hi>fiex, geusfecis</hi>, nu
 <lb/><pb n="135" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0151/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=151"/>des principes ou matériaux immédiatsdes
 <lb/>vegétaux ; substance blanchâtre,
@@ -22970,7 +22970,7 @@
 </entry>
 
 <entry>
-<orth>Féculence</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">fœculentia</foreign>, sédiment
+<orth>Féculence</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>fœculentia</sic><corr>fæculentia</corr></choice></foreign>, sédiment
 <lb/>d’une liqueur.
 </entry>
 
@@ -23064,7 +23064,7 @@
 
 <entry>
 <orth>Férine</orth>, <gram>adj.</gram> <foreign xml:lang="lat">ferina</foreign>, <foreign xml:lang="lat">theriodes</foreign>,
-<lb/><foreign xml:lang="grc">θηριώδες</foreign> des Grecs ; se : dit d’une
+<lb/><foreign xml:lang="grc"><choice><sic>θηριωδες</sic><corr>θηριῶδες</corr></choice></foreign> des Grecs ; se : dit d’une
 <lb/>toux sèche et si opiniâtre qd’elle
 <lb/>résiste aux remedes meme les
 <lb/>mieux indiqués.
@@ -23130,7 +23130,7 @@
 
 <entry>
 <orth>Feu</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ignis</foreign> des Latins,
-<lb/><foreign xml:lang="grc">πῦρ</foreign> des Grecs, un des quatre élénicns
+<lb/><foreign xml:lang="grc"><choice><sic>πύρ</sic><corr>πῦρ</corr></choice></foreign> des Grecs, un des quatre élénicns
 <lb/>des anciens, le seul que la
 <lb/>chimie n’ait pas décomposé, quoiqu’il
 <lb/>produise deuN effets très-dislincts,
@@ -23139,16 +23139,16 @@
 <lb/>donnent le nom de feu a un
 <lb/>l’rand nombre de maladies. AInsi
 <lb/>rérysipèle est appelée <term>feu de S. Antoine</term>
-<lb/>ou <term>feu sacré</term>, <hi>ignis S.-Antonii,</hi>
-<lb/><hi>ignis sacer</hi>, mal dcs ardens.’
-<lb/>On nomme <term>feu persique</term>, <hi>ignispersicus</hi>,
+<lb/>ou <term>feu sacré</term>, <foreign xml:lang="lat">ignis S.-Antonii</foreign>,
+<lb/><foreign xml:lang="lat">ignis sacer</foreign>, mal dcs ardens.’
+<lb/>On nomme <term>feu persique</term>, <foreign xml:lang="lat">ignis persicus</foreign>,
 <lb/>une espèce de dartre ou d’érysipèle
 <lb/>qni cntoure le corps en
 <lb/>lorme de ceinture. QUelqucs uns
 <lb/>donnent le rnêrne noin à FanthraN
 <lb/>ou charbon. V. <ref>Zoster</ref>, <ref>Zona</ref>.
 <lb/>Enfin le <term>feu volage ou sauvage</term>,
-<lb/><hi>ignis volaticus</hi> ou <hi>sylvaticus</hi>, est
+<lb/><foreign xml:lang="lat">ignis volaticus</foreign> ou <foreign xml:lang="lat">ignis sylvaticus</foreign>, est
 <lb/>une espece cle dartre vive ou d’élysipèle
 <lb/>qui attaquc particulieiement
 <lb/>le visage des enfans, et en
@@ -23180,7 +23180,7 @@
 </entry>
 
 <entry>
-<orth>Feuille</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">folium</foreign>, <foreign xml:lang="grc">φυλλὸν</foreign> des
+<orth>Feuille</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">folium</foreign>, <foreign xml:lang="grc"><choice><sic>φυλλὸν</sic><corr>φύλλον</corr></choice></foreign> des
 <lb/>Grecs ; partie latérale et ie pius
 <lb/>souvent verte d’un végétal qui naît
 <lb/>immédiatement et solitairement de
@@ -23193,7 +23193,7 @@
 </entry>
 
 <entry>
-<orth>Feuillets</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">laminœ</foreign>
+<orth>Feuillets</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat"><choice><sic>laminœ</sic><corr>laminæ</corr></choice></foreign>
 <lb/>especes de lames qui tapissent la
 <lb/>surface interne des chapeaux des
 <lb/>agarics ^BOt.
@@ -23232,7 +23232,7 @@
 
 <entry>
 <orth>Fic</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ficus</foreign>, <foreign xml:lang="lat">marisca</foreign> des
-<lb/>Latins, <foreign xml:lang="grc">συκώσις</foreign> des Grecs ; excroissance
+<lb/>Latins, <foreign xml:lang="grc"><choice><sic>συκώσις</sic><corr>σύκωσις</corr></choice></foreign> des Grecs ; excroissance
 <lb/>de chair plus ou moins grosse
 <lb/>et plus ou moins dure, plus 011
 <lb/>moins rouge, pendante en forme
@@ -23313,7 +23313,7 @@
 
 <entry>
 <orth>Filet</orth> ou <orth>Frein</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">frenum</foreign>,
-<lb/><foreign xml:lang="lat">frœnum</foreign>, <foreign xml:lang="lat">filellum</foreign>, <foreign xml:lang="lat">filetum</foreign>, <foreign xml:lang="lat">filamentum</foreign>,
+<lb/><foreign xml:lang="lat">frænum</foreign>, <foreign xml:lang="lat">filellum</foreign>, <foreign xml:lang="lat">filetum</foreign>, <foreign xml:lang="lat">filamentum</foreign>,
 <lb/>petit fil, fil délié ; ligainent
 <lb/>élastique etmembraneuxsous
 <lb/>la langue, qu’on coupe aux enfans
@@ -23340,8 +23340,8 @@
 </entry>
 
 <entry>
-<orth>Filière</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lamina forata</foreign>,
-<lb/><foreign xml:lang="lat">ductaria</foreign> ; morceau d’acier pcrcé de
+<orth>Filière</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">lamina forata</gloss>,
+<lb/><gloss xml:lang="lat">lamina ductaria</gloss> ; morceau d’acier pcrcé de
 <lb/>trousinégauN par où FOn fait passer
 <lb/>les métaux qidon réduit en fîl ; an
 <lb/>liguré, l’excavation du bassin
@@ -23356,7 +23356,7 @@
 </entry>
 
 <entry>
-<orth>Filon</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">vena metallica</foreign> ;
+<orth>Filon</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">vena metallica</gloss> ;
 <lb/>veine métallique qu’on trouve en
 <lb/>exploitant les mincs.
 </entry>
@@ -23414,7 +23414,7 @@
 
 <entry>
 <orth>Fistule</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">fistula</foreign> des Latins,
-<lb/><foreign xml:lang="grc">σῦριγξ</foreign> des Grccs ; ulcère calleux,
+<lb/><foreign xml:lang="grc"><choice><sic>σύριγξ</sic><corr>σῦριγξ</corr></choice></foreign> des Grccs ; ulcère calleux,
 <lb/>large et profond, clont FOUVerture
 <lb/>est étroite, qui vicnt indifféremrnent
 <lb/>sur toutes les parties du corps,
@@ -23473,7 +23473,7 @@
 </entry>
 
 <entry>
-<orth>Flaccidité</orth>, <gram>s. f.</gram> de <foreign xml:lang="lat">flaccidus</foreign>,
+<orth>Flaccidité</orth>, <gram>s. f.</gram> de flaccidus,
 <lb/>flasque, mou, sans force; perte de
 <lb/>ressort d’unepartie; état dans lequel
 <lb/>un corps s’affaisse sous le
@@ -23557,7 +23557,7 @@
 
 <entry>
 <orth>Flegme</orth> ou <orth>Phlegme</orth>, <gram>s. m.</gram>
-<lb/><foreign xml:lang="lat">phlegma</foreign>, (lu grec φλεγμα, pituite,
+<lb/><foreign xml:lang="lat">phlegma</foreign>, (lu grec <foreign xml:lang="grc"><choice><sic>φλεγμα</sic><corr>φλέγμα</corr></choice></foreign>, pituite,
 <lb/>pris par antiphrase du verbe φλέγω,
 <lb/>je brùle, comme qui cîiroit <hi>humeur</hi>
 <lb/><hi>non brildée</hi> ; se dit en chirnie
@@ -23581,7 +23581,7 @@
 
 <entry>
 <orth>Flegmoneux</orth> ou <orth>Phlegmoneux</orth>,
-<lb/><gram>adj.</gram> <foreign xml:lang="grc">φλεγμονώδες</foreign>, ile φλεγμονὴ, flegmon,
+<lb/><gram>adj.</gram> <foreign xml:lang="grc"><choice><sic>φλεγμονώδες</sic><corr>φλεγμονώδης</corr></choice></foreign>, ile φλεγμονὴ, flegmon,
 <lb/>qui est de la nature du flegmon.
 </entry>
 
@@ -23630,7 +23630,7 @@
 
 <entry>
 <orth>Fleurs</orth>, <orth>Flueurs</orth> ou <orth>Régles</orth>,
-<lb/><gram>s. f. pl.</gram> <foreign xml:lang="lat">catamenia</foreign>, <foreign xml:lang="lat">menstrua</foreign>, <foreign xml:lang="lat">purgationes menstruœ</foreign> ;
+<lb/><gram>s. f. pl.</gram> <foreign xml:lang="lat">catamenia</foreign>, <foreign xml:lang="lat">menstrua</foreign>, <foreign xml:lang="lat">purgationes menstruæ</foreign> ;
 <lb/>inenstrues ou
 <lb/>écoulement auquel lesfcmmes sont
 <lb/>sujettes tous les mois. Des étymologistes
@@ -23646,7 +23646,7 @@
 <entry>
 <orth>Fleurs blanches</orth> ou <orth>Leucorrhée</orth>,
 <lb/><gram>s. f.</gram> <gram>pl. </gram><foreign xml:lang="lat">fluor albus</foreign>, <foreign xml:lang="lat">leucorrhœa</foreign>,
-<lb/>en grec <foreign xml:lang="grc">λευκόῤῥοια</foreign>, de λευκος,
+<lb/>en grec <foreign xml:lang="grc"><choice><sic>λεύκοῤῥοια</sic><corr>λευκόῤῥοια</corr></choice></foreign>, de λευκος,
 <lb/>blanc, et de ῤέω, je cotile ; genre
 <lb/>de flegmasie qui a son siége dans
 <lb/>la menibrane muqueuse de la matrice
@@ -23775,8 +23775,8 @@
 <lb/>se séparent quaud elles sont abandonnées
 <lb/>a clles - mêmcs par les
 <lb/>seules forces auxquelles elles obéissent.
-<lb/>OUdônnele nom de <term>fluides </term>
-<lb/><term>élastiques aériformes</term> a ce.uN qui
+<lb/>OUdônnele nom de <term>fluides élastiques aériformes</term>
+<lb/> a ce.uN qui
 <lb/>ressemblent a l’atmosphère, qui
 <lb/>cèilent, s’étendent ou se resserrent
 <lb/>par la variation des forces comprimantcs,
@@ -23837,15 +23837,15 @@
 <lb/>J’humeurqui endécoule; — delà les
 <lb/>noms cle</hi> <term>flux de bouche</term>, <foreign xml:lang="lat">salivatio</foreign>,
 <lb/><foreign xml:lang="lat">ptyalismus</foreign>, <foreign xml:lang="grc">πτυαλισμὸς</foreign><hi>, de</hi> <term>flux de
-<lb/>ventre</term>, <foreign xml:lang="lat">alvi fluxus</foreign> <hi>ou</hi> <foreign xml:lang="lat">profluvium</foreign>,
-<lb/><foreign xml:lang="grc">διάῤῥοια</foreign><hi>, de</hi> <term>flux menstruel</term>, <term>fluxus
-<lb/>muliebris</term>, <foreign xml:lang="grc">καταμήνια</foreign><hi>, etc. ; *— </hi><term>flux,
-<lb/>reduc ou redux</term> <hi>; se</hi> dit en chimie
+<lb/>ventre</term>, <foreign xml:lang="lat">alvi fluxus</foreign> <hi>ou</hi> <foreign xml:lang="lat">alvi profluvium</foreign>,
+<lb/><foreign xml:lang="grc"><choice><sic>διαῤροια</sic><corr>διάῤῥοια</corr></choice></foreign><hi>, de</hi> <term>flux menstruel</term>, <foreign xml:lang="lang="lat">fluxus
+<lb/>muliebris</foreign>, <foreign xml:lang="grc">καταμήνια</foreign><hi>, etc. ; *— <term>flux</term></hi>,
+<lb/><foreign xml:lang="lat">reduc</foreign> ou <foreign xml:lang="lat">redux</foreign> <hi>; se</hi> dit en chimie
 <lb/>de certaines matières fondantes, â
 <lb/>Paidc desquelles on met en fusion
 <lb/>les mines pour en tirer tout le mé
 <lb/>tal qu’eiles contiennent ; — <term>flux de
-<lb/>la mer</term>, <foreign xml:lang="lat">maris aestus</foreign>, mouvenient
+<lb/>la mer</term>, <foreign xml:lang="lat">maris <choice><sic>œstus</sic><corr>æstus</corr></choice></foreign>, mouvenient
 <lb/>réglé de la mervers le rivageà ccrtaines
 <lb/>heurcs du jour.
 </entry>
@@ -23877,7 +23877,7 @@
 
 <entry>
 <orth>Foiblesse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">debilitas</foreign>, en
-<lb/>grec <foreign xml:lang="grc">ἀκρατία</foreign>, acratie, ou <foreign xml:lang="grc">ἀδυναμία</foreign>,
+<lb/>grec <foreign xml:lang="grc"><choice><sic>ἀκρατια</sic><corr>ἀκρατία</corr></choice></foreign>, acratie, ou <foreign xml:lang="grc"><choice><sic>ἀδυναμια</sic><corr>ἀδυναμία</corr></choice></foreign>,
 <lb/>adynamie ; débilité, manque dc
 <lb/>force, abatternent. V. <ref>Adymanie</ref>
 <lb/><ref>Acratie</ref>.
@@ -24097,7 +24097,7 @@
 <pb n="142" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0158/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=158"/>
 
 <entry>
-<orth>Fontanelle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">fons pulsatilis</foreign>,
+<orth>Fontanelle</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">fons pulsatilis</gloss>,
 <lb/><foreign xml:lang="lat">fontanella</foreign>, <foreign xml:lang="lat">fonticulus</foreign>, pctite
 <lb/>iontaine ou fonticule; espace quadrangulaire
 <lb/>et membraneuN, situé
@@ -24186,9 +24186,9 @@
 <lb/>que ces molécules sont similaires
 <lb/>ou dissiinilaires. V. <ref>Affinité</ref>.
 <lb/>Enfin les médecins appellent
-<lb/><term>force vitale</term>, <foreign xml:lang="lat">vis vitœ</foreign>, <foreign xml:lang="lat">vis insita</foreign> <hi>9</hi>
-<lb/><foreign xml:lang="lat">natura</foreign>, <foreign xml:lang="lat">anima</foreign>, <foreign xml:lang="lat">impetum faciens</foreign>,
-<lb/><foreign xml:lang="lat">archœus</foreign>, <foreign xml:lang="lat">actuosum</foreign>, <foreign xml:lang="grc">φύσις</foreign>, <foreign xml:lang="grc">πνεῦμα</foreign>,
+<lb/><term>force vitale</term>, <foreign xml:lang="lat">vis vitæ</foreign>, <foreign xml:lang="lat">vis insita</foreign> <hi>9</hi>
+<lb/><foreign xml:lang="lat">natura</foreign>, <foreign xml:lang="lat">anima</foreign>, <gloss xml:lang="lat">impetum faciens</gloss>,
+<lb/><foreign xml:lang="lat"><choice><sic>archœus</sic><corr>archæus</corr></choice></foreign>, <foreign xml:lang="lat">actuosum</foreign>, <foreign xml:lang="grc">φύσις</foreign>, <foreign xml:lang="grc"><choice><sic>πνευμα</sic><corr>πνεῦμα</corr></choice></foreign>,
 <lb/>la puissance ou le principe qui détermine
 <lb/>l’existence et la conservation
 <lb/>des etres organisés; puissance
@@ -24257,8 +24257,8 @@
 </entry>
 
 <entry>
-<orth>Formicant</orth>, ANTE, OU FOUR.
-<lb/>MILLANT, ANTE, <gram>adj.</gram> <foreign xml:lang="lat">formicans</foreign>,
+<orth>Formicant</orth>, ANTE, OU <orth>Fourmillant</orth>,
+<lb/>ANTE, <gram>adj.</gram> <foreign xml:lang="lat">formicans</foreign>,
 <lb/>de<hi>fiorrnica</hi>, fourmi ; en <hi>grec</hi> <foreign xml:lang="grc">μυρμηκίζων</foreign>,
 <lb/>de μυρμηξ, fourmi ; se ditd’un
 <lb/>pouls petit, foible et fréquent, qui
@@ -24319,7 +24319,7 @@
 <entry>
 <orth>Fourmillement</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">formicatio</foreign>,  de
 <lb/>formica, fourmi ; en grec
-<lb/><foreign xml:lang="grc">μυρμηκιάςις</foreign>, de μύρμηξ, fourmi ; picottement,
+<lb/><foreign xml:lang="grc"><choice><sic>μυρμηκιάςος</sic><corr>μυρμηκιασμὸς</corr></choice></foreign>, de μύρμηξ, fourmi ; picottement,
 <lb/>comme si Γοη sentoit des
 <lb/>fourmis sur la peau.
 </entry>
@@ -24360,39 +24360,39 @@
 <lb/>transversales, en obliques et en longirudinales.
 <lb/>La <term>fracture transversale</term>
 <lb/>se notnme en grec <foreign xml:lang="grc">ῥαφανηδὸν</foreign>, en
-<lb/>rave, de ῤαφα,ος, rave ; <foreign xml:lang="grc">σικυηδὸν</foreign>, en
+<lb/>rave, de ῤαφα,ος, rave ; <foreign xml:lang="grc"><choice><sic>σικυηδον</sic><corr>σικυηδὸν</corr></choice></foreign>, en
 <lb/>forme de concombre, de σίχυος, concombre,
 <lb/>ou <foreign xml:lang="grc">καυληδὸν</foreign>, en forme de
 <lb/>tige, de καυλὸς, tige, lorsque l’os est
 <lb/>rompu en manière de rave, de concombre
-<lb/>ou de tige. La fracture oblique
+<lb/>ou de tige. La <term>fracture oblique</term>
 <lb/>porte ie norn de <foreign xml:lang="grc">καλαμηδὸν</foreign>, en
 <lb/>forme de rpseau, dérivé de κάλαμος,
 <lb/>roseau, parce que l’os est divisé
-<lb/>comme le bcc d’une flûte. La fracture
-<lb/>longitudinales’appelle <foreign xml:lang="grc">σχιδακηδὸν</foreign>,
+<lb/>comme le bcc d’une flûte. La <term>fracture
+<lb/>longitudinale</term> s’appelle <foreign xml:lang="grc">σχιδακηδὸν</foreign>,
 <lb/>par éclats, {du verbe σχίζω, je
 <lb/>femls, parce quel’os est brise cprn*
 <lb/><pb n="144" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0160/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=160"/>ine une planche dans sa longueur.
-<lb/>Les fractures où lcs os sont écrasés,
+<lb/>Les <term>fractures où les os sont écrasés</term>
 <lb/>ont reçu lcs noms ιΐ’ <foreign xml:lang="grc">ἀλφιτηδὸν</foreign>, en forme
 <lb/>de farine, dérivé d’iiAtpiTOV, farine
 <lb/>provenant de quelque graine que
 <lb/>ce soit ; ou ιΐ’ <foreign xml:lang="grc">ἀπόθραυσις</foreign>, brisure, du
 <lb/>verbe ἀποτθαύω, je brise, jeromps;
-<lb/>ou d’ànoaonn, coupure, du verbe
+<lb/>ou d’ <foreign xml:lang="grc">ἀποκοπὴ</foreign>, coupure, du verbe
 <lb/>ἀποκόπτω, je coupe, j’ampute. Dans
 <lb/>le premier cas, les os sont moulus
 <lb/>ou écrasés comme de la farine;
 <lb/>dans les deux autres, les pièces
 <lb/>sont détachées ou séparees. La
-<lb/>fracture du cràne prend aussi différens
-<lb/>noms; elle s’appelle ἔδρα,
+<lb/><term>fracture du crâne</term> prend aussi différens
+<lb/>noms; elle s’appelle <foreign xml:lang="grc">ἕδρα</foreign>,
 <lb/>vestige, quand ce n’est qu’une
-<lb/>simple incision ; διακιπὴ, taillade,
+<lb/>simple incision ; <foreign xml:lang="grc">διακοπὴ</foreign>, taillade,
 <lb/>du verbe διακοπτω, je coupe, quand
-<lb/>clle est oblique; ἐκκοπὴ, entaille,
-<lb/>si elle estperpendiculaire ; ἀποσκεπαρπσμὸς,
+<lb/>clle est oblique; <foreign xml:lang="grc">ἐκκοπὴ</foreign>, entaille,
+<lb/>si elle estperpendiculaire ; <foreign xml:lang="grc">ἀποσκεπαρνισμὸς</foreign>,
 <lb/>de σκεπαρνὸς, doloire, quand
 <lb/>la pièce est emportéecomme par un
 <lb/>coup de cet instrument. Lacontusion
@@ -24464,7 +24464,7 @@
 </entry>
 
 <entry>
-<orth>Frai</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">piscium ova</foreign>, œufs
+<orth>Frai</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">piscium ova</gloss>, œufs
 <lb/>de poisson mêlés avec ce qui les
 <lb/>féconde ; petit poisson ; actlon de
 <lb/>friyer. Ce mot, selon <hi>Skinner</hi>
@@ -24487,17 +24487,17 @@
 <lb/>et qui porte le nom <hi>d’yaws;</hi>
 <lb/>l’autre qtii règne en Amérique, oû
 <lb/>elle est connue sous le nom de
-<lb/><ref>Pian</ref> ou <ref>Epian</ref>. V. ces mots.
+<lb/><ref>Pian</ref> ou <ref>Épian</ref>. V. ces mots.
 </entry>
 
 <entry>
-<orth>Frayer</orth> <gram>v. n.</gram> <foreign xml:lang="lat">mutuo affricari</foreign>,
+<orth>Frayer</orth> <gram>v. n.</gram> <gloss xml:lang="lat">mutuò affricari</gloss>,
 <lb/>se dit des poissons qtiand ils s’approchent
 <lb/>pour la génération.
 </entry>
 
 <entry>
-<orth>Frein</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">frœnum</foreign>, ligamenli
+<orth>Frein</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">frænum</foreign>, ligamenli
 <lb/>membaneux qui bride ou retient
 <lb/>unepartie. Le/reiu de la langue,
 <lb/><hi>\efrein</hi> clu prépnpe. V. <ref>Filet</ref>.
@@ -24535,8 +24535,8 @@
 <entry>
 <orth>Fréquence</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">frequentatio</foreign>,
 <lb/><foreign xml:lang="lat">celeritas</foreign>, réitération, répétition
-<lb/>qui se fait souvent ; <term>fréquence du </term>
-<lb/><term>pouls</term>, la vitesse de ses batteraens.
+<lb/>qui se fait souvent ; <term>fréquence du 
+<lb/>pouls</term>, la vitesse de ses batteraens.
 </entry>
 
 <entry>
@@ -24862,7 +24862,7 @@
 </entry>
 
 <entry>
-<orth>Furoncle</orth>, <orth>Furoncle</orth> ou <orth>Clou</orth>,
+<orth>Furoncle</orth>, <orth>Froncle</orth> ou <orth>Clou</orth>,
 <lb/><gram>s. m.</gram> <foreign xml:lang="lat">furunculus</foreign> ; espèce de flegmon
 <lb/>rouge, dur, douloureux, qui
 <lb/>s’élève en pointe, de la gros.se 11 r
@@ -24978,7 +24978,7 @@
 
 <entry>
 <orth>Galactode</orth>, <gram>adj.</gram> <foreign xml:lang="lat">galactodes</foreign>,
-<lb/>ell grec γαλακτώδης, de γάλα, lait,
+<lb/>ell grec <foreign xml:lang="grc">γαλακτώδης</foreign>, de γάλα, lait,
 <lb/>qni est LIteux.
 </entry>
 
@@ -25024,8 +25024,8 @@
 <lb/>de γάλα, lait, et de ποιέω, je
 <lb/>fais ; action ou faculté parlaquelle
 <lb/>les mamelles serventà la sécrétion,
-<lb/>à l’élaboration du lait ; — de là <hi>Galactopoiétique</hi>,
-<lb/>adi. <hi>galactopoieticus</hi>,
+<lb/>à l’élaboration du lait ; — de là <orth>Galactopoiétique</orth>,
+<lb/>adi. <foreign xml:lang="lat">galactopoieticus</foreign>,
 <lb/>qui lait, qui élabore le lait.
 </entry>
 
@@ -25052,8 +25052,8 @@
 </entry>
 
 <entry>
-<orth>Galaxie</orth>, <gram>s. f.</gram> en grec <foreign xml:lang="grc">γαλαξίας</foreign>
-<lb/><foreign xml:lang="grc">κύκλος</foreign>, cércle 011 voie lactée ; uoin
+<orth>Galaxie</orth>, <gram>s. f.</gram> en grec <foreign xml:lang="grc">γαλαξίας <choice><sic>κυκλος</sic><corr>κύκλος</corr></choice></foreign>,
+<lb/>cércle 011 voie lactée ; uoin
 <lb/>que les astronornes donnent à la
 <lb/>trace blanche et lumineu.se qu’on
 <lb/>remarque dans le ciel, â cause de
@@ -25102,7 +25102,7 @@
 <lb/>décrits. Les pathologistes dîvisent
 <lb/>aussi la gale en deux espèces,
 <lb/>dont la premicre prend le
-<lb/>nom de <term>gale canine</term><hi>, scabixs canino</hi>,
+<lb/>nom de <term>gale canine</term>,<hi>scabixs canino</hi>,
 <lb/>parce que les chiens y sont sujets ;
 <lb/><hi>de</hi> <term>gale sèche</term><hi>, scabies sicca</hi>, parce
 <lb/>qu’elle suppure peu ; de <term>gale prurigineuse</term>,
@@ -25238,7 +25238,7 @@
 </entry>
 
 <entry>
-<orth>Ganglion</orth>, <gram>s. m.</gram> <foreign xml:lang="grc">γαγγλίον</foreign>, dérivé,
+<orth>Ganglion</orth>, <gram>s. m.</gram> <foreign xml:lang="grc"><choice><sic>γαγγλίον</sic><corr>γάγγλιον</corr></choice></foreign>, dérivé,
 <lb/>selon quelques uns, de <hi>yçëur</hi>, engendrer,
 <lb/>et de γλία, glu ; se dit en
 <lb/>unatomie de petits uœudsou pelotons
@@ -25254,8 +25254,8 @@
 </entry>
 
 <entry>
-<orth>Gangrène</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">gangrœna</foreign>, en
-<lb/>grec <foreign xml:lang="grc">γαγγραίνα</foreign>, (lu vcrbe γράω, OLI
+<orth>Gangrène</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>gangrœna</sic><corr>gangræna</corr></choice></foreign>, en
+<lb/>grec <foreign xml:lang="grc">γάγγραινα</foreign>, (lu vcrbe γράω, OLI
 <lb/>γραίνω, je inange, je cOnstime ;
 <lb/>commencement de rnortification et
 <lb/>de destruction de quelque partie
@@ -25278,7 +25278,7 @@
 
 <entry>
 <orth>Gargarisme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gargarisma</foreign>,
-<lb/><foreign xml:lang="lat">gargarismus</foreign>, <foreign xml:lang="lat">collutorium oris</foreign>, du
+<lb/><foreign xml:lang="lat">gargarismus</foreign>, <gloss xml:lang="lat">collutorium oris</gloss>, du
 <lb/>verbe γαργαρίζω, je me lave la bouche,
 <lb/>qm dcrivc de γαργαρεων, la
 <lb/>luctte; mot forrné dit bruit que l’on
@@ -25295,7 +25295,7 @@
 </entry>
 
 <entry>
-<orth>Gaster</orth>, <gram>s. m.</gram> <foreign xml:lang="grc">γαστὴρ</foreign>, vditre cn
+<orth>Gaster</orth>, <gram>s. m.</gram> <foreign xml:lang="grc"><choice><sic>γαστὲρ</sic><corr>γαστὴρ</corr></choice></foreign>, vditre cn
 <lb/>général ; se prend qtielquefois pour
 <lb/>Pestomac ou le ventricule en particulier.
 </entry>
@@ -25478,7 +25478,7 @@
 </entry>
 
 <entry>
-<orth>Gelée</orth>., <gram>s. f.</gram> <foreign xml:lang="lat">jus gelatum</foreign>, exIrait
+<orth>Gelée</orth>., <gram>s. f.</gram> <gloss xml:lang="lat">jus gelatum</gloss>, exIrait
 <lb/>inucilagineux ou gélatineux
 <lb/>qu’on retire des substances animales
 <lb/>et végétales. V. <ref>Gélatine</ref>.
@@ -25543,7 +25543,7 @@
 </entry>
 
 <entry>
-<orth>Génésis</orth> ou <orth>Genèse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">genesis</foreign>,
+<orth>Génésie</orth> ou <orth>Genèse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">genesis</foreign>,
 <lb/>cn grec <foreign xml:lang="grc">γένεσις</foreign>, du verbe γείνομαι,
 <lb/>je nais ; géueration, production.
 </entry>
@@ -25579,7 +25579,7 @@
 
 <entry>
 <orth>Génio-hyoïdien</orth>, <gram>s. m., adj.</gram>
-<lb/><foreign xml:lang="lat">genio-hyoideus</foreign> du grec γένειον, le
+<lb/><foreign xml:lang="lat">genio-hyoïdeus</foreign> du grec γένειον, le
 <lb/>menton, et d’ioti^ç, i’os hyoïde ;
 <lb/>nom de deux muscles courts, épais
 <lb/>et charnus qui s’attachent d’un
@@ -25619,7 +25619,7 @@
 <lb/>d’un os est reçue par une cavité
 <lb/>osscuse où elle roule et se meut en
 <lb/>tout sens ; telles sont ]cs articulations
-<lb/>par <ref>Arthrodie</ref> et <ref>Enarthrose</ref>.
+<lb/>par <ref>Arthrodie</ref> et <ref>Énarthrose</ref>.
 <lb/>V. ces mots. — En mécanique,
 <lb/>boide emboitée de manière
 <lb/>à tourner sanspeinedans tous
@@ -25671,7 +25671,7 @@
 
 <entry>
 <orth>Géode</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">geodes</foreign>, en grcc
-<lb/><foreign xml:lang="grc">γέωδης</foreign>, terrestre, dérivé de γἧ,
+<lb/><foreign xml:lang="grc"><choice><sic>γέωδης</sic><corr>γεώδης</corr></choice></foreign>, terrestre, dérivé de γἧ,
 <lb/>terre ; se dit en histoire naturelle
 <lb/>d’une pierre creuse et de couleur
 <lb/>de fer rouillé, contenant dc la
@@ -25777,8 +25777,8 @@
 <entry>
 <orth>Gesticulation</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">gesticulatio</foreign>,
 <lb/>du verbe latin<hi>gesticulari</hi>, fairedes
-<lb/>gestes, <hi>umbratilis pugna</hi> des Latins,
-<lb/>σκιαμαχία des Grecs, de σκία,
+<lb/>gestes, <gloss xml:lang="lat">umbratilis pugna</gloss> des Latins,
+<lb/><foreign xml:lang="grc">σκιαμαχία</foreign> des Grecs, de σκία,
 <lb/>ombre, et de μάχομαι, combattre ;
 <lb/>espèce d’exercice gymnastique dans
 <lb/>lequel le combattant, anné de gantelets
@@ -25836,7 +25836,7 @@
 </entry>
 
 <entry>
-<orth>Glaire</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lenta et viscosa materia</foreign>,
+<orth>Glaire</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">lenta et viscosa materia</gloss>,
 <lb/>humenr blanche, gluante
 <lb/>ct visqueusc, à peu près comme lc
 <lb/><pb n="153" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0169/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=169"/>blancâl’ceuf avantd’ètie cuit; mucosité
@@ -25855,7 +25855,7 @@
 
 <entry>
 <orth>Gland</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">glans</foreign>, <foreign xml:lang="lat">balanus</foreign>,
-<lb/><foreign xml:lang="grc">βαλάνος</foreign> des Grecs, fruit du4chêne;
+<lb/><foreign xml:lang="grc"><choice><sic>βαλάνος</sic><corr>βάλανος</corr></choice></foreign> des Grecs, fruit du4chêne;
 <lb/>sommet clu <hi>penis</hi> ou dc la.veige;
 <lb/>la dernière extrémité du tissu spon.
 <lb/>gieux de PUrètre, qui se pré.sente
@@ -25887,7 +25887,7 @@
 <lb/>portent le norn de <hi>conglobees</hi> : telles
 <lb/>sont les glarides des aines, des aisselles,
 <lb/>du mésentère. |Les Grecs,
-<lb/>pour exprimer une glande, se servoicntdumot <foreign xml:lang="grc">ἄδην</foreign>,
+<lb/>pour exprimer une glande, se servoicntdumot <foreign xml:lang="grc"><choice><sic>ἄδην</sic><corr>ἀδὴν</corr></choice></foreign>,
 <lb/>derivépent-ètre
 <lb/>ιι’ἀδηνος, composé (Ι’ἀ privatif, et
 <lb/>de δήνος, conseil; sans dessein, sans
@@ -26049,7 +26049,7 @@
 
 <entry>
 <orth>Glosso-sthaphylin</orth>, <gram>s. Π.</gram> et
-<lb/><gram>adj.</gram> <foreign xml:lang="lat">glosso-staphilinus</foreign>, de γλωσσα,
+<lb/><gram>adj.</gram> <foreign xml:lang="lat">glosso-sthaphilinus</foreign>, de γλωσσα,
 <lb/>Ja langue, et de σταφυλὴ, la luette ;
 <lb/>nom de deux muscles qui appartiennent
 <lb/>â la luette et a la langue.
@@ -26145,7 +26145,7 @@
 </entry>
 
 <entry>
-<orth>Gnomon</orth>, <gram>s. m.</gram> <foreign xml:lang="grc">γνώμον</foreign>, niût grcc
+<orth>Gnomon</orth>, <gram>s. m.</gram> <foreign xml:lang="grc"><choice><sic>γνώμον</sic><corr>γνώμων</corr></choice></foreign>, niût grcc
 <lb/>qui jvignifie indice, dérivé du verbe
 <lb/>γινώσκω, je connois ; grand style qui
 <lb/>sert aux astronomes <hi>a</hi> connoitre la
@@ -26161,7 +26161,7 @@
 </entry>
 
 <entry>
-<orth>Goître</orth> ou <orth>Gouètre</orth>, <gram>s. m.</gram> mot
+<orth>Goître</orth> ou <orth>Gouêtre</orth>, <gram>s. m.</gram> mot
 <lb/>formé par corruption du latin <hi>guftur</hi>,
 <lb/>la gorge ; tumeur formée entre
 <lb/>la peau ct la trachec-artère,
@@ -26240,13 +26240,13 @@
 </entry>
 
 <entry>
-<orth>Gonflement</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">infiatio</foreign>,
+<orth>Gonflement</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">inflatio</foreign>,
 <lb/>enflure.
 </entry>
 
 <entry>
-<orth>Gongrone</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">’gongrona</foreign>, en
-<lb/>βΓΟΰ <foreign xml:lang="grc">γογγρὼν</foreign>, deycyypoç, congre; tu- bercire rond qui se fonne snr le
+<orth>Gongrone</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">gongrona</foreign>, en
+<lb/>βΓΟΰ <foreign xml:lang="grc"><choice><sic>γογγρων</sic><corr>γογγρώνη</corr></choice></foreign>, deycyypoç, congre; tu- bercire rond qui se fonne snr le
 <lb/>tronc des arhres ; tnmeur rondo et
 <lb/>dure qui vient â la gorge ; goitre,
 <lb/>bronchocele.
@@ -26322,7 +26322,7 @@
 </entry>
 
 <entry>
-<orth>Goût</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gustus</foreign>, celui des
+<orth><choice><sic>Gout</sic><corr>Goût</corr></choice></orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gustus</foreign>, celui des
 <lb/>cinq sens par lequel on discerne
 <lb/>les saveurs, et dont POrgane prin*
 <lb/>cipal est la langue.
@@ -26331,8 +26331,8 @@
 <entry>
 <orth>Goutte</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">arthritis</foreign>, en grec
 <lb/><foreign xml:lang="grc">ἀρθρῖτις</foreign>, d’ap^pov, articulatiou, jointurc,
-<lb/><hi>morbus articularis’</hi>, mal des
-<lb/>articulations ; <hi>gutta,iluxion</hi> ; terme
+<lb/><gloss xml:lang="lat">morbus articularis</gloss>, mal des
+<lb/>articulations ; <hi>gutta</hi>, fluxion ; terme
 <lb/>usité chez les médecins qni 011 c
 <lb/>vécu en EUropeavant le renouvellement
 <lb/>des lettres. lls donnoient ce
@@ -26400,7 +26400,7 @@
 </entry>
 
 <entry>
-<orth>Gouttière</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">colliciœ</foreign>; raie
+<orth>Gouttière</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">colliciæ</foreign>; raie
 <lb/>creuse sur la surface d’un os, par
 <lb/>analogie au canal qui laisse écouler
 <lb/>les eaux de la pluie.
@@ -26610,7 +26610,7 @@
 </entry>
 
 <entry>
-<orth>Grippe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">catarrhus epidemicus</foreign>;
+<orth>Grippe</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">catarrhus epidemicus</gloss>;
 <lb/>espècedecatarrhequi règne
 <lb/>dans les temps humides ct froids,
 <lb/>et attaque un grand nombre d’indiviilus
@@ -26632,7 +26632,7 @@
 </entry>
 
 <entry>
-<orth>Grossesse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">graviditas</foreign>, <foreign xml:lang="lat">prœgnatio</foreign>,
+<orth>Grossesse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">graviditas</foreign>, <foreign xml:lang="lat">prægnatio</foreign>,
 <lb/>état d’une fenime enceinte
 <lb/>ou qui a conçit.
 </entry>
@@ -26714,7 +26714,7 @@
 </entry>
 
 <entry>
-<orth>Gymnopédie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">gymnopœdia</foreign>,
+<orth>Gymnopédie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">gymnopædia</foreign>,
 <lb/>de γυμνὸς, nu, et de παῖς, jeune homjne;
 <lb/>danse rdigieuse où les jeunes
 <lb/>Lacédémoniens dansoient nus.
@@ -26755,14 +26755,14 @@
 </entry>
 
 <entry>
-<orth>Gynécée</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gynœceum</foreign>, <foreign xml:lang="lat">gynœconitis</foreign>,
+<orth>Gynécée</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gynæceum</foreign>, <foreign xml:lang="lat">gynæconitis</foreign>,
 <lb/>γυναικεῖον lles (31’ecs, dérivé
 <lb/>de γυνὴ, femme; appartement
 <lb/>des femmes cbez lcs anciens.
 </entry>
 
 <entry>
-<orth>Gynécomaste</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gynœcomastos</foreign>,
+<orth>Gynécomaste</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gynæcomastos</foreign>,
 <lb/>cle γυνὴ, fcmme, erde μαστθὸς,
 <lb/>inamelle ; homrne dont les mait
 <lb/>elles sont aussi grosses que celles
