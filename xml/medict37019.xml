@@ -26817,7 +26817,7 @@
 </entry>
 
 <entry>
-<orth>Hale</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ephelis</foreign>, iinpression
+<orth><choice><sic>Hale</sic><corr>Hâle</corr></choice></orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ephelis</foreign>, iinpression
 <lb/>de l’air ou du soleil qui brunit ou
 <lb/>rougit le teint, etflétrit lesherbes.
 <lb/>Fêvyez <ref>Éphélide</ref>. On n’estpas tl’accord
@@ -26891,7 +26891,7 @@
 
 <entry>
 <orth>Hanche</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">coxa</foreign>, <foreign xml:lang="lat">coxendis</foreign>, <foreign xml:lang="grc">ἀγκὴ</foreign>
-<lb/>ou <foreign xml:lang="grc">ἰσχίον</foreign> des Grecs Fpartie du corps
+<lb/>ou <foreign xml:lang="grc"><choice><sic>ισχιον</sic><corr>ἰσχίον</corr></choice></foreign> des Grecs Fpartie du corps
 <lb/>hurnain où s’emboîte le haut de la
 <lb/>cuisse..,
 </entry>
@@ -27016,8 +27016,8 @@
 <lb/>ou ligne tournante ; se dit d’une
 <lb/>ligne courbe dont Paxe est roulé
 <lb/>sur la circonférence d’un cercle,
-<lb/>et qu’on nomrne <hi>parabole helicdïde</hi>
-<lb/>ou <hi>spirale parabolique</hi>.
+<lb/>et qu’on nomrne <term>parabole helicoïde</term>
+<lb/>ou <term>spirale parabolique</term>.
 </entry>
 
 <entry>
@@ -27065,7 +27065,7 @@
 </entry>
 
 <entry>
-<orth>Hélix</orth>, <gram>s. m.</gram> <foreign xml:lang="grc">ἕλιξ</foreign>, ligne spirale,
+<orth>Hélix</orth>, <gram>s. m.</gram> <foreign xml:lang="grc"><choice><sic>ελιξ</sic><corr>ἕλιξ</corr></choice></foreign>, ligne spirale,
 <lb/>du verbe ἐίλεῖν, tourner,
 <lb/>envelopper ; en anatomie, grand
 <lb/>bonl ou tour extérieurde l’oreille
@@ -27108,7 +27108,7 @@
 
 <entry>
 <orth>Hémagogues</orth>, <gram>s. m. pl., adj.</gram>
-<lb/><foreign xml:lang="lat">haemagoga</foreign>, du grec αἷμα, sang,
+<lb/><foreign xml:lang="lat"><choice><sic>hœmagega</sic><corr>hæmagoga</corr></choice></foreign>, du grec αἷμα, sang,
 <lb/>etdu verbeayo), j’évacue, je cliasse;
 <lb/>remédes qui font évacuer lc sang,
 <lb/>qui provôquent les règles et le llux
@@ -27116,14 +27116,14 @@
 </entry>
 
 <entry>
-<orth>Hémalopie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmalopia</foreign>,
+<orth>Hémalopie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hæmalopia</foreign>,
 <lb/>d’’eupM, sang, et ιΐ’ὠψ, œil ; épanchemcnt
 <lb/>de sang dans le globe de
 <lb/>l’œil.
 </entry>
 
 <entry>
-<orth>Hemanthe</orth> <gram>s. f.</gram> <foreign xml:lang="lat">hœmanthus</foreign>,
+<orth>Hemanthe</orth> <gram>s. f.</gram> <foreign xml:lang="lat">hæmanthus</foreign>,
 <lb/>Α’αἷμα, sang, et d’avôoç, fleur ; CODIme
 <lb/>qui cliroit <hi>fleur de sang</hi> ; plante
 <lb/>des Pyrenées, ainsi nominée parce
@@ -27132,14 +27132,14 @@
 </entry>
 
 <entry>
-<orth>Hémastatique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmastatice</foreign>,
+<orth>Hémastatique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hæmastatice</foreign>,
 <lb/>d’a5z« ,sang, et Αοσττατικη, dcrivé.
 <lb/>ιῖ’ῖστημι,’je suisfixe ; science qui trarte
 <lb/>delaforce des vaisseaux sanguins.
 </entry>
 
 <entry>
-<orth>Hématémèse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmatemesis</foreign>,
+<orth>Hématémèse</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hœmatemesis</sic><corr>hæmatemesis</corr></choice></foreign>,
 <lb/>εΐ’αἶμα, sang, et d’qodoo, je voinis;
 <lb/>vornissement de sang produit
 <lb/>par un accident, pardes affcctions
@@ -27150,7 +27150,7 @@
 </entry>
 
 <entry>
-<orth>Hématite</orth> <gram>s. f.</gram> <foreign xml:lang="lat">hœmatites</foreign>,
+<orth>Hématite</orth> <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hœmatites</sic><corr>hæmatites</corr></choice></foreign>,
 <lb/>ιΐ’α^μα, sang ; espèce de pierre de
 <lb/>couleur sanguine dont on fait des
 <lb/>crayons ; oxyde de fer qu’on croit
@@ -27159,20 +27159,20 @@
 </entry>
 
 <entry>
-<orth>Hématocèle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmatocele</foreign>,
+<orth>Hématocèle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hœmatocele</sic><corr>hæmatocele</corr></choice></foreign>,
 <lb/>d’a^za, sang, et de κήλη, tumeur ;
 <lb/>tumeur du scrotum causée par un
 <lb/>sang extravasé.
 </entry>
 
 <entry>
-<orth>Hématographie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmatographia</foreign>,
+<orth>Hématographie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hæmatographia</foreign>,
 <lb/>ίΐ’αἶμα, sang, et ίΐργραφὴ,
 <lb/>description ; description du sang.
 </entry>
 
 <entry>
-<orth>Hématologie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmatologia</foreign>,
+<orth>Hématologie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hœmatologia</sic><corr>hæmatologia</corr></choice></foreign>,
 <lb/>Α,αἷμα, sang, et de λόγος, discours;
 <lb/>partie de la médecine qui
 <lb/>traite du sang.
@@ -27180,14 +27180,14 @@
 
 <entry>
 <orth>Hématomphale</orth> ou <orth>Hématomphalocèle</orth>,
-<lb/> <gram>s. f.</gram> <foreign xml:lang="lat">hœmatomphalium</foreign>,(],
+<lb/> <gram>s. f.</gram> <foreign xml:lang="lat">hæmatomphalium</foreign>,(],
 <lb/>αἶμα, sang, et d’oμφαλὸς, nombril ;
 <lb/>hernie du nombril qui ccntient dtt
 <lb/>sang.
 </entry>
 
 <entry>
-<orth>Hématose</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmatosis</foreign>,
+<orth>Hématose</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hœmatosis</sic><corr>hæmatosis</corr></choice></foreign>,
 <lb/>εΐ’αἷμα, gén. αῖματος, sang ; sanguification
 <lb/>ou changement clu chyle
 <lb/>en sang ; opération qui a lieu pendant
@@ -27200,7 +27200,7 @@
 </entry>
 
 <entry>
-<orth>Hématurie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmaturia</foreign>,
+<orth>Hématurie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hæmaturia</foreign>,
 <lb/>d’aijua, sang, et εΐ’ύρέω, je pisse ;
 <lb/>pissement de sang ; érnption de
 <lb/>sang liquide ou coagulé par les
@@ -27253,12 +27253,13 @@
 
 <entry>
 <orth>Hémicycle</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">hemicyclus</foreign>,
-<lb/><foreign xml:lang="grc">ἡμικυκλὸς</foreign>, demi-cercle, d-ημιίνυς, demi,
+<lb/><foreign xml:lang="grc"><chocie><sic>ἡμίκυκλὸς</sic><corr>ἡμίκυκλος</corr></chocie></foreign>, demi-cercle, d-ημιίνυς, demi,
 <lb/>et de κύκλος, cercle.
 </entry>
 
 <entry>
-<orth>Hémine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hemina</foreign>, ίμίνν,« <lb/>Ι’ϊίμισυς, demi ; mesure ancienne
+<orth>Hémine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hemina</foreign>, <foreign xml:lang="grc">ἡμίνα</foreign>,«
+<lb/>Ι’ϊίμισυς, demi ; mesure ancienne
 <lb/>qu’on évalue a peu prèfc à un demisetier.
 </entry>
 
@@ -27290,7 +27291,7 @@
 </entry>
 
 <entry>
-<orth>Hémisphère</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">hemisphœrium</foreign>,
+<orth>Hémisphère</orth>, <gram>s. m.</gram> <foreign xml:lang="lat"><choice><sic>hemisphœrium</sic><corr>hemisphærium</corr></choice></foreign>,
 <lb/>dïrtpiGVs, moitié, et de σφαῖρα,
 <lb/>sphère, globe ; la moitié d’une
 <lb/>sphèreou d’un globe.
@@ -27306,7 +27307,7 @@
 </entry>
 
 <entry>
-<orth>Hémitritée</orth>, <gram>adj.</gram> <foreign xml:lang="lat">i</foreign>. <foreign xml:lang="lat">hœmitritœa</foreign>,
+<orth>Hémitritée</orth>, <gram>adj. f.</gram> i. <foreign xml:lang="lat"><choice><sic>hœmitritæa</sic><corr>hemitritæa</corr></choice></foreign>,
 <lb/>du grec <foreign xml:lang="grc">ἡμιτριταῖος</foreign>, composé
 <lb/>ίΐ’ῆμι, abrégé d’^nwç, moitié, et de
 <lb/>τριταῖός, tiers ; dcmî - ticrce ; nom
@@ -27320,15 +27321,15 @@
 </entry>
 
 <entry>
-<orth>Hémophobie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hemophobia</foreign>,
+<orth>Hémophobie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hemophobia</sic><corr>hæmophobia</corr></choice></foreign>,
 <lb/>ίΓαἶμα, sang, et de φοβος, craintc ;
 <lb/>crainte ou horreur du sang ;— delà
-<lb/>vient <hi>Hémophobe</hi>,adj. qui s’effraie
+<lb/>vient <orth>Hémophobe</orth>,adj. qui s’effraie
 <lb/>à la vue du sangu
 </entry>
 
 <entry>
-<orth>Hémoptysie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmoptysis</foreign>,
+<orth>Hémoptysie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hœmoptysis</sic><corr>hæmoptysis</corr></choice></foreign>,
 <lb/>Cdïga., sang, et de πτύσις, crachement,
 <lb/>dérivé de πτύω, je crache ;
 <lb/>crachement de sang rouge, écumeux,
@@ -27339,13 +27340,13 @@
 
 <entry>
 <orth>Hémoptysique</orth>, ou <orth>Hémoptyique</orth>, OU <orth>Hémoptique</orth>,
-<lb/><gram>adj.</gram> <foreign xml:lang="lat">hœmopticus</foreign>,
+<lb/><gram>adj.</gram> <foreign xml:lang="lat">hæmopticus</foreign>,
 <lb/>qui crache le sang.
 </entry>
 
 <entry>
 <orth>Hémorragie</orth> ou <orth>Hémorrhagie</orth>,
-<lb/> <gram>s. f.</gram> <foreign xml:lang="lat">hœmorrhagia</foreign> ; en grec <foreign xml:lang="grc">αἱμοῤῥαγία</foreign>,
+<lb/> <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>hœmorrhagia</sic><corr>hæmorrhagia</corr></choice></foreign> ; en grec <foreign xml:lang="grc">αἱμοῤῥαγία</foreign>,
 <lb/>d’aÇza, sang, et ile ῥήγνυμι, jeromps ;
 <lb/>perte de sangcausée parla rupture
 <lb/>des vaisseaux sa »^uins. On divise
@@ -27361,14 +27362,14 @@
 </entry>
 
 <entry>
-<orth>Hémorroïdal</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">hœmorrhoïdalis</foreign>,
-<lb/><foreign xml:lang="lat">hœmorrhoïdeus</foreign>, quî
+<orth>Hémorroïdal</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat"><choice><sic>hœmorrhoïdalis</sic><corr>hæmorrhoïdalis</corr></choice></foreign>,
+<lb/><foreign xml:lang="lat">hæmorrhoïdeus</foreign>, quî
 <lb/>a rapport aux hémorroïdcs : flux
 <lb/><hi>hémorroïdal</hi>, vaisseaux <hi>hémorrhoidaux</hi>.
 </entry>
 
 <entry>
-<orth>Hémorroïdes</orth> <gram>s. f. pl.</gram> <foreign xml:lang="lat">hœmorrhoïdes</foreign>,
+<orth>Hémorroïdes</orth> <gram>s. f. pl.</gram> <foreign xml:lang="lat"><choice><sic>hœmorrhoïdes</sic><corr>hæmorrhoïdes</corr></choice></foreign>,
 <lb/>du grec αμοῤῥοις, flux de
 <lb/>sang, dérivé d’aijaa, sang, et de
 <lb/>ῥέω, je coule; écoulement de sang
@@ -27378,7 +27379,7 @@
 </entry>
 
 <entry>
-<orth>Hémorroscopie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hœmorrhoscopia</foreign>,
+<orth>Hémorroscopie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hæmorrhoscopia</foreign>,
 <lb/>ίΐ’αμια, sang, de ῤέω, je
 <lb/>coule, et de σκοπέω, j’éxamine, je
 <lb/>considère; inspecfion du sang tiré
@@ -27396,7 +27397,7 @@
 
 <entry>
 <orth>Hémostase</orth> ou <orth>Hémostasie</orth>, <gram>s. f.</gram>
-<lb/><foreign xml:lang="lat">hœmostasis</foreign>, d’a^xa, sang, et de
+<lb/><foreign xml:lang="lat">hæmostasis</foreign>, d’a^xa, sang, et de
 <lb/>σττάσις, station, dérivé ιΐ’ῖστημι, j’arrête;
 <lb/>stase ou siagnation du- sang
 <lb/>causée par la pléthore.
@@ -27414,13 +27415,13 @@
 </entry>
 
 <entry>
-<orth>Hépar</orth>, <gram>s. m.</gram> du grec <foreign xml:lang="grc">ἧπαρ</foreign>, foie;
+<orth>Hépar</orth>, <gram>s. m.</gram> du grec ἧπαρ, foie;
 <lb/>inot par lequel les anciens chimistes
-<lb/>désignoient le <hi>foie de soufre</hi>,
+<lb/>désignoient le <term>foie de soufre</term>,
 <lb/>c’est-a-dire la cornbinaison du soufre
 <lb/>avec les matières alcalines,
 <lb/>combinaison que les tnodernes appellent
-<lb/><hi>sulfure d’alcali</hi>,
+<lb/><term>sulfure d’alcali</term>,
 </entry>
 
 <entry>
@@ -27449,7 +27450,7 @@
 <lb/>du gaz hydrogene avec le
 <lb/>sulfure d’alcali (autrefois foie de
 <lb/>soufre). On le nomme aujourd’hui
-<lb/><hi>gaz hydrogene sulfiuré</hi>.
+<lb/><term>gaz hydrogène sulfuré</term>.
 </entry>
 
 <entry>
@@ -27540,7 +27541,7 @@
 </entry>
 
 <entry>
-<orth>Heptaphylle</orth>, <gram>adj.</gram> <foreign xml:lang="lat">i</foreign>. <foreign xml:lang="lat">heptaphyllus</foreign>,
+<orth>Heptaphylle</orth>, <gram>adj.f.</gram> <foreign xml:lang="lat">heptaphyllus</foreign>,
 <lb/>εΐ’έπτὰ, sepr, et de φύλλον, feuille;
 <lb/>qui a scpt folioles : BOt.
 </entry>
@@ -27582,7 +27583,7 @@
 </entry>
 
 <entry>
-<orth>Herborisation</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">herbarum inquisitio</foreign>,
+<orth>Herborisation</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">herbarum inquisitio</gloss>,
 <lb/>course pour la recberche
 <lb/>des plantes spontanées d’un
 <lb/>pays.
@@ -27653,7 +27654,7 @@
 
 <entry>
 <orth>Hernie</orth>., <gram>s. f.</gram> <foreign xml:lang="lat">hernia</foreign>, <foreign xml:lang="lat">ramex</foreign>,
-<lb/><foreign xml:lang="lat">ruptura crepatura</foreign>, <foreign xml:lang="grc">κήλη</foreign> des Grecs ;
+<lb/><foreign xml:lang="lat">ruptura</foreign>, <foreign xml:lang="lat">crepatura</foreign>, <foreign xml:lang="grc">κήλη</foreign> des Grecs ;
 <lb/>tumeur exter.ne ou interne produite
 <lb/>par le déplacement d’une partie ।
 <lb/>inolle, et sur-tout des viscères con- |
@@ -27732,7 +27733,7 @@
 </entry>
 
 <entry>
-<orth>Hexaèdre</orth>. V. <ref>Éxaèdre</ref>.
+<orth>Hexaèdre</orth>. V. <ref>Exaèdre</ref>.
 </entry>
 
 <entry>
@@ -27833,7 +27834,7 @@
 <entry>
 <orth>Hiéracium</orth>, <gram>s. m.</gram> du grec ίέραξ,
 <lb/>épervier; nom d’une plante qn’on
-<lb/>nomme aussi <hi>herbe à llépervier</hi>,
+<lb/>nomme aussi <term>herbe à l'épervier</term>,
 <lb/>parce que cet oiseau s’en sert, diton,
 <lb/>pour s’éclaircir la vue.
 </entry>
@@ -27872,8 +27873,8 @@
 <lb/>cheval, ct d’ἔλαφoς, cerf. Les anciens
 <lb/>donnoient ce norn a une espèce de
 <lb/>cerf qui a quelqtie ressemblance
-<lb/>avec le cheval ; on l’appelle <hi>cerf</hi>
-<lb/><hi>dcs Ardennes</hi>.
+<lb/>avec le cheval ; on l’appelle <term>cerf
+<lb/>des Ardennes</term>.
 </entry>
 
 <entry>
@@ -27884,7 +27885,7 @@
 <lb/>médecine des chevaux, ou
 <lb/>l’artde coûnoître et de guérir lcurs
 <lb/>maladies ; — de l?i <orth><hi>Hippiatre</hi></orth>, <gram>s. m.</gram>
-<lb/><foreign xml:lang="lat">mulo medicus</foreign>, <foreign xml:lang="lat">medicus equorius</foreign>,
+<lb/><foreign xml:lang="lat">mulo-medicus</foreign>, <gloss xml:lang="lat">medicus equorius</gloss>,
 <lb/>médecin des chevaux.
 </entry>
 
@@ -27897,7 +27898,7 @@
 
 <entry>
 <orth>Hippocampe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">hippocampa</foreign>,
-<lb/><foreign xml:lang="grc">ἱπποκάμπη</foreign> des Orecs, ιΐἴππος, clieval,
+<lb/><foreign xml:lang="grc"><choice><sic>ἵπποκάμπη</sic><corr>ἱπποκάμπη</corr></choice></foreign> des Orecs, ιΐἴππος, clieval,
 <lb/>et du verbe κάμπτω, je courbe;
 <lb/>espècede petir poisson de mer.dont
 <lb/>la tête et le cou ont quelque res »
@@ -27909,14 +27910,14 @@
 
 <entry>
 <orth>Hippocrate</orth>, <gram>s. m. nom d’homme</gram>,
-<lb/><foreign xml:lang="lat">Hippocrates</foreign>, <foreign xml:lang="grc">Ἱπποκράτης</foreign>, dérivé
+<lb/><foreign xml:lang="lat">Hippocrates</foreign>, <foreign xml:lang="grc"><choice><sic>Ιπποκρατης</sic><corr>Ἱπποκράτης</corr></choice></foreign>, dérivé
 <lb/>ιΐ’ῖππος, cheval, et de χρατέω, je commande;
 <lb/>nom du plus grand des médecins,
 <lb/>dn père ou du vrai fondateur
 <lb/>de la médeciue d’observation, orîgînaire
 <lb/>de l’ilede COs, qni vîvnit,
 <lb/>dit-on, 460 ans avantPère chretienne;de
-<lb/>la <hi>IIIppocratiaue, hipfiocraiïcus</hi>,
+<lb/>la <orth>Hippocratique</orth>, <foreign xml:lang="lat">hippocraticus</foreign>,
 <lb/>qui conceme la doctrine
 <lb/>d’HIppocrate.
 </entry>
@@ -27962,7 +27963,10 @@
 <orth>Hippotomie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hippotomia</foreign>.
 <lb/>d’îwnOç, cheval, εΐεΐοτέμνω, jeéôupe,
 <lb/>je dissèque ; anafomie du cheval.’
-<lb/>H-IPPUs, <gram>s. m.</gram> mot latin dérivé
+</entry>
+
+<entry>
+<orth>Hippus</orth>, <gram>s. m.</gram> mot latin dérivé
 <lb/>d’Znnoç, cheval. HIppocrate eniployoit
 <lb/>ce mot pour exprimer une
 <lb/>aflection des yeux, contractée dès
@@ -28026,7 +28030,7 @@
 
 <entry>
 <orth>Holothurie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">holothuria</foreign>,
-<lb/><foreign xml:lang="grc">ὀλωθούριον</foreign> des Grecs, crerivé ίΒἴλος,
+<lb/><foreign xml:lang="grc"><choice><sic>όλωθούριον</sic><corr>ὁλοθούριον</corr></choice></foreign> des Grecs, crerivé ίΒἴλος,
 <lb/>tout, et εΐεθύρα, porte, ou dcsôpiov,
 <lb/>petite porte ; espéce de zoophytes
 <lb/>ou d’animaux rnarins semblables à
@@ -28062,7 +28066,7 @@
 </entry>
 
 <entry>
-<orth>Homocentrique</orth>, <gram>adj.</gram> <foreign xml:lang="grc">ὁμόκεντρος</foreign>
+<orth>Homocentrique</orth>, <gram>adj.</gram> <foreign xml:lang="grc"><choice><sic>ἑμόκεντρος</sic><corr>ὁμόκεντρος</corr></choice></foreign>
 <lb/>des Grecs, composé (Ι’όμὸς, pareil,
 <lb/>semblable, et de κέντρον, centre ; se
 <lb/>dit en astronomie des cercles qui
@@ -28070,7 +28074,7 @@
 </entry>
 
 <entry>
-<orth>Homocule</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">homuntio homunculus</foreign>, <foreign xml:lang="lat">homulus</foreign>,
+<orth>Homocule</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">homuntio</foreign>, <foreign xml:lang="lat">homunculus</foreign>, <foreign xml:lang="lat">homulus</foreign>,
 <lb/>diminutif <hi>d’homo</hi>,
 <lb/>homme ; petit homme.
 </entry>
@@ -28081,7 +28085,7 @@
 <lb/>et de γένος, genre, nature, espèce;
 <lb/>similaire, qui ést de méme
 <lb/>genre, de merne nature, de ménie
-<lb/>espèce; — de la <hi>HOmogénéite</hi>, qualité
+<lb/>espèce; — de la <orth>Homogénéite</orth>, qualité
 <lb/>de ce qui est homogene.
 </entry>
 
@@ -28121,16 +28125,16 @@
 
 <entry>
 <orth>Homophage</orth>, <gram>adj.</gram> <foreign xml:lang="lat">homophagus</foreign>,
-<lb/>en grec <foreign xml:lang="grc">ὠμοφάγος</foreign>, ιΐ’ὡμὸς, cru, et de
+<lb/>en grec <foreign xml:lang="grc"><choice><sic>ὤμοφάγος</sic><corr>ὠμοφάγος</corr></choice></foreign>, ιΐ’ὡμὸς, cru, et de
 <lb/>φἀγω, je Inauge ; nom dc ceux qui
 <lb/>mangent de la chair crue ; — de là
-<lb/><hi>HOmophagie, homophagia, ugtdfayia</hi>,
+<lb/><orth>HOmophagie</orth>, <foreign xml:lang="lat">homophagia</foreign>, <foreign xml:lang="grc">ὠμοφαγία</foreign>,
 <lb/>l’usage des viandes crues.
 </entry>
 
 <entry>
 <orth>Homotone</orth>, <gram>adj.</gram> <foreign xml:lang="lat">homotonus</foreign>,
-<lb/><foreign xml:lang="grc">ὁμότονος</foreign>, égal, unitorme, Α’έμὸς, semblabie,
+<lb/><foreign xml:lang="grc"><choice><sic>ὁμότόνος</sic><corr>ὁμότονος</corr></choice></foreign>, égal, unitorme, Α’έμὸς, semblabie,
 <lb/>et de τίνος, ton.
 </entry>
 
@@ -28206,7 +28210,7 @@
 
 <entry>
 <orth>Houille</orth> ou <orth>Charbon de terre</orth>,
-<lb/><gram>s. f.</gram> <foreign xml:lang="lat">carbo fossilis</foreign>, substance combustible,
+<lb/><gram>s. f.</gram> <gloss xml:lang="lat">carbo fossilis</gloss>, substance combustible,
 <lb/>simple, bitumineuse, cn
 <lb/>partic auimale, très - abondante
 <lb/>dans le sein de la terre ; noire, plus
@@ -28367,7 +28371,8 @@
 </entry>
 
 <entry>
-<orth>Humide radical</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">humidum radicale</foreign>, <foreign xml:lang="lat">humidum primigenium</foreign>,
+<orth>Humide radical</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">humidum radicale</foreign>,
+<lb/><foreign xml:lang="lat">humidum primigenium</foreign>,
 <lb/>rhumeur lymphatique qui
 <lb/>abreuve toutes les fibres des étres
 <lb/>organisés, et les entretient dans
@@ -28399,7 +28404,7 @@
 
 <entry>
 <orth>Hyacinthe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">hyacinthus</foreign>, en
-<lb/><pb n="168" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0184/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=184"/>grec <foreign xml:lang="grc">ὑάκινθος</foreign>, plante bulbeuse dont
+<lb/><pb n="168" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0184/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=184"/>grec <foreign xml:lang="grc"><choice><sic>ῦάκινθος</sic><corr>ὑάκινθος</corr></choice></foreign>, plante bulbeuse dont
 <lb/>ja fleur est iort célèbre dans ia
 <lb/>Fable par la métamorphose d’un
 <lb/>prince aiiné d’Apcllon et de Zépliire;
@@ -28418,7 +28423,7 @@
 </entry>
 
 <entry>
-<orth>Hybride</orth>, <gram>adj.</gram> <foreign xml:lang="lat">hybrida</foreign>, ῦβρις,
+<orth>Hybride</orth>, <gram>adj.</gram> <foreign xml:lang="lat">hybrida</foreign>, <foreign xml:lang="grc">ὕβρις</foreign>,
 <lb/>génit. ὕβριδος des Grecs, dont la racine
 <lb/>est ὕβρις, injure, affront; se dit
 <lb/>d’un animal dont le père et la mère
@@ -28472,7 +28477,7 @@
 
 <entry>
 <orth>Hydragogue</orth>, <gram>s. m., adj.</gram> <foreign xml:lang="lat">hydragogus</foreign>,
-<lb/><foreign xml:lang="lat">aquiductus</foreign>, du grec
+<lb/><foreign xml:lang="lat">aquiducus</foreign>, du grec
 <lb/>ὕδωρ et ιΐ’ἄγω, je chasse ; se dit des
 <lb/>remèdes qui évacuent les eaux et
 <lb/>les sérosités du corps-.
@@ -28522,7 +28527,7 @@
 <lb/>qni traite du mouvenient des
 <lb/>fluides ; science qui enseigne à
 <lb/>conduire et à élever les éaux ; — <gram>adj.</gram>
-<lb/><orth><hi>Hydraulicus</hi></orth>, qui a rapport,
+<lb/><orth xml:lang="lat">Hydraulicus</orth>, qui a rapport,
 <lb/>qui sert â cet objet : machine hydraulique.
 </entry>
 
@@ -28533,7 +28538,7 @@
 </entry>
 
 <entry>
-<orth>Hydrentérocèle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hydrenteroeele</foreign>,
+<orth>Hydrentérocèle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hydrenterocele</foreign>,
 <lb/>(Ι’ὕδωρ, eau, ίΐ’ἔντερον, intestin,
 <lb/>et de κήλη, tumeur ; hydropisie
 <lb/>du scroturn compliquée avec
@@ -28687,7 +28692,7 @@
 
 <entry>
 <orth>Hydromel</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">hydromel</foreign>, <foreign xml:lang="lat">hydromeli</foreign>,
-<lb/><foreign xml:lang="lat">aqua mulsa</foreign>, <foreign xml:lang="lat">melicratum</foreign>,
+<lb/><gloss xml:lang="lat">aqua mulsa</gloss>, <foreign xml:lang="lat">melicratum</foreign>,
 <lb/>du grec ὕδωρ, ean, et de μέλι, miel ;
 <lb/>boisson composée d’eau etde miel :
 <lb/>eatt miellée.
@@ -28988,7 +28993,7 @@
 <orth>Hygrophthalmique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">Hygrophthalmicus</foreign>,
 <lb/>ιΐ’ὑγρὸς, humide, et
 <lb/>εΐ’όφθοιλμὸς, œil ; qui sert a hurnecler
-<lb/>l’œil. V. <ref>Hygroblepharique</ref>.
+<lb/>l’œil. V. <ref>Hygroblépharique</ref>.
 </entry>
 
 <entry>
@@ -29127,7 +29132,7 @@
 
 <entry>
 <orth>Hyoscuame</orth> ou <orth>Jusquiame</orth>, <gram>s. f.</gram>
-<lb/><foreign xml:lang="lat">hyoscyamus</foreign>, en grec <foreign xml:lang="grc">ὑοσκύαμος</foreign>, dérivé
+<lb/><foreign xml:lang="lat">hyoscyamus</foreign>, en grec <foreign xml:lang="grc"><choice><sic>ὑοσκὕαμος</sic><corr>ὑοσκύαμος</corr></choice></foreign>, dérivé
 <lb/>d’iç, gén. ὑὸς, cochon, et de
 <lb/>κύαμος, fève; fève â cochon ; plante
 <lb/>jiarcotique, de l’ordre dcs solanées.
@@ -29285,7 +29290,7 @@
 
 <entry>
 <orth>Hypocauste</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">hypocaustum</foreign>,
-<lb/><foreign xml:lang="grc">ὑποκαύστον</foreign> des Grecs, ίΙ’ὑπὸ,
+<lb/><foreign xml:lang="grc"><choice><sic>ὑποκαύστον</sic><corr>ὑπόκαυστον</corr></choice></foreign> des Grecs, ίΙ’ὑπὸ,
 <lb/>dessotls, et de <hi>xcdw</hi>, je brûle ; fourneau
 <lb/>placédans un lieu sonterrain,
 <lb/>et qni servoit à échauffer le - bains
@@ -29293,7 +29298,7 @@
 </entry>
 
 <entry>
-<orth>Hypochyma</orth>, <gram>s. m.</gram> <foreign xml:lang="grc">ὑπόχυμα</foreign> des
+<orth>Hypochyma</orth>, <gram>s. m.</gram> <foreign xml:lang="grc"><choice><sic>ὕπόχυμα</sic><corr>ὑπόχυμα</corr></choice></foreign> des
 <lb/>Grecs, <foreign xml:lang="lat">suffusio</foreign> des Latins; d’inJ,
 <lb/>sous, et de χέω ou χύω, je répands,
 <lb/>je liquéfie ; suffusion, humenr
@@ -29524,9 +29529,9 @@
 </entry>
 
 <entry>
-<orth>Hystérie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hystoria</foreign>, <foreign xml:lang="lat">passio</foreign>
-<lb/>ou <foreign xml:lang="lat">affectio hysterica</foreign>, <foreign xml:lang="lat">suffocatio ou</foreign>
-<lb/><foreign xml:lang="lat">strangulatio uterina</foreign> ; du grec ὑστέρα,
+<orth>Hystérie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">hysteria</foreign>, <gloss xml:lang="lat">passio hysterica</gloss>
+<lb/>ou <gloss xml:lang="lat">affectio hysterica</gloss>, <gloss xml:lang="lat">suffocatio uterina</gloss> ou
+<lb/><gloss xml:lang="lat">strangulatio uterina</gloss> ; du grec ὑστέρα,
 <lb/>la matrice ; genre de maladie ncrvense
 <lb/>qu’on croit avoir son siége
 <lb/>dans la matrice. Elle attaque ordinairmnent
@@ -29639,7 +29644,7 @@
 <lb/>ίΐ’ἰατρεύω, je glicris, et de χυμία »
 <lb/>chimie; médecine chimique ; l’art
 <lb/>de guérir avec des remèdes tirés
-<lb/>de la chimie ;— delà <ref><hi>Iatrochimiste</hi></ref>,
+<lb/>de la chimie ;— delà <orth><hi>Iatrochimiste</hi></orth>,
 <lb/>s m. <foreign xml:lang="lat">iatrochymicus</foreign>, médecin-chimiste.
 </entry>
 
@@ -29676,7 +29681,7 @@
 
 <entry>
 <orth>Ichor</orth>, <gram>s. m.</gram> mot grec <foreign xml:lang="grc">ἰχὼρ</foreign>, sanie
-<lb/>ou sang aqueux ; — de là <ref><hi>Ichoreux</hi></ref>,
+<lb/>ou sang aqueux ; — de là <orth><hi>Ichoreux</hi></orth>,
 <lb/><gram>adj.</gram> <foreign xml:lang="lat">ichorosus</foreign>, <foreign xml:lang="lat">ichoroïdes ;</foreign>
 <lb/>noin qu’on donne à une espèce de
 <lb/>sanieou de sérositéâcre qui découle
@@ -29695,7 +29700,7 @@
 </entry>
 
 <entry>
-<orth>Ichtyocolle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ichtyocolla</foreign>,
+  <orth>Ichtyocolle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>ichtyocolla</sic><corr>ichthyocolla</corr></choice></foreign>,
 <lb/>du grec ἰχθυς, pOlsSOn, et de κόλλα
 <lb/>on κόλλη, colle ou ghi, dérivé de
 <lb/>κλείω, je ferme ; colle de poisson ;
@@ -29718,8 +29723,8 @@
 <lb/>ιΐ’ῖχθύς, poisson, et de λόγος,
 <lb/>discours ; partie de l’histoire. naturelle.qiti
 <lb/>traite des poissons ; de
-<lb/>là <ref><hi>Ichtyologique</hi></ref>, <gram>adj.</gram> qui concerne
-<lb/>les poissons ;— <ref>lchtyologiste</ref>,
+<lb/>là <orth><hi>Ichtyologique</hi></orth>, <gram>adj.</gram> qui concerne
+<lb/>les poissons ;— <orth>lchtyologiste</orth>,
 <lb/>s. m. auteiir qui a écrit sur les poissons.
 </entry>
 
@@ -29731,7 +29736,7 @@
 
 <entry>
 <orth>Ichtyophage</orth>, <gram>s. m.</gram> et <gram>adj.</gram>
-<lb/><foreign xml:lang="lat">icthyophagus</foreign>, εΓῖχθύς, poisson, et
+<lb/><foreign xml:lang="lat"><choice><sic>icthyophagus</sic><corr>ichthyophagus</corr></choice></foreign>, εΓῖχθύς, poisson, et
 <lb/>de φάγω, je inange ; mangeur de
 <lb/>poissous ; nom des peuples qui ne
 <lb/>vivent que de poissons.
@@ -29883,8 +29888,8 @@
 </entry>
 
 <entry>
-<orth>Ignivore</orth>, <gram>s. m.</gram> et <gram>adj.</gram> <foreign xml:lang="lat">ignivo-</foreign>
-<lb/><pb n="177" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0193/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=193"/><foreign xml:lang="lat">rus</foreign>, <foreign xml:lang="lat">pyrophagus</foreign>, du latin <hi>ignis</hi>,
+<orth>Ignivore</orth>, <gram>s. m.</gram> et <gram>adj.</gram> <foreign xml:lang="lat">ignivorus</foreign>,
+<lb/><pb n="177" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0193/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=193"/><foreign xml:lang="lat">pyrophagus</foreign>, du latin <hi>ignis</hi>,
 <lb/>fcu, et du verbe <hi>voro</hi>, je dévore,
 <lb/>ou du <hi>grec</hi> πῦρ, le feu, et de φαγω,
 <lb/>je dévore ; mangcur de feu ; qui a
@@ -29932,15 +29937,15 @@
 <lb/>en grec ἰλέος, parce que sou siége
 <lb/>est dans l’<ref>Iléon</ref> V., ce rnot. ElJe
 <lb/>a reeu encore d’autres ncms, tels
-<lb/>queceux de colique de <hi>miserere</hi>,
+<lb/>queceux de <term>colique de <hi>miserere</hi></term>,
 <lb/>motlatin qui signifie <hi>ayez pitie,a</hi>.
 <lb/>cause dcs donleurs atroces qd’on
 <lb/>souffre, et qui excitent la compassion;
-<lb/>de <hi>volvulus</hi>, du verbe <hi>volvere</hi>,
+<lb/>de <term><hi>volvulus</hi></term>, du verbe <hi>volvere</hi>,
 <lb/>ronler, entortiller, parce
 <lb/>qu’a l’ouverture des cadavres on
 <lb/>trouve l’intestin noué, ronlé, entortillé;
-<lb/>de <hi>chordapse</hi> ou <foreign xml:lang="lat">chordapsus</foreign>,
+<lb/>de <term>chordapse</term> ou <term xml:lang="lat">chordapsus</term>,
 <lb/>mot déri vé du μΐ’οοχοῤδὴ, corde,
 <lb/>etdu verbe ἄπτομαι, je touche, parce
 <lb/>que l’intestin paroît tendu comme
@@ -30088,7 +30093,7 @@
 </entry>
 
 <entry>
-<orth>Impalpable</orth>, <gram>adj.</gram> <foreign xml:lang="lat">tactum fugiens</foreign>,
+<orth>Impalpable</orth>, <gram>adj.</gram> <gloss xml:lang="lat">tactum fugiens</gloss>,
 <lb/>si fm, si délié, qu’il ne fait aucune
 <lb/>impression au toucher.
 </entry>
@@ -30153,7 +30158,7 @@
 </entry>
 
 <entry>
-<orth>Imprégnation</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">imprœgnatio</foreign>,
+<orth>Imprégnation</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>imprœgnatio</sic><corr>imprægnatio</corr></choice></foreign>,
 <lb/>du latin <hi>prœgnans</hi>, lémme
 <lb/>grosse ; se dit en phannacie de l’action
 <lb/>par laquelle une liqueur se
@@ -30333,12 +30338,12 @@
 </entry>
 
 <entry>
-<orth>Incœrcible</orth>, <gram>adj.</gram> <foreign xml:lang="lat">incoercibilis f</foreign>
+<orth>Incoercible</orth>, <gram>adj.</gram> <foreign xml:lang="lat">incoercibilis f</foreign>
 <lb/>qui n’est pas coercible ; se dit en
 <lb/>physique des vapeurs ou des gaz
 <lb/>qui ne peuvent être rassemblés ou
 <lb/>reteuus dans un certain espace ; de
-<lb/>lâ dérive <ref><hi>Incoercibilité</hi></ref>, <gram>s. f.</gram>
+<lb/>lâ dérive <orth><hi>Incoercibilité</hi></orth>, <gram>s. f.</gram>
 <lb/>qualité de ce qui est incoercible.
 </entry>
 
@@ -30355,11 +30360,11 @@
 </entry>
 
 <entry>
-<orth>Incombustible</orth>, <gram>adj.</gram> <foreign xml:lang="lat">flammis innoxius</foreign>,
+<orth>Incombustible</orth>, <gram>adj.</gram> <gloss xml:lang="lat">flammis innoxius</gloss>,
 <lb/>quinc peutêtre cousumé
 <lb/>par le feu; quinepeut se combiner
 <lb/>avec l’oxygène, priacipe de toute
-<lb/>combustion ; — de là <ref><hi>Incombustibilité</hi></ref>,
+<lb/>combustion ; — de là <orth><hi>Incombustibilité</hi></orth>,
 <lb/><gram>s. f.</gram> qualité de ce qui est
 <lb/>incombustible.
 </entry>
@@ -30374,7 +30379,7 @@
 <lb/>géométriquement démontré que la
 <lb/>diagonided’un carréest incommen*.
 <lb/>surable avec le côté;— delà est ve »
-<lb/>nu <ref><hi>Incommensurabilité</hi></ref>, <gram>s. f.</gram> qualité
+<lb/>nu <orth><hi>Incommensurabilité</hi></orth>, <gram>s. f.</gram> qualité
 <lb/>de ce qui estincommensurable.
 </entry>
 
@@ -30425,7 +30430,7 @@
 <orth>Incubation</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">incubatio</foreign>, ilu
 <lb/>Verbe latin <hi>incubare</hi>, etre coucbé ;
 <lb/>action des volatiles qui couvent les
-<lb/>œufs. Pendant l’<term>incubation </term><hi>ces</hi> animaux
+<lb/>œufs. Pendant l’incubation <hi>ces</hi> animaux
 <lb/>jeûnent et éprouvent une
 <lb/>sorte de fîèvre d’âmour maternel
 <lb/>qui élève leiir température quelqnefois
@@ -30434,7 +30439,7 @@
 </entry>
 
 <entry>
-<orth>Incube</orth>, <orth>Cauchemar</orth>, <orth>Asthme nocturne</orth>, <orth>Ephialte</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">incubus</foreign>,
+<orth>Incube</orth>, <orth>Cauchemar</orth>, <orth>Asthme nocturne</orth>, <orth>Éphialte</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">incubus</foreign>,
 <lb/><foreign xml:lang="lat">incubo</foreign>, <foreign xml:lang="lat">asthma nocturnus</foreign>,
 <lb/>du verbe <hi>incumbere</hi>, se coucher
 <lb/>dessus, en grec <foreign xml:lang="grc">πνιγαλίων</foreign>, du verbe
@@ -30490,7 +30495,7 @@
 <orth>Indéhiscent</orth>, <gram>adj.</gram> <foreign xml:lang="lat">indehiscens</foreign>,
 <lb/>ne s’ouvrant point, qui d’a pas la
 <lb/>faculté de s’ouvrir spontanément ;
-<lb/>— de la <ref><hi>Indéhiscence</hi></ref>, <gram>s. f.</gram> <foreign xml:lang="lat">Indehiscentia</foreign>
+<lb/>— de la <orth><hi>Indéhiscence</hi></orth>, <gram>s. f.</gram> <foreign xml:lang="lat">Indehiscentia</foreign>
 <lb/>privation de la faculté de
 <lb/>s’ouvrir ; qualité essentielle de la
 <lb/>baie : BOtan.
@@ -30512,7 +30517,7 @@
 <lb/>indicateur; nom dn second doigt
 <lb/>de la main parce qu’il sert a montrcr
 <lb/>ou indiquer les objets. Les
-<lb/>Grecs le nommoient <foreign xml:lang="grc">λιχάνος</foreign>, lécheur,
+<lb/>Grecs le nommoient <foreign xml:lang="grc"><choice><sic>λιχάνος</sic><corr>λιχανὸς</corr></choice></foreign>, lécheur,
 <lb/>parce qn’on le met dans le.s
 <lb/>sauccs et qd’on le lèche aprèspour
 <lb/>lcs goûfer.
@@ -30528,13 +30533,13 @@
 <lb/>en géuéral pour conserver la
 <lb/>sante ou pour guérir les maladies.
 <lb/>AInsi, dansles embarras des premieres
-<lb/>voics, l’évacuation cst l’<term>indication</term>
+<lb/>voics, l’évacuation cst l’indication
 <lb/> qui se présente pour rétablir
 <lb/>la santé ; <term>indication prophylactique</term>
-<lb/><term>ou préservative</term>, celle qui
+<lb/>ou <term>indication préservative</term>, celle qui
 <lb/>a pour ôbjet de conserver la santé
-<lb/>ottde prévenir les rnaladies ; <term>indication </term>
-<lb/><term>curative</term>, celle qui apourbut
+<lb/>ottde prévenir les rnaladies ; <term>indication curative</term>,
+<lb/>celle qui apourbut
 <lb/>de guérir les maladies ou de rétablir*
 <lb/>la sailîé ; <term>indication vitale</term> <hi>p</hi>
 <lb/><pb n="181" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0197/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=197"/>celle qui tend â la conservation immédiate
@@ -30551,8 +30556,8 @@
 <lb/>de tout cc qui est né dans 1111 pays
 <lb/>par rapport a tout ce qui est importé
 <lb/>des pays étrangers et qu’on
-<lb/>nppelle <hi>exotique</hi> : <term>plante indigène</term>,
-<lb/><term>remède indigène</term>.
+<lb/>nppelle <hi>exotique</hi> : plante indigène,
+<lb/>remède indigène.
 </entry>
 
 <entry>
@@ -30595,7 +30600,7 @@
 <lb/>un embarras gastrique, la douleur
 <lb/>de l’épigastre, l’amertuine de la
 <lb/>bouche et la céphalalgie sus-orbitaire
-<lb/>sont <hi>Y</hi><ref><hi>’indiquant</hi></ref>.
+<lb/>sont <hi>Y</hi><hi>’indiquant</hi>.
 </entry>
 
 <entry>
@@ -30604,7 +30609,7 @@
 <lb/>pour conserver la santé ou
 <lb/>guérirles maladies. AIUsi, dans un
 <lb/>embarras des prernières voies, l’éinétique
-<lb/>et les laxatifs sont <hi>Y</hi><ref><hi>Indiqué</hi></ref>.
+<lb/>et les laxatifs sont <hi>Y</hi><hi>Indiqué</hi>.
 </entry>
 
 <entry>
@@ -30655,7 +30660,7 @@
 <entry>
 <orth>Inertie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">inertia</foreign>, inaction ;
 <lb/>on dit que la matrice ou uu muscle
-<lb/>est <term>dans l’inertie</term>, quand ils ont
+<lb/>est dans l’inertie, quand ils ont
 <lb/>perdu leur ressort ou leur contractilité.
 <lb/>En physiquc on entend
 <lb/>par <term>force d’inertie</term> PIndil’férencedes
@@ -30689,14 +30694,14 @@
 <orth>Infère</orth>, <gram>adj.</gram> <foreign xml:lang="lat">inferus</foreign>; se dit en
 <lb/>botanique de l’ovaire qui fait entièrement
 <lb/>corps avec le tube d.i
-<lb/>calice : l’ovaire est démi-infere, <term>semi-inferum</term>,
+<lb/>calice : l’ovaire est <term>démi-infère</term>, <foreign xml:lang="lat">semi-inferum</foreign>,
 <lb/>quand il ne tait corps
 <lb/>avec le tube du calice que par sa
 <lb/>moitié inférieure.
 </entry>
 
 <entry>
-<orth>Infeuillé</orth>, ÉE, <gram>adj.</gram> <foreign xml:lang="lat">infoliatus aphyllus</foreign>.
+<orth>Infeuillé</orth>, ÉE, <gram>adj.</gram> <foreign xml:lang="lat">infoliatus</foreign>, <foreign xml:lang="lat">aphyllus</foreign>.
 <lb/>VOyez <ref>Aphylle</ref>.
 </entry>
 
@@ -30738,8 +30743,8 @@
 <lb/>en physique et eu chi »
 <lb/>mie, qualite de ce qui esi imflammable
 <lb/>ou s’enflamme aisérnent. On
-<lb/>donne le nom de <term>corps inflammables</term>
-<lb/>ou <term>combustibles</term>, aux substances
+<lb/>donne le nom de corps inflammables
+<lb/>ou combustibles, aux substances
 <lb/>qui se cornbinent rapidernent
 <lb/>avec POxygène, et produisent
 <lb/>un dégagcrnent de lurniere.
@@ -30809,8 +30814,8 @@
 </entry>
 
 <entry>
-<orth>Influence</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">cœli defluvium</foreign>,
-<lb/><foreign xml:lang="lat">influxus</foreign>, vertu qni, suivant les
+<orth>Influence</orth>, <gram>s. f.</gram> <gloss xml:lang="lat"><choice><sic>cœli</sic><corr>cæli</corr></choice> defluvium</gloss>,
+<lb/><foreign xml:lang="lat">cæli influxus</foreign>, vertu qni, suivant les
 <lb/>astrologues,découledes astressur
 <lb/>les corps sublunaires; — en médecine,
 <lb/>action d’une cause qui aide
@@ -30820,7 +30825,7 @@
 
 <entry>
 <orth>Infundibuliforme</orth> ou <orth>Infundibulé</orth>,
-<lb/><gram>adj.</gram> <foreign xml:lang="lat">infundibulatus</foreign>, <foreign xml:lang="lat">infundibuliforrnis</foreign>,
+<lb/><gram>adj.</gram> <foreign xml:lang="lat">infundibulatus</foreign>, <foreign xml:lang="lat">infundibuliformis</foreign>,
 <lb/>du latin <hi>infiundibulum</hi>,
 <lb/>entonnoir ; qui est cn forme
 <lb/>d’entonnoir.
@@ -30835,7 +30840,7 @@
 <lb/>bouillante sur une substance dont011
 <lb/>veut extraire les vertus médicameuteuscs;
 <lb/><hi>infusiorI</hi>, ou mieux
-<lb/><hi>infusé,</hi> <foreign xml:lang="lat">infusum</foreign>, sc prend aussi
+<lb/><term>infusé,</term> <foreign xml:lang="lat">infusum</foreign>, sc prend aussi
 <lb/>pour la liqueur chargée de la vertu
 <lb/>des médicamens qd’on y a fait infuser;
 <lb/>— infusion est encore 11 ne
@@ -30880,15 +30885,16 @@
 <lb/>de cheval.
 </entry>
 
-<entry>
+<entry xml:id="injection">
 <orth>Injection</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">injectio</foreign>, du
-<lb/>verbc <hi>injicere</hi>, jeter dedans; action
+<lb/>verbc <hi>injicere</hi>, jeter dedans; <sense n="1">action
 <lb/>d’injecter ou d’introduire avec
 <lb/>une seriugue un JIquide dans une
-<lb/>cavité du corps ; par exemple dans
+<lb/>cavité du corps</sense> ; par exemple dans
 <lb/>l’anus, le vagin, l’urètre, les
-<lb/>listules, les artères, les veines ;— <lb/><ref>Injection</ref>, <foreign xml:lang="lat">injectum</foreign>, se prend
-<lb/>aussi pour la liqueur qii’on injecte.
+<lb/>listules, les artères, les veines ;—
+<lb/><sense><term>Injection</term>, <foreign xml:lang="lat">injectum</foreign>, se prend
+<lb/>aussi pour la liqueur qu’on injecte</sense>.
 </entry>
 
 <entry>
@@ -30926,7 +30932,7 @@
 </entry>
 
 <entry>
-<orth>Inondé</orth>, ÉE, <gram>adj.</gram> <foreign xml:lang="lat">inundatus ;</foreign>
+<orth>Inondé</orth>, ÉE, <gram>adj.</gram> <foreign xml:lang="lat">inundatus</foreign> ;
 <lb/>se dit des plantes qui naissent dans
 <lb/>l’eau et qui ne flottent jamais a sa
 <lb/>surface.
@@ -30970,7 +30976,7 @@
 <lb/>verbe latin <hi>inseco</hi>, je coupe, 3e
 <lb/>divise ; petit aniiual dont le corps
 <lb/>est comme ceupé par anneaux ;
-<lb/><foreign xml:lang="grc">ἐντομὸν</foreign> des Grccs, qm représentc la
+<lb/><foreign xml:lang="grc"><choice><sic>ἐντομὸν</sic><corr>ἔντομον</corr></choice></foreign> des Grccs, qm représentc la
 <lb/>mème idée, et d’ou l’on a fait <ref><hi>entomologie</hi></ref>,
 <lb/>la science ou la connoissance
 <lb/>des insectes.
@@ -30999,9 +31005,9 @@
 <lb/>des vaisseauxavec d’autresparties ;en
 <lb/>botanique, l’endroit où la
 <lb/>corolle et les étamines sont iixées.
-<lb/>On distingue trois sortes <term>d’insertions;
+<lb/>On distingue trois sortes d’insertions;
 <lb/>l’hypogynique, la périgynique
-<lb/>et l’épigynique</term>.
+<lb/>et l’épigynique.
 </entry>
 
 <entry>
@@ -31027,7 +31033,7 @@
 
 <entry>
 <orth>Insoluble</orth>, <gram>adj.</gram> <foreign xml:lang="lat">insolubilis</foreign>, qui
-<lb/>ne peut se dissoudre.; « — de la <ref><hi>Insolubilité</hi></ref>,
+<lb/>ne peut se dissoudre.; « — de la <orth><hi>Insolubilité</hi></orth>,
 <lb/><hi>s</hi>. L quahté decequiest
 <lb/>insolubie. Ondit aussi indissoluble
 <lb/>et indissolubilité, qui ont lamême
@@ -31035,7 +31041,7 @@
 </entry>
 
 <entry>
-<orth>Insomnie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">insomnia, insomnitas</foreign>,
+<orth>Insomnie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">insomnia</foreign>, <foreign xml:lang="lat">insomnitas</foreign>,
 <lb/><foreign xml:lang="lat">insomneitas</foreign>, <foreign xml:lang="lat">pervigilium</foreign>;
 <lb/>défaut de sommeil, veilie
 <lb/>immodéree. V. <ref>Agrypnie</ref>.
@@ -31094,7 +31100,7 @@
 <lb/>d’une différentielle est la
 <lb/>quantité finie dont cette différentielleest
 <lb/>la partieinfinimentpelite;delà
-<lb/><ref><hi>Intégrer</hi></ref>, v. a. trouver l’inlégrale
+<lb/><orth><hi>Intégrer</hi></orth>, v. a. trouver l’inlégrale
 <lb/>d’uneilifférentielle.
 </entry>
 
@@ -31227,13 +31233,13 @@
 </entry>
 
 <entry>
-<orth>Interlobulaire</orth>, <gram>adj.</gram> <foreign xml:lang="lat">d’inter</foreign>,
+<orth>Interlobulaire</orth>, <gram>adj.</gram> d’inter,
 <lb/>entre, et de <hi>lobus</hi>, lobe ; qui est
 <lb/>entre les lobes du poumon.
 </entry>
 
 <entry>
-<orth>Intermède</orth>, <gram>s. m.</gram> du latin <foreign xml:lang="lat">intermedius</foreign>,
+<orth>Intermède</orth>, <gram>s. m.</gram> du latin intermedius,
 <lb/>intermédiaire ; nom que
 <lb/>les chimistes donnent â toute substance
 <lb/>qui sert â unir ou â séparer
@@ -31352,12 +31358,12 @@
 
 <entry>
 <orth>Intestin</orth> ou <orth>Boyau</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">intestinum</foreign>
-<lb/>des Latins, <foreign xml:lang="grc">ἐντέρον</foreign> des
+<lb/>des Latins, <foreign xml:lang="grc"><choice><sic>ἐντέρον</sic><corr>ἔντερον</corr></choice></foreign> des
 <lb/>Grecs, ιΐ’εντὸς, dedans ; c’est le
 <lb/>nom du canal alimentaire qui s’étend
 <lb/>de l’estomac â l’anus. On le divise
 <lb/>en deuxparties, l’<term>intestin grêle</term>,
-<lb/>et le <term>gros intestin.</term> L’intestin grêle
+<lb/>et le <term>gros intestin</term>. L’intestin grêle
 <lb/>est un long canal cylindrique, musculomembraneux,
 <lb/>parsemé de
 <lb/>vaisseaux, commençant au pylore,
@@ -31387,7 +31393,7 @@
 <lb/>â en déterminerla progrcsx
 <lb/><pb n="186" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0202/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=202"/>sion et Pévacuation. On le divise
 <lb/>en trois portions qui portent les
-<lb/>noms de <ref>Coecum</ref>, de <ref>Colon</ref> et dc
+<lb/>noms de <ref><choice><sic>Cœcum</sic><corr>Cæcum</corr></choice></ref>, de <ref>Colon</ref> et dc
 <lb/><ref>Rectum</ref>. VOyez ces mots.
 </entry>
 
@@ -31487,7 +31493,7 @@
 </entry>
 
 <entry>
-<orth>Involuté</orth>, ÉE, <gram>adj.</gram> <foreign xml:lang="lat">involutus ;</foreign>
+<orth>Involuté</orth>, ÉE, <gram>adj.</gram> <foreign xml:lang="lat">involutus</foreign> ;
 <lb/>se dit d’une genlmation ou les rudimens
 <lb/>des leuilles sont roulés en
 <lb/>dedans : BOt.
@@ -31499,9 +31505,9 @@
 </entry>
 
 <entry>
-<orth>Ipécacuanha</orth>, <gram>s. Π.</gram> <foreign xml:lang="lat">psycothria emetica</foreign>
-<lb/>( <foreign xml:lang="lat">mutis</foreign> ) <foreign xml:lang="lat">calicocca ipeca-</foreign>
-<lb/><foreign xml:lang="lat">cuanha</foreign> ( GOrnez etBrotar) ; racine
+<orth>Ipécacuanha</orth>, <gram>s. Π.</gram> <gloss xml:lang="lat">psycothria emetica (mutis)</gloss>
+<lb/><foreign xml:lang="lat">calicocca ipecacuanha</foreign>
+<lb/>( GOrnez etBrotar) ; racine
 <lb/>courte, déliée, cylindriqne, tortueuse,
 <lb/>annelée ; dont l’écorce est
 <lb/>épaisse, annelée au dehors, friable;
@@ -31527,7 +31533,7 @@
 </entry>
 
 <entry>
-<orth>Iris</orth>, <gram>s. m.</gram> du grec <foreign xml:lang="grc">ἶρις</foreign>, <foreign xml:lang="grc">ιδος</foreign>, quisignifiel’arc-en-cieijdéiivé,
+<orth>Iris</orth>, <gram>s. m.</gram> du grec <foreign xml:lang="grc">ἶρις</foreign>, ιδος, quisignifiel’arc-en-cieijdéiivé,
 <lb/>dit-on,du
 <lb/>verbe ἐρεῖν, parler, amioncer, parce
 <lb/>que ce météore annonce la pluie;
@@ -31556,8 +31562,8 @@
 <lb/>oxydes metal liques qd’on ne peut réduire
 <lb/>a Fétat de métal ;— en algèbre,
 <lb/>d’une quantiié qd’on ne peut réduire
-<lb/>à une forme plussitnple.;— üe là <ref>lr</ref>
-<lb/><pb n="187" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0203/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=203"/><ref><hi>réductibilité</hi></ref>, qualité de ee qui est
+<lb/>à une forme plussitnple.;— üe là <orth>Irréductibilité</orth>,
+<lb/><pb n="187" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0203/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=203"/> qualité de ee qui est
 <lb/>irréductible.
 </entry>
 
@@ -31580,9 +31586,9 @@
 <entry>
 <orth>Ischiadique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">ischiadicus</foreign>,
 <lb/>du grec ἰσχίον, hanche ; qui appar2
-<lb/>tieut au haut de la cuisse, ù la hanche;<term>veine</term>
-<lb/><term>ischiadique, névralgie</term>
-<lb/><term>ischiadique</term>.
+<lb/>tieut au haut de la cuisse, ù la hanche;veine
+<lb/>ischiadique, névralgie
+<lb/>ischiadique.
 </entry>
 
 <entry>
@@ -31609,7 +31615,7 @@
 
 <entry>
 <orth>Ischion</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ischium</foreign>, du grec
-<lb/>ἰσχίον, pièce inférieure de l’os innominé
+<lb/><foreign xml:lang="grc">ἰσχίον</foreign>, pièce inférieure de l’os innominé
 <lb/>ou coxal dans le fœtus; region
 <lb/>inférieure de ce meme os dans l’adulte,
 <lb/>à laquelle on remarque une
@@ -31639,7 +31645,7 @@
 <entry>
 <orth>Ischurétique</orth>, <gram>s. m., adj.</gram>
 <lb/><foreign xml:lang="lat">ischureticus</foreign>, se dit des remedes
-<lb/>propres a guérir ou a modércr l’<ref>Ischurie.</ref>
+<lb/>propres a guérir ou a modércr l’<ref>Ischurie</ref>.
 <lb/>V. ce mot.
 </entry>
 
@@ -31690,7 +31696,7 @@
 </entry>
 
 <entry>
-<orth>Isthme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">isthmus</foreign>, <foreign xml:lang="grc">ἰσθμὸς</foreign>; dcs »
+<orth>Isthme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">isthmus</foreign>, <foreign xml:lang="grc">ἰσθμὸς</foreign>; dcs »
 <lb/>Grecs, langue de terrequi joint une
 <lb/>presqil’île au conlinent, ou qui sépare
 <lb/>deux mers ; — on le dit en
@@ -31700,7 +31706,7 @@
 </entry>
 
 <entry>
-<orth>Ityphale</orth>, <gram>s. f.</gram> en grec <foreign xml:lang="grc">ἰθύφαλλος</foreign>,
+<orth>Ityphale</orth>, <gram>s. f.</gram> en grec <foreign xml:lang="grc">ἰθύφαλλος</foreign>,
 <lb/>d’iôùç, droit, et de φαλλὸς, qui est la
 <lb/>même chose que <hi>lingarn</hi> des Indiens;
 <lb/>espèce d’amulerte en forme
@@ -31755,7 +31761,7 @@
 </entry>
 
 <entry>
-<orth>Jalap</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">convolvulus jalappa</foreign>
+<orth>Jalap</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">convolvulus jalappa</gloss>
 <lb/>L. racine d’une espèce de
 <lb/>liseron, qui croît en Asie et en
 <lb/>Amérique ; courte, grosse, arrondie,
@@ -31775,7 +31781,7 @@
 
 <entry>
 <orth>Jambe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">crus</foreign>, <foreign xml:lang="lat">tibia</foreign> des Latins;
-<lb/><foreign xml:lang="grc">κνήμη, σκέλος</foreign> des Grecs ; troisièmc
+<lb/><foreign xml:lang="grc">κνήμη</foreign>, <foreign xml:lang="grc">σκέλος</foreign> des Grecs ; troisièmc
 <lb/>partie des membres inférieurs011
 <lb/>abdominaux, cotnprise
 <lb/>enurde genou et lepied, forinée
@@ -31803,14 +31809,14 @@
 <lb/>l’endroit du corps humain
 <lb/>qui est derrière lc gcnou ; endroit
 <lb/>où se plie la jambe de derrière
-<lb/>des quadrupèdes. Le mot latiu <foreign xml:lang="lat">poples</foreign>
+<lb/>des quadrupèdes. Le mot latiu poples
 <lb/>dérive de <hi>post plico</hi>, je plie
 <lb/>en arrière, parce que la janibe se
 <lb/>fléchit en arrière sur la cuisse.
 </entry>
 
 <entry>
-<orth>Jaspe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">iaspis</foreign>, du grec <foreign xml:lang="grc">ἴασπις</foreign>,
+<orth>Jaspe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">iaspis</foreign>, du grec <foreign xml:lang="grc">ἴασπις</foreign>,
 <lb/>pierre précieuse très-dure, dont la
 <lb/>couleur varie prodigieusement et
 <lb/>persiste plus ou moins par l’action
@@ -31837,7 +31843,7 @@
 
 <entry>
 <orth>Jayet</orth> ou <orth>Jais</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">gagates</foreign>,
-<lb/>du grcc γαγάτης, derive dc γάγης ».
+<lb/>du grcc <foreign xml:lang="grc">γαγάτης</foreign>, derive dc γάγης ».
 <lb/>fleuve de Lycie ; substance combustible
 <lb/>simple fossile, produite
 <lb/>par le bois enfoui ; noire et opaque,
@@ -31924,7 +31930,7 @@
 
 <entry>
 <orth>Julep</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">julapium</foreign>, <foreign xml:lang="lat">julepus</foreign>,
-<lb/><foreign xml:lang="lat">zulapiuni</foreign>, <foreign xml:lang="per">juleb</foreign> dos Persans,
+<lb/><foreign xml:lang="lat">zulapium</foreign>, <foreign xml:lang="per">juleb</foreign> dos Persans,
 <lb/>qui signifie potion donCe ; <foreign xml:lang="grc">ξυλάπιον</foreign>
 <lb/>ou <foreign xml:lang="grc">ἰολάβιον</foreign>, mots que lcs Grecs nioderncs
 <lb/>ont tirés dc l’arabe ; rcmède
@@ -32015,7 +32021,7 @@
 <lb/>chéne vert, formée par la piqûre
 <lb/>d’un insecte, et qni sert à teindre
 <lb/>en écarlate ; — <term>kermès minéral</term> 011
-<lb/><hi>poudre des Chartreux</hi> ; oxyde d’antimoine
+<lb/><term>poudre des Chartreux</term> ; oxyde d’antimoine
 <lb/>hydro.su!fiiré rouge, médicament
 <lb/>fort actif.
 </entry>
