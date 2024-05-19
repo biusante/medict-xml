@@ -32124,7 +32124,7 @@
 
 <entry>
 <orth>Labyrinthe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">labyrinthum</foreign>,
-<lb/>du grec λαβύρινθος, lieu plein
+<lb/>du grec <foreign xml:lang="grc">λαβύρινθος</foreign>, lieu plein
 <lb/>de détours, dont il est diffîcile de
 <lb/>trouver l’issue; nom que les anatomistes
 <lb/>donnent â l’une des cavités
@@ -32161,9 +32161,9 @@
 <entry>
 <orth>Lacrymal</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">lacrymalis</foreign>,
 <lb/>de <hi>lacryma</hi>, larrne; qiu a rapport
-<lb/>anx larmes ; fistule lacrymale,
+<lb/>anx larmes ; <term>fistule lacrymale</term>,
 <lb/>ulcère formé a l’angle interne de
-<lb/>l’œil dans lc <term>sac lacrymal</term>.
+<lb/>l’œil dans lc sac lacrymal.
 </entry>
 
 <entry>
@@ -32175,7 +32175,7 @@
 
 <entry>
 <orth>Lacté</orth>, ée, <gram>adj.</gram> <foreign xml:lang="lat">lacteus</foreign>, de
-<lb/><hi>lac</hi>, gén. <hi>lactis</hi>, lait ; en grec <foreign xml:lang="grc">γαλάκηκος</foreign>,
+<lb/><hi>lac</hi>, gén. <hi>lactis</hi>, lait ; en grec <foreign xml:lang="grc"><choice><sic>γαλάκτικος</sic><corr>γαλακτικὸς</corr></choice></foreign>,
 <lb/>de γάλα, lait ; qui a rapport
 <lb/>ou qui ressemble au lait; se dit en
 <lb/>anatomie des vaisseaux blancs,
@@ -32231,8 +32231,8 @@
 <orth>Ladre</orth>, <gram>adj., s. m.</gram> du grec
 <lb/>Λαίδρος » impudenr, ditforme, honteux;
 <lb/>malade affecté de lèpre, <foreign xml:lang="lat">leprosus</foreign>
-<lb/>, <foreign xml:lang="lat">elephantiacus</foreign>. — <ref><hi>Ladrerie</hi></ref>,
-<lb/> <gram>s. f.</gram> <foreign xml:lang="lat">lepra</foreign>, <foreign xml:lang="lat">elephaiItiasis</foreign>, lèpre ;
+<lb/>, <foreign xml:lang="lat">elephantiacus</foreign>. — <orth>Ladrerie</orth>,
+<lb/> <gram>s. f.</gram> <foreign xml:lang="lat">lepra</foreign>, <foreign xml:lang="lat">elephantiasis</foreign>, lèpre ;
 <lb/>hùpital pour les lépreux.
 </entry>
 
@@ -32260,7 +32260,7 @@
 <lb/>plantenommée aussi pied-de-lièvre;
 <lb/>espèce de trèfle dont les sommités
 <lb/>représentent le pied d’un lievre ;de
-<lb/>là vient aussi <hi>Lagopede</hi>, nom
+<lb/>là vient aussi <orth>Lagopède</orth>, nom
 <lb/>d’un oiseau du genre de la geli*
 <lb/>notte, du coq de bruyere.
 </entry>
@@ -32295,8 +32295,8 @@
 <lb/>et dans les arts. POUr apprécier
 <lb/>les différentes espèces de <hi>laits</hi>,
 <lb/>on les compare a celui de vache,
-<lb/>dans l’ordre suivant. Le <term>lait de
-<lb/>femwe</term> est généralement moius
+<lb/>dans l’ordre suivant. Le lait de
+<lb/>femwe est généralement moius
 <lb/>épais, moins opaque et plus sucré;
 <lb/>celui d’ânesse a beaucoup de
 <lb/>rapport avec celui de femme ; celui
@@ -32334,7 +32334,7 @@
 </entry>
 
 <entry>
-<orth>Lamellé</orth>, ÉR, <gram>adj.</gram> <foreign xml:lang="lat">lanlellatus</foreign>,
+<orth>Lamellé</orth>, ÉR, <gram>adj.</gram> <foreign xml:lang="lat">lamellatus</foreign>,
 <lb/>de <hi>lamella</hi>, pètite lame ; aminci
 <lb/>en petite lame.
 </entry>
@@ -32347,7 +32347,7 @@
 
 <entry>
 <orth>Lampyre</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">lampyris</foreign>, en
-<lb/>grec <foreign xml:lang="grc">λαμπουρὶς</foreign>, de λαμπας, lainpe,
+<lb/>grec <foreign xml:lang="grc">λαμπυρὶς</foreign>, de λαμπας, lainpe,
 <lb/>flambeau, et (Γοὑρὰ, queue ; nom
 <lb/>générique des vers luisans.
 </entry>
@@ -32368,8 +32368,8 @@
 </entry>
 
 <entry>
-<orth>Langue</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lingua</foreign>, <foreign xml:lang="grc">γλωσσα</foreign> ou
-<lb/><foreign xml:lang="grc">γλὡττα</foreign> des Grecs ; l’organe tlugoût ;
+<orth>Langue</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lingua</foreign>, <foreign xml:lang="grc">γλῶσσα</foreign> ou
+<lb/><foreign xml:lang="grc">γλῶττα</foreign> des Grecs ; l’organe tlugoût ;
 <lb/>partie d’une fîgure pyramidale,
 <lb/>aplatie sur ses deux faces, arrondie
 <lb/>eur ses bords et a sa pointe,
@@ -32493,8 +32493,8 @@
 </entry>
 
 <entry>
-<orth>Larynx</orth>, <gram>s. m.</gram> du greç λάρυγξ;
-<lb/><foreign xml:lang="lat">caput asperae arteriæ</foreign>, parhe supérieure
+<orth>Larynx</orth>, <gram>s. m.</gram> du greç <foreign xml:lang="grc">λάρυγξ</foreign>;
+<lb/><gloss xml:lang="lat">caput asperæ arteriæ</gloss>, parhe supérieure
 <lb/>ou gutturale de la trachéeartère,
 <lb/>attachée à l’os hyoïde,
 <lb/>composée de cinq cartilages principaux,
@@ -32567,7 +32567,7 @@
 </entry>
 
 <entry>
-<orth>Lazulithe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lapis lazuli</foreign>,
+<orth>Lazulithe</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">lapis lazuli</gloss>,
 <lb/>espècede substance terreuse, bleue
 <lb/>et opàque ; d’une cassure rnate,
 <lb/>a grain très-serré ; rayant le vcrre ;
@@ -32641,7 +32641,7 @@
 
 <entry>
 <orth>Léopard</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">leopardus</foreign>, en
-<lb/>grec λεοπάρδαλις, de λέων, lion, et
+<lb/>grec <foreign xml:lang="grc">λεοπάρδαλος</foreign>, de λέων, lion, et
 <lb/>de πάρδαλις, pantlièie ; béte féroce
 <lb/>qui a la peau marquetée.
 </entry>
@@ -32782,11 +32782,11 @@
 </entry>
 
 <entry>
-<orth>Leucé</orth> <gram>s. f.</gram> <foreign xml:lang="lat">vitiligo alba</foreign>, en
+<orth>Leucé</orth> <gram>s. f.</gram> <gloss xml:lang="lat">vitiligo alba</gloss>, en
 <lb/>grec <foreign xml:lang="grc">λευκὴ</foreign>, fém. de λευκὸς, blar.c ; îache
 <lb/>blariclie qui vient â la peau, et
 <lb/>pénetre jusqii’a la chalr., Lèpre
-<lb/>blanche de Galien ; <foreign xml:lang="lat">albara alba</foreign>
+<lb/>blanche de Galien ; <gloss xml:lang="lat">albara alba</gloss>
 <lb/>d’AVicenne.
 </entry>
 
@@ -32842,7 +32842,7 @@
 </entry>
 
 <entry>
-<orth>Leucorrhée</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">leucorrhea</foreign>,
+<orth>Leucorrhée</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>leucorrhea</sic><corr>leucorrhœa</corr></choice></foreign>,
 <lb/>de λευκὸς, blanc, etde/ιέω, je coule;
 <lb/>écoulement blanc, fleurs blanches,
 <lb/>catarrhe aigu ou chrouique
@@ -32971,7 +32971,7 @@
 </entry>
 
 <entry>
-<orth>Lichen</orth>, <gram>s. m.</gram> en grec <foreign xml:lang="grc">λείχὴν</foreign>,
+<orth>Lichen</orth>, <gram>s. m.</gram> en grec <foreign xml:lang="grc"><choice><sic>λείχὴν</sic><corr>λειχὴν</corr></choice></foreign>,
 <lb/>plante acotylédone, parasite et
 <lb/>rainpante, qui croît sur les pierres
 <lb/>et sur l’écorce des vieuN arbres.
@@ -32984,7 +32984,7 @@
 </entry>
 
 <entry>
-<orth>Lientérie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lienteria levitas intestinorum</foreign>,
+<orth>Lientérie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lienteria</foreign>, <gloss xml:lang="lat">levitas intestinorum</gloss>,
 <lb/>du grec λεῖος, poli,
 <lb/>glissant;espèce de dévoiementdans
 <lb/>tcquel on rend les alimens presque
@@ -33000,7 +33000,7 @@
 
 <entry>
 <orth>Ligament</orth>, <gram>s. H.</gram> <foreign xml:lang="lat">ligamentum</foreign>,
-<lb/><foreign xml:lang="lat">vinculum</foreign>, <foreign xml:lang="lat">copula</foreign>, en grec <foreign xml:lang="grc">σύνδοσμος</foreign>,
+<lb/><foreign xml:lang="lat">vinculum</foreign>, <foreign xml:lang="lat">copula</foreign>, en grec <foreign xml:lang="grc">σύνδεσμος</foreign>,
 <lb/>de σὸν, ensemble, et de δέ », je
 <lb/>lie ; substance blanchâtre, fibreuse,
 <lb/>serrée, compacte, souple, difficile
@@ -33020,7 +33020,7 @@
 
 <entry>
 <orth>Ligature</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ligatura</foreign>, <foreign xml:lang="lat">ligatio</foreign>,
-<lb/><foreign xml:lang="lat">deligatio</foreign>, <foreign xml:lang="lat">vincturae</foreign>, <foreign xml:lang="lat">fascia</foreign>, petit
+<lb/><foreign xml:lang="lat">deligatio</foreign>, <foreign xml:lang="lat">vinctura</foreign>, <foreign xml:lang="lat">fascia</foreign>, petit
 <lb/>ruban de fil ciré dont on lie une
 <lb/>artère ou une veine considérable
 <lb/>pour prévenir ou arrêter une hémorragie,
@@ -33042,22 +33042,22 @@
 <entry>
 <orth>Ligne</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">linea</foreign>, étendue en
 <lb/>longueur, considérée sans largeur
-<lb/>et sans épaisseur ;— ligzzeblanche,
+<lb/>et sans épaisseur ;— <term>ligne blanche</term>,
 <lb/>réunion des fibres tendineüses ou
 <lb/>aponévrotiques des inuscles du basventre;
 <lb/>— <term>ligne équinoxiale</term> ou
 <lb/>simplemcnt la <hi>ligne</hi>, lequateur.
 </entry>
 
-<entry>
-<orth>Ligneux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">lignosus ;</foreign>
-<lb/>se dit des lplantes qui ont la consistance
+<entry xml:id="ligneux">
+<orth>Ligneux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">lignosus</foreign> ;
+<lb/><sense n="1">se dit des lplantes qui ont la consistance
 <lb/>et le tissu du bois, dont la
 <lb/>tige, les branches, lesracir.es sont
 <lb/>çomposées de couches concentriques
 <lb/>etsolides comme celles des arbres,
-<lb/>des arbustes.— <term>Ligneux</term>, <gram>s. m.</gram>
-<lb/>apnelé par les anciens chimistes <foreign xml:lang="lat">caput mortuum</foreign>,
+<lb/>des arbustes</sense>. <sense>— <term>Ligneux</term>, <gram>s. m.</gram>
+<lb/>apnelé par les anciens chimistes <gloss xml:lang="lat">caput mortuum</gloss>,
 <lb/>un des matériauN imrnédiats
 <lb/>des végétanx ; le squelette
 <lb/>vegétal, la matièré propre du bois
@@ -33075,11 +33075,11 @@
 <lb/>cbangeant par Paci.de nitrique en
 <lb/>acidesmalique, oxalique, acéteux,
 <lb/>etc. ; contenant plus de carbonc
-<lb/>qu’aucune autre matière végétale.
+<lb/>qu’aucune autre matière végétale</sense>.
 </entry>
 
 <entry>
-<orth>Lignite</orth>, <gram>s. m.</gram> de <foreign xml:lang="lat">lignum</foreign>, bois ;
+<orth>Lignite</orth>, <gram>s. m.</gram> de lignum, bois ;
 <lb/>nom générique cles sels formés par
 <lb/>l’union de l’acide lign.eiix avec lcs
 <lb/>bases salifiables. V. <ref>Pyrolignite</ref>.
@@ -33181,8 +33181,8 @@
 <entry>
 <orth>Lingual</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">lingualis</foreign>,
 <lb/>cle <hi>lingua</hi>, la langue ; qui a rapport
-<lb/>a la langue : <term>nerf lingual</term>, <term>artère</term>
-<lb/><term>linguale</term>.
+<lb/>a la langue : nerf lingual, artère
+<lb/>linguale.
 </entry>
 
 <entry>
@@ -33233,7 +33233,7 @@
 
 <entry>
 <orth>Lipothymie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lipothymia</foreign>,
-<lb/><foreign xml:lang="lat">animi deliquium</foreign>, <foreign xml:lang="lat">animi defectus</foreign>,
+<lb/><gloss xml:lang="lat">animi deliquium</gloss>, <gloss xml:lang="lat">animi defectus</gloss>,
 <lb/>de λείπω, je manqiic, et de θυμὸς,
 <lb/>esprit, ame, courage ; découragerncnt;
 <lb/>défaillance; pamoison; diminution
@@ -33307,13 +33307,13 @@
 <lb/>la vessie.
 </entry>
 
-<entry>
+<entry xml:id="litharge">
 <orth>Litharge</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lithargyrium</foreign>,
-<lb/>en grec <foreign xml:lang="grc">λιθαργυρος</foreign>, dérivé de λίθος,
+<lb/>en grec <foreign xml:lang="grc"><choice><sic>λιθαργυρος</sic><corr>λιθάργυρος</corr></choice></foreign>, dérivé de λίθος,
 <lb/>pierre, et εΓἀργυρος, argent ; comme
-<lb/>si l’on disoit <hi>pierre Pargent</hi>, oxyde
-<lb/>de plomb deini-vitreux ; — <term>Litharge</term>,
-<lb/><gram>adj.</gram> altéré avec He la lilharge.
+<lb/>si l’on disoit <hi>pierre Pargent</hi>, <sense n="1">oxyde
+<lb/>de plomb deini-vitreux</sense> ; <sense>— <term>Litharge</term>,
+<lb/><gram>adj.</gram> altéré avec He la lilharge</sense>.
 </entry>
 
 <entry>
@@ -33334,7 +33334,7 @@
 </entry>
 
 <entry>
-<orth>Lithique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">litJIicus</foreign>, de
+<orth>Lithique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">lithicus</foreign>, de
 <lb/>λίθος, pierre ; nom qu’on a d’abord
 <lb/>donné a l’aciile tiré du calcul de la
 <lb/>vessie. Voyez <ref>Urique</ref>.
@@ -33412,7 +33412,7 @@
 <lb/>on tire la pierre de la vessic. II
 <lb/>vaudroit inieuN lui donner le norn
 <lb/>de <hi>cystotomie</hi> ; maisPUsage a prévalu:
-<lb/>— <term>lithotomiste</term>, chirurgien qni
+<lb/>— <orth>lithotomiste</orth>, chirurgien qni
 <lb/>s’adonne particulièrement a l’operation
 <lb/>de la taille.
 </entry>
@@ -33515,7 +33515,7 @@
 <lb/>àtl’autres nombres en progression
 <lb/>géométrique, dont l’invention est
 <lb/>due a <hi>J. Neper</hi>, baroh écossais ;
-<lb/>— <term>Logarithmique</term>, <gram>adj.</gram> et <gram>s. f.</gram> noni
+<lb/>— <orth>Logarithmique</orth>, <gram>adj.</gram> et <gram>s. f.</gram> noni
 <lb/>qu’on donne à une courbe géoinétnqueutile
 <lb/>danslaconstruction des
 <lb/>tables de logarithrnes.
@@ -33573,7 +33573,7 @@
 <entry>
 <orth>Lombrical</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">lumbricalis</foreign>,
 <lb/><foreign xml:lang="lat">vermicularis</foreign>, qui ressemble a
-<lb/>un lombric, <foreign xml:lang="lat">lumbricus</foreign> ; se dit de
+<lb/>un lombric, <hi>lumbricus</hi> ; se dit de
 <lb/>qi’atre pcîits muscles greles placés
 <lb/>dans la face palmaire de la jnain
 <lb/>et se terminant aux premièies phalangcs
@@ -33634,7 +33634,7 @@
 
 <entry>
 <orth>Lordose</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lordosis</foreign>, du grec
-<lb/>λορδωσις, de λιρδος, plie, coui’be; maiadie
+<lb/><foreign xml:lang="grc">λόρδωσις</foreign>, de λιρδος, plie, coui’be; maiadie
 <lb/>dans laquelie l’épine du dos
 <lb/>se courbc cn avant.
 </entry>
@@ -33671,7 +33671,7 @@
 </entry>
 
 <entry>
-<orth>Loup</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">lupus</foreign>, cn βΐΈ€ <foreign xml:lang="grc">λυκὸς</foreign>,
+<orth>Loup</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">lupus</foreign>, cn βΐΈ€ <foreign xml:lang="grc"><choice><sic>λυκὸς</sic><corr>λύκος</corr></choice></foreign>,
 <lb/>animal sauvage et camassier ; en
 <lb/>ihirurgie ulcère malin, virulent,
 <lb/>chancreuN,qui ronge leschairs des
@@ -33740,7 +33740,7 @@
 
 <entry>
 <orth>Lumbago</orth>, <gram>s. m.</gram>motlatin dérivé
-<lb/>de <foreign xml:lang="lat">lumbi</foreign>, les lornbes ; rhuniatisme
+<lb/>de lumbi, les lornbes ; rhuniatisme
 <lb/>aigu ou chroniqne des lombes, accompagné
 <lb/>d’une douleur plus ou
 <lb/>xnoiiis aiguë qui empêche de se
@@ -33749,7 +33749,7 @@
 
 <entry>
 <orth>Lumière</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lux</foreign>, <foreign xml:lang="lat">lumen</foreign>
-<lb/>des I alins, <foreign xml:lang="grc">λύκη, φῶς</foreign> des Grecs;
+<lb/>des I alins, <foreign xml:lang="grc">λύκη</foreign>, <foreign xml:lang="grc">φῶς</foreign> des Grecs;
 <lb/>corps simple,le premierqui frappe
 <lb/>l’œil de Phomme ; flnide tres-rare
 <lb/>répandu dans tout l’univers ; érnanant
@@ -33866,7 +33866,7 @@
 </entry>
 
 <entry>
-<orth>Lychnis</orth>, <gram>s. m.</gram> du. grec <foreign xml:lang="grc">λύχνις</foreign>,
+  <orth>Lychnis</orth>, <gram>s. m.</gram> du. grec <foreign xml:lang="grc"><choice><sic>λύχνις</sic><corr>λυχνὶς</corr></choice></foreign>,
 <lb/>lampe; plante caryophyllée, ainsi
 <lb/>nommée parce que les anciens faisoientavec
 <lb/>ses feuilles des mèches
@@ -33912,7 +33912,7 @@
 </entry>
 
 <entry>
-<orth>Lynx</orth>, <gram>s. m.</gram> cn grec <foreign xml:lang="grc">λύγξ</foreign>, de
+<orth>Lynx</orth>, <gram>s. m.</gram> cn grec <foreign xml:lang="grc">λὺγξ</foreign>, de
 <lb/>λυζὴ, lnmière; animaî inammifère,
 <lb/>carnassier, qui a les yeus fort bril]ans.
 <lb/>II est d’un fauve clair, avec
@@ -33929,7 +33929,7 @@
 </entry>
 
 <entry>
-<orth>Lyrée</orth>, <gram>adj.</gram> f. <foreign xml:lang="lat">folium lyratum</foreign>,
+<orth>Lyrée</orth>, <gram>adj.</gram> f. <gloss xml:lang="lat">folium lyratum</gloss>,
 <lb/>feuille dont la partie supérieure du
 <lb/>disque est entière, tandis que FInférieure
 <lb/>se divise en lobes qui vont
