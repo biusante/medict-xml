@@ -33969,7 +33969,7 @@
 </entry>
 
 <entry>
-<orth>Machine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">machina</foreign>, <foreign xml:lang="grc">μνχανὴ</foreign>
+<orth>Machine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">machina</foreign>, <foreign xml:lang="grc">μηχανὴ</foreign>
 <lb/>des Grecs ; tout instrument pour
 <lb/>tirer, lever, lancer quelque chose,
 <lb/>et en général pour augmcnter ou
@@ -33986,8 +33986,8 @@
 <lb/>combinées ou jointes ensemble ;
 <lb/><term>machine hydraulique</term>, celle qui
 <lb/>sert a élever l’eau d’une profondeur
-<lb/>quelconque : la pompe ; <term>machine </term>
-<lb/><term>pneumatique</term>, celle qui sert à faire
+<lb/>quelconque : la pompe ; <term>machine 
+<lb/>pneumatique</term>, celle qui sert à faire
 <lb/>te vide dans les vases, en soutirant
 <lb/>l’air.
 </entry>
@@ -34017,7 +34017,7 @@
 
 <entry>
 <orth>Macrocéphale</orth>, <gram>s. m., adj.</gram>
-<lb/><foreign xml:lang="lat">macrocéphalus</foreign> de μακρὸς, loiîg, ct de
+<lb/><foreign xml:lang="lat"><choice><sic>macrocéphalus</sic><corr>macrocephalus</corr></choice></foreign> de μακρὸς, loiîg, ct de
 <lb/><pb n="202" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0218/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=218"/>κφαλεὴ, tête; qui a nne longue téte ;
 <lb/>ïloin que donne HIppocrate a certains
 <lb/>peunles d’Asie dont la disposition
@@ -34054,7 +34054,7 @@
 
 <entry>
 <orth>Madarose</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">madarosis</foreign>, (lîl
-<lb/>grec <foreign xml:lang="grc">μαδαρὸς</foreign>, qui est sans poil ;
+<lb/>grec μαδαρὸς, qui est sans poil ;
 <lb/>chute des eils des paupières: Chir.
 </entry>
 
@@ -34091,7 +34091,7 @@
 
 <entry>
 <orth>Magie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">magia</foreign>, en grec/
-<lb/><foreign xml:lang="grc">μαγειὰ</foreign>, de μαγις, n:nge, inagicien,
+<lb/><foreign xml:lang="grc"><choice><sic>μαγειὰ</sic><corr>μαγεία</corr></choice></foreign>, de μαγις, n:nge, inagicien,
 <lb/>c nchanteur ; ert qui apprend à faire
 <lb/>des t hoses surpre.nantes et mcrveilJeiises
 <lb/>contre l’ordrc de la nature.
@@ -34113,7 +34113,7 @@
 </entry>
 
 <entry>
-<orth>Magistère</orth>, <gram>s. n.</gram> <foreign xml:lang="lat">magisteriurn</foreign>,
+<orth>Magistère</orth>, <gram>s. n.</gram> <foreign xml:lang="lat">magisterium</foreign>,
 <lb/>tern e par lequel les anciens chimistes
 <lb/>désignoieirt toute préparation
 <lb/>sccrète ε/un médicament : ils
@@ -34201,33 +34201,33 @@
 <lb/>en général tout ce qui est
 <lb/>opposé au bien ou â la santé du
 <lb/>corps.
-<lb/><orth><hi>Mal des ardens</hi></orth>. <hi>yeyez</hi> <ref>Erysipèle</ref>.
-<lb/><orth>Mal d’aventure</orth>, <hi>ad imum unguern</hi>
-<lb/><hi>abscessus</hi>. VOy. <ref>Panaris</ref>.
-<lb/> <orth>Mal caduc</orth>, mal S.-Jean, hautmal.
+<lb/><term><hi>Mal des ardens</hi></term>. <hi>yeyez</hi> <ref>Erysipèle</ref>.
+<lb/><term>Mal d’aventure</term>, <gloss xml:lang="lat">ad imum unguem abscessus</gloss>
+<lb/>VOy. <ref>Panaris</ref>.
+<lb/><term>Mal caduc</term>, mal S.-Jean, hautmal.
 <lb/>V. <ref>Épilepsie</ref>.
-<lb/><orth>Mal de cœur</orth>, <foreign xml:lang="lat">cordolium</foreign>,<foreign xml:lang="lat">nausea</foreign>,
+<lb/><term>Mal de cœur</term>, <foreign xml:lang="lat">cordolium</foreign>,<foreign xml:lang="lat">nausea</foreign>,
 <lb/>soûlcvement d’estomac accompagiié
 <lb/>de dégoût on d’anorexie.
-<lb/><orth>Mal d’enfant</orth>, <foreign xml:lang="lat">parturientis dolor</foreign>;
+<lb/><term>Mal d’enfant</term>, <gloss xml:lang="lat">parturientis dolor</gloss>;
 <lb/>travail d’une femme en couche.
-<lb/> <orth>Mal de mère</orth>, passion hystérique.
-<lb/> <orth>Mal-mort</orth>, <foreign xml:lang="lat">malum mortuum</foreign> ; espèce
+<lb/> <term>Mal de mère</term>, passion hystérique.
+<lb/> <term>Mal-mort</term>, <foreign xml:lang="lat">malum mortuum</foreign> ; espèce
 <lb/>dc lèpro ainsi appeléè parce
 <lb/>que la pcau paroît comme morte
 <lb/>dans les endroits ma’ades. Ellc est
 <lb/>presque insensible, et necause aucu’ne
 <lb/>douleur, si VOn en excepte ιιη
 <lb/>prnrit. très-supportable.
-<lb/>— <orth>Mal de Naples</orth>, <foreign xml:lang="lat">morbus Neapolitanus</foreign>,
-<lb/><foreign xml:lang="lat">lues vencrea</foreign> ; ηοηὸ qtic les
+<lb/>— <term>Mal de Naples</term>, <foreign xml:lang="lat">morbus Neapolitanus</foreign>,
+<lb/><foreign xml:lang="lat">lues venerea</foreign> ; ηοηὸ qtic les
 <lb/>Françaisdonnent à lavérole, parce
 <lb/>qne des.soldats Papportèient,dit-on,
 <lb/>autrefois du siége deNap.les. Les
 <lb/>Italiens, au contraire, qiialifîent
-<lb/>cette inaladiede <hi>Inal jïaiIçais,</hi> <foreign xml:lang="lat">morbus </foreign>
-<lb/><foreign xml:lang="lat">gallicus</foreign>.
-<lb/>— <orth>Mal de Siam</orth>, maladie contagieuse,
+<lb/>cette inaladiede <term>mal français</term>, <foreign xml:lang="lat">morbus gallicus</foreign>.
+<lb/>
+<lb/>— <term>Mal de Siam</term>, maladie contagieuse,
 <lb/>ainsi appelee parce qu’elle
 <lb/>fnt apportée cle <hi>SIarn</hi> dans les îles
 <lb/>de l’Amérique par un navire francais
@@ -34246,9 +34246,9 @@
 <lb/>légère céphalalgie, et néanmoins
 <lb/>mort inopinée ; bieutôt après, noirceur
 <lb/>et pourriture des cadavres.
-<lb/>— <orth>Mal-S.-Antoine</orth>. <hi>yeyeT</hi>, <ref>Erysipèle</ref>.
-<lb/>— <orth>Mal-S.-Jean</orth>, VOy. <ref>Epilepsie</ref>.
-<lb/>— <orth>Mal-S. - Main</orth> ; la gale ou la
+<lb/>— <term>Mal-S.-Antoine</term>. <hi>yeyeT</hi>, <ref>Erysipèle</ref>.
+<lb/>— <term>Mal-S.-Jean</term>, VOy. <ref>Epilepsie</ref>.
+<lb/>— <term>Mal-S.-Main</term> ; la gale ou la
 <lb/>lèpre.
 </entry>
 
@@ -34305,26 +34305,26 @@
 <entry>
 <orth>Malactique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">malacticus</foreign>,
 <lb/>de μαλάσσω, je ramollis ; se dit des
-<lb/>remèdes qui rainollissent. V. <ref>Emollient</ref>.
+<lb/>remèdes qui rainollissent. V. <ref>Émollient</ref>.
 </entry>
 
 <entry>
 <orth>Maladie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">morbus</foreign>, en grec
-<lb/><foreign xml:lang="grc">νόσος</foreign>, <foreign xml:lang="grc">νόσημα, πάθος, πάθημα</foreign> ; Ι’θρρθδό
+  <lb/><foreign xml:lang="grc">νόσος</foreign>, <foreign xml:lang="grc">νόσημα</foreign>, <foreign xml:lang="grc">πάθος</foreign>, <foreign xml:lang="grc">πάθημα</foreign> ; Ι’θρρθδό
 <lb/>de la santé ; altération notable et
 <lb/>permancnte |d’une ou dc plusieurs
 <lb/>îbnctious de Féconomie animale.
 </entry>
 
 <entry>
-<orth>Maladif</orth>, IVE, <gram>adj.</gram> <foreign xml:lang="lat">morbosus in</foreign>
-<lb/><pb n="204" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0220/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=220"/><foreign xml:lang="lat">firmus</foreign>, <foreign xml:lang="lat">valetudinarius</foreign> ; sujet a être
+<orth>Maladif</orth>, IVE, <gram>adj.</gram> <foreign xml:lang="lat">infirmus</foreign>, <foreign xml:lang="lat">infirmus</foreign>,
+<lb/><pb n="204" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0220/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=220"/><foreign xml:lang="lat">valetudinarius</foreign> ; sujet a être
 <lb/>malade, irifirme, valétud’inaire.
 </entry>
 
 <entry>
 <orth>Maladrerie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">nosocomium</foreign>,
-<lb/><foreign xml:lang="lat">valetudinarium leprosorum</foreign>, hôpital
+<lb/><gloss xml:lang="lat">valetudinarium leprosorum</gloss>, hôpital
 <lb/>de lépreux.
 </entry>
 
@@ -34345,7 +34345,7 @@
 </entry>
 
 <entry>
-<orth>Malate</orth>, <gram>s. m.</gram> de <foreign xml:lang="lat">malum</foreign>, pomme;
+<orth>Malate</orth>, <gram>s. m.</gram> de malum, pomme;
 <lb/>norn générique des sels neutrcs
 <lb/>formés par l’union de Pacide
 <lb/>malique avec les bases.
@@ -34365,8 +34365,8 @@
 <lb/>médecine; il a été ernployé dans
 <lb/>les derniers siècles pour désigner
 <lb/>le rnauvais caractère des rnaladies
-<lb/>en général. AInsi l’on appeloit <term>fièvres </term>
-<lb/><term>malignes</term> celles qui étoient accompagnées
+<lb/>en général. AInsi l’on appeloit <term>fièvres 
+<lb/>malignes</term> celles qui étoient accompagnées
 <lb/>d’accablement, de foiblesse,
 <lb/>de lassitudes, de tremblenient
 <lb/>des lèvres et des mains, de
@@ -34400,7 +34400,7 @@
 <lb/>par laquelle un corps cède sans sé
 <lb/>rompre à l’action du marteau qui
 <lb/>etend ses parties; elle se dit spécialement
-<lb/>des métaux ; — <term>Malléable</term>,
+<lb/>des métaux ; — <orth>Malléable</orth>,
 <lb/><gram>adj.</gram> <foreign xml:lang="lat">malleabilis</foreign>, qui jouit de
 <lb/>la malléabilité.
 </entry>
@@ -34437,7 +34437,7 @@
 
 <entry>
 <orth>Mamelle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">mamma</foreign> des Latins,
-<lb/><foreign xml:lang="grc">μασττὸς</foreign> des Grecs ; on doune
+<lb/><foreign xml:lang="grc"><choice><sic>μασττὸς</sic><corr>μαστὸς</corr></choice></foreign> des Grecs ; on doune
 <lb/>ce norn a des organes glanduleux
 <lb/>situés sur le ventre ou sur la poitrine
 <lb/>des animaux mammifères, et
@@ -34471,7 +34471,7 @@
 </entry>
 
 <entry>
-<orth>Mamillaire</orth>, <gram>adj.</gram> de <foreign xml:lang="lat">mammilla</foreign>,
+<orth>Mamillaire</orth>, <gram>adj.</gram> de mammilla,
 <lb/>petite mamelle ; qui a la fîguré
 <lb/>d’un mamelon.
 </entry>
@@ -34504,7 +34504,7 @@
 
 <entry>
 <orth>Manche</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">manica</foreign>, on appelle,
-<lb/>en <hi>p\\arruacae,manched’HIppocrate,</hi>
+<lb/>en p\\arruacae,<term>manche d’Hippocrate</term>,
 <lb/><foreign xml:lang="lat">manica Hippocratis</foreign>, un
 <lb/>sac en forme de cone renversé, ordinairement
 <lb/>de grosse étoffe, de
@@ -34594,7 +34594,7 @@
 </entry>
 
 <entry>
-<orth>Manipulation</orth>, <gram>s. f.</gram> de <foreign xml:lang="lat">manus</foreign>,
+<orth>Manipulation</orth>, <gram>s. f.</gram> de manus,
 <lb/>main ; manière d’opérer dans les
 <lb/>arts.
 </entry>
@@ -34621,7 +34621,7 @@
 </entry>
 
 <entry>
-<orth>Manœuvre</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">operatio obstetricia</foreign>,
+<orth>Manœuvre</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">operatio obstetricia</gloss>,
 <lb/>l’ensemble des opérations
 <lb/>que les chirurgiens exécutent sur
 <lb/>le mannequin pour s’exercer à la
@@ -34678,7 +34678,7 @@
 
 <entry>
 <orth>Marbre</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">marmor</foreign>, du grec
-<lb/>μαρμαρον, piel’re calcaire, dure,
+<lb/><foreign xml:lang="grc"><choice><sic>μαρμαρον</sic><corr>μάρμαρον</corr></choice></foreign>, piel’re calcaire, dure,
 <lb/>divclbement colorée, susceptible
 <lb/>d’un beau poli ; carbonate dechaux.
 </entry>
@@ -34692,7 +34692,7 @@
 </entry>
 
 <entry>
-<orth>Marcotte</orth>, <gram>s. t.</gram> <foreign xml:lang="lat">mergus</foreign>, <foreign xml:lang="lat">malleolus-</foreign>,
+<orth>Marcotte</orth>, <gram>s. t.</gram> <foreign xml:lang="lat">mergus</foreign>, <foreign xml:lang="lat">malleolus</foreign>,
 <lb/><foreign xml:lang="lat">propago</foreign>, branclie’de vigne,
 <lb/>defiguier, etc. on réjeton d’œillet
 <lb/>qu’on concheen terre, après avoir
@@ -34759,7 +34759,7 @@
 <lb/>dessept planètes ; nom que les anciëïis
 <lb/>chimistes donnôient au fer
 <lb/>et â ses différentes préparations;
-<lb/>— <term>Martial</term>, <gram>adj.</gram> qui tient de la nature
+<lb/>— <orth>Martial</orth>, <gram>adj.</gram> qui tient de la nature
 <lb/>ilu fer.
 </entry>
 
@@ -34821,7 +34821,7 @@
 <lb/>ressemblance ; nom que l’on donne
 <lb/>à une apophyse du temporal, à
 <lb/>cause de sa ressemblanco à un
-<lb/><pb n="207" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0223/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=223"/>mnmelon;— delâ <ref><hi>Mastoïdien</hi></ref><hi>, enne</hi>,
+<lb/><pb n="207" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0223/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=223"/>mnmelon;— delâ <orth><hi>Mastoïdien</hi></orth><hi>, enne</hi>,
 <lb/><gram>adj.</gram> <foreign xml:lang="lat">mastoïdeus</foreign>, qui a rapport â
 <lb/><term>Papophyse mastoïde</term>.
 </entry>
@@ -34853,10 +34853,10 @@
 </entry>
 
 <entry>
-<orth>Mat</orth>, E, <gram>adj.</gram> <foreign xml:lang="lat">impolitus</foreign>, <foreign xml:lang="lat">fuscus ;</foreign>
+<orth>Mat</orth>, E, <gram>adj.</gram> <foreign xml:lang="lat">impolitus</foreign>, <foreign xml:lang="lat">fuscus</foreign> ;
 <lb/>qui n’a point d’éclat, en parlant
 <lb/>des métaux qu’on met. en œuvre
-<lb/>sans lespolir; <term>couleur mate</term>, qui
+<lb/>sans lespolir; <hi>couleur mate</hi>, qui
 <lb/>a perdu son éclat.
 </entry>
 
@@ -34896,7 +34896,7 @@
 
 <entry>
 <orth>Matrice</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">matrix</foreign>, <foreign xml:lang="lat">uterus</foreign>,
-<lb/>du grec ὑστέρα,μήτρα; viscè;e creux,
+<lb/>du grec <foreign xml:lang="grc">ὑστέρα</foreign>,<foreign xml:lang="grc">μήτρα</foreign>; viscè;e creux,
 <lb/>conoÏde ou plutèt c.ncurbitiforme,
 <lb/>aplati d’avant enarrière, situédans
 <lb/>Phypogastre, entrc la vessie et
@@ -34948,27 +34948,27 @@
 <entry>
 <orth>Méat</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">meatus</foreign>, conduit
 <lb/>qui livrè passage â un liquide. ; ou
-<lb/>dit enanatomie le <term>méat auditif</term>,
-<lb/><term>meatus auditorius</term>, pour le trou auditif;
-<lb/>le <term>méat urinaire</term>, <term>meatus urinarius</term>,
+<lb/>dit enanatomie le <hi>méat auditif</hi>,
+<lb/><hi>meatus auditorius</hi>, pour le trou auditif;
+<lb/>le <hi>méat urinaire</hi>, <hi>meatus urinarius</hi>,
 <lb/>pour rurètre; lc <hi>meat</hi> cystique,
-<lb/><term>meatus cysticus</term>, pour le
+<lb/><hi>meatus cysticus</hi>, pour le
 <lb/>conduit qui porte la bile dela vésicule
 <lb/>du iiel dans le duodénum.
 </entry>
 
-<entry>
+<entry xml:id="mécanique">
 <orth>Mécanique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">mechanice</foreign>, de
-<lb/>μηχανὴ, machine ; la science des
+<lb/>μηχανὴ, machine ; <sense n="1">la science des
 <lb/>luis du mouveinent, des machines ;
 <lb/>e’le se divi.sc eu deux parties, la
 <lb/><ref>Dynamique</ref> et la <ref>Statique</ref>. V. Ces detlx mots. OU donne aussi le
 <lb/>nom de <hi>’mecanique</hi> à la structure
-<lb/>naturelle ou art ificielle d’un corps ;
-<lb/>— <term>Mécanique</term>, <gram>adj.</gram> <foreign xml:lang="lat">mechanicus;</foreign> se
+<lb/>naturelle ou art ificielle d’un corps</sense> ;
+<lb/> <sense>— <term>Mécanique</term>, <gram>adj.</gram> <foreign xml:lang="lat">mechanicus</foreign>; se
 <lb/>dit de tout <hi>ce</hi> qui a rapport auk
 <lb/>rnachines, des arts qui ont surtOIit
-<lb/>besoin du travail de la niain.
+<lb/>besoin du travail de la niain</sense>.
 </entry>
 
 <entry>
@@ -34997,7 +34997,7 @@
 <orth>Médecin</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">medicus</foreign>, clu
 <lb/>verbe latin <hi>medicari</hi>, remédier,
 <lb/>guérir, de μέδω, je soigne, ou de
-<lb/>μῆδὸς, soin, en grec ἰατρός, εΐ’ἰάομαι,
+<lb/>μῆδὸς, soin, en grec <foreign xml:lang="grc">ἰατρὸς</foreign>, εΐ’ἰάομαι,
 <lb/>je guéris ; celui qui exerce la médecine.
 <lb/>L’antiquité a donné différens
 <lb/>noms aux médecins selon leurs
@@ -35086,7 +35086,7 @@
 <orth>Médicamentaire</orth>, <gram>adj.</gram> <foreign xml:lang="lat">medicamentarius</foreign>,
 <lb/>qui concerne les médicamens,
 <lb/>leur préparation, etc. î
-<lb/><foreign xml:lang="grc">code médicamentaire</foreign>.
+<lb/>code médicamentaire.
 </entry>
 
 <entry>
@@ -35244,8 +35244,8 @@
 </entry>
 
 <entry>
-<orth>Mellite</orth>, <gram>s. Π.</gram> 011 PIERRE DE
-<lb/>MIEL, deμέλι, miel; espèce de biturne
+<orth>Mellite</orth>, <gram>s. Π.</gram> ou <orth>Pierre de miel</orth>,
+<lb/>deμέλι, miel; espèce de biturne
 <lb/>nouvellenicnt decouvert|en Allemagne,
 <lb/>dissoluble dans les alcalis,
 <lb/>conténant de Paliimine et tle la
@@ -35269,8 +35269,8 @@
 </entry>
 
 <entry>
-<orth>Mélœna</orth>, <gram>s. m.</gram> de μέλας, αινα,
-<lb/>αν, noir; <foreign xml:lang="lat">morbus niger</foreign>, vulgaireinent
+<orth><choice><sic>Mélœna</sic><corr>Mélæna</corr></choice></orth>, <gram>s. m.</gram> de μέλας, αινα,
+<lb/>αν, noir; <gloss xml:lang="lat">morbus niger</gloss>, vulgaireinent
 <lb/>inaladie noire, ainsi appeléc
 <lb/>parce que les malades rendent,
 <lb/>par lc voinissement, plusieurs livres
@@ -35289,7 +35289,7 @@
 
 <entry>
 <orth>Membrane</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">membrana</foreign> des
-<lb/>Latins,<foreign xml:lang="grc">ὑμὴν</foreign> ou <foreign xml:lang="grc">μήνιγξ</foreign> desGrecs; nom
+<lb/>Latins,<foreign xml:lang="grc">ὑμὴν</foreign> ou <foreign xml:lang="grc"><choice><sic>μήνιγξ</sic><corr>μῆνιγξ</corr></choice></foreign> desGrecs; nom
 <lb/>que les anatornistes donnent a des
 <lb/>orgahjes rarement isolés, mais disséminés,
 <lb/>pour ainsi dire,dans tous
@@ -35462,11 +35462,11 @@
 <lb/>dont le développementest souvent
 <lb/>tardif : tellcs sont l’albuginée,
 <lb/>la portion librc du péricardc, etc. ;
-<lb/>en <term>membranes séro - muqueuses</term>,
+<lb/>en <term>membranes séro-muqueuses</term>,
 <lb/>très-rares dans Péconomie animale :
 <lb/>telle est la vésicule du fiel à sa partie
-<lb/>inférieure ; et en <term>membranes</term>
-<lb/><term>fibro-muqueuses,</term> tellesque les uretères,
+<lb/>inférieure ; et en <term>membranes
+<lb/>fibro-muqueuses</term>, tellesque les uretères,
 <lb/>la portion membraneuse de
 <lb/>l’urètre, etc. — OUtre les <term>membranes
 <lb/>simples et composées</term>, l’auteur
@@ -35630,7 +35630,7 @@
 <lb/>lent, a l’aide d’une douce chaleur,
 <lb/>qui duroit un ηιοίβ, quarante
 <lb/>jours; — de la les noms de
-<lb/><foreign xml:lang="lat">mensis philosophicus</foreign>, mois philosophiqùe,
+<lb/><hi>mensis philosophicus</hi>, mois philosophiqùe,
 <lb/>de.dissolvant <hi>menstruel</hi>,
 <lb/>de <hi>menstrue</hi>. On a divisé les menstrttes,
 <lb/>en solides et cn fluides. Ccs
@@ -35654,10 +35654,10 @@
 </entry>
 
 <entry>
-<orth>Menstrues</orth>., <gram>s. f. pl.</gram> 011 MOIS,
-<lb/>RÉGLES, ORDINAIRES, PURGATIONS,
-<lb/>FLEURS, <foreign xml:lang="lat">menstrua</foreign>, <foreign xml:lang="lat">menses, </foreign>
-<lb/><foreign xml:lang="lat">purgationes</foreign>, én grec <foreign xml:lang="grc">καταμὴνια</foreign>, tle
+<orth>Menstrues</orth>., <gram>s. f. pl.</gram> ou <orth>Mois</orth>,
+<lb/><orth>Règles</orth>, <orth>Ordinaires</orth>, <orth>Purgations</orth>,
+<lb/><orth>Fleurs</orth>, <foreign xml:lang="lat">menstrua</foreign>, <foreign xml:lang="lat">menses, </foreign>
+<lb/><foreign xml:lang="lat">purgationes</foreign>, én grec <foreign xml:lang="grc"><choice><sic>καταμὴνια</sic><corr>καταμήνια</corr></choice></foreign>, tle
 <lb/>κατὰ, de, et de μὴν, mois ; c’est-à-dire
 <lb/>de chaque mois; écouiementdesang
 <lb/>par la.matrice, qui a lieu totis les
@@ -35683,7 +35683,7 @@
 <orth>Menton</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">mentum</foreign>, <foreign xml:lang="grc">γένειον</foreign> des
 <lb/>Grecs,éminence située au milieudu
 <lb/>bord inferieur de la face ; — de la
-<lb/><ref><hi>Mentonnier</hi></ref><hi>,ère</hi>, <gram>adj.</gram> <foreign xml:lang="lat">mentalis</foreign>,qui
+<lb/><orth><hi>Mentonnier</hi></orth><hi>,ère</hi>, <gram>adj.</gram> <foreign xml:lang="lat">mentalis</foreign>,qui
 <lb/>a rapport au inenton.
 </entry>
 
@@ -35692,7 +35692,7 @@
 <lb/>dérlvé du verbesyriaque quisignifie
 <lb/><hi>sonffler 011 respirer</hi> ; qui a uue
 <lb/><pb n="213" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0229/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=229"/>qualité malfaisante; — de là vicnt
-<lb/><ref><hi>Méphitisme</hi>,</ref> <gram>s. m.</gram> <foreign xml:lang="lat">mephtismus</foreign>,
+<lb/><orth><hi>Méphitisme</hi>,</orth> <gram>s. m.</gram> <foreign xml:lang="lat">mephtismus</foreign>,
 <lb/>exhalaison pernicieusc.
 </entry>
 
@@ -35775,12 +35775,12 @@
 </entry>
 
 <entry>
-<orth>Mesclérie</orth>. V. <ref>Eléphantiasis</ref>.
+<orth>Mesclérie</orth>. V. <ref>Éléphantiasis</ref>.
 </entry>
 
 <entry>
 <orth>Mésentère</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">mesenterium</foreign>
-<lb/>du glec μεσεντέριον, de μεσος, qui est
+<lb/>du glec <foreign xml:lang="grc">μεσεντέριον</foreign>, de μεσος, qui est
 <lb/>au milieti, et Α’ἔντερον, intestin ; lien
 <lb/>nlembraneux d’une forme irrégulière,
 <lb/>où l’on distingue deux bords^
@@ -35997,7 +35997,7 @@
 <lb/>au transport de la matière
 <lb/>morbifique dans un lieu différent
 <lb/>de celui qd’elle a occupé priinitivemcnt;de
-<lb/>la <ref><hi>Métastatique</hi></ref>, adj*
+<lb/>la <prth><hi>Métastatique</hi></prth>, adj*
 <lb/><foreign xml:lang="lat">metastaticus</foreign> <hi/>) transporte ailleurs;
 <lb/><pb n="215" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0231/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=231"/><term>crise métastatique</term>, celle où l’on
 <lb/>e.roit que la matière morbifique
@@ -36023,8 +36023,8 @@
 <lb/>descorps ; il attribuoit tout
 <lb/>ce qui existe dans PUnivers au concours
 <lb/>desatomes; voila pourquoi
-<lb/>il appeloit tous les corps des <foreign xml:lang="lat">syncriniata</foreign>
-<lb/>ou <foreign xml:lang="lat">syncriseis</foreign>. Ce niême
+<lb/>il appeloit tous les corps des syncriniata
+<lb/>ou syncriseis. Ce niême
 <lb/>auteur exprimoit la composition ou
 <lb/>génération des corps, par le verbe
 <lb/>συγκρίνεςται, s’unir, se mêler, et leur
@@ -36037,7 +36037,7 @@
 <lb/>reméler ou se recomposer. <hi>Cellius</hi>
 <lb/><hi>AUrelianus</hi> rendoit ce motparle
 <lb/>verbe latm <hi>recorpoiare</hi>, et le substantif
-<lb/><foreign xml:lang="grc">μετασύγκρισις</foreign> pal* <hi>recorporatio</hi>.
+<lb/><foreign xml:lang="grc">μετασύγκρισις</foreign> pal* <foreign xml:lang="lat">recorporatio</foreign>.
 <lb/>Les méthodiques donnoient le nom
 <lb/>de cycle métasyncritique à un
 <lb/>cours continu de remèdes pour
@@ -36053,7 +36053,7 @@
 <lb/>composée de cinq os disposés parallelement
 <lb/>et distingués seuleInent
 <lb/>par leurs noms génériques ;de
-<lb/><hi>\a</hi> <ref><hi>Métatarsien</hi></ref><hi>, enne</hi>, <gram>adj.</gram> <foreign xml:lang="lat">metatarsius</foreign>,
+<lb/><hi>\a</hi> <orth><hi>Métatarsien</hi></orth><hi>, enne</hi>, <gram>adj.</gram> <foreign xml:lang="lat">metatarsius</foreign>,
 <lb/>qui appartient au métatarse.
 </entry>
 
@@ -36091,7 +36091,7 @@
 <lb/>corps qui se forme dans Patmosphère,
 <lb/>tel que la pluie, laneige,
 <lb/>le tonnerre, la grele, etc.— de là
-<lb/><ref><hi>Méteorologique</hi></ref>, <gram>adj.</gram> qui concerne
+<lb/><orth><hi>Méteorologique</hi></orth>, <gram>adj.</gram> qui concerne
 <lb/>les météores.
 </entry>
 
@@ -36339,7 +36339,7 @@
 <lb/>combinées ensemble, multiplie teliement
 <lb/>la grandeur des objets,
 <lb/>qu’il fait distingûer a Pœil les plus
-<lb/>inlperceptibles ; — « de la <ref><hi>Microscopique</hi></ref>,
+<lb/>inlperceptibles ; — « de la <orth><hi>Microscopique</hi></orth>,
 <lb/><gram>adj.</gram> qui appartient au microscope;
 <lb/>— animal zoophyte qu’on
 <lb/>ne voit qu’a l’aide du microscope.
@@ -36389,7 +36389,7 @@
 </entry>
 
 <entry>
-<orth>Millet</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">febris miliaris</foreign>,
+<orth>Millet</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">febris miliaris</gloss>,
 <lb/>maladic caractériséc par de petits
 <lb/>boutons rouges, séparés les uns
 <lb/>des autres, très - nornbreux sur
@@ -36426,15 +36426,15 @@
 <lb/>avec du mininm. V. <ref>Madarose</ref>.
 </entry>
 
-<entry>
-<orth>Mine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">facies</foreign>, <foreign xml:lang="lat">vultus</foreign>, air
-<lb/>du visage ; — <term>fodina</term>, lieu où se
+<entry xml:id="mine">
+<orth>Mine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">facies</foreign>, <foreign xml:lang="lat">vultus</foreign>, <sense n="1">air
+<lb/>du visage </sense> ; <sense> — <foreign xml:lang="lat">fodina</foreign>, lieu où se
 <lb/>forment les rninéraux, sur-tout le »
-<lb/>métaux ; — en grec <foreign xml:lang="grc">μνᾶ</foreign>, sorte de
+<lb/>métaux </sense> ; <sense> — en grec <foreign xml:lang="grc">μνᾶ</foreign>, sorte de
 <lb/>poids grec qui revenoit a peu près
 <lb/>a la livre des ROrnains ; piece de
 <lb/>monnoie valant IOo drachmcs 01190
-<lb/>francs.
+<lb/>francs </sense>.
 </entry>
 
 <entry>
@@ -36497,7 +36497,7 @@
 </entry>
 
 <entry>
-<orth>Mithridate</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">antidotum mithridaticum</foreign>,
+<orth>Mithridate</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">antidotum mithridaticum</gloss>,
 <lb/>confection aromatique
 <lb/>par laquelle on prétend résister
 <lb/>aux poisons. SOn nom vient de
@@ -36517,7 +36517,7 @@
 </entry>
 
 <entry>
-<orth>Mitte</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">effluvium latrinarium</foreign>;
+<orth>Mitte</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">effluvium latrinarium</gloss>;
 <lb/>sorte d’émanation qui s’exhale
 <lb/>desfosses d’aisances, se porte
 <lb/>surlesyeuN, les enflamme, etprive
@@ -36532,8 +36532,8 @@
 <lb/>vive; ni pénétrante; gaz ammoniaqne,
 <lb/>suivant des expériences récente.s,
 <lb/>qui portcroient aussi à croire
-<lb/>que la <term>réunion de la mitte et du</term>
-<lb/><term>plomb</term> a lieu par la présence do
+<lb/>que la réunion de la mitte et du
+<lb/>plomb a lieu par la présence do
 <lb/>l’hydro-sulfure d’ammoniaque.
 </entry>
 
@@ -36561,7 +36561,7 @@
 </entry>
 
 <entry>
-<orth>Mœlle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">medulla</foreign>, substauce
+<orth>Moelle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">medulla</foreign>, substauce
 <lb/>douce et grasse d’une certaine consistance
 <lb/>contcnue dansla cavité des
 <lb/>grands os ;— subsfance vasculeuse
@@ -36745,7 +36745,7 @@
 </entry>
 
 <entry>
-<orth>Monœcie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">monœcia</foreign>, d&amp;
+<orth><choice><sic>Monoecie</sic><corr>Monœcie</corr></choice></orth>, <gram>s. f.</gram> <foreign xml:lang="lat">monœcia</foreign>, d&amp;
 <lb/>μόνος, seul, et (Γοῖκία, rnaison ; c’esta-diré
 <lb/><hi>une maison</hi> ; nom que LInné
 <lb/>donne a la vingt-unième classe dti
@@ -36912,14 +36912,14 @@
 </entry>
 
 <entry>
-<orth>Mortification</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">mortificatio;</foreign>
+<orth>Mortification</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">mortificatio</foreign>;
 <lb/>se di ten chii urgie de l’état des chaii s
 <lb/>près de se gaugréner, c’est-ù-dire qui
 <lb/>ne conservent phis de vitalité.
 </entry>
 
 <entry>
-<orth>Morve</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">mucus nasalis</foreign>,
+<orth>Morve</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">mucus nasalis</gloss>,
 <lb/>humeur visqueuse qui sort des narihes,
 <lb/>analogue aux iarmes, plus
 <lb/>chargée de muciiage, coagulabie,
@@ -36941,8 +36941,8 @@
 <entry>
 <orth>Moteur</orth>, trice, <gram>adj.</gram> <foreign xml:lang="lat">motor</foreign>, <foreign xml:lang="lat">motrix</foreign>,
 <lb/>qui meut, qui remue, qni imprime
-<lb/>ie mouyement; <term>muscles moteurs</term>
-<lb/><term>puissance motrice</term>.
+<lb/>ie mouyement; muscles moteurs
+<lb/>puissance motrice.
 </entry>
 
 <entry>
@@ -36959,7 +36959,7 @@
 </entry>
 
 <entry>
-<orth>Moufle</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">trochlea composita</foreign>,
+<orth>Moufle</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">trochlea composita</gloss>,
 <lb/>poulie composée ; <foreign xml:lang="lat">polyspastus</foreign>,
 <lb/>üe πιλυ, beaucoup, iorternent,
 <lb/>et dti verbc σπάω, jetire; systeme
@@ -37003,7 +37003,7 @@
 </entry>
 
 <entry>
-<orth>Mucillagineux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">mucilaginosus</foreign>,
+<orth>Mucilagineux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">mucilaginosus</foreign>,
 <lb/>qui contient ou qui est
 <lb/>de la nature du inucilage.
 </entry>
@@ -37024,12 +37024,12 @@
 <orth>Mucus</orth>, <gram>s. m.</gram> rnot latin qui signifîe
 <lb/>morve^ mucosité; pcpduit de
 <lb/>l’èxc/étion des membranes muqueuses:
-<lb/><term>mucus nasal</term>, <term>mucus buccal</term>,
-<lb/><term>mucus intestinal</term>, etc.
+<lb/>mucus nasal, mucus buccal,
+<lb/>mucus intestinal, etc.
 </entry>
 
 <entry>
-<orth>Muguet</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">aphthae puerorum</foreign>,
+<orth>Muguet</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">aphthæ puerorum</gloss>,
 <lb/>petites pustules commençant
 <lb/>par de petits points rouges, et devenant
 <lb/>ensuite blanchatres ou grisatres,
@@ -37052,7 +37052,7 @@
 </entry>
 
 <entry>
-<orth>Mules</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">mulae</foreign>, pùstules
+<orth>Mules</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">mulæ</foreign>, pùstules
 <lb/>occasionnées par lc froid; sorte
 <lb/>d’engeiure aux talons.
 </entry>
@@ -37126,15 +37126,15 @@
 </entry>
 
 <entry>
-<orth>Multivalve</orth>, <gram>adj.</gram> <foreign xml:lang="lat">multivalvus ;</foreign>
+<orth>Multivalve</orth>, <gram>adj.</gram> <foreign xml:lang="lat">multivalvus</foreign> ;
 <lb/>se dit des coquilles ou des fruits
 <lb/>qui s’ouvrent en plusieurs valves.
 </entry>
 
-<entry>
+<entry xml:id="muqueux">
 <orth>Muqueux</orth>, EUsE, <gram>s. m.</gram> et <gram>adj.</gram>
-<lb/><foreign xml:lang="lat">mucosus</foreign>, qui conticnt du mucilagc;
-<lb/>— le <term>muqueux</term>. <foreign xml:lang="lat">corpus mucosum</foreign>,
+<lb/><foreign xml:lang="lat">mucosus</foreign>, <sense n="1">qui conticnt du mucilagc</sense>;
+<lb/><sense> — le <term>muqueux</term>. <gloss xml:lang="lat">corpus mucosum</gloss>,
 <lb/>corps solide 011 mou; blanchâtre,
 <lb/>fade, inodore ; soluble
 <lb/>dans l’eau qu’il rend visqueuse et
@@ -37146,11 +37146,11 @@
 <lb/>d’ans i’eau ; contenu as.sez abondammcnt
 <lb/>dans la graine de Hn,
 <lb/>dans les racines, les feuilles et les
-<lb/>flcurs des mâlvacées.
+<lb/>flcurs des mâlvacées</sense>.
 </entry>
 
 <entry>
-<orth>Murène</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">murœna</foreign>, en grec
+<orth>Murène</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>murœna</sic><corr>muræna</corr></choice></foreign>, en grec
 <lb/><foreign xml:lang="grc">μύραινα</foreign>, poisson de mer nonimé
 <lb/>aussi <hi>lamproie</hi> ; μύρβς est le nom du
 <lb/>màlc de cette espèce.
@@ -37181,7 +37181,7 @@
 </entry>
 
 <entry>
-<orth>Muriatique oxygéné</orth>, <gram>adj.</gram> <foreign xml:lang="lat">munaticus oxygenatus</foreign>,
+<orth>Muriatique oxygéné</orth>, <gram>adj.</gram> <foreign xml:lang="lat">muriaticus oxygenatus</foreign>,
 <lb/>ηοηι de l’acide
 <lb/>munatique avec excès d’oxygène;
 <lb/>crystaliisable eu iamcs ; pcsant à
@@ -37261,8 +37261,8 @@
 </entry>
 
 <entry>
-<orth>Myléène</orth> (apophyse), <gram>adj. f.</gram>
-<lb/><foreign xml:lang="lat">apophysis mylœna</foreign>, (Ιβμύλη, meule,
+<orth>Myléène (apophyse)</orth> , <gram>adj. f.</gram>
+<lb/><foreign xml:lang="lat">apophysis mylæna</foreign>, (Ιβμύλη, meule,
 <lb/>d’où. l’on a fait molaire pour les
 <lb/>dents; nom d’une des <hi>apophyses</hi> d’e
 <lb/>la machoire diacranienne, ainsi appelée
@@ -37324,7 +37324,7 @@
 <lb/>lesobjets qu*. de près, et en clignant
 <lb/>lcs yenx ; vice dont la cause
 <lb/>tient à la trop grandé convexité du
-<lb/>crystallin ; — de là <ref><hi>Myope</hi></ref>, <gram>adj.</gram> et
+<lb/>crystallin ; — de là <orth><hi>Myope</hi></orth>, <gram>adj.</gram> et
 <lb/>subst. celui qui a la vue courte.
 </entry>
 
@@ -37375,7 +37375,7 @@
 <lb/>μέτριν, mesure ou mttre ; longueur
 <lb/><pb n="223" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0239/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=239"/>ie dix mille nteties ; deux licuos
 <lb/>moyennes, un peu plus qu’un
-<lb/>poste. FqyezMÉTRE.
+<lb/>poste. V. <ref>Mètre</ref>.
 </entry>
 
 <entry>
@@ -37476,7 +37476,7 @@
 
 <entry>
 <orth>Nain</orth>, E, s. et <gram>adj.</gram> <foreign xml:lang="lat">nanus</foreign>, <foreign xml:lang="lat">pumilio</foreign>,
-<lb/>en grec <foreign xml:lang="grc">νάνος</foreign> οιι <foreign xml:lang="grc">νάννος</foreign> ; se dit
+<lb/>en grec <foreign xml:lang="grc"><choice><sic>νάνος</sic><corr>νᾶνος</corr></choice></foreign> οιι <foreign xml:lang="grc">νάννος</foreign> ; se dit
 <lb/>d’un homnie ou d’une femme qui
 <lb/>ont une taille beaitcoup au dessous
 <lb/>de la taille ordinaire ; — noni des
@@ -37487,7 +37487,7 @@
 
 <entry>
 <orth>Napacée</orth> ou <orth>Napiforme</orth>, <gram>adj.</gram>
-<lb/><foreign xml:lang="lat">jIapacea</foreign> ou <foreign xml:lang="lat">napiformis</foreign> ; se difc
+<lb/><foreign xml:lang="lat">napacea</foreign> ou <foreign xml:lang="lat">napiformis</foreign> ; se difc
 <lb/>d’une raciue qui ressemble a un
 <lb/>navet : BOtan.
 </entry>
@@ -37510,7 +37510,7 @@
 
 <entry>
 <orth>Narcotique</orth>, <gram>s. m., adj.</gram> <foreign xml:lang="lat">narcoticus</foreign>,
-<lb/>du grec ναρκωτικὸς, dérivé de
+<lb/>du grec <foreign xml:lang="grc">ναρκωτικὸς</foreign>, dérivé de
 <lb/>νάρκη, assoupissement. engourdissement;
 <lb/>sc dit des substances qui
 <lb/>ont la propriété d’assoupir et d’engourdir.
@@ -37605,7 +37605,7 @@
 
 <entry>
 <orth>Nausée</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">nausea</foreign>, en <hi>grcc</hi>
-<lb/><foreign xml:lang="grc">ναυσια</foreign>,, de ναῦς, vaisseau ; envie de
+<lb/><foreign xml:lang="grc"><choice><sic>ναυσια</sic><corr>ναυσία</corr></choice></foreign>,, de ναῦς, vaisseau ; envie de
 <lb/>vomir qui provient de dégoût,
 <lb/>ainsi appelée parce qu’on y est
 <lb/>sujet sur mer. C’est un symptôme
@@ -37703,7 +37703,7 @@
 </entry>
 
 <entry>
-<orth>Nectaire</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">nectariurn</foreign>,
+<orth>Nectaire</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">nectarium</foreign>,
 <lb/>partie accessoire ou comme ajoutée,
 <lb/>adnée a un des quatre principaux,
 <lb/>organes floraux. Ce niot est
@@ -37774,7 +37774,7 @@
 </entry>
 
 <entry>
-<orth>Néphritis</orth>, <gram>s. f.</gram> <foreign xml:lang="grc">νεφρίτις</foreign>, de νεφρος,
+<orth>Néphritis</orth>, <gram>s. f.</gram> <foreign xml:lang="grc"><choice><sic>νεφρίτις</sic><corr>νεφρῖτις</corr></choice></foreign>, de νεφρος,
 <lb/>rein ; inflammation des reins. Ses
 <lb/>causes sont la contusion des lombes,
 <lb/>le cahot des voitures, l’équitation
@@ -37841,7 +37841,7 @@
 
 <entry>
 <orth>Nerf</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">nervus</foreign>, du grec
-<lb/>νεῦρον, force, vigueur ; cordon l)lanchatre,
+<lb/><foreign xml:lang="grc">νεῦρον</foreign>, force, vigueur ; cordon l)lanchatre,
 <lb/>d’iine forme cylindrique,
 <lb/>d’une grosseur peu considérable,
 <lb/>composé d’un grand nombre de flamens,
@@ -37883,8 +37883,8 @@
 </entry>
 
 <entry>
-<orth>Nérites</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">neritae</foreign>, du
-<lb/>grec, dérivé de νηρὸς, humide,
+<orth>Nérites</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">neritæ</foreign>, du
+<lb/>grec <foreign xml:lang="grc">νηρίτης</foreign>, dérivé de νηρὸς, humide,
 <lb/>ou de νἀω, je coule; coquillages de
 <lb/>mer ou dè rivière.
 </entry>
@@ -37922,7 +37922,7 @@
 </entry>
 
 <entry>
-<orth>Névroptère</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">nevropterus</foreign>,
+<orth>Névroptère</orth>, <gram>s. m.</gram> <foreign xml:lang="lat"><choice><sic>nevropterus</sic><corr>neuropterus</corr></choice></foreign>,
 <lb/>de νεῦριν, nerf, et cle πτερὸν, aile ;
 <lb/>nom générique des insectes dont
 <lb/>les ailes sont transparentes et ont
@@ -37971,7 +37971,7 @@
 <lb/>de νεῦρον, nerf, ct de τέμνω, je dissèque;
 <lb/>partie de l’anatomie qui a
 <lb/>pour objet la dissection desnerfs;de
-<lb/>la <ref><hi>Névrotome</hi></ref>, <gram>s. m.</gram> scalpel
+<lb/>la <orth><hi>Névrotome</hi></orth>, <gram>s. m.</gram> scalpel
 <lb/>a deux tranchans, long et étroit,
 <lb/>en forme de stylet, propre a la dissection
 <lb/>des nerfs ; nom de celui qui
@@ -37986,8 +37986,8 @@
 </entry>
 
 <entry>
-<orth>Nez</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">nasus</foreign>, en grec <foreign xml:lang="grc">ῥίν</foreign> o
-<lb/><foreign xml:lang="grc">ρίς</foreign>, POrganede POdorat ; partie éminente
+<orth>Nez</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">nasus</foreign>, en grec <foreign xml:lang="grc"><choice><sic>ῥίν</sic><corr>ῥὶν</corr></choice></foreign> o
+<lb/><foreign xml:lang="grc"><choice><sic>ρίς</sic><corr>ῥὶς</corr></choice></foreign>, POrganede POdorat ; partie éminente
 <lb/>du visage, qui est entie le
 <lb/>front et la bouche.
 </entry>
@@ -38138,7 +38138,7 @@
 </entry>
 
 <entry>
-<orth>Nobles</orth> ( parties ), <gram>adj. pl.</gram>
+<orth>Nobles (parties)</orth> , <gram>adj. pl.</gram>
 <lb/><foreign xml:lang="lat">partes essentiales</foreign>, se dit en médecine
 <lb/>des parties sans lesquelles
 <lb/>l’homme ne peut. vivre, lc cœur’,
@@ -38162,8 +38162,8 @@
 </entry>
 
 <entry>
-<orth>Noctuelles</orth>, <gram>s. m. pl.</gram> de <foreign xml:lang="lat">nox</foreign>,
-<lb/>gén. <foreign xml:lang="lat">noctis</foreign>, lanuit; geure d’insectes
+<orth>Noctuelles</orth>, <gram>s. m. pl.</gram> de nox,
+<lb/>gén. noctis, lanuit; geure d’insectes
 <lb/>lépidoptères ainsi nommés parce
 <lb/>qd’ils volent principalement la nuir.
 </entry>
@@ -38223,7 +38223,7 @@
 
 <entry>
 <orth>Nomade</orth>, <gram>adj.</gram> <foreign xml:lang="lat">nomas</foreign>, en grec
-<lb/><foreign xml:lang="grc">νόμας</foreign>, qui recherche les pâturages ;
+<lb/><foreign xml:lang="grc"><choice><sic>νόμας</sic><corr>νομὰς</corr></choice></foreign>, qui recherche les pâturages ;
 <lb/>de νομὴ, pâturage, dérivé de νέμω,
 <lb/>je fais paître ; nom de certaius
 <lb/>peuples errans qui cbaugent continuellement
@@ -38236,7 +38236,7 @@
 
 <entry>
 <orth>Nombril</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">umbilicus</foreign>, en^
-<lb/>ΐΈεὀμφαλὸς ; espèce de trou borgne
+<lb/>grec <foreign xml:lang="grc">ὀμφαλὸς</foreign> ; espèce de trou borgne
 <lb/>qui reste au milieu du ventre de
 <lb/>l’animal, après la section du cordon
 <lb/>ombilical.
@@ -38252,7 +38252,7 @@
 </entry>
 
 <entry>
-<orth>Nosographie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">nosograpnia</foreign>,
+<orth>Nosographie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">nosographia</foreign>,
 <lb/>de νόσβς, maladie, et de γράφω, je
 <lb/>tlécris ; descriptiQü des nudadies,
 <lb/>c’est-a-dire énumération des causes
@@ -38331,8 +38331,8 @@
 <entry>
 <orth>Nourricier</orth>, ÈRE, <gram>adj.</gram> <foreign xml:lang="lat">nutritus</foreign>,
 <lb/>du verbe <hi>nutrio</hi>, je noiirris ;
-<lb/>ce qui nourrit: le <term>suc nourricier</term>,
-<lb/>la <term>lymphe nourricière</term>.
+<lb/>ce qui nourrit: le suc nourricier,
+<lb/>la lymphe nourricière.
 </entry>
 
 <entry>
@@ -38352,7 +38352,7 @@
 <orth>Nuage</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">nubes</foreign>, <foreign xml:lang="lat">nubecula</foreign>,
 <lb/>substance légère, visqueuse, blanchâtre,
 <lb/>qui nage ati milieudel’uriue.
-<lb/><hi>Vay</hi>Εz <ref>Enéorème</ref>.
+<lb/><hi>Vay</hi>Εz <ref>Énéorème</ref>.
 </entry>
 
 <pb n="229" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0245/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=245"/>
@@ -38449,7 +38449,7 @@
 
 <entry>
 <orth>Nymphe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">nympha</foreign>, en grec
-<lb/><foreign xml:lang="grc">νὸμφη</foreign>, jeune cpouse, nouvelle mariée;
+<lb/><foreign xml:lang="grc"><choice><sic>νὸμφη</sic><corr>νύμφη</corr></choice></foreign>, jeune cpouse, nouvelle mariée;
 <lb/>nom que les naturalistes don« 4
 <lb/>nent au premier degré de la rnétamorphose
 <lb/>des insectes, parce
