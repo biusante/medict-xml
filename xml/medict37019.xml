@@ -1437,7 +1437,7 @@
 
 <entry>
 <orth>Agaric</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">agaricum</foreign>, du grec
-<lb/><foreign xml:lang="grc">ἀγαρικὸν</foreign>. <term xml:lang="lat">Boletus igniarius</term>. L. SOrte
+<lb/><foreign xml:lang="grc">ἀγαρικὸν</foreign>. <gloss xml:lang="lat">Boletus igniarius</gloss>. L. SOrte
 <lb/>cle champignon qiii s’attache au
 <lb/>tronc des arbres, et dont on se sert
 <lb/>en chirurgie pour arrêter les hémorragies.
@@ -1559,8 +1559,8 @@
 <entry>
 <orth>Agonie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">agonia</foreign>, du grec
 <lb/>ἀγων, combat; dernière lutte du malade
-<lb/>contre la mort; de là <orth>agonisant</orth>,
-<lb/><gram>adj.</gram> <gloss xml:lang="fra">qui est à l’agonie</gloss>; <orth>agoniser</orth>,
+<lb/>contre la mort; de là <term>agonisant</term>,
+<lb/><gram>adj.</gram> <gloss xml:lang="fra">qui est à l’agonie</gloss>; <term>agoniser</term>,
 <lb/>v. n. <gloss xml:lang="fra">être à l’agonie</gloss>.
 </entry>
 
@@ -6173,7 +6173,7 @@
 
 <entry>
 <orth>Astrologie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">astrologia</foreign>, en
-<lb/>grec <foreign xml:lang="grc"><choice><sic>αστρολογια</sic><corr>ἀστρολογία</corr></foreign>, ίΐ’ἀστρον, astre, et de
+<lb/>grec <foreign xml:lang="grc"><choice><sic>αστρολογια</sic><corr>ἀστρολογία</corr></choice></foreign>, ίΐ’ἀστρον, astre, et de
 <lb/>λογὸς, discours ; science des astres,
 <lb/>art prétendu de connoître Vavenir
 <lb/>par PInspectîon des astres.
@@ -6218,7 +6218,7 @@
 
 <entry>
 <orth>Ataxie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ataxia</foreign>, du grec
-<lb/><foreign xml:lang="grc"><chocie><sic>ἀτάξια</sic><corr>ἀταξία</corr></chocie></foreign>, désordre, irrégularité, conίϊιεΐοη,
+<lb/><foreign xml:lang="grc"><choice><sic>ἀτάξια</sic><corr>ἀταξία</corr></choice></foreign>, désordre, irrégularité, conίϊιεΐοη,
 <lb/>composé d’à privatif, et de
 <lb/>τάξις, ordre ; dérangement, irrégularité
 <lb/>dans les crises etles palôNysmes
@@ -38541,7 +38541,7 @@
 
 <entry>
 <orth>Obole</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">obolus</foreign>, du grec
-<lb/>ὀβολὸς, petite rnonnoie de cuivre qui
+<lb/><foreign xml:lang="grc">ὀβολὸς</foreign>, petite rnonnoie de cuivre qui
 <lb/>valoit, dit-on, la moitié d’un denier
 <lb/>tournois; surte de poiils qui,
 <lb/>selon James, étoit d’environ neuf
@@ -38579,7 +38579,7 @@
 
 <entry>
 <orth>Obturateur</orth>, TRICE, <gram>adj.</gram> <foreign xml:lang="lat">obturator</foreign>,
-<lb/><foreign xml:lang="lat">trix</foreign>se dit des musclcs
+<lb/>trixse dit des musclcs
 <lb/>et autres parties qui bouchent le
 <lb/>trou ovalaireon sous-pubicndeFOs
 <lb/>înncminé ou coxal ; <term>obturateur du
@@ -38745,7 +38745,7 @@
 </entry>
 
 <entry>
-<orth>Odontopètres</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">odontopetrœ</foreign>,
+<orth>Odontopètres</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat"><choice><sic>odontopetrœ</sic><corr>odontopetræ</corr></choice></foreign>,
 <lb/>(Γόδούς, gén. ὀδὸντος, dent,
 <lb/>et de πέτρος, pierre ; nom que des
 <lb/>naturalistes donnent aux dents de
@@ -38786,7 +38786,7 @@
 </entry>
 
 <entry>
-<orth>Œdême</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œdema</foreign>, <foreign xml:lang="grc">ὄιδημα</foreign>
+<orth>Œdème</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œdema</foreign>, <foreign xml:lang="grc"><choice><sic>ὄιδημα</sic><corr>οἴδημα</corr></choice></foreign>
 <lb/>des Grecs, duverbe « δεω, je suis
 <lb/>enflé ; toute tumeur en général
 <lb/>suivant HIppocrate ; selon les modernes,
@@ -38810,7 +38810,7 @@
 <orth>Œdémosarque</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">œdemosarca</foreign>;
 <lb/>selon Marcus AUielius Sé*
 <lb/>vérinus, espèce de tumeur qui tienü
-<lb/>le miheu entre l’<ref>Œdême</ref> et le <ref>Sarcome</ref>.
+<lb/>le miheu entre l’<ref>Œdème</ref> et le <ref>Sarcome</ref>.
 <lb/>V. ces deux mots.
 </entry>
 
@@ -38830,8 +38830,8 @@
 <lb/>qui s’insère à sa partie inférieure
 <lb/>et un peu inteme ; surmonté cft
 <lb/>avant par un segment d’une plus
-<lb/>petite splière, qu’on appelle <term>cornée </term>
-<lb/><term>transparente</term> ; composé de trois tuniques,
+<lb/>petite splière, qu’on appelle <term>cornée 
+<lb/>transparente</term> ; composé de trois tuniques,
 <lb/>savoir : la sclérotique, la
 <lb/>clioroïde et la rétine, et d’un pareil
 <lb/>nombre d’humeurs, le corps
@@ -38847,7 +38847,7 @@
 </entry>
 
 <entry>
-<orth>Œnanthe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">oenanthes</foreign>, d’iivoo,
+<orth>Œnanthe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat"><choice><sic>ænanthes</sic><corr>œnanthes</corr></choice></foreign>, d’iivoo,
 <lb/>vin, et ιΐ’ἄνβος, fleur, c’est-a-dire
 <lb/><hi>fleur de vin</hi>, plante ombeliifère
 <lb/>ainsi appelée parce que ses fleurs
@@ -38906,8 +38906,8 @@
 </entry>
 
 <entry>
-<orth>Œstre</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œstrum</foreign> ou <foreign xml:lang="lat">æstrum</foreign> <hi>s</hi>,
-<lb/>en grec <foreign xml:lang="grc">ὀ͂ιστρος</foreign>, taon, aiguillon, du
+<orth>Œstre</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">œstrum</foreign> ou <foreign xml:lang="lat">œstrus</foreign> <hi>s</hi>,
+<lb/>en grec <foreign xml:lang="grc"><choice><sic>῏οιστρος</sic><corr>οἶστρος</corr></choice></foreign>, taon, aiguillon, du
 <lb/>verbe ὀιστρόω, je pique avec un aiguillon,
 <lb/>j’irrite, je rends fou; nom
 <lb/>que les naturalistcs donnent à un
@@ -38933,12 +38933,12 @@
 </entry>
 
 <entry>
-<orth>Œtites</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">oetites</foreign>, du grec
+<orth><choice><sic>Œtites</sic><corr>Ætites</corr></choice></orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ætites</foreign>, du grec
 <lb/>ὰετος, aigle ; pierre d’aigle, fcr liinoncux.
 </entry>
 
 <entry>
-<orth>Œuf</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ovum</foreign>, en grec <foreign xml:lang="grc">ὡὸν</foreign>,
+<orth>Œuf</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ovum</foreign>, en grec <foreign xml:lang="grc"><choice><sic>ὡὸν</sic><corr>ᾠὸν</corr></choice></foreign>,
 <lb/>dérivé d’oîov, seul, parce que chaque
 <lb/>femelle n’en pond ordinairement
 <lb/>qu’un par jour; substance le
@@ -38965,7 +38965,7 @@
 <lb/>κῆπος, jardin ; plante potagère â racine
 <lb/>ronde et bulbeuse; — <foreign xml:lang="lat">Tuber verrucosum</foreign> durete doulourense qui
 <lb/>vient aux pieds ; — <foreign xml:lang="lat">Bulbus</foreign>, du grec
-<lb/>βολβος, racine d’une forme ù peu pres
+<lb/><foreign xml:lang="grc"><choice><sic>βολβος</sic><corr>βολβὸς</corr></choice></foreign>, racine d’une forme ù peu pres
 <lb/>sphérique. V. <ref>Bulbe</ref>.
 </entry>
 
@@ -38993,7 +38993,7 @@
 </entry>
 
 <entry>
-<orth>Oléo-Saccharum</orth>. V. <ref>Eléo-saccharum</ref>.
+<orth>Oléo-Saccharum</orth>. V. <ref>Éléo-saccharum</ref>.
 </entry>
 
 <entry>
@@ -39006,7 +39006,7 @@
 <entry>
 <orth>Olfactif</orth>, IVE, <gram>adj.</gram> <foreign xml:lang="lat">olfactivus</foreign>,
 <lb/>d^olfactus, l’odorat; qni appartient
-<lb/>a POdorat; les <term>nerfs olfactifs</term>, ce.iix
+<lb/>a POdorat; les nerfs olfactifs, ce.iix
 <lb/>qui servent au sens de l’odorat ; la
 <lb/>premicre paire de nerfs encéphaliques
 <lb/>qui sort.ent de la moelle allongée
@@ -39015,7 +39015,7 @@
 </entry>
 
 <entry>
-<orth>Oliban</orth>, <gram>s. Π.</gram> <foreign xml:lang="lat">masculum thus</foreign>,
+<orth>Oliban</orth>, <gram>s. Π.</gram> <gloss xml:lang="lat">masculum thus</gloss>,
 <lb/>substance gommo-résineuse, d’un
 <lb/>jaune blanchâtre; espece d’encens
 <lb/>bien différent de celui qd’on brûle.
@@ -39030,7 +39030,7 @@
 
 <entry>
 <orth>Oligosperme</orth>, <gram>adj.</gram> <foreign xml:lang="lat">oligospermus</foreign>,
-<lb/>en grec <foreign xml:lang="grc">ὀλίγόσντερμος</foreign>, qui a peu de semence,
+<lb/>en grec <foreign xml:lang="grc"><choice><sic>ὀλίγόσπερμος</sic><corr>ὀλιγόσπερμος</corr></choice></foreign>, qui a peu de semence,
 <lb/>qui renfermepcu de grai-
 <lb/><pb n="233" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0249/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=249"/>nes, (Γὀλίγος, peu, et de σπερμα, se“
 <lb/>mence, graine.
@@ -39109,7 +39109,7 @@
 <lb/>des îles du côte opposé ; cette régionse
 <lb/>divise encore en troisparties,
 <lb/>une moyenne qui s’appellc
-<lb/>proprement <term>region ombilicale</term>, et
+<lb/>proprement <term>région ombilicale</term>, et
 <lb/>deux latéralcs, qu’on nommecommunémentles
 <lb/><hi>fldncseu</hi> les <hi>iles</hi>, du
 <lb/>latin <hi>ilia</hi>.
@@ -39140,7 +39140,7 @@
 </entry>
 
 <entry>
-<orth>Omoplates</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">omoplatae</foreign>,
+<orth>Omoplates</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">omoplatæ</foreign>,
 <lb/><foreign xml:lang="lat">scapulæ</foreign>, (Ι’ωμος, épaule, et
 <lb/>de πλατΰς, large ; os larges, rninces
 <lb/>et triangulaires, situés à la face
@@ -39201,7 +39201,7 @@
 <lb/><foreign xml:lang="lat">illitio</foreign>, l’action d’oindre une
 <lb/>partie, de la graisser ou de la frot-
 <lb/><pb n="234" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0250/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=250"/>ter avec une liqueur grasse, huileuse;— de
-<lb/>là <ref><hi>Onctueux</hi></ref><hi>, euse</hi>,
+<lb/>là <term><hi>Onctueux</hi></term><hi>, euse</hi>,
 <lb/><gram>adj.</gram> <foreign xml:lang="lat">onctuosus</foreign>, <foreign xml:lang="lat">oleosus</foreign>, gras el
 <lb/>huileux.
 </entry>
@@ -39249,14 +39249,14 @@
 </entry>
 
 <entry>
-<orth>Onglée</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">in extremis digitis rigor</foreign>,
+<orth>Onglée</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">in extremis digitis rigor</gloss>,
 <lb/>engourdissemeut douloureux
 <lb/>causé par le grand froid au
 <lb/>bout des doigts.
 </entry>
 
 <entry>
-<orth>Onglet</orth> ou <orth>Ongle</orth>, <gram>s. Π.</gram> <foreign xml:lang="lat">unguis;</foreign>
+<orth>Onglet</orth> ou <orth>Ongle</orth>, <gram>s. Π.</gram> <foreign xml:lang="lat">unguis</foreign>;
 <lb/>cn botanique, endroit par lequel
 <lb/>le petale tient au caliced’une plante;
 <lb/>— en pathologie, pellicule qui
@@ -39277,7 +39277,7 @@
 <lb/>grosses, susceptible d’intlammation,
 <lb/>d’ulcération, le plus souvent
 <lb/>doulonreux. C’est le <foreign xml:lang="ara">sebes</foreign> des Arabes,
-<lb/>le <foreign xml:lang="grc">πτέριγιον</foreign> des Grecs, lc <foreign xml:lang="lat">paniculus</foreign>
+<lb/>le <foreign xml:lang="grc"><choice><sic>πτέριγιον</sic><corr>πτερύγιον</corr></choice></foreign> des Grecs, lc <foreign xml:lang="lat">paniculus</foreign>
 <lb/>des Latins. V. <ref>Ptérigion</ref>.
 </entry>
 
@@ -39359,7 +39359,7 @@
 
 <entry>
 <orth>Ophiase</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ophiasis</foreign>, en grec
-<lb/><ref target="https://www.compart.com/fr/unicode/U+1F40">ὀ</ref><foreign xml:lang="grc">φίασις</foreign>, d’fyç, serpent ; maladie.qui
+<lb/><foreign xml:lang="grc">ὀφίασις</foreign>, d’fyç, serpent ; maladie.qui
 <lb/>fait tomber le poil et lcs cheveux
 <lb/>cn quelques endroits ducorps; de
 <lb/>sorte qu’il paroît rnoucheté comnie
@@ -39454,8 +39454,8 @@
 <lb/>duquel certains oculistes fîxent le
 <lb/>globle de l’œil ponr faire sur cet
 <lb/>organe les opérations nécessaires :
-<lb/>c’est ce qu’on appelle aussi <foreign xml:lang="lat">speculum </foreign>
-<lb/><foreign xml:lang="lat">oculi</foreign>.
+<lb/>c’est ce qu’on appelle aussi <gloss xml:lang="lat">speculum oculi</gloss>
+<lb/>.
 </entry>
 
 <entry>
@@ -39514,11 +39514,11 @@
 <lb/>de l’aorte descendante, ainsi appe’ée
 <lb/>parce qd’.elle naît derrière
 <lb/>l’estomac auquel elle fournit une
-<lb/>artère qu’on nomme <hi>comaire stomachique</hi>.
+<lb/>artère qu’on nomme <term>cornaire stomachique</term>.
 </entry>
 
 <entry>
-<orth>Opium</orth>, <gram>s. m.</gram> en grec <foreign xml:lang="grc">ὀπιον ,</foreign> ιΐ’ὀπὸς,
+<orth>Opium</orth>, <gram>s. m.</gram> en grec <foreign xml:lang="grc">ὄπιον</foreign>, ιΐ’ὀπὸς,
 <lb/>suc, liqueur ; suc tiré des tètes de
 <lb/>pavots, qu’on trouve dansle commerce
 <lb/>en gûteaux ordinairement
@@ -39538,7 +39538,7 @@
 <lb/>qu’on prépare en évaporant le suc
 <lb/>des têtes de pavots jusqu’â consistance
 <lb/>solide ou de rob ; enfin la.
-<lb/>troisieme ou le <hi>méconium</hi>, qu’on
+<lb/>troisieme ou le <term>méconium</term>, qu’on
 <lb/>extrait de ces memes têtes, peutêtre
 <lb/>même du marc, après en
 <lb/>avoir retiré le suc ; fournissant â
@@ -39584,7 +39584,7 @@
 <lb/>παν, tout, et ίΐ’άκέομαι, je remédie ;
 <lb/>snc résino - gommeuN qu’on tire
 <lb/>d’une plante ombellifèiedu Levant,
-<lb/>nommée <hi>grande berce</hi> ou <hi>panacée</hi>.
+<lb/>nommée <term>grande berce</term> ou <term>panacée</term>.
 <lb/>On le trouve en larmes de différentes
 <lb/>grosseurs, un peu grasses,
 <lb/>quoique friables, roussatres extérieurement,
@@ -39617,8 +39617,8 @@
 <lb/>parceqd’ellessortent les dernières,
 <lb/>et qu’elles ne viennent que dans
 <lb/>l’adolescence ; les anciens lesnommoient
-<lb/>aussi <foreign xml:lang="lat">cranteres</foreign>,<foreign xml:lang="lat"> sophronesteres</foreign>
-<lb/>ou <foreign xml:lang="lat">dentes sapientiæ</foreign>.
+<lb/>aussi <foreign xml:lang="lat">cranteres</foreign>, <foreign xml:lang="lat">sophronesteres</foreign>
+<lb/>ou <gloss xml:lang="lat">dentes sapientiæ</gloss>.
 </entry>
 
 <entry>
@@ -39628,14 +39628,14 @@
 <lb/>ou à la folie quelque aliment.
 </entry>
 
-<entry>
+<entry xml:id="optique">
 <orth>Optique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">optice</foreign>, <foreign xml:lang="lat">optica</foreign>,
-<lb/>du verbe οπτομαι, je vois ; science
+<lb/>du verbe οπτομαι, je vois ; <sense n="1">science
 <lb/>de la vision : elle traite de la lurnière
 <lb/>et deslois ou du mécanisme
-<lb/>de la vision.— <gram>adj.</gram> <foreign xml:lang="lat">Opticus</foreign>, <foreign xml:lang="grc">οπτικὸς</foreign>,
+<lb/>de la vision</sense>. <sense>— <gram>adj.</gram> <foreign xml:lang="lat">Opticus</foreign>, <foreign xml:lang="grc"><choice><sic>οπτικὸς</sic><corr>ὀπτικὸς</corr></choice></foreign>,
 <lb/>visueï ; qui concerne la vue ou la
-<lb/>vision.
+<lb/>vision</sense>.
 </entry>
 
 <entry>
@@ -39745,7 +39745,7 @@
 
 <entry>
 <orth>Oreille</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">auris</foreign> des Latins,,
-<lb/>ἶς, gén. <foreign xml:lang="grc">ὡτὸς</foreign> des Grecs ; organe de
+<lb/><foreign xml:lang="grc">οὖς</foreign>, gén. ὡτὸς des Grecs ; organe de
 <lb/>l’ouÏesituéde chaque côtéalapartie
 <lb/>inférieureetlatéralede la téte,divisé
 <lb/>par lamembrane du tambourendeuN
@@ -39807,7 +39807,7 @@
 </entry>
 
 <entry>
-<orth>Organisme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">d’organum</foreign>,
+<orth>Organisme</orth>, <gram>s. m.</gram> d’organum,
 <lb/>oii ύ’ιργανον, organe ; l’cnsemble de
 <lb/>toutes les lois qui régissent Téconomie
 <lb/>animale ; l’accord unanime
@@ -39844,7 +39844,7 @@
 <lb/>tumeur: ils l’appeloieut <foreign xml:lang="grc">κριθη</foreign>, orge,
 <lb/>quand elle ressembloit a un grain
 <lb/><pb n="238" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0254/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=254"/>d’orge, d’où l’on a formé <hi>orgeolet ;</hi>
-<lb/><hi>Xtifafa</hi>, grêle, en latin <foreign xml:lang="lat">grando</foreign>,
+<lb/><foreign xml:lang="grc"><choice><sic>χάλαξα</sic><corr>χάλαζα</corr></choice></foreign>, grêle, en latin <foreign xml:lang="lat">grando</foreign>,
 <lb/>quand ellc a la fonne d’un grain
 <lb/>de grele. Uqyez <ref>Lithiasie</ref>.
 </entry>
@@ -39855,8 +39855,8 @@
 <lb/>embouchure, et de <hi>f ’acio</hi>, je fais ;
 <lb/>toute ouverture qui sert d’entrée
 <lb/>ou d’issue à quelque partie intérieure
-<lb/>du corps; les <term>orifices de
-<lb/>l’estomac</term>, <term>l’orifice de la matrice</term>,
+<lb/>du corps; les orifices de
+<lb/>l’estomac, l’orifice de la matrice,
 <lb/>etc.
 </entry>
 
@@ -39909,7 +39909,7 @@
 </entry>
 
 <entry>
-<orth>Ornithotropie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ornithotrophia</foreign>,
+<orth>Ornithotrophie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ornithotrophia</foreign>,
 <lb/>d’o’pnç, gén. ἴρνιθος, oiseau, et
 <lb/>de τρέφω, je nourris, j’éleve ; art de
 <lb/>faire éclore et d’élever des oiseaux
@@ -39975,7 +39975,7 @@
 </entry>
 
 <entry>
-<orth>Orthopédie</orth>, <gram>s. Γ.</gram> <foreign xml:lang="lat">orthopaedia</foreign>,
+<orth>Orthopédie</orth>, <gram>s. Γ.</gram> <foreign xml:lang="lat"><choice><sic>orthopœdia</sic><corr>orthopædia</corr></choice></foreign>,
 <lb/>d’ôpioç, droit, et denaiç, gén. παιδὸς,
 <lb/>enfant; art de corriger oii de prévenir
 <lb/>les difformités du corpschez
@@ -40024,7 +40024,7 @@
 </entry>
 
 <entry>
-<orth>Ortiée</orth> (fièvre), <gram>adj.</gram> <foreign xml:lang="lat">urticaria febris</foreign>,
+<orth>Ortiée (fièvre)</orth> , <gram>adj.</gram> <foreign xml:lang="lat">urticaria febris</foreign>,
 <lb/> cVUrtica, ortie ; maladie
 <lb/>qui débute par une fièvre continue
 <lb/>avec rémi.ssion, dans laquelle il
@@ -40037,7 +40037,7 @@
 </entry>
 
 <entry>
-<orth>Oryctographie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">orycto » graphia</foreign>,
+<orth>Oryctographie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">oryctographia</foreign>,
 <lb/>d’ôpuzroç, enfoui ou fossile,
 <lb/>et tle γράφω, je décris ; description
 <lb/>des fossiles.
@@ -40053,7 +40053,7 @@
 
 <entry>
 <orth>Os</orth>,.<gram>s. m.</gram> <foreign xml:lang="lat">os</foreign>, gén. <foreign xml:lang="lat">οssιs</foreign> des Latins,
-<lb/><foreign xml:lang="grc">ὀντɛ̀ον</foreign> des Grecs ; partiesolide, dure,
+<lb/><foreign xml:lang="grc"><choice><sic>ὀστὲον</sic><corr>ὀστέον</corr></choice></foreign> des Grecs ; partiesolide, dure,
 <lb/>opaque,composée de phosphate calcaire
 <lb/>et de gélatine, dont les proportions
 <lb/>varient suivant les ages ;
@@ -40291,18 +40291,18 @@
 <lb/>POreille.
 </entry>
 
-<entry>
-<orth>Ouïe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">auditus</foreign>, organe dcs
-<lb/>sens par lequel on perçoit les sons ;
-<lb/>ouïes, au pl. <hi>branchiœ</hi>, du grec
-<lb/>βράγχια, organes de la respiration
+<entry xml:id="ouïe">
+<orth>Ouïe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">auditus</foreign>, <sense n="1">organe dcs
+<lb/>sens par lequel on perçoit les sons </sense> ;
+<lb/><sense> <term>ouïes</term>, au pl. <foreign xml:lang="lat"><choice><sic>branchiœ</sic><corr>branchiæ</corr></choice></foreign>, du grec
+<lb/><foreign xml:lang="grc">βράγχια</foreign>, organes de la respiration
 <lb/>chez les poissons, placés entre la
-<lb/>tête et le tronc. V. <ref>Branchies</ref>.
+<lb/>tête et le tronc</sense>. V. <ref>Branchies</ref>.
 </entry>
 
 <entry>
 <orth>Ouraque</orth>, <gram>s. n.</gram> <foreign xml:lang="lat">uracus</foreign>, <foreign xml:lang="lat">urinaculum</foreign>,
-<lb/>en grec <foreign xml:lang="grc">οὐραχὸν</foreign>, composé
+<lb/>en grec <foreign xml:lang="grc"><choice><sic>οὐραχὸν</sic><corr>οὐραχὸς</corr></choice></foreign>, composé
 <lb/>d’ovpov, urine, et duverbe ἔχω, je
 <lb/>contiens, ou ἄγω, je conduis ; petit
 <lb/>cordon ligamenteux du fœtus, qui
@@ -40334,7 +40334,7 @@
 
 <entry>
 <orth>Oursins</orth>, <gram>s. m. pl.</gram> du latin
-<lb/><foreign xml:lang="lat">ursus</foreign>, ours ; nom que les naturalistes
+<lb/>ursus, ours ; nom que les naturalistes
 <lb/>donnent a des animaux zoophytes,
 <lb/>de la famille des échinodermes,
 <lb/>revêtus d’une croûte calcaire
@@ -40445,7 +40445,7 @@
 
 <entry>
 <orth>Oxycrat</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">oxycratum</foreign>,
-<lb/><foreign xml:lang="grc">ὀξύκράτον</foreign>, d’ô|ùo, aigre, et de χραω,
+<lb/><foreign xml:lang="grc"><choice><sic>ὀξύκράτον</sic><corr>ὀξύκρατον</corr></choice></foreign>, d’ô|ùo, aigre, et de χραω,
 <lb/>jc mele ; mélange de vinaigre et
 <lb/>d’eau ; boisson acidule, rafraîchissante.
 </entry>
@@ -40455,7 +40455,7 @@
 <lb/>acide; notn générique de tous les
 <lb/>corps brûlés unis à une trop foible
 <lb/>portion d’oxygène pour les porter
-<lb/>à l’état d’acide; — de là <hi>Oxyder</hi>,
+<lb/>à l’état d’acide; — de là <term>Oxyder</term>,
 <lb/>v. act. fairedes oxydes; — <term>Oxydation</term>,
 <lb/><gram>s. f.</gram> l’.iction d’oxyder.
 </entry>
@@ -40486,9 +40486,9 @@
 <lb/>de la doctrine pneumatique; un
 <lb/>des plus violens excitans de la force
 <lb/>vitale, du mouvement musculaire
-<lb/>et de la germination ; — <ref>Oxygéner</ref>.,
+<lb/>et de la germination ; — <term>Oxygéner</term>.,
 <lb/>V. act. unir un corps à l’oxygêne ;
-<lb/>— <ref>Oxygénation,</ref> subst. f. Paction
+<lb/>— <term>Oxygénation,</term> subst. f. Paction
 <lb/>d’oxygéner.
 </entry>
 
@@ -40518,7 +40518,7 @@
 <pb n="242" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0258/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=258"/>
 
 <entry>
-<orth>Oxyrrhodin</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">oxyrrhodinurn</foreign>,
+<orth>Oxyrrhodin</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">oxyrrhodinum</foreign>,
 <lb/>d’ôfùç, aigre, et de ῥόδ’ιν, rose ;
 <lb/>comme si l’on disoit <hi>mélange de</hi>
 <lb/><hi>vinaigreet.de roses</hi>;— liniment COmposé
@@ -40533,8 +40533,8 @@
 </entry>
 
 <entry>
-<orth>Ozène</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">ozœna</foreign>, en grec
-<lb/><foreign xml:lang="grc">ὄξαινα</foreign>, du verbe ἴζω, je sens rnanv.iis;
+<orth>Ozène</orth>, <gram>s. m.</gram> <foreign xml:lang="lat"><choice><sic>ozœna</sic><corr>ozæna</corr></choice></foreign>, en grec
+<lb/><foreign xml:lang="grc"><choice><sic>ὄξαινα</sic><corr>ὄζαινα</corr></choice></foreign>, du verbe ἴζω, je sens rnanv.iis;
 <lb/>ulcère putride alinez, qui
 <lb/>exhale une odeurinfecte.
 </entry>
