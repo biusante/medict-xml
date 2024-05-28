@@ -49800,10 +49800,10 @@
 <lb/>ont rapport au sacrum ; — il signifie
 <lb/>quelquefois, dit James, terrible,
 <lb/>exécrable, détestable ; conune
-<lb/>dans les exemples suivans : <ref><hi>Feu sacré</hi></ref>,
-<lb/>espèce d’<ref>Erysipèle</ref> ;. <hi>mal sacré</hi>,
+<lb/>dans les exemples suivans : <term>Feu sacré</term>,
+<lb/>espèce d’<ref>Érysipèle</ref> ;. <term>mal sacré</term>,
 <lb/><ref>Épilepsie</ref>. V. ces mots.
-<lb/><foreign xml:lang="lat">Auri sacra fames</foreign>, l’exécrable soif
+<lb/><hi>Auri sacra fames</hi>, l’exécrable soif
 <lb/>des richesses : VIrgil.
 </entry>
 
@@ -49816,9 +49816,9 @@
 
 <entry>
 <orth>Sacro-ischiatique</orth>, <gram>s. Π.</gram> et <gram>adj.</gram>
-<lb/><foreign xml:lang="lat">sacro - ischiaticus</foreign> ; norn d’un ligament
-<lb/>qui s’attache au SACRUM et à
-<lb/>l’IsCHIUM. V. ces mots.
+<lb/><foreign xml:lang="lat">sacro-ischiaticus</foreign> ; norn d’un ligament
+<lb/>qui s’attache au <ref>Sacrum</ref> et à
+<lb/>l’<ref>Ischium</ref>. V. ces mots.
 </entry>
 
 <entry>
@@ -49845,8 +49845,8 @@
 </entry>
 
 <entry>
-<orth>Safran</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">crocus sativus</foreign>,
-<lb/><foreign xml:lang="lat">officinalis</foreign> L. en grec <foreign xml:lang="grc">κρὸκος</foreign> ; stigmates
+<orth>Safran</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">crocus sativus</gloss>,
+<lb/><gloss xml:lang="lat">crocus officinalis</gloss> L. en grec <foreign xml:lang="grc"><choice><sic>κρὸκος</sic><corr>κρόκος</corr></choice></foreign> ; stigmates
 <lb/>de la fleur d’une esp’èce de crocus;
 <lb/>— substance employée comme
 <lb/>assnisonnement aux Indes; en
@@ -49874,7 +49874,7 @@
 
 <entry>
 <orth>Sagittaire</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sagittarius</foreign>,
-<lb/>de <hi>sagitta</hi>, flèche, ou <hi>arcitenens</hi>,
+<lb/>de <hi>sagitta</hi>, flèche, ou <foreign xml:lang="lat">arcitenens</foreign>,
 <lb/>archer; l’un des douze signes du
 <lb/>zodiaque, où le soleil paroit entrer
 <lb/>ié 22 novembre : Astron.
@@ -49895,13 +49895,13 @@
 </entry>
 
 <entry>
-<orth>Sagou</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sagu granula</foreign>,
+<orth>Sagou</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">sagu granula</gloss>,
 <lb/>substance amilacée, en petits grains
 <lb/>arrondis, un peu anguleux ^blanche,
 <lb/>rougeàtre ou brunàtre ; opaque,
 <lb/>fade ; extraite de la moelle’
-<lb/>d’une espèce de palmier, <foreign xml:lang="lat">palma </foreign>
-<lb/><foreign xml:lang="lat">farinaria</foreign> de RUmph, a laquelle on
+<lb/>d’une espèce de palmier, <hi>palma 
+<lb/>farinaria</hi> de RUmph, a laquelle on
 <lb/>donne la forme sphérique, en la
 <lb/>réduisant en une pate qd’on fait
 <lb/>passer â travers un crible, et en la
@@ -49912,15 +49912,15 @@
 
 <entry>
 <orth>Saignée</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">phlebotomia</foreign>,
-<lb/><foreign xml:lang="lat">missio sanguinis</foreign>, <foreign xml:lang="lat">venœ sectio</foreign> ; ouverture
+<lb/><gloss xml:lang="lat">missio sanguinis</gloss>, <gloss xml:lang="lat"><choice><sic>venœ</sic><corr>venæ</corr></choice> sectio</gloss> ; ouverture
 <lb/>d’un vaisseau sanguin,
 <lb/>pour en tirer du sang;.— écouleinent
 <lb/>du sang par POUVerture du
 <lb/>vaisseau, — il y a deux sortcs de
 <lb/>vaisseaux qu’on peut ouvrir, lesartères
 <lb/>et les veines. L’ouverture des
-<lb/>artères s’appelle <hi>artériotomie</hi>, et
-<lb/>celle des veines <hi>phlebotomie</hi> : Chir.
+<lb/>artères s’appelle <term>artériotomie</term>, et
+<lb/>celle des veines <term>phlebotomie</term> : Chir.
 </entry>
 
 <entry>
@@ -49931,7 +49931,7 @@
 <lb/>l’homme, libremcnt, avec plaisir,
 <lb/>et d’uue rnanière COnstante; — se
 <lb/>dit anssi de ce qui est salubre et
-<lb/>contribue à la santé; — <term>air sain ;</term>
+<lb/>contribue à la santé; — <hi>air sain ;</hi>
 <lb/>l’exercice est sain.
 </entry>
 
@@ -49999,7 +49999,7 @@
 </entry>
 
 <entry>
-<orth>Salmones</orth>, <gram>s. m. pl.</gram> de <foreign xml:lang="lat">salmo</foreign>,“
+<orth>Salmones</orth>, <gram>s. m. pl.</gram> de salmo,“
 <lb/>gén. <hi>onis</hi>, sa u mon, genre de poisson s
 <lb/>osseux, operculés et à membrane
 <lb/>branchiale, dont les nageoires ventrales
@@ -50012,7 +50012,7 @@
 </entry>
 
 <entry>
-<orth>Salpêtre</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sal nitri</foreign>, <foreign xml:lang="lat">nitras potassæ</foreign>,
+<orth>Salpêtre</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">sal nitri</gloss>, <gloss xml:lang="lat">nitras potassæ</gloss>,
 <lb/>nîtrate de potasse,ou com.
 <lb/>binaison de la potasse avec l’acide
 <lb/>nitrique ; sel qn’on trouve dans les
@@ -50028,7 +50028,7 @@
 
 <entry>
 <orth>Salpingo-pharyngien</orth>, <gram>adj.</gram>
-<lb/><foreign xml:lang="lat">salpingo - pharyngeus</foreign>, de σαλπίγξ,
+<lb/><foreign xml:lang="lat">salpingo-pharyngeus</foreign>, de σαλπίγξ,
 <lb/>trompette, etde φἀρυγξ, lepharynx;
 <lb/>norn d’un muscle qui va de la trompe
 <lb/>d’EUstachi au pharynx.
@@ -50036,7 +50036,7 @@
 
 <entry>
 <orth>Salpingo-staphylin</orth>, <gram>adj.</gram>
-<lb/><foreign xml:lang="lat">salpingo - staphylinus</foreign>, de σαλπίγξ,
+<lb/><foreign xml:lang="lat">salpingo-staphylinus</foreign>, de σαλπίγξ,
 <lb/>trornpette, et de σταφυλὴ, la liiette;
 <lb/>nom d’un rnuscle qui, de la trompe
 <lb/>d’EUsfachi, se rend a la luette.
@@ -50109,8 +50109,8 @@
 
 <entry>
 <orth>Sandaraque</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sandaraca</foreign>,
-<lb/>dtt grec σανδαράχη ; nom que les Grecs
-<lb/>donnoient à un rnétal appelé <ref>arsenic rouge</ref> ;
+<lb/>dtt grec <foreign xml:lang="grc">σανδαράχη</foreign> ; nom que les Grecs
+<lb/>donnoient à un rnétal appelé <term>arsenic rouge</term> ;
 <lb/>— suc résineux du grnnd
 <lb/>genévrier, avec lequel on iait le
 <lb/>vernis.
@@ -50118,7 +50118,7 @@
 
 <entry>
 <orth>Sang</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sanguis</foreign>, <foreign xml:lang="lat">cruor</foreign> des Latins,
-<lb/><foreign xml:lang="grc">αιμα</foreign> des Grecs ; liquide rouge,
+<lb/><foreign xml:lang="grc"><choice><sic>αιμα</sic><corr>αἷμα</corr></choice></foreign> des Grecs ; liquide rouge,
 <lb/>concrescible par le froid et le repos,
 <lb/>coagulable par la chaleur, se séparant
 <lb/>par le repos et le lavage en
@@ -50136,14 +50136,14 @@
 </entry>
 
 <entry>
-<orth>Sangdragon</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sanguis draconis</foreign>,
+<orth>Sangdragon</orth>, <gram>s. m.</gram> <gloss xml:lang="lat">sanguis draconis</gloss>,
 <lb/>substance tannino resineuse,
 <lb/>en masse et en petits pains, înilammable,
 <lb/>d’un rougc foncé, presque
 <lb/>brune a l’intérieùr, d’un rougede
 <lb/>sang intérie* »’ement, presque inodore
-<lb/>et insipide, retirée du <foreign xml:lang="lat">dracœna </foreign>
-<lb/><foreign xml:lang="lat">draco</foreign> L. peu usitée en médecine,
+<lb/>et insipide, retirée du dracœna 
+<lb/>draco L. peu usitée en médecine,
 <lb/>et souvent sophistiquée.
 </entry>
 
@@ -50196,8 +50196,8 @@
 
 <entry>
 <orth>Sanguinolent</orth>, ENTE, <gram>adj.</gram> <foreign xml:lang="lat">sanguinolentus</foreign>,
-<lb/>teint de sang ; <term>pus sanguinolent</term>,
-<lb/><term>crachats sanguinolens</term>.
+<lb/>teint de sang ; pus sanguinolent,
+<lb/>crachats sanguinolens.
 </entry>
 
 <entry>
@@ -50240,7 +50240,7 @@
 </entry>
 
 <entry>
-<orth>Saphir</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sapphirits</foreign>, λ en
+<orth>Saphir</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sapphirus</foreign>, λ en
 <lb/>grec <foreign xml:lang="grc">σάπφειρος</foreign>, eui clérive peut-être
 <lb/>ίΐβςαφης, clair, brillant; pierre pré- cieuse d’une belle couleur bleue
 <lb/>veloutée, ainsi nommée ù causedc
@@ -50248,7 +50248,7 @@
 </entry>
 
 <entry>
-<orth>Saponacé</orth>, ÉE, <gram>adj.</gram> de <foreign xml:lang="lat">sapo</foreign>,
+<orth>Saponacé</orth>, ÉE, <gram>adj.</gram> de sapo,
 <lb/>savon ; qui est de la naturc du saVOI1.
 <lb/>V. <ref>Savonneux</ref>.
 </entry>
@@ -50292,7 +50292,7 @@
 </entry>
 
 <entry>
-<orth>Sarco-epiplocèle</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sarcoepiplocele</foreign>,
+<orth>Sarco-épiplocèle</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sarco-epiplocele</foreign>,
 <lb/>de σὰρξ, gén. σαρκὸς,
 <lb/>chair, d’ini^oov, l’épipfoon, et de
 <lb/>κήλη, tumeur ; hernie complète,
@@ -50302,7 +50302,7 @@
 </entry>
 
 <entry>
-<orth>Sarco-epiplomphale</orth>. <gram>s. m.</gram> <foreign xml:lang="lat">sarco-epiplomphalus</foreign>,’
+<orth>Sarco-épiplomphale</orth>. <gram>s. m.</gram> <foreign xml:lang="lat">sarco-epiplomphalus</foreign>,’
 <lb/>de σὰρξ, chair,(
 <lb/>Ι’ἐπίπλοοη, l’épiploon, et ίΐ’ομφαλὸς,
 <lb/>le nombril ; hernie complete pro
@@ -50311,7 +50311,7 @@
 </entry>
 
 <entry>
-<orth>Sarco-hydrocèle</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sarcohydrocele</foreign>,
+<orth>Sarco-hydrocèle</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sarco-hydrocele</foreign>,
 <lb/>de σὰρξ, chair, d’W’ooç,
 <lb/>eau, οίίΐθκήλη, tumeur; sarcocèie
 <lb/>acconipagné d’hydrocèle.
@@ -50325,7 +50325,7 @@
 </entry>
 
 <entry>
-<orth>Sarcome</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">σαρκωμα</foreign>, de σὰρξ,
+<orth>Sarcome</orth>, <gram>s. m.</gram> <foreign xml:lang="lat"><choice><sic>σαρκωμα</sic><corr>σάρκωμα</corr></choice></foreign>, de σὰρξ,
 <lb/>gen. σαρκὸς, chair ; excroissance
 <lb/>charnue, dure, ronde, indolente,
 <lb/>a large base, qui se forme en différens
@@ -50380,7 +50380,7 @@
 
 <entry>
 <orth>Sardoine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sardonyx</foreign>, dll
-<lb/>grec σαρδόνυξ, formé de σάρδιος, sarde,
+<lb/>grec <foreign xml:lang="grc">σαρδόνυξ</foreign>, formé de σάρδιος, sarde,
 <lb/>qui est de Sardaigne, et εΐ’ἴνυξ, ongle;
 <lb/>pierre précieuse ainsi appeïee
 <lb/>parce que sa couleur approche
@@ -50431,7 +50431,7 @@
 
 <entry>
 <orth>Saturne</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">saturnus</foreign>, <foreign xml:lang="lat">plumbum</foreign>;
-<lb/>planète : <ref>Astron</ref>. — le plornb :
+<lb/>planète : Astron. — le plornb :
 <lb/>Alchim.
 </entry>
 
@@ -50553,8 +50553,8 @@
 </entry>
 
 <entry>
-<orth>Scammonée</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">convolvulus scammonia</foreign>
-<lb/>L. du grec σκαμμωνια ;
+<orth>Scammonée</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">convolvulus</foreign>, <foreign xml:lang="lat">scammonia</foreign>,
+<lb/>L. du grec <foreign xml:lang="grc"><choice><sic>σκαμμωνια</sic><corr>σκαμμωνία</corr></choice></foreign> ;
 <lb/>plante d’où découle par !a chaleur
 <lb/>un suc résineux gris noirâtre, ou
 <lb/>jaune blanchâtre, opaque, uauséeux,
@@ -50567,7 +50567,7 @@
 </entry>
 
 <entry>
-<orth>Scaphoïde</orth>, s. ct <gram>adj.</gram> <foreign xml:lang="lat">scaphoides</foreign>,
+<orth>Scaphoïde</orth>, s. ct <gram>adj.</gram> <foreign xml:lang="lat">scaphoïdes</foreign>,
 <lb/>de σκάφη, nacelle. et Ο’ἀδος,
 <lb/>fonne, ressemblance ; nom d’un
 <lb/>des os du pied, ainsi appelé parce
@@ -50611,7 +50611,7 @@
 <lb/>lancette ou un bistonri, pourdonnerissue
 <lb/>au sangou à quelque autre
 <lb/>humeur. Elle porte le noin de
-<lb/><hi>mouchetuye</hi>, quand elle est superfîcielle,
+<lb/><term>mouchetuye</term>, quand elle est superfîcielle,
 <lb/>et qu’elle ne pssse pas lc
 <lb/>tissu de la peau.
 </entry>
@@ -50626,7 +50626,7 @@
 
 <entry>
 <orth>Scarlatine (fièvre ou phlegmasie)</orth>,
-<lb/><gram>adj. f.</gram> <foreign xml:lang="lat">febris</foreign> , <foreign xml:lang="lat">phlegmasia scarlatina</foreign> ;
+<lb/><gram>adj. f.</gram> <foreign xml:lang="lat">febris scarlatina</foreign> , <foreign xml:lang="lat">phlegmasia scarlatina</foreign> ;
 <lb/>genre de phlegmasie
 <lb/>cutanée caractérisée par destaches
 <lb/>irrégulières, d’un rouge écarlatc,
@@ -50677,7 +50677,7 @@
 
 <entry>
 <orth>Sceptique</orth>, <gram>s. m.</gram> et et <gram>adj.</gram> <foreign xml:lang="lat">scepticus</foreign>,
-<lb/>de σκεπτικὸς, contemplateur,
+<lb/>de <foreign xml:lang="grc">σκεπτικὸς</foreign>, contemplateur,
 <lb/>dérivé de σκεπτομαι, je médite, Je
 <lb/>contcmple ; nom d’une ancienne
 <lb/>secte de philosophes qui faisoient"
@@ -50728,8 +50728,8 @@
 <lb/>au sacrum, a la face poplitée de la
 <lb/>cuisse, et au bord péronnier de la
 <lb/>jambe, jusqu’a la face suplantaire
-<lb/>du pied ; <term>nerfs sciatiques</term>, <term>artères</term>
-<lb/><term>sciaiiques</term> ; qui ont rapport a la
+<lb/>du pied ; <term>nerfs sciatiques</term>, <term>artères 
+<lb/>sciatiques</term> ; qui ont rapport a la
 <lb/>hanche.
 </entry>
 
@@ -50754,7 +50754,7 @@
 </entry>
 
 <entry>
-<orth>Sclériasis</orth>. <gram>s. f.</gram> du gtec σκληρίασος,
+<orth>Sclériasis</orth>. <gram>s. f.</gram> du gtec <foreign xml:lang="grc">σκληρίασις</foreign>,
 <lb/>dureté ; callosité des cartilages
 <lb/>larses des paupières.
 </entry>
@@ -50785,7 +50785,7 @@
 </entry>
 
 <entry>
-<orth>Sclérostomes</orth>, <gram>s. l.</gram> pl. σκληρὸστόμοι,
+<orth>Sclérostomes</orth>, <gram>s. l.</gram> pl. <foreign xml:lang="grc"><choice><sic>σκληρὸστόμοι</sic><corr>σκληρόστομοι</corr></choice></foreign>,
 <lb/>de σκληρός. dur, et de ςτομα,
 <lb/>bouche, c est-a-dire <hi>bouche dure</hi>,
 <lb/>nom que les entomolugistes donnent
@@ -50864,7 +50864,7 @@
 </entry>
 
 <entry>
-<orth>Scordium</orth>, <gram>s. m.</gram> en grec <foreign xml:lang="grc">σκορδιὸν</foreign>,
+<orth>Scordium</orth>, <gram>s. m.</gram> en grec <foreign xml:lang="grc"><choice><sic>σκορδιὸν</sic><corr>σκόρδιον</corr></choice></foreign>,
 <lb/>dérive de σκορδον ou σκοροδον. ad ;
 <lb/>nom d’une plante amère, uontl’odeurapproche
 <lb/>beaucoup tle celle de
@@ -50872,7 +50872,7 @@
 </entry>
 
 <entry>
-<orth>Scorie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">scoria</foreign>, du grec σκωρία,
+<orth>Scorie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">scoria</foreign>, du grec <foreign xml:lang="grc">σκωρία</foreign>,
 <lb/>crasse ; sul.st ncé vitriliee qui
 <lb/>nage sur ia surlace ues métaux fondus,
 <lb/>produite par les pierres qui
@@ -50910,7 +50910,7 @@
 
 <entry>
 <orth>Scotomie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">scotomia</foreign>, en
-<lb/>grec <foreign xml:lang="grc">σκοτωμα</foreign>, dérivé de σκοτος, ténèbres,
+<lb/>grec <foreign xml:lang="grc"><choice><sic>σκοτωμα</sic><corr>σκότωμα</corr></choice></foreign>, dérivé de σκοτος, ténèbres,
 <lb/>obscurité ; yertige avec
 <lb/>offuscation de la vue ; vertigeténebreux,
 <lb/>dans leqiiel lésobjets extérieurs
@@ -50988,7 +50988,7 @@
 <entry>
 <orth>Scrotum</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">scrotum</foreign>, dc
 <lb/><hi>scorteum</hi>, sac ou boarse de cuir ;
-<lb/><pb n="306" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0322/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=322"/>οηβΐΈοὀσχέον; l’enveloppe commune
+<lb/><pb n="306" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0322/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=322"/>οηβΐΈο <foreign xml:lang="grc"><choice><sic>ὀσχέον</sic><corr>ὄσχεον</corr></choice></foreign>; l’enveloppe commune
 <lb/>des testicules, vulgairemcnt les
 <lb/>bourses.
 </entry>
@@ -51022,7 +51022,7 @@
 </entry>
 
 <entry>
-<orth>Sébagique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">sebacicus</foreign>, de
+<orth>Sébacique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">sebacicus</foreign>, de
 <lb/><hi>sebum</hi>, suif ; se dit d’un acideparticulier
 <lb/>qu’on retire de la graisse.
 </entry>
@@ -51171,7 +51171,7 @@
 <lb/>où l’on se décharge le ventre ; évacuation
 <lb/>qd’on iait en une fois,
 <lb/>en allant à la garde-robe. — <term>Selle turcique</term>
-<lb/>ou <term>du turc</term>, nom desapophyses
+<lb/>ou <term>selle du turc</term>, nom desapophyses
 <lb/>de l’os sphénoïde, ainsi appeiées
 <lb/>parce qd’elles représentent
 <lb/>une selle à cheval : Anat.
@@ -51224,12 +51224,12 @@
 
 <entry>
 <orth>Semi-flosculeux</orth>, EUSE, <gram>adj.</gram>
-<lb/><foreign xml:lang="lat">semi - flosculosus</foreign>, a deini-fleurons :
+<lb/><foreign xml:lang="lat">semi-flosculosus</foreign>, a deini-fleurons :
 <lb/>BOt
 </entry>
 
 <entry>
-<orth>Semi-lunaire</orth>, <gram>adj.</gram> <foreign xml:lang="lat">semi-lunaris;</foreign>
+<orth>Semi-lunaire</orth>, <gram>adj.</gram> <foreign xml:lang="lat">semi-lunaris</foreign>;
 <lb/>qni est en demi-lune : Anat. V. <ref>Sigmoïde</ref>.
 </entry>
 
@@ -51248,7 +51248,7 @@
 </entry>
 
 <entry>
-<orth>Séminifère</orth>, <gram>adj.</gram> de <foreign xml:lang="lat">semen</foreign>,
+<orth>Séminifère</orth>, <gram>adj.</gram> de semen,
 <lb/>sernence, et de <hi>fero</hi>, je porte ; se
 <lb/>dit d’un vaisseau iaisant partie. des
 <lb/>testicirles et destiné a porter la
@@ -51311,8 +51311,8 @@
 <lb/>du sentiment ; qui reçoit aisément
 <lb/>l’imprcssion des objets ; qni est
 <lb/>compatissant : Phys. etMOr. — qui
-<lb/>fait impression sur les sens ; <hi>fioéd,</hi><term> </term>
-<lb/><term>douleur sensible</term>.
+<lb/>fait impression sur les sens ; <hi>fioéd,</hi>
+<lb/>douleur sensible.
 </entry>
 
 <entry>
@@ -51340,14 +51340,14 @@
 
 <entry>
 <orth>Séparation</orth>, <gram>s. f.</gram> de separo, je
-<lb/>mets â part. — <term>Separation des métaux</term>,
+<lb/>mets â part. — <term>Séparation des métaux</term>,
 <lb/>opération par laquelle 011
 <lb/>sépare des rnétaux qui étoient mèlés
 <lb/>ensemble : Chim.
 </entry>
 
 <entry>
-<orth>Séparatoire</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">de separo</foreign>,
+<orth>Séparatoire</orth>, <gram>s. m.</gram> de separo,
 <lb/>je mets à part ; vaisseau iuventé
 <lb/>pour séparer les liqueuls : Chirn.nom
 <lb/>d’un instiument qui sert a
@@ -51355,7 +51355,7 @@
 </entry>
 
 <entry>
-<orth>Septicide</orth>, <gram>adj.</gram> <foreign xml:lang="lat">pericarpium septicidium</foreign>,
+<orth>Septicide</orth>, <gram>adj.</gram> <gloss xml:lang="lat">pericarpium septicidium</gloss>,
 <lb/>dc <hi>septum</hi>, cloison, et
 <lb/>de <hi>cœdere 9</hi> couper, briser ; péricarpe
 <lb/>qui s’ouvre par dcs sutures
@@ -51399,15 +51399,15 @@
 <lb/>d’autres ; ainsi les deux vcntriculesdu
 <lb/>cerveau s-mt séparés par une
 <lb/>cloison mitoyenne qii’on nornme
-<lb/><foreign xml:lang="lat">septum lucidum</foreign> ; le.s deux ventricules
+<lb/><term>septum lucidum</term> ; le.s deux ventricules
 <lb/>du cœur, par une cloison
-<lb/>initoyenne que Γοη âppelle <foreign xml:lang="lat">septum medium</foreign> ;
+<lb/>initoyenne que Γοη âppelle <term>septum medium</term> ;
 <lb/>la cavité de la bouche
 <lb/>d’avec l’arriere-bouche, par le
-<lb/>voile du palais qu’on nomme <term>septum </term>
-<lb/><term>staphylin</term>; la poitrine d’avec
+<lb/>voile du palais qu’on nomme <term>septum 
+<lb/>staphylin</term>; la poitrine d’avec
 <lb/>i’abdomen par le diaphragme, qui
-<lb/>porte le noni de <foreign xml:lang="lat">septum transversum</foreign>,
+<lb/>porte le noni de <term>septum transversum</term>,
 <lb/>cloison transversale, a causa
 <lb/>de su situation.
 </entry>
@@ -51625,7 +51625,7 @@
 </entry>
 
 <entry>
-<orth>Sève</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">succus arborum</foreign>, <foreign xml:lang="lat">. vertuins humor</foreign>,
+<orth>Sève</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">succus arborum</gloss>, <gloss xml:lang="lat">vernans humor</gloss>,
 <lb/>humcnr nntritive des
 <lb/>végétaux ; liqueur limpide,1 incolore,
 <lb/>insipide, iiiodorc, dont les
@@ -51634,7 +51634,7 @@
 </entry>
 
 <entry>
-<orth>Sévice</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sœvitta</foreign>, cruauté,
+<orth>Sévice</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sævitas</foreign>, cruauté,
 <lb/>rnauvais traitement, comme blessures,
 <lb/>contusions : outrage dont
 <lb/>un supérieur use envcrs son inféricnr:
@@ -51650,10 +51650,10 @@
 <lb/>dans lesvégétauN et dans les aniinaux;se
 <lb/>dit aussi des hommes
 <lb/>et des femmes indistinctement:
-<lb/><term>sexe masculin, sexe </term>
-<lb/><term>feminin</term> mais plus particulièrement
-<lb/>des feinmes : le <hi>sexe</hi>, le <term>beau </term>
-<lb/><term>sexe</term>. — <ref><hi>Sexuel</hi></ref>, <gram>adj.</gram> qui appartient
+<lb/><term>sexe masculin</term>, <term>sexe 
+<lb/>feminin</term> mais plus particulièrement
+<lb/>des feinmes : le <hi>sexe</hi>, le <term>beau 
+<lb/>sexe</term>. — <term>Sexuel</term>, <gram>adj.</gram> qui appartient
 <lb/>au sexe, qui le caractérise dans
 <lb/>les plantes et les animaux : BOt.
 </entry>
@@ -51664,13 +51664,13 @@
 </entry>
 
 <entry>
-<orth>Sextane</orth>, <gram>adj. f.</gram> <foreign xml:lang="lat">sextana febris</foreign>,
+<orth>Sextane</orth>, <gram>adj. f.</gram> <gloss xml:lang="lat">sextana febris</gloss>,
 <lb/>fièvre qui revient, dit-on, tous les
 <lb/>six jours.
 </entry>
 
 <entry>
-<orth>Sextil</orth>, ILE, <gram>adj.</gram> <foreign xml:lang="lat">sextitis; sextil aspect</foreign>,
+<orth>Sextil</orth>, ILE, <gram>adj.</gram> <foreign xml:lang="lat">sextitis</foreign>; <term>sextil aspect</term>,
 <lb/>aspect dc deux planètes
 <lb/>éloignées de 60 degrés : Astron.
 </entry>
@@ -51709,7 +51709,7 @@
 </entry>
 
 <entry>
-<orth>Sidéral</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">sideralis ;</foreign>
+<orth>Sidéral</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">sideralis</foreign>;
 <lb/>qui a rapport aux astres; <term>année siderale</term>,
 <lb/>temps de la révolution de
 <lb/>la terre, d*un point de son orbite
@@ -51736,7 +51736,7 @@
 <lb/>fer; phosphate de ler, ou poudre
 <lb/>blanche provenantd’une dissolutiou
 <lb/>de fer dans certains acides : Chim.
-<lb/>— <term>SIderitis</term> L., plante labiéc ainsi
+<lb/>— <term>Sideritis</term> L., plante labiéc ainsi
 <lb/>appelée parce qu’elle est parsemée
 <lb/>de petites tacbes couleur de fer ;
 <lb/>BOt. — pierre précieuse ainsi nommée
@@ -51756,19 +51756,19 @@
 <lb/>parties du corps qui resseniblent
 <lb/>a la lettre sigma SdesGrecs;
 <lb/>en y joignant ἶιδος, forme, iigure,
-<lb/>on a fait sigmo’ïgde : les <term>valvules</term>
-<lb/><term>sigjnoïdes</term> ou semidunailes.
+<lb/>on a fait sigmo’ïgde : les valvules
+<lb/>sigjnoïdes ou semidunailes.
 </entry>
 
 <entry>
 <orth>Signe</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">signum</foreign> des Latins,
-<lb/><foreign xml:lang="grc">σημέῖον</foreign>, des Grecs, tout ce qui
+<lb/><foreign xml:lang="grc"><choice><sic>σημέῖον</sic><corr>σημεῖον</corr></choice></foreign>, des Grecs, tout ce qui
 <lb/>contribue à la connoissance d’une
-<lb/>maladie. — <term>SIgnes commémoratifs</term>, <term>diagnostiques et prognostiques</term>
+<lb/>maladie. — <term>Signes commémoratifs</term>, <term>signes diagnostiques et prognostiques</term> et <term>signes prognostiques</term>
 <lb/>:
 <lb/>Méd. — assemblage d’étoiles
 <lb/>voisines qui forment une
-<lb/>constellation. — <term>SIgnes</term> du zodiaque
+<lb/>constellation. — <term>Signes du zodiaque</term> 
 <lb/>tAstron.
 </entry>
 
@@ -51783,7 +51783,7 @@
 </entry>
 
 <entry>
-<orth>Silice</orth>, <gram>s. f.</gram> de <foreign xml:lang="lat">silex</foreign>, gén. <foreign xml:lang="lat">silicis</foreign>,
+<orth>Silice</orth>, <gram>s. f.</gram> de silex, gén. <foreign xml:lang="lat">silicis</foreign>,
 <lb/>caillou ; terre proprement dite,
 <lb/>la plus aride, la plus sèche, et la
 <lb/>plus abondante dans la nature;
@@ -51835,19 +51835,19 @@
 </entry>
 
 <entry>
-<orth>Silphium</orth>, <gram>s. m.</gram> du grec σίλφιον,
+<orth>Silphium</orth>, <gram>s. m.</gram> du grec <foreign xml:lang="grc">σίλφιον</foreign>,
 <lb/>plante corymbifère dont la racine
 <lb/>étoit fort estimée chez les anciens.
 </entry>
 
 <entry>
-<orth>Similaire</orth>, <gram>adj.</gram> <foreign xml:lang="lat">similaris ’</foreign>, se
+<orth>Similaire</orth>, <gram>adj.</gram> <foreign xml:lang="lat">similaris</foreign>, se
 <lb/>dit des parties d’un tout qui sont
 <lb/>homogèues ou de même nature.
 </entry>
 
 <entry>
-<orth>Similor</orth>, <gram>s. n.</gram> <foreign xml:lang="lat">similis auro</foreign>, semblable
+<orth>Similor</orth>, <gram>s. n.</gram> <gloss xml:lang="lat">similis auro</gloss>, semblable
 <lb/>à i’or ; alliage de cuivre et
 <lb/>de zinc, donî la couleur iinite celle
 <lb/>de POr.
@@ -51887,7 +51887,7 @@
 </entry>
 
 <entry>
-<orth>Sindon</orth>, <gram>s. m.</gram> Cn gl’ec <foreign xml:lang="grc">σινδων</foreign>,
+<orth>Sindon</orth>, <gram>s. m.</gram> Cn gl’ec <foreign xml:lang="grc"><choice><sic>σινδων</sic><corr>σινδὼν</corr></choice></foreign>,
 <lb/>drap, linge ; toile qui se fabriquoit
 <lb/>a SIdon, ville de Phénicie; — petit
 <lb/>plumaceau de charpie qd’on introduit
@@ -51896,14 +51896,14 @@
 </entry>
 
 <entry>
-<orth>Sinué</orth>, Ée, <gram>adj.</gram> de <foreign xml:lang="lat">sinus</foreign>, pli ;
+<orth>Sinué</orth>, Ée, <gram>adj.</gram> de sinus, pli ;
 <lb/>qui a un <hi>sinus</hi> ou une écbancrure
 <lb/>arrondie, ou bien un nombre déterminé
 <lb/>de <hi>sinus</hi> : BOtan.
 </entry>
 
 <entry>
-<orth>Sinueux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">sinuosusI</foreign>
+<orth>Sinueux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">sinuosus</foreign>,
 <lb/>qui fait plusieurs tours et détours ;
 <lb/><term>ulcères sinueux</term>, étroits, profonds
 <lb/>et tortueux : Chir.
@@ -51931,17 +51931,17 @@
 <lb/>Géom. — espèce de cavité ou
 <lb/>d’enfoncement dont lefond est plus
 <lb/>large bu plus évasé quc l’entrée.
-<lb/>— <term>SInus maxillaires</term>, <term>sinus frontaux</term>;lieit
+<lb/>— <term>Sinus maxillaires</term>, <term>sinus frontaux</term>;lieit
 <lb/>où aboutissent plusieurs
-<lb/>vaisseaux.— <term>SInusde la veine porte</term>,
-<lb/><term>sinus de la veine coronaire</term>, <term>si/IUs
-<lb/>tle la matrice</term> : Anat. — cnfoncement
+<lb/>vaisseaux.— <term>Sinus de la veine porte</term>,
+<lb/><term>sinus de la veine coronaire</term>, <term>sinus
+<lb/>de la matrice</term> : Anat. — cnfoncement
 <lb/>formé au fond d’une plaie où
 <lb/>s’amasse le pus : Chir.
 </entry>
 
 <entry>
-<orth>Siphilis</orth>, <foreign xml:lang="lat">Syphilis</foreign> ou <foreign xml:lang="lat">Siphylis</foreign>,
+<orth>Siphilis</orth>, <orth>Syphilis</orth> ou <orth>Siphylis</orth>,
 <lb/><gram>s. f.</gram> vérole ou <hi>mal vénérien</hi> ; mot
 <lb/>latin dont on ne connoît guère l’étymologie,
 <lb/>qu’on pourroit néanmoins
@@ -51956,7 +51956,7 @@
 
 <entry>
 <orth>Siphon</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sipho</foreign>, du gree
-<lb/>σίφων, tuyau ; c’est un tuyau recourbé
+<lb/><foreign xml:lang="grc">σίφων</foreign>, tuyau ; c’est un tuyau recourbé
 <lb/>deî ven’e SOtt de métal „
 <lb/>dont les brnnches sont inégales, et
 <lb/>qui sert ù transvaser ies liquides.
@@ -51994,7 +51994,7 @@
 </entry>
 
 <entry>
-<orth>Siriase</orth>, <gram>s. f.</gram> σειρίασις, de <hi>σίίρω</hi>,
+<orth>Siriase</orth>, <gram>s. f.</gram> <foreign xml:lang="grc">σειρίασις</foreign>, de <hi>σίίρω</hi>,
 <lb/>ie dessèche; inllammation desmenibianes
 <lb/>du cerveau ; maladie ordinaire
 <lb/>aux eufans pendant les chaîeurs
@@ -52007,14 +52007,14 @@
 </entry>
 
 <entry>
-<orth>Sirius</orth>, <gram>s. m.</gram> du grec σείριος, de
+<orth>Sirius</orth>, <gram>s. m.</gram> du grec <foreign xml:lang="grc">σείριος</foreign>, de
 <lb/>σειρω, je dessèclie ; nom d’une étoile
 <lb/>de la constellation du grand chien,
 <lb/><hi>cajIIcula</hi>, canicule, des Latins : Astron.
 </entry>
 
 <entry>
-<orth>Siroc</orth>, <gram>s. m.</gram> de l’italien <foreign xml:lang="lat">sirocco</foreign>. dérivé
+<orth>Siroc</orth>, <gram>s. m.</gram> de l’italien <foreign xml:lang="ita">sirocco</foreign>. dérivé
 <lb/>de l’arabe <hi>schorouck.oneut^</hi> ou
 <lb/>du « ιηοσειρω, je sèche; qui vient i’orient;
 <lb/>nom qu’on donne, surlaMéditerranée,
@@ -52070,7 +52070,7 @@
 </entry>
 
 <entry>
-<orth>Smaragdin</orth>, <gram>adj.</gram> <foreign xml:lang="lat">smaragdinIIs</foreign>,
+<orth>Smaragdin</orth>, <gram>adj.</gram> <foreign xml:lang="lat">smaragdinus</foreign>,
 <lb/>de σμάραγδος, émeraude ; <term>couleur </term>
 <lb/><term>smaragdine</term>, c’est-a-dirc d’étueraude;
 <lb/>pierre précieuse de couleur
@@ -52092,7 +52092,7 @@
 
 <entry>
 <orth>Smectin</orth> OU <orth>Smectite</orth>, <gram>s. f.</gram>
-<lb/><foreign xml:lang="lat">smeetis</foreign>, de σμήκω, je nettoie ; terre
+<lb/><foreign xml:lang="lat"><choice><sic>smeetis</sic><corr>smectis</corr></choice></foreign>, de σμήκω, je nettoie ; terre
 <lb/>grasse et luisante, qui sert à dégrais.ser
 <lb/>les étoffés ; — terre a foulon.
 </entry>
@@ -52108,7 +52108,7 @@
 
 <entry>
 <orth>Soie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">bombyx</foreign>, en grec
-<lb/><foreign xml:lang="grc">βομβυξ</foreign>, ver a-soie, dérivé de βόμβος,
+<lb/><foreign xml:lang="grc"><choice><sic>βομβυξ</sic><corr>βόμβυξ</corr></choice></foreign>, ver a-soie, dérivé de βόμβος,
 <lb/>bourdonnement ; fil mpu,fin, dclicat
 <lb/>et léger, produit par l’insecte
 <lb/>qu’on nomme <term>ver-à-soie</term> ; matière
@@ -52176,7 +52176,7 @@
 <lb/>réunion : Phys. — corps considéré
 <lb/>comme ayant les trois dimensions,
 <lb/>longueur, largeur et profondeur :
-<lb/>Math. — <term>partiessolides</term>, ou <hi>solides:</hi>
+<lb/>Math. — <term>parties solides</term>, ou <term>solides</term>
 <lb/>partiesdu corps qui ont nne certaine
 <lb/>consistance, une figure permanente
 <lb/>et une circOnscription,
@@ -52187,7 +52187,7 @@
 </entry>
 
 <entry>
-<orth>Solipède</orth>, <gram>s. m.</gram> et <gram>adj.</gram> <foreign xml:lang="lat">solipes ;</foreign>
+<orth>Solipède</orth>, <gram>s. m.</gram> et <gram>adj.</gram> <foreign xml:lang="lat">solipes</foreign>;
 <lb/>sc dit des quadrupèdes dont le pied
 <lb/>n’cst ni fourchu, ni divisé cn doigts,
 <lb/>mais termine parune corne unique
@@ -52205,7 +52205,7 @@
 </entry>
 
 <entry>
-<orth>Solstice</orth>, <gram>s.</gram> <foreign xml:lang="lat">solsütium</foreign>, dc <hi>sol</hi>, soleil,
+<orth>Solstice</orth>, <gram>s.</gram> <foreign xml:lang="lat">solstitium</foreign>, dc <hi>sol</hi>, soleil,
 <lb/>et du verbe <hi>sto, je</hi> ni’arrete ;
 <lb/>temps ou le soleil estj le plus
 <lb/>éloigné cle i’équateur, et où il
@@ -52216,12 +52216,12 @@
 </entry>
 
 <entry>
-<orth>Soluble</orth>, <gram>adj.</gram> <foreign xml:lang="lat">solubiUs</foreign> ; qui
+<orth>Soluble</orth>, <gram>adj.</gram> <foreign xml:lang="lat">solubilis</foreign> ; qui
 <lb/>peut être dissous ; se dit des substances
 <lb/>qui se fondent aisément
 <lb/>dans l’eau ou dans d’autres menstrues:
-<lb/>Chim. — <term>silique, gousse so*</term>
-<lb/>ZUlde, quipeut sedétacher sponta*
+<lb/>Chim. — <term>silique</term>, <term>gousse soluble</term>,
+<lb/>quipeut sedétacher sponta*
 <lb/>nément.
 </entry>
 
@@ -52230,8 +52230,8 @@
 <lb/>par laqiicllc uncsubstance
 <lb/>se fond en entier, on seulement
 <lb/>en partie dans un intermètle
-<lb/>liquide;— de là les noms de <term>SOlution </term>
-<lb/><term>complète</term> et de <term>SOlution partielle</term> ;
+<lb/>liquide;— de là les noms de <term>solution 
+<lb/>complète</term> et de <term>solution partielle</term> ;
 <lb/><hi>électivecuanalytiquef</hi>— séparation
 <lb/>desparties continues, ( omme dans
 <lb/>une plaie,. une fracture, ou des
@@ -52249,7 +52249,7 @@
 </entry>
 
 <entry>
-<orth>Sommeil</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">soinnus</foreign>, état
+<orth>Sommeil</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">somnus</foreign>, état
 <lb/>où tous lcs organes du mouvement
 <lb/>volontaire sont en repos : l’opposé
 <lb/>dc la veille; — état des plantes
@@ -52301,7 +52301,7 @@
 
 <entry>
 <orth>Somnifère</orth>, <gram>adj.</gram> <foreign xml:lang="lat">somnifer</foreign>, <foreign xml:lang="lat">somnificus</foreign>,
-<lb/><foreign xml:lang="lat">desomnus</foreign>, sommeil, et de
+<lb/>desomnus, sommeil, et de
 <lb/><hi>fero</hi>, je porte ; norn des remèdes
 <lb/>qui provoquent le sommeil, comine
 <lb/>FQpitim.
@@ -52348,8 +52348,8 @@
 </entry>
 
 <entry>
-<orth>Sophisme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sophisrnus</foreign>, en
-<lb/>grec <foreign xml:lang="grc">« φισμα</foreign>, de σοφίζω, je trompe,
+<orth>Sophisme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">sophismus</foreign>, en
+<lb/>grec <foreign xml:lang="grc">σόφισμα</foreign>, de σοφίζω, je trompe,
 <lb/>j’use de fourberie ; raisonncment
 <lb/>capable d’induire en erreur, et
 <lb/>qni n*a que Fapparcnce de la vérité.
@@ -52365,7 +52365,7 @@
 
 <entry>
 <orth>Soporatif</orth>, IVE, OU <orth>Soporifère</orth>, ou
-<lb/><orth>Soporifique</orth>, <gram>adj.</gram> de <foreign xml:lang="lat">sopor</foreign>,
+<lb/><orth>Soporifique</orth>, <gram>adj.</gram> de sopor,
 <lb/>somnieil, assoupissement, et
 <lb/><hi>defero</hi>, je porte ; qui endort, qui
 <lb/>esSOUpit. V. <ref>Somnifère</ref>, <ref>Hypnotique</ref>.
@@ -52373,7 +52373,7 @@
 
 <entry>
 <orth>Soporeux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">soporosus</foreign>,
-<lb/><foreign xml:lang="lat">desopor</foreign>, sommeil, assoupisseihent;
+<lb/>desopor, sommeil, assoupisseihent;
 <lb/>qui cause un sommeil
 <lb/>itangereux.
 </entry>
@@ -52420,7 +52420,7 @@
 </entry>
 
 <entry>
-<orth>Soude</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">soda</foreign>, <foreign xml:lang="lat">alcali minerale</foreign>,
+<orth>Soude</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">soda</foreign>, <gloss xml:lang="lat">alcali minerale</gloss>,
 <lb/>alcali qd’on extrait des plantes
 <lb/>inarines par la combustion,
 <lb/>l’incinération et la calcination,
@@ -52486,10 +52486,10 @@
 </entry>
 
 <entry>
-<orth>Sourcilier</orth>, ÉRE, <gram>adj.</gram> <foreign xml:lang="lat">SUpexciliaris</foreign>;
+<orth>Sourcilier</orth>, ÉRE, <gram>adj.</gram> <foreign xml:lang="lat">superciliaris</foreign>;
 <lb/>qui a rapport aux sourcils;
-<lb/>— <term>muscle sourcilier</term> ; <term>trou</term>
-<lb/><term>sourcilier</term>.
+<lb/>— <term>muscle sourcilier</term> ; <term>trou 
+<lb/>sourcilier</term>.
 </entry>
 
 <entry>
@@ -52506,13 +52506,13 @@
 </entry>
 
 <entry>
-<orth>Sous-costaux</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">subcostales</foreign>,
+<orth>Sous-costaux</orth>, <gram>s. m. pl.</gram> <foreign xml:lang="lat">sub-costales</foreign>,
 <lb/>petits rnusclcs plats situés
 <lb/>sur la surface interne des côtes.
 </entry>
 
 <entry>
-<orth>Sous-cutané</orth>, Ée, <gram>adj.</gram> <foreign xml:lang="lat">subcutaneus</foreign>,
+<orth>Sous-cutané</orth>, Ée, <gram>adj.</gram> <foreign xml:lang="lat">sub-cutaneus</foreign>,
 <lb/>nom de ce qui est sousla
 <lb/>peau ; — <term>nerfs sous-cutanés</term>, <term>artères sous-cutanées</term>.
 <lb/>
@@ -52526,7 +52526,7 @@
 </entry>
 
 <entry>
-<orth>Sous-normale</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sub^normalis</foreign>,
+<orth>Sous-normale</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sub-normalis</foreign>,
 <lb/>partie de Faxe d’une courbe
 <lb/>compri.se entre les dcux points où
 <lb/>POrdonuée et la perpendiculaire
@@ -52542,7 +52542,7 @@
 </entry>
 
 <entry>
-<orth>Sous-tendante</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sub tendens</foreign>,
+<orth>Sous-tendante</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">sub-tendens</foreign>,
 <lb/>corde d’un arc ainsi appelee
 <lb/>parcequ’elle sembletendre lesdeux
 <lb/>cNtrémités decetarc : Géom.
@@ -52556,7 +52556,7 @@
 </entry>
 
 <entry>
-<orth>Soyeux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">tactu lenis</foreign>,
+<orth>Soyeux</orth>, EUSE, <gram>adj.</gram> <gloss xml:lang="lat">tactu lenis</gloss>,
 <lb/>se dit des parties des plantes couvertes
 <lb/>de poils mous, serrés, couchés
 <lb/>et luisans comme de la soie :
@@ -52564,7 +52564,7 @@
 </entry>
 
 <entry>
-<orth>Spagirie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ars spagirica</foreign>, de
+<orth>Spagirie</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">ars spagirica</gloss>, de
 <lb/>σπάω, je sépare, j’extrais, et d’àγέιρω,
 <lb/>je rassemble ; nom qu’on
 <lb/>donnoit autrefoisà la chimie, parce
@@ -52590,7 +52590,7 @@
 
 <entry>
 <orth>Spasme</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">spasmus</foreign>,en grec
-<lb/><foreign xml:lang="grc">σπασμος</foreign>, du verbe σπάω, je tire, je
+<lb/><foreign xml:lang="grc"><choice><sic>σπασμος</sic><corr>σπασμὸς</corr></choice></foreign>, du verbe σπάω, je tire, je
 <lb/>contracte ; contraction involontaire
 <lb/>desmuscles, continue ousuivie dc
 <lb/>relachement idiopathique ou sympathique,
@@ -52600,9 +52600,9 @@
 </entry>
 
 <entry>
-<orth>Spasmodique</orth>., <gram>adj.</gram> <foreign xml:lang="lat">spasmodtcus ;</foreign>
-<lb/>qui concerne le spasme ;— <term>affection</term>
-<lb/><term>spasmodique</term>. VOy. 8ραβμε.
+<orth>Spasmodique</orth>., <gram>adj.</gram> <foreign xml:lang="lat">spasmodicus</foreign>;
+<lb/>qui concerne le spasme ;— <term>affection 
+<lb/>spasmodique</term>. VOy. 8ραβμε.
 </entry>
 
 <entry>
@@ -52626,7 +52626,7 @@
 
 <entry>
 <orth>Spathe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">spatha</foreign>, du grec
-<lb/>σπἀθη, lance 011 pique ; cspècc de
+<lb/><foreign xml:lang="grc">σπάθη</foreign>, lance 011 pique ; cspècc de
 <lb/>voile 011 de gaîne membraneuse qui
 <lb/>renferme uhe ou plusieurs fleurs et
 <lb/>qui se fend, se rompt ou se deroule
