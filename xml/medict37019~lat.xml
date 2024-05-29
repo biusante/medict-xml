@@ -66,7 +66,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Abdomen</orth>
-<foreign xml:lang="fra">abdomen</foreign>
+<ref>abdomen</ref>
 </entryFree>
 
 <entryFree type="tr">
@@ -106,7 +106,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Abomasum</orth>
-<foreign xml:lang="fra">abomasus</foreign>
+<ref>abomasus</ref>
 </entryFree>
 
 <entryFree type="tr">
@@ -163,7 +163,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Abstemius</orth>
-<foreign xml:lang="fra">abstême</foreign>
+<foreign xml:lang="fra">abstème</foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -208,7 +208,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Acanor</orth>
-<foreign xml:lang="fra">acanor</foreign>
+<ref>acanor</ref>
 </entryFree>
 
 <entryFree type="tr">
@@ -233,7 +233,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Accipiter</orth>
-<foreign xml:lang="fra">accipitres</foreign>
+<ref>accipitres</ref>
 </entryFree>
 
 <entryFree type="tr">
@@ -350,7 +350,7 @@
 <entryFree type="tr">
 <orth xml:lang="lat">Acipenser</orth>
 <foreign xml:lang="fra">esturgeon</foreign>
-<foreign xml:lang="fra">acipensères</foreign>
+<ref>acipenseres</ref>
 </entryFree>
 
 <entryFree type="tr">
@@ -367,7 +367,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Acotyledon</orth>
-<foreign xml:lang="fra">acotylédoné</foreign>
+<foreign xml:lang="fra"><choice><sic>acotylédoné</sic><corr>acotylédone</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -378,7 +378,7 @@
 <entryFree type="tr">
 <orth xml:lang="lat">Acratia</orth>
 <foreign xml:lang="fra">acratie</foreign>
-<foreign xml:lang="fra">privation de force</foreign>
+<gloss xml:lang="fra">privation de force</gloss>
 </entryFree>
 
 <entryFree type="tr">
@@ -405,7 +405,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Acrochordon</orth>
-<foreign xml:lang="fra">acrochordon</foreign>
+<ref>acrochordon</ref>
 </entryFree>
 
 <pb n="368" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0384/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=384"/>
@@ -421,7 +421,7 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Actiniœ</orth>
+<orth xml:lang="lat">Actiniæ</orth>
 <foreign xml:lang="fra">actinies</foreign>
 </entryFree>
 
@@ -562,13 +562,13 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Adhærenia</orth>
+<orth xml:lang="lat">Adhærentia</orth>
 <foreign xml:lang="fra">adhérence</foreign>
 </entryFree>
 
 
 <entryFree type="tr">
-<orth xml:lang="lat">Adhœsio</orth>
+<orth xml:lang="lat">Adhæsio</orth>
 <foreign xml:lang="fra">adhésion</foreign>
 </entryFree>
 
@@ -584,7 +584,7 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Adiarrhaea</orth>
+<orth xml:lang="lat">Adiarrhæa</orth>
 <foreign xml:lang="fra">adiarrhée</foreign>
 </entryFree>
 
@@ -628,7 +628,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Adolescens</orth>
-<foreign xml:lang="fra">jeune homme adolescent</foreign>
+<gloss xml:lang="fra">jeune homme adolescent</gloss>
 </entryFree>
 
 <entryFree type="tr">
@@ -661,7 +661,7 @@
 <entryFree type="tr">
 <orth xml:lang="lat">Adultus</orth>
 <foreign xml:lang="fra">adulte</foreign>
-<foreign xml:lang="fra">homme fait</foreign>
+<gloss xml:lang="fra">homme fait</gloss>
 </entryFree>
 
 <entryFree type="tr">
@@ -684,7 +684,7 @@
 <entryFree type="tr">
 <orth xml:lang="lat">Adynamia</orth>
 <foreign xml:lang="fra">adynamie</foreign>
-<foreign xml:lang="fra">prostration des forces</foreign>
+<gloss xml:lang="fra">prostration des forces</gloss>
 </entryFree>
 
 <entryFree type="tr">
@@ -693,18 +693,18 @@
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Ædæagraphia</orth>
-<foreign xml:lang="fra">ædæagraphie</foreign>
+<orth xml:lang="lat"><choice><sic>Ædæagraphia</sic><corr>Ædœagraphia</corr></choice></orth>
+<foreign xml:lang="fra"><choice><sic>ædæagraphie</sic><corr>ædœagraphie</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Ædœalogia</orth>
-<foreign xml:lang="fra">ædæalogie</foreign>
+<orth xml:lang="lat"><choice><sic>Ædæalogia</sic><corr>Ædœalogia</corr></choice></orth>
+<foreign xml:lang="fra"><choice><sic>ædæalogie</sic><corr>ædœalogie</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
-<orth xml:lang="lat">Ædaeatomia</orth>
-<foreign xml:lang="fra">ædæatomie</foreign>
+<orth xml:lang="lat"><choice><sic>Ædæatomia</sic><corr></corr>Ædœatomia</choice></orth>
+<foreign xml:lang="fra"><choice><sic>ædæatomie</sic><corr>ædœatomie</corr></choice></foreign>
 </entryFree>
 
 <entryFree type="tr">
@@ -725,7 +725,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Ægilops</orth>
-<foreign xml:lang="fra">aegilops</foreign>
+<ref>ægilops</ref>
 </entryFree>
 
 <entryFree type="tr">
@@ -852,7 +852,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Ærugineus</orth>
-<orth xml:lang="lat">Œruginosus</orth>
+<orth xml:lang="lat"><choice><sic>œruginosus</sic><corr>æruginosus</corr></choice></orth>
 <foreign xml:lang="fra">érugineux</foreign>
 </entryFree>
 
@@ -873,7 +873,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Æstivalis</orth>
-<foreign xml:lang="fra">d’été</foreign>
+<gloss xml:lang="fra">d’été</gloss>
 </entryFree>
 
 <entryFree type="tr">
@@ -893,7 +893,7 @@
 
 <entryFree type="tr">
 <orth xml:lang="lat">Æthiops</orth>
-<foreign xml:lang="fra">æthiops</foreign>
+<ref>æthiops</ref>
 </entryFree>
 
 <entryFree type="tr">
