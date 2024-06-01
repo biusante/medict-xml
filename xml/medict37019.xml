@@ -512,7 +512,7 @@
 <lb/>de l’cnfantement.
 </entry>
 
-<entry xml:id="accouchement">
+<entry>
 <orth>Accouchement</orth> ou <orth>Enfantement</orth>,
 <lb/><gram>s. m.</gram> <foreign xml:lang="lat">partus</foreign>, <foreign xml:lang="lat">partio</foreign>,
 <lb/><foreign xml:lang="lat">puerperium</foreign> ; <sense n="1">l’expulsion d’un fœtus
@@ -1529,7 +1529,7 @@
 </entry>
 
 <entry>
-<orth>Aggrégées</orth>, <gram>adj. f. pl.</gram> <term xml:lang="lat">flores aggregati</term>,
+<orth>Aggrégées</orth>, <gram>adj. f. pl.</gram> <gloss xml:lang="lat">flores aggregati</gloss>,
 <lb/>fleurs qui sont distinctenient
 <lb/>et simplement pédicillées, et
 <lb/>qui naissent plusieurs ensemble du
@@ -1654,8 +1654,8 @@
 <lb/>d’arétes, de pnillettes, de poils,
 <lb/>etc. enfîn de tout ce qui n’est pas
 <lb/>manifestcment limbe du calice supère.
-<lb/><term>Aigrette pédiculée</term>, <foreign xml:lang="lat">pappus
-<lb/>stipatus</foreign>, celle qui a un pedicule.
+<lb/><term>Aigrette pédiculée</term>, <foreign xml:lang="lat">pappus stipatus</foreign>,
+<lb/> celle qui a un pedicule.
 <lb/><term>Aigrette sessile</term>, <foreign xml:lang="lat">pappus sessilis</foreign>,
 <lb/>celle qui est saus pédicule. <term>Aigrette
 <lb/>simple</term>, <foreign xml:lang="lat">pappus simplex</foreign>, celle
@@ -1831,10 +1831,10 @@
 <entry>
 <orth>Ajuster</orth>, <gram>v. a.</gram> <foreign xml:lang="lat">adæquare</foreign>, renilre
 <lb/>juste un poids, dcs monnoies.
-<lb/>De ià, les mots, <orth>ajusteur</orth>, celtli
-<lb/>qui ajuste les monnuies; <orth>ajustoir</orth>,
+<lb/>De ià, les mots, <term>ajusteur</term>, celtli
+<lb/>qui ajuste les monnuies; <term>ajustoir</term>,
 <lb/>petile balance où l’on ajuste les
-<lb/>monnoies ; <orth>ajustage</orth>, action d’ajuater
+<lb/>monnoies ; <term>ajustage</term>, action d’ajuater
 <lb/>les inonnoies.
 </entry>
 
@@ -3152,7 +3152,7 @@
 <lb/>remplis; remèdes qui ont la vertu
 <lb/>de restanrer, de fairc revenir les
 <lb/>chairs dans les plaies et les ulcères.
-<lb/>Voyez <ref>Incarnatif</ref>s, <ref>Sarcotique</ref>s.
+<lb/>Voyez <ref>Incarnatifs</ref>, <ref>Sarcotiques</ref>.
 </entry>
 
 <entry>
@@ -5320,7 +5320,7 @@
 <entry>
 <orth>Ardeur</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ardor</foreign>, grande chaleur:
 <lb/><term>ardeur d’estomac</term>, <foreign xml:lang="lat">cordolium</foreign>;
-<lb/><hi>ardeur</hi> d’urine, sentimcnt de cuisson
+<lb/><term>ardeur d'urine</term>, sentimcnt de cuisson
 <lb/>en urinant. VOyez <ref>Dysurie</ref>.
 </entry>
 
@@ -7713,7 +7713,7 @@
 <lb/>celui ou celle qui boite.
 </entry>
 
-<entry xml:id="bol">
+<entry>
 <orth>Bol</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">bolus</foreign>, du grec <foreign xml:lang="grc">βῶλος</foreign>,
 <lb/><sense n="1">morceau 011 bouchée ; médicament
 <lb/>mollet, réduit en boule, qn’on
@@ -8472,7 +8472,7 @@
 </entry>
 
 <entry>
-<orth>Cachou</orth> ou <term>Terre du Japon</term>, <gram>s.</gram>
+<orth>Cachou</orth> ou <orth>Terre du Japon</orth>, <gram>s.</gram>
 <lb/><foreign xml:lang="lat">catechu</foreign>, <foreign xml:lang="lat">terra Japonica</foreign>; substance
 <lb/>solide, il’un rouge brun, opaque,
 <lb/>inodore; d’un goût acerbe, arner;
@@ -8712,8 +8712,8 @@
 
 <entry>
 <orth>Calamine</orth> ou <orth>Pierre calaminaire</orth>,
-<lb/><gram>s. f.</gram> <foreign xml:lang="lat">cadmia</foreign> Plin., <foreign xml:lang="lat">cadmea 
-<lb/>terra</foreign> Fest., <gloss xml:lang="lat">ærarius lapis</gloss>
+<lb/><gram>s. f.</gram> <foreign xml:lang="lat">cadmia</foreign> Plin., <foreign xml:lang="lat">cadmea terra</foreign> 
+<lb/> Fest., <gloss xml:lang="lat">ærarius lapis</gloss>
 <lb/>Plin., <gloss xml:lang="lat">oxys zinci</gloss>, mine ou oxyde
 <lb/>de zinc : NOUV. Chim.
 </entry>
@@ -12226,7 +12226,7 @@
 <lb/>fibres musculaircs.
 </entry>
 
-<entry xml:id="clou">
+<entry>
 <orth>Clou</orth> ou <orth>Furoncle</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">clavus</foreign>,
 <lb/><foreign xml:lang="lat">furunculus</foreign>, <sense n="1">espèce de flegmon</sense>.
 <lb/>V. <ref>Furoncle</ref>, <ref>Flegmon</ref>.— <sense><term>Clou</term>,
@@ -12558,7 +12558,7 @@
 <lb/>celuî de la tete.
 </entry>
 
-<entry xml:id="colique">
+<entry>
 <orth>Colique</orth>, <gram>adj.</gram> <foreign xml:lang="lat">colicus</foreign>, en grec
 <lb/><foreign xml:lang="grc"><choice><sic>κωλικος</sic><corr>κωλικὸς</corr></choice></foreign>, de κωλον, membre, intestin
 <lb/>colon ; <sense n="1">qui a rapport a l’intestin
@@ -14476,7 +14476,7 @@
 <lb/>en parlant des chevaux.
 </entry>
 
-<entry xml:id="courbe">
+<entry>
 <orth>Courbe</orth>, <gram>s. f.</gram> <gloss xml:lang="lat">linea curva</gloss>, <sense n="1">ligne
 <lb/>qui n’a jamais deux ile ses pomts011
 <lb/>de scs élémens dans la même
@@ -15230,7 +15230,7 @@
 <entry>
 <orth>Culminant</orth>, <gram>adj.</gram>seditdu point
 <lb/>d’un astre qui est le plushautsur
-<lb/>l’horizou ; <term xml:lang="lat">maxima sideris altitudo</term>.
+<lb/>l’horizou ; <gloss xml:lang="lat">maxima sideris altitudo</gloss>.
 </entry>
 
 <entry>
@@ -16896,7 +16896,7 @@
 <lb/>dangereuse.
 </entry>
 
-<entry xml:id="diagnostique">
+<entry>
 <orth>Diagnostique</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">diagnosis</foreign>,
 <lb/><sense n="1">discernement</sense>, du verbe grec
 <lb/>διαγινόσκω, je connois, je ilisceme ;
@@ -16909,7 +16909,7 @@
 <lb/>propre des maladies</sense>.
 </entry>
 
-<entry xml:id="diagonal">
+<entry>
 <orth>Diagonal</orth>, ALE, <gram>adj.</gram> <foreign xml:lang="lat">diagonalis</foreign>,
 <lb/><foreign xml:lang="lat">diagonicus</foreign>, du grec διὰ, à travcrs,
 <lb/>etde γωνία, angle ; <sense n="1">qui va d’uti
@@ -17222,7 +17222,7 @@
 <lb/>dont le séné fait la base.
 </entry>
 
-<entry xml:id="diasostique">
+<entry>
 <orth>Diasostique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">diasostica</foreign>, de
 <lb/>διασώζω, je conserve ; <sense n="1">partie de la
 <lb/>médecine qui a pour objet la conservation
@@ -17428,7 +17428,7 @@
 <lb/>e.t attx passions.
 </entry>
 
-<entry xml:id="diététique">
+<entry>
 <orth>Diététique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">diætetice</foreign>, <foreign xml:lang="lat">diætetica</foreign>,
 <lb/>du verbegreC διατάω, nourriF
 <lb/>avec ordre et me.sure; d’où i’on a fait:
@@ -17476,7 +17476,7 @@
 <lb/><hi>rnarmite de Papin, olla Papiniana</hi>.
 </entry>
 
-<entry xml:id="digestif">
+<entry>
 <orth>Digestif</orth>, IVE, <gram>adj.</gram> <foreign xml:lang="lat">digestivus</foreign>,
 <lb/><foreign xml:lang="lat">digerens</foreign> ; <sense n="1">qui a la vertu de digérer,
 <lb/>de cuire; qui aide a la digestion ;
@@ -23838,8 +23838,8 @@
 <lb/>noms cle</hi> <term>flux de bouche</term>, <foreign xml:lang="lat">salivatio</foreign>,
 <lb/><foreign xml:lang="lat">ptyalismus</foreign>, <foreign xml:lang="grc">πτυαλισμὸς</foreign><hi>, de</hi> <term>flux de
 <lb/>ventre</term>, <foreign xml:lang="lat">alvi fluxus</foreign> <hi>ou</hi> <foreign xml:lang="lat">alvi profluvium</foreign>,
-<lb/><foreign xml:lang="grc"><choice><sic>διαῤροια</sic><corr>διάῤῥοια</corr></choice></foreign><hi>, de</hi> <term>flux menstruel</term>, <foreign xml:lang="lang="lat">fluxus
-<lb/>muliebris</foreign>, <foreign xml:lang="grc">καταμήνια</foreign><hi>, etc. ; *— <term>flux</term></hi>,
+<lb/><foreign xml:lang="grc"><choice><sic>διαῤροια</sic><corr>διάῤῥοια</corr></choice></foreign><hi>, de</hi> <term>flux menstruel</term>, <foreign xml:lang="lat">fluxus muliebris</foreign>
+<lb/>, <foreign xml:lang="grc">καταμήνια</foreign><hi>, etc. ; *— <term>flux</term></hi>,
 <lb/><foreign xml:lang="lat">reduc</foreign> ou <foreign xml:lang="lat">redux</foreign> <hi>; se</hi> dit en chimie
 <lb/>de certaines matières fondantes, â
 <lb/>Paidc desquelles on met en fusion
@@ -25102,21 +25102,21 @@
 <lb/>décrits. Les pathologistes dîvisent
 <lb/>aussi la gale en deux espèces,
 <lb/>dont la premicre prend le
-<lb/>nom de <term>gale canine</term>,<hi>scabixs canino</hi>,
+<lb/>nom de <term>gale canine</term>, <foreign xml:lang="lat">scabies canina</foreign>,
 <lb/>parce que les chiens y sont sujets ;
-<lb/><hi>de</hi> <term>gale sèche</term><hi>, scabies sicca</hi>, parce
+<lb/><hi>de</hi> <term>gale sèche</term>, <foreign xml:lang="lat">scabies sicca</foreign>, parce
 <lb/>qu’elle suppure peu ; de <term>gale prurigineuse</term>,
-<lb/><hi>scabies prujiginosa</hi>,
+<lb/><foreign xml:lang="lat">scabies pruriginosa</foreign>,
 <lb/>parcequ’elle cause unedémangeai*
-<lb/>son incommode ; de <hi>grattedle</hi>, parce
+<lb/>son incommode ; de <term>grattelle</term>, parce
 <lb/>qu’çlle force de se gratter sans
-<lb/>cesse ; de<hi>mentagra</hi>, parce qu’ellc
+<lb/>cesse ; de<term>mentagra</term>, parce qu’ellc
 <lb/>attaque qnelquefois le menton ; de
-<lb/><hi>lichen, d’bnpetigo</hi>, parce qn’elle
+<lb/><term>lichen</term>, d’<term>impetigo</term>, parce qn’elle
 <lb/>paroîtsous fbrme dedartre. La seconde
-<lb/>espèce se <hi>uoiuuiegrosse gale</hi>
-<lb/>ou <hi>gale humide, scabies crassa,</hi>
-<lb/><hi>humida</hi>, parce que ses pustules
+<lb/>espèce se nomme <term>grosse gale</term>
+<lb/>ou <term>gale humide</term>, <term>scabies crassa</term>,
+<lb/><term>scabies humida</term>, parce que ses pustules
 <lb/>sont ordinairement grosses comme
 <lb/>cellgs de la petîte vérole, et viennentàsuppuration.
 <lb/>Cette galecause
@@ -25126,8 +25126,8 @@
 <lb/>par petite.s écailles en maniére de
 <lb/>son. Cctte gale attaqne quelquefois
 <lb/>la tôte, la barbe oti les sourcils,
-<lb/>et prend lc nom de <hi>porrigo</hi>
-<lb/>en latin, πιτυρίασις en grec, de πίτυρον,
+<lb/>et prend lc nom de <foreign xml:lang="lat">porrigo</foreign>
+<lb/>en latin, <foreign xml:lang="grc">πιτυρίασις</foreign> en grec, de πίτυρον,
 <lb/>son ; c’est ce qu’on appelle vnlgairement
 <lb/>crasse.
 </entry>
@@ -26332,20 +26332,20 @@
 <orth>Goutte</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">arthritis</foreign>, en grec
 <lb/><foreign xml:lang="grc">ἀρθρῖτις</foreign>, d’ap^pov, articulatiou, jointurc,
 <lb/><gloss xml:lang="lat">morbus articularis</gloss>, mal des
-<lb/>articulations ; <hi>gutta</hi>, fluxion ; terme
+<lb/>articulations ; <foreign xml:lang="lat">gutta</foreign>, fluxion ; terme
 <lb/>usité chez les médecins qni 011 c
 <lb/>vécu en EUropeavant le renouvellement
 <lb/>des lettres. lls donnoient ce
-<lb/>iiom a la <hi>podagre</hi>, qui est regardée
+<lb/>iiom a la <term>podagre</term>, qui est regardée
 <lb/>comme la goutte pur excellence;
 <lb/><pb n="156" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0172/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=172"/>à îa paralysie des nerfs optiques,
-<lb/>qu’on appelle <hi>goutte sereine</hi> ; â l’<hi>épilepsie</hi>,
-<lb/>qui s’appeloit aussi <hi>gutta</hi>
-<lb/><hi>üu gutteta</hi>, d’où vient le nom de
+<lb/>qu’on appelle <term>goutte sereine</term> ; â l’<term>épilepsie</term>,
+<lb/>qui s’appeloit aussi <gloss xml:lang="lat">gutta</gloss>
+<lb/>ou <foreign xml:lang="lat">gutteta</foreign>, d’où vient le nom de
 <lb/>guttete qu’on a donné à une poudre
 <lb/>antiépileptique ; enfîn, on
-<lb/>donnoit le nom de <hi>goutte - rose,</hi>
-<lb/><hi>glLtta-rosa</hi> OU <hi>gutta-rosacea</hi>, aux
+<lb/>donnoit le nom de <term>goutte-rose,</term>
+<lb/><foreign xml:lang="lat">gutta-rosa</foreign> OU <foreign xml:lang="lat">gutta-rosacea</foreign>, aux
 <lb/>rougeurs du visage. La goutte est
 <lb/>une nialadie le plus souvent hcréditaire,
 <lb/>qui attaque les pieds, les
@@ -26358,15 +26358,15 @@
 <lb/>ou bien des douleurs tensives
 <lb/>et obtuses, sans pulsation ni
 <lb/>rougeur, ni tumeursinflainmatoires,
-<lb/>ce qùi l’à fait diviser en <term>goutte </term>
-<lb/><term>chaude</term> et en <term>goutte froide ou atomique</term>.
-<lb/>On <hi>VappeWegoutte régulière,</hi>
-<lb/><hi>irrégulière</hi> ou <hi>anomale, remontee</hi>,
+<lb/>ce qùi l’à fait diviser en <term>goutte 
+<lb/>chaude</term> et en <term>goutte froide</term> ou <term>goutte atonique</term>.
+<lb/>On appelle <term>goutte régulière</term>,
+<lb/><term>goutte irrégulière</term> ou <term>goutte anomale</term>, <term>goutte remontée</term>,
 <lb/>selOIi qu’elle se borne auN articulations
 <lb/>ou qu’elle les abandonne
 <lb/>pour se porter a l’estomac, aux pournons,
 <lb/>au ccrveau. Elle prend le
-<lb/>nom de <hi>goutte simple</hi> ou <hi>compliquée</hi>
+<lb/>nom de <term>goutte simple</term> ou <term>goutte compliquée</term>
 <lb/>quand elle est settle ou aCcompagnéede
 <lb/>mélancolie, d’liypocondrie,
 <lb/>de scorbut, de vérole,
@@ -27253,7 +27253,7 @@
 
 <entry>
 <orth>Hémicycle</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">hemicyclus</foreign>,
-<lb/><foreign xml:lang="grc"><chocie><sic>ἡμίκυκλὸς</sic><corr>ἡμίκυκλος</corr></chocie></foreign>, demi-cercle, d-ημιίνυς, demi,
+<lb/><foreign xml:lang="grc"><choice><sic>ἡμίκυκλὸς</sic><corr>ἡμίκυκλος</corr></choice></foreign>, demi-cercle, d-ημιίνυς, demi,
 <lb/>et de κύκλος, cercle.
 </entry>
 
@@ -29945,7 +29945,7 @@
 <lb/>ronler, entortiller, parce
 <lb/>qu’a l’ouverture des cadavres on
 <lb/>trouve l’intestin noué, ronlé, entortillé;
-<lb/>de <term>chordapse</term> ou <term xml:lang="lat">chordapsus</term>,
+<lb/>de <term>chordapse</term> ou <term>chordapsus</term>,
 <lb/>mot déri vé du μΐ’οοχοῤδὴ, corde,
 <lb/>etdu verbe ἄπτομαι, je touche, parce
 <lb/>que l’intestin paroît tendu comme
@@ -30885,7 +30885,7 @@
 <lb/>de cheval.
 </entry>
 
-<entry xml:id="injection">
+<entry>
 <orth>Injection</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">injectio</foreign>, du
 <lb/>verbc <hi>injicere</hi>, jeter dedans; <sense n="1">action
 <lb/>d’injecter ou d’introduire avec
@@ -33049,7 +33049,7 @@
 <lb/>simplemcnt la <hi>ligne</hi>, lequateur.
 </entry>
 
-<entry xml:id="ligneux">
+<entry>
 <orth>Ligneux</orth>, EUSE, <gram>adj.</gram> <foreign xml:lang="lat">lignosus</foreign> ;
 <lb/><sense n="1">se dit des lplantes qui ont la consistance
 <lb/>et le tissu du bois, dont la
@@ -33307,7 +33307,7 @@
 <lb/>la vessie.
 </entry>
 
-<entry xml:id="litharge">
+<entry>
 <orth>Litharge</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">lithargyrium</foreign>,
 <lb/>en grec <foreign xml:lang="grc"><choice><sic>λιθαργυρος</sic><corr>λιθάργυρος</corr></choice></foreign>, dérivé de λίθος,
 <lb/>pierre, et εΓἀργυρος, argent ; comme
@@ -34957,7 +34957,7 @@
 <lb/>du iiel dans le duodénum.
 </entry>
 
-<entry xml:id="mécanique">
+<entry>
 <orth>Mécanique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">mechanice</foreign>, de
 <lb/>μηχανὴ, machine ; <sense n="1">la science des
 <lb/>luis du mouveinent, des machines ;
@@ -35997,7 +35997,7 @@
 <lb/>au transport de la matière
 <lb/>morbifique dans un lieu différent
 <lb/>de celui qd’elle a occupé priinitivemcnt;de
-<lb/>la <prth><hi>Métastatique</hi></prth>, adj*
+<lb/>la <orth><hi>Métastatique</hi></orth>, adj*
 <lb/><foreign xml:lang="lat">metastaticus</foreign> <hi/>) transporte ailleurs;
 <lb/><pb n="215" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37019:0231/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37019&amp;p=231"/><term>crise métastatique</term>, celle où l’on
 <lb/>e.roit que la matière morbifique
@@ -36426,7 +36426,7 @@
 <lb/>avec du mininm. V. <ref>Madarose</ref>.
 </entry>
 
-<entry xml:id="mine">
+<entry>
 <orth>Mine</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">facies</foreign>, <foreign xml:lang="lat">vultus</foreign>, <sense n="1">air
 <lb/>du visage </sense> ; <sense> — <foreign xml:lang="lat">fodina</foreign>, lieu où se
 <lb/>forment les rninéraux, sur-tout le »
@@ -37131,7 +37131,7 @@
 <lb/>qui s’ouvrent en plusieurs valves.
 </entry>
 
-<entry xml:id="muqueux">
+<entry>
 <orth>Muqueux</orth>, EUsE, <gram>s. m.</gram> et <gram>adj.</gram>
 <lb/><foreign xml:lang="lat">mucosus</foreign>, <sense n="1">qui conticnt du mucilagc</sense>;
 <lb/><sense> — le <term>muqueux</term>. <gloss xml:lang="lat">corpus mucosum</gloss>,
@@ -39628,7 +39628,7 @@
 <lb/>ou à la folie quelque aliment.
 </entry>
 
-<entry xml:id="optique">
+<entry>
 <orth>Optique</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">optice</foreign>, <foreign xml:lang="lat">optica</foreign>,
 <lb/>du verbe οπτομαι, je vois ; <sense n="1">science
 <lb/>de la vision : elle traite de la lurnière
@@ -40291,7 +40291,7 @@
 <lb/>POreille.
 </entry>
 
-<entry xml:id="ouïe">
+<entry>
 <orth>Ouïe</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">auditus</foreign>, <sense n="1">organe dcs
 <lb/>sens par lequel on perçoit les sons </sense> ;
 <lb/><sense> <term>ouïes</term>, au pl. <foreign xml:lang="lat"><choice><sic>branchiœ</sic><corr>branchiæ</corr></choice></foreign>, du grec
@@ -40849,7 +40849,7 @@
 <lb/>tout, et de δῆμος, peuple ; invasion
 <lb/>générale de quelque maladie
 <lb/>qui dépend d’une cause commune
-<lb/>et accidentelle ;— cle là <term>Pandémique</hi></term>,
+<lb/>et accidentelle ;— cle là <term>Pandémique</term>,
 <lb/><gram>adj.</gram> <foreign xml:lang="lat">pandemicus</foreign> ; notn
 <lb/>qu’on olonne aux maladies qui se
 <lb/>répandent sur tout un peuple. On
@@ -42590,7 +42590,7 @@
 
 <entry>
 <orth>Pessaire</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">pessarium</foreign>, engrec
-<lb/><foreign xml:lang="grc"><choice><sic>πεσσος<corr>πεσσὸς</corr></sic></choice></foreign>, petite pierre ; remède solide
+<lb/><foreign xml:lang="grc"><choice><sic>πεσσος</sic><corr>πεσσὸς</corr></choice></foreign>, petite pierre ; remède solide
 <lb/>composé de liuge, de liége, d’ivoire,
 <lb/>d’or ou d’a’rgent, en forme de pvramide,
 <lb/>de tuyau, d’ovale ou de biiboquet.qn’on
@@ -45887,7 +45887,7 @@
 <lb/>veut faire dcs expériencessur
 <lb/>les couleurs. — <term>Couleurs prismatiques</term>,
 <lb/>celles qd’on appcrçoit à travers
-<lb/>un prisme. <hi>— </hi> <term>Crystal prismatique</hi></term>,
+<lb/>un prisme. <hi>— </hi> <term>Crystal prismatique</term>,
 <lb/>celui qui a la forme d’un
 <lb/>prisme, dontles planssont inclinés
 <lb/>entr’eux dejiao degrés.
@@ -45987,7 +45987,7 @@
 </entry>
 
 <entry>
-<orth>Produit</orth>, <gram>s. m.</gram> de >produco</foreign>. je
+<orth>Produit</orth>, <gram>s. m.</gram> de >produco. je
 <lb/>produis ; résultat dhine opération
 <lb/>chimique ; — résultat de deux nombres
 <lb/>rnultipliés l’un par l’autre :
@@ -58946,7 +58946,7 @@
 
 <entry>
 <orth>Vanille</orth>, <gram>s. f.</gram> de l’espagnol
-<lb/><foreign xml:lang="esp">vaynillas</foreign> ; nom d’une plante qui
+<lb/><foreign xml:lang="spa">vaynillas</foreign> ; nom d’une plante qui
 <lb/>croît en Amérique, dont le fruit
 <lb/>ressemble a une espèce de silique
 <lb/>de six ou sept pouces de long,et renfermc
