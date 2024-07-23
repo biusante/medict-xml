@@ -125,7 +125,7 @@
 <lb/>maxillaire externe à la lèvre inférieure,
 <lb/>qu’il abaisSe et peut retourner.</p>
 
-  <p><term>Abaisseur de la langue</term> <hi><foreign xml:lang="lat">linguae depressor</foreign></hi>,
+  <p><term>Abaisseur de la langue</term> <foreign xml:lang="lat">linguae depressor</foreign>,
     <lb/> <foreign xml:lang="grc">γλωσσοκάτοχος</foreign> ; instrument à raide
 <lb/>duquel on maintient la langue abaissée.</p>
 </entryFree>
@@ -196,10 +196,10 @@ articulation
 </entryFree>
 
 <entryFree>
-<p><orth>Abattre</orth><gram>v. a.</gram><foreign xml:lang="xml">dejicere</foreign>. <hi>– un cheval</hi>,
+<p><orth>Abattre</orth><gram>v. a.</gram><foreign xml:lang="lat">dejicere</foreign>. <hi>– un cheval</hi>,
 <lb/>c’est le jeter par terre au moyen d’entraves
 <lb/>et de lacs, ou bien le tuer, l’assommer,
-<lb/><foreign xml:lang="xml">necare</foreign> ; ou enfinenleversa peau<foreign xml:lang="xml">excoriare</foreign>.</p>
+<lb/><foreign xml:lang="lat">necare</foreign> ; ou enfinenleversa peau<foreign xml:lang="lat">excoriare</foreign>.</p>
 
 <p>| <term>Abattre l’eau</term>, c’est râcler la peau avec
 <lb/>un couteau de chaleur pour enlever la
@@ -224,7 +224,7 @@ articulation
 </entryFree>
 
 <entryFree>
-<p><orth>Abcéder</orth><gram>v. n.<gram><foreign xml:lang="lat">abscedere</foreign> ; dégénérer
+<p><orth>Abcéder</orth><gram>v. n.</gram><foreign xml:lang="lat">abscedere</foreign> ; dégénérer
 <lb/>en abcès.</p>
 </entryFree>
 
@@ -341,8 +341,8 @@ rune des trois et la plue
 <lb/>phalange du pouce, et qui porte ce doigt
 <lb/>en dehors.</p>
 
-<p><term><hi>Abducteur (long) du pouce</term>, abductor
-<lb/>longus pollicis manus</hi> ; muscle (cubitosus-métacarpien
+<p><term>Abducteur (long) du pouce</term>, abductor
+<lb/>longus pollicis manus ; muscle (cubitosus-métacarpien
 <lb/>du pouce, Ch.) de l’avant-bras,
 <lb/>qui s’étend depuis la crête
 <lb/>longitudinale postérieure du cubitus et
@@ -2066,7 +2066,7 @@ irrégularité dans les jours critiques.
 </entryFree>
 
 <entryFree>
-<p><orth>Acotylédonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">acotylcdonia</foreign>
+<p><orth>Acotylédonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">acotyledonia</foreign>
 <etym>(apr.,
 <lb/>κοτυληδών, cotylédon)</etym> ; 
 nom de la première
@@ -2084,7 +2084,7 @@ instrumcnt
 </entryFree>
 
 <entryFree>
-<p><orth>Acoustico-malleen</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">acouslico-mallaeus</foreign>
+<p><orth>Acoustico-malléen</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">acoustico-mallaeus</foreign>
 <lb/>
 <etym>(ἀκούω, j’entends, <hi>malleus</hi>,
 <lb/>marteau)</etym> : 
@@ -2093,8 +2093,8 @@ nom donné par CbausSIer.au
 </entryFree>
 
 <entryFree>
-<p><orth>Acoustique</orth>, <gram>s. m.</gram> et <gram>adj.</gram>, <hi>acustica,
-<lb/>acusticus</hi>
+  <p><orth>Acoustique</orth>, <gram>s. m.</gram> et <gram>adj.</gram>, <hi><foreign xml:lang="lat">acustica</foreign>,
+    <lb/><foreign xml:lang="lat">acusticus</foreign></hi>
 <etym>(ἀκούω, j’entends)</etym> ; 
 branche de
 <lb/>la physIque qui S’occupe de la théorie
@@ -2166,14 +2166,14 @@ faiblesse, débilité, impuissance.</p>
 <entryFree>
 <p><orth>Acreté</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">acritas</foreign> ; qualité propre
 <lb/>aux SUbstances âcres, à la chaleur âcre.
-<lb/><hi>| Arreté du sang, des humeurs</hi> ; altération
+<lb/><hi>| <term>Arreté du sang, des humeurs</term></hi> ; altération
 <lb/>morbide chimérique, admise par les anciens.
 <lb/>| Ce mot est aussi synonyme d’ai-
 <lb/><hi>grcurs</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Acrétopote</orth>, <gram>adj.</gram> <foreign xml:lang="lat">et s.</foreign>, <foreign xml:lang="lat">acretopotus</foreign>
+<p><orth>Acrétopote</orth>, <gram>adj.</gram> et <gram>s.</gram>, <foreign xml:lang="lat">acretopotus</foreign>
 <etym>(<hi>άχρτη-</hi>
 <lb/>τος, vin pur, <hi>potare</hi>, boire)</etym> ; 
 qui boit du
@@ -2216,16 +2216,15 @@ terminaison d’une maladie
 </entryFree>
 
 <entryFree>
-<p><orth>Acritique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aeriticus</foreign>
+<p><orth>Acritique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">acriticus</foreign>
 <etym>(a priv.,
-<lb/>κρίσις, jugement)</etym> ; 
-qui a lieu sans crise,
+<lb/>κρίσις, jugement)</etym> ; qui a lieu sans crise,
 <lb/>qui n’annonce point une crise : <hi>maladie,
 <lb/>symptôme, évacuation, abcès acrilique</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Acrochin</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acrochir</foreign>
+<p><orth>Acrochir</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acrochir</foreign>
 <etym>(<hi>όίχρος</hi>, extrême,
 <lb/>χεὶρ, main)</etym> 
 ï nom collectif de
@@ -2233,7 +2232,7 @@ qui a lieu sans crise,
 </entryFree>
 
 <entryFree>
-<p><orth>Acrochirèse</orth>, <hi>acrocluresis</hi>
+<p><orth>Acrochirèse</orth>, <hi>acrochiresis</hi>
 <etym>(ἄκρος, <hi>ex-</hi>
 <lb/>trême, χεὶρ, main)</etym> ; 
 lutte dans laquelle
@@ -2246,7 +2245,7 @@ lutte dans laquelle
 </entryFree>
 
 <entryFree>
-<p><orth>Acrochordon</orth>, <gram>s. f.</gram>, ἀκροχορδών,
+  <p><orth>Acrochordon</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀκροχορδὼν</foreign>,
 <etym>(ἄκρος,
 <lb/>extrême, χορδη, corde à boyau)</etym> ; 
 verrue
@@ -2280,7 +2279,7 @@ verrue
 
 <entryFree>
 <p><orth>Acromion</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acromion</foreign>, <foreign xml:lang="lat">acromium</foreign>,
-<lb/>ἀκρώμιον,
+  <lb/><foreign xml:lang="grc">ἀκρώμιον</foreign>,
 <etym>(ἄκρος, extrême, ὤμος, épaule)</etym> ;
 
 <lb/>éminence qui termine l’épine de l’omoplate
@@ -2291,7 +2290,7 @@ verrue
 
 <entryFree>
 <p><orth>Acromphale</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acromphalus</foreign>,
-<lb/>ἀκρόμφαλιον
+  <lb/><foreign xml:lang="grc">ἁκρόμφαλιον</foreign>
 <etym>(ἄκρος, extrême, ὀμφαλὸς,
 <lb/>nombril)</etym> ; 
 extrémité du cordon ombilical,
@@ -2300,7 +2299,7 @@ extrémité du cordon ombilical,
 </entryFree>
 
 <entryFree>
-<p><orth>Acropathie</orth>, S. I’., <hi>aeropatlda</hi>
+  <p><orth>Acropathie</orth>, <gram>s. f.</gram> <hi><foreign xml:lang="lat">acropathia</foreign></hi>
 <etym>(ἄκρος,
 <lb/>extrême, πάθος, maladie)</etym> ; 
 maladie
@@ -2316,7 +2315,7 @@ portion du
 </entryFree>
 
 <entryFree>
-<p><orth>Acrosarque</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aerosareum</foreign>
+<p><orth>Acrosarque</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acrosarcum</foreign>
 <etym>(ἄκρος,
 <lb/>par excellence, σὰρζ, chair)</etym> ; 
 Desvaux
@@ -2329,7 +2328,7 @@ Desvaux
 
 <entryFree>
 <p><orth>Acrotériasme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acroteriasmus</foreign>,
-<lb/>ἀκρωτηριασμὸς
+  <lb/><foreign xml:lang="grc">ἀκρωτηριασμὸς</foreign>
 <etym>(ἀκρωτηριάζω, je coupe les
 <lb/>extrémités du corps)</etym> ; 
 amputation des
@@ -2337,7 +2336,7 @@ amputation des
 </entryFree>
 
 <entryFree>
-<p><orth>Acrothymion</orth>, β. m., <hi>acrothymion</hi>
+  <p><orth>Acrothymion</orth>, <gram>s. m.</gram>, <hi><foreign xml:lang="lat">acrothymion</foreign></hi>
 <etym>(ἄκρος, extrême, θύμιον, verrue)</etym> ; 
 SOrte de verrue
 <lb/>conique, rugueuse et Saignante.</p>
@@ -2415,7 +2414,7 @@ Ce mot,
 </entryFree>
 
 <entryFree>
-<p><orth>Acuite</orth>, s. L Ce mot, en passant de la
+<p><orth>Acuité</orth>,<gram>s. f.</gram> Ce mot, en passant de la
 <lb/>musique dans la médecine, a changé de
 <lb/>signification ; on remploie pour désigner
 <lb/>la courte durée des maladies aigues, et
@@ -2438,7 +2437,7 @@ Cette expression est
 
 <entryFree>
 <p><orth>Acutangulé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">acutangulatus</foreign> ou
-<lb/><hi>acutè-angulatus</hi>
+  <lb/><hi><foreign xml:lang="lat">acutè-angulatus</foreign></hi>
 <etym>(<hi>acutus</hi>, aigu, <hi>angulus</hi>,
 <lb/>angle)</etym> ; 
 épithète donnée aux parties SOlides
@@ -2466,7 +2465,7 @@ opération
 </entryFree>
 
 <entryFree>
-<p><orth>Acyanoblepsie</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acyanobtepsia</foreign>
+<p><orth>Acyanoblepsie</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acyanoblepsia</foreign>
 <etym>(
 <lb/>a priv., κύανος, hleu, βλέπω, je vois)</etym> ;
 
@@ -2488,7 +2487,7 @@ opération
 </entryFree>
 
 <entryFree>
-<p><orth>Adarticulation</orth>, <gram>s. f.</gram>, <hi>adarticulatio ; synonyme
+  <p><orth>Adarticulation</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adarticulatio</foreign> ; synonyme
 <lb/>d’abarticulation</hi> et de <hi>dtarthrose</hi>,
 <lb/>employé par Ingrassia, qui a traduit
 <lb/>ainsi le mot grec προσάρθρωσις.</p>
@@ -2503,7 +2502,7 @@ opération
 </entryFree>
 
 <entryFree>
-<p><orth>Addéphagie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">addaephagîa</foreign>
+<p><orth>Addéphagie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">addoephagia</foreign>
 <etym>(<hi>S</hi>. <hi>SS-oV</hi>,
 <lb/>beaucoup, φάγω, je mange)</etym> ; 
 faim excessive.
@@ -2522,8 +2521,8 @@ On appelle
 
 <p><term>Adducteur de l’œil</term>. V. <ref>DROIT</ref> <hi>interne</hi>.</p>
 
-<p><term>Adducteur (premier</term>  ou <hi>moyen) de la
-<lb/>cuisse, adductor medius f morts</hi> ; muscle
+<p><term>Adducteur (premier ou moyen) de la
+<lb/>cuisse</term>, adductor medius f morts; muscle
 <lb/>(puhio-femoral, Cb.) de la partie interne
 <lb/>de la cuisse, étendu depuis répine et
 <lb/>le corps du pubis jusqu’à la partie
@@ -2533,7 +2532,7 @@ On appelle
 <p>raxe du corps la cuisse, qu’il fait tourner
 <lb/>un peu SUr elle-même de dedans en dehors.</p>
 
-<p><hi>Adducteur (second ou court') delacuisse,
+<p><hi><term>Adducteur (second ou court) de la cuisse</term>,
 <lb/>adductor brevis fenmris</hi> ; muscle (SOUSpubio-fémoral,
 <lb/>Cb.) de la partie interne
 <lb/>de la cuisse, qui S’étend du corps et de
@@ -2541,8 +2540,8 @@ On appelle
 <lb/>rinterstice de la ligne âpre du fémur, et
 <lb/>qui a les memes usages que le précédent.</p>
 
-<p><term>Adducteur (troisième</term>  ou <hi>long) de la
-<lb/>cuisse, adductor lougus femoris</hi> ; large
+<p><term>Adducteur (troisième ou long) de la
+<lb/>cuisse</term>, adductor lougus femoris ; large
 <lb/>muscle (ischio-fémoral, Ch.) de la partie
 <lb/>interne et postérieure de la cuisse, qui
 <lb/>naît de la tubérosité et de la branche
@@ -2553,7 +2552,7 @@ On appelle
 <lb/>diffère pas des deux précédons pour lee
 <lb/>usages.</p>
 
-<p><hi>Adducteur du pouce, adductor polraeis
+<p><hi><term>Adducteur du pouce</term>, adductor polraeis
 <lb/>manûs</hi> ; large rnuscle (métacarpo – pbalangien
 <lb/>du pouce. Ch.) triangulaire, de
 <lb/>l’éminence thénar, qui Se porte du troisième
@@ -2561,7 +2560,7 @@ On appelle
 <lb/>de la première phalange du pouce, et
 <lb/>qui sert à rapprocher ce doigt des autres.</p>
 
-<p><hi>Adducteur du petit doigt, adductor
+<p><hi><term>Adducteur du petit doigt</term>, adductor
 <lb/>digiti minimi</hi> ; muscle (carpo-phalangien
 <lb/>du petit doigt, CII.) aplati et alongé, de
 <lb/>l’éminence hypothénar, qui, de ros pisiferme,
@@ -2570,7 +2569,7 @@ On appelle
 <lb/>Sert à porter celui-ci en dedans et en
 <lb/>avant.</p>
 
-<p><hi>Adducteur du gros orteil, adductor posi
+<p><hi><term>Adducteur du gros orteil</term>, adductor posi
 <lb/>licis pedi, hallucis</hi> ; muscle (calcanéosous
 <lb/>phalangien de l’orteil. Ch.) épais,
 <lb/>aplati et alongé, SItué au côté interne de
@@ -2618,7 +2617,7 @@ peu manifeste, obscur:
 </entryFree>
 
 <entryFree>
-<p><orth>Adeliparie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adehparia</foreign>
+<p><orth>Adéliparie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adeliparia</foreign>
 <etym>(ἀδὴν, abondammmeut,
 <lb/>λιπαρὸς, gras)</etym> : 
 nom imposé
@@ -2651,8 +2650,8 @@ douleur qui
 </entryFree>
 
 <entryFree>
-<p><orth>Adénemphraxie</orth>, s. 1’., <hi>glandularum
-<lb/>obstruclio</hi>
+  <p><orth>Adénemphraxie</orth>,<gram>s. f.</gram>., <hi><foreign xml:lang="lat">glandularum
+<lb/>obstructio</foreign></hi>
 <etym>(ἀδὴν, glande, ἐμφράσσω, j’obstrue)</etym>
 
 <lb/> ; engorgement des glandee.</p>
@@ -2674,7 +2673,7 @@ description
 </entryFree>
 
 <entryFree>
-<p><orth>Adenoïde</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">adenoides</foreign>
+<p><orth>Adenoïde</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">adenoïdes</foreign>
 <etym>(ἀδὴν, glande,
 <lb/>έἷδος, figure)</etym> ; 
 qui a la figure d’une
@@ -2682,7 +2681,7 @@ qui a la figure d’une
 </entryFree>
 
 <entryFree>
-<p><orth>Adenologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adenotogia</foreign>
+<p><orth>Adénologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adenologia</foreign>
 <etym>(<hi>asnV</hi>,
 <lb/>glande, λόγος, discours)</etym> ; 
 partie de l’anatomie
@@ -2691,7 +2690,7 @@ partie de l’anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Adéno-méningée</orth>, <gram>adj.</gram> f., <hi>adeno-meningea</hi>
+  <p><orth>Adéno-méningée</orth>, <gram>adj. f.</gram> <hi><foreign xml:lang="lat">adeno-meningea</foreign></hi>
 <lb/>
 <etym>(ἀδὴν, glande, μὴνιγξ, membrane)</etym>.
 
@@ -2703,7 +2702,7 @@ partie de l’anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Adénoncose</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">tumorglandulerum</foreign>
+<p><orth>Adénoncose</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">tumor glandularum</foreign>
 <etym>(
 <lb/>ἀδὴν, glande, ὀγκος, tumeur)</etym> ; 
 tumeur
@@ -2711,7 +2710,7 @@ tumeur
 </entryFree>
 
 <entryFree>
-<p><orth>Adeno-nerveuse</orth>, <gram>adj.</gram> f., <hi>adeno-nervosa</hi>
+  <p><orth>Adeno-nerveuse</orth>, <gram>adj. f.</gram><hi><foreign xml:lang="lat">adeno-nervosa</foreign></hi>
 <etym>(
 <lb/>ἀδὴν, glande, νεῦρον, nerf)</etym> : 
 épithète
@@ -2722,7 +2721,7 @@ tumeur
 </entryFree>
 
 <entryFree>
-<p><orth>Adéno-pharyngite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adcno-pharyngitis</foreign>
+<p><orth>Adéno-pharyngite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adeno-pharyngitis</foreign>
 <lb/>
 <etym>(ἀδὴν, glande, φάρυγξ, pharynx)</etym> ;
 
@@ -2730,7 +2729,7 @@ tumeur
 </entryFree>
 
 <entryFree>
-<p><orth>Adéno-pharyngien</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">adeno phal'yngeus</foreign>
+<p><orth>Adéno-pharyngien</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">adeno pharyngeus</foreign>
 <lb/>
 <etym>(<hi>àArrj</hi>, glande, φάρυγξ, pharynx)</etym> ;
 
@@ -2741,7 +2740,7 @@ tumeur
 </entryFree>
 
 <entryFree>
-<p><orth>Adénophthalmie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adcnophthalmia</foreign>
+<p><orth>Adénophthalmie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adenophthalmia</foreign>
 <lb/>
 <etym>(ἀδὴν, glande, ὀφθαλμὸς, œil)</etym> ; 
 inflammation
@@ -2757,7 +2756,7 @@ art de dISSéquer
 </entryFree>
 
 <entryFree>
-<p><orth>Adénosclérose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">induratio gtandularum</foreign>
+<p><orth>Adénosclérose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">induratio glandularum</foreign>
 <lb/>
 <etym>(<hi>ἀδὴν</hi>, glande, σκληρὸς, dur)</etym> ;
 
@@ -2816,7 +2815,7 @@ union d’une chose
 </entryFree>
 
 <entryFree>
-<p><orth>Adhesif</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">adhaerens</foreign>, qui adhère.
+<p><orth>Adhésif</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">adhaerens</foreign>, qui adhère.
 <lb/><hi>Emplâtre adhésif</hi> ; c’est celui qui est
 <lb/>composé de manière à pouvoir adhérer à
 <lb/>la peau.</p>
@@ -2852,7 +2851,7 @@ decine, sous le nom général de <hi>capillaires</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Adiapneustie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adiupncustia</foreign>
+<p><orth>Adiapneustie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adiapneustia</foreign>
 <etym>(a
 <lb/>priv., διαπνε'ὸμαι, je transpire)</etym> ; 
 suppression
@@ -2869,7 +2868,7 @@ principe volatil,
 </entryFree>
 
 <entryFree>
-<p><orth>Adiaphorèse</orth>, S, L, <hi>adiaphoresis</hi> ; défaut
+  <p><orth>Adiaphorèse</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adiaphoresis</foreign></hi> ; défaut
 <lb/>de perspiration cutanée.</p>
 </entryFree>
 
@@ -2893,7 +2892,7 @@ rétention d’humeurs
 </entryFree>
 
 <entryFree>
-<p><orth>Adipocire</orth>, <gram>s. f.</gram>, <hi>adipocira, gras des
+  <p><orth>Adipocire</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adipocira</foreign>, gras des
 <lb/>cadavres, gras des cimetières</hi>
 <etym>(<hi>adeps</hi>,
 <lb/>graisse, <hi>cera</hi>, cire)</etym> ; 
@@ -2972,7 +2971,7 @@ qui est dans l’adolescence.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Adragant</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">trogacantha gummi</foreign>
+<p><orth>Adragant</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">tragacantha gummi</foreign>
 <etym>(
 <lb/>τραχὺς^έηββέ, ἄκανθα, épine)</etym> ; 
 nom d’une
@@ -2987,7 +2986,7 @@ nom d’une
 </entryFree>
 
 <entryFree>
-<p><orth>Adraganthine</orth>, <gram>s. f.</gram>, <hi>adraganthina,
+  <p><orth>Adraganthine</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adraganthina</foreign>,
 <lb/>prunine, cérasine</hi> ; substance écailleuse,
 <lb/>d’un blanc Sale, ineipide, inodore, dure,
 <lb/>presque transparente, SOluble dans reau
@@ -3035,7 +3034,7 @@ action d’altérer,
 </entryFree>
 
 <entryFree>
-<p><orth>Adultérer</orth>, v.ad., <hi>adulterare</hi>, falsifier,
+  <p><orth>Adultérer</orth>, <gram>v. ad.</gram>, <hi><foreign xml:lang="lat">adulterare</foreign></hi>, falsifier,
 <lb/>altérer les médieamens, les alimens.</p>
 </entryFree>
 
@@ -3118,7 +3117,7 @@ qui est produit par l’adynarnie,
 </entryFree>
 
 <entryFree>
-<p><orth>Ædoiodynie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aedoiodyrna</foreign>
+<p><orth>Ædoiodynie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aedoiodynia</foreign>
 <etym>(αἰδοἵα,
 <lb/>organes de la génération, ὀδύνη, douleur)</etym>
 
@@ -3157,7 +3156,7 @@ dissection des Organes de la génération.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ædoïte</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aeddltis</foreign>
+<p><orth>Ædoïte</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aedoïtis</foreign>
 <etym>(<hi>αἰδοἵα</hi>, organes
 <lb/>de la génération)</etym> ; 
 inflammation des
@@ -3178,7 +3177,7 @@ inflammation des
 </entryFree>
 
 <entryFree>
-<p><orth>Ægilops</orth>, <gram>s. m.</gram>, αἰγίλωψ
+  <p><orth>Ægilops</orth>, <gram>s. m.</gram>, <foreign xml:lang="grc">αἰγίλωψ</foreign>
 <etym>(αἴξ, αἴγος,
 <lb/>chèvre, ώψ, œil)</etym> ; 
 maladie qui donne à
@@ -3197,7 +3196,7 @@ maladie qui donne à
 </entryFree>
 
 <entryFree>
-<p><orth>Ægyptiac</orth>, s. m, <hi>pharmacum œgyptiacurn</hi> ;
+  <p><orth>Ægyptiac</orth>, <gram>s. m.</gram>, <hi><foreign xml:lang="lat">pharmacum aegyptiacum</foreign></hi> ;
 <lb/>onguent compose avec le vinaigre,
 <lb/>le miel et le vert-de-gris. Cette préparation
 <lb/>est regardée comme dessiccative
@@ -3214,7 +3213,7 @@ maladie qui donne à
 </entryFree>
 
 <entryFree>
-<p><orth>Aérifère</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">acrisir</foreign>
+<p><orth>Aérifère</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aerifer</foreign>
 <etym>(<hi>aer</hi>, air, <hi>ferre</hi>,
 <lb/>porter)</etym> ; 
 se dit des conduits qui Servent
@@ -3224,7 +3223,7 @@ se dit des conduits qui Servent
 </entryFree>
 
 <entryFree>
-<p><orth>Aérification</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aerisicatio</foreign>
+<p><orth>Aérification</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aerificatio</foreign>
 <etym>(<hi>aer</hi>,
 <lb/>air, <hi>siicere</hi>, faire)</etym> ; 
 action de convertir
@@ -3249,14 +3248,14 @@ partie de la physique
 </entryFree>
 
 <entryFree>
-<p><orth>Aérographie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aexographia</foreign>
+<p><orth>Aérographie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aerographia</foreign>
 <etym>(ἀὴρ,
 <lb/>air, γράφω, j’écris)</etym> ; 
 traité SUr l’air.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aérologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">acrologia</foreign>
+<p><orth>Aérologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aerologia</foreign>
 <etym>(ἀὴρ, air,
 <lb/>λόγος, dÎScours)</etym> ; 
 traité des propriétés
@@ -3312,17 +3311,17 @@ horreur du contact
 </entryFree>
 
 <entryFree>
-<p><orth>Aesthème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">sensatio</foreign>, αἕσθημα ;
+<p><orth>Aesthème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">sensatio</foreign>, <foreign xml:lang="grc">αἴσθημα</foreign> ;
 <lb/>Sensation, Sentiment.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Æsthésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">sensibilitas</foreign>, αἴσθησις ;
+<p><orth>Æsthésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">sensibilitas</foreign>, <foreign xml:lang="grc">αἴσθησις</foreign> ;
 <lb/>sensibilité.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Æsthétère</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aisthctcrium</foreign>, αἰσθητήριον
+  <p><orth>Æsthétère</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aistheterium</foreign>, <foreign xml:lang="grc">αἰσθητήριον</foreign>
 <lb/>
 <etym>(αἰσθάνομαι, je sens)</etym> ; 
 centre des
@@ -3350,14 +3349,14 @@ centre des
 </entryFree>
 
 <entryFree>
-<p><orth>Affaiblissement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">dcbilitatio</foreign> ;
+<p><orth>Affaiblissement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">debilitatio</foreign> ;
 <lb/>diminution desforces.—<hi>de la vue</hi>. V. <ref>AMBLYOPIE</ref>.
 <lb/>   <hi>de rouie</hi>. V. <ref>BARYECOIE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Affaissement</orth>, S – L, <hi>torpor, stupor,
-<lb/>collapsus, depressio ; se</hi>. dit en parlant du
+<p><orth>Affaissement</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">torpor</foreign>, <foreign xml:lang="lat">stupor</foreign>,
+<lb/><foreign xml:lang="lat">collapsus</foreign>, <foreign xml:lang="lat">depressio</foreign> ; se</hi>. dit en parlant du
 <lb/>bas-ventre, d’une tumeur, des mamelles
 <lb/>ou des forces d’un malade. | Se dit en
 <lb/>chirurgie pour exprimer l’état d’une partic
@@ -3375,7 +3374,7 @@ centre des
 </entryFree>
 
 <entryFree>
-<p><orth>Affection</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">affectas</foreign>, <foreign xml:lang="lat">affcUo</foreign>
+<p><orth>Affection</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">affectus</foreign>, <foreign xml:lang="lat">affectio</foreign>
 <etym>(<hi>ad</hi>,
 <lb/>à, <hi>sixus</hi>, fixé)</etym> ; 
 Sentiment agréable ou
@@ -3390,13 +3389,13 @@ Sentiment agréable ou
 <lb/>la colère, la joie, la frayeur, la
 <lb/>crainte, le chagrin. | <hi>Affection morbide</hi>,
 <lb/>Synonyme de <hi>maladie</hi>. <hi>– lunatique,
-<lb/>V</hi>. ELUXION PÉRIODIQUE.    <hi>tuberculeuse</hi>,</p>
+<lb/>V</hi>. <ref>FLUXION PÉRIODIQUE</ref>.    <hi>tuberculeuse</hi>,</p>
 
-<p><term>V</term>. TUBERCULES.</p>
+<p>V.<ref>TUBERCULES</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Affinité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">afsinitas</foreign>
+<p><orth>Affinité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">affinitas</foreign>
 <etym>(<hi>ad</hi>, prés,
 <lb/><hi>finis</hi>, fin)</etym> ; 
 rapport, liaison, convenance
@@ -3414,7 +3413,7 @@ rapport, liaison, convenance
 </entryFree>
 
 <entryFree>
-<p><orth>Affluence</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asiluxus</foreign>, <foreign xml:lang="lat">corrivatio</foreign>
+<p><orth>Affluence</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">affluxus</foreign>, <foreign xml:lang="lat">corrivatio</foreign>
 <lb/>
 <etym>(<hi>ad</hi>, vers, <hi>siuere</hi>, couler)</etym> ; 
 conco-ars des
@@ -3423,7 +3422,7 @@ conco-ars des
 </entryFree>
 
 <entryFree>
-<p><orth>Affluent</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aDluens</foreign>
+<p><orth>Affluent</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">affluens</foreign>
 <etym>(<hi>ad</hi>, vers,
 <lb/><hi>siuere</hi>, couler)</etym> ; 
 Se dit des humeurs en
@@ -3432,7 +3431,7 @@ Se dit des humeurs en
 </entryFree>
 
 <entryFree>
-<p><orth>Afflux</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">al/luxus</foreign>
+<p><orth>Afflux</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">affluxus</foreign>
 <etym>(<hi>ad</hi>, vers,
 <lb/><hi>siuere</hi>, couler)</etym> ; 
 concours des humeurs
@@ -3441,7 +3440,7 @@ concours des humeurs
 </entryFree>
 
 <entryFree>
-<p><orth>Affourrager</orth>, v. a., <hi>pabulum praebere ;</hi>
+  <p><orth>Affourrager</orth>, <gram>v. a.</gram>, <hi><foreign xml:lang="lat">pabulum praebere</foreign>;</hi>
 <lb/>donner du fourrage aux bestiaux.</p>
 </entryFree>
 
@@ -3456,7 +3455,7 @@ concours des humeurs
 </entryFree>
 
 <entryFree>
-<p><orth>Affusion</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atfusio</foreign> –, application
+<p><orth>Affusion</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">affusio</foreign> –, application
 <lb/>des liquides à la peau, qui consiste à
 <lb/>les verser subitement sur la totalité ou
 <lb/>Seulement sur une portion du corps. Les
@@ -3465,7 +3464,7 @@ concours des humeurs
 </entryFree>
 
 <entryFree>
-<p><orth>Agacement</orth>, S. rn.
+<p><orth>Agacement</orth>, <gram>s. m.</gram>.
 <etym>(ἀκάζειν, aiguiser)</etym> ;
 
 <lb/>irritation.—<hi>des dents (dentium stupor,
@@ -3480,7 +3479,7 @@ concours des humeurs
 </entryFree>
 
 <entryFree>
-<p><orth>Agalactie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">agalacUa</foreign>
+<p><orth>Agalactie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">agalactia</foreign>
 <etym>(<hi>a</hi> priv.
 <lb/>γάλα, lait)</etym> ; 
 absence du lait dans les mamelles.
@@ -3493,7 +3492,7 @@ absence du lait dans les mamelles.
 </entryFree>
 
 <entryFree>
-<p><orth>Agalloche</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">agallcchum</foreign> ; bois
+<p><orth>Agalloche</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">agallochum</foreign> ; bois
 <lb/>résineux et odorant, que l’on connaît encore
 <lb/>sous le nom de <hi>boisd’alors</hi>. 11 est prodoit
 <lb/>par <hi>Vexcaecaria agallocha</hi>, L., petit
@@ -3594,7 +3593,7 @@ gie des petits vaisseaux, à cause de sa
 </entryFree>
 
 <entryFree>
-<p><orth>Agédoite</orth>, S. L ; principe immédiat
+<p><orth>Agédoite</orth>,<gram>s. f.</gram> principe immédiat
 <lb/>des végétaux, cristallisable en octaèdres,
 <lb/>presque insoluble dans l’eau, SOluble
 <lb/>dans les acides sulfurique et nitrique,
@@ -3640,7 +3639,7 @@ stérilité, impuissance.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ageustie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ageustia</foreign>, ἀγευστία
+  <p><orth>Ageustie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ageustia</foreign>, <foreign xml:lang="grc">ἀγευστία</foreign>
 <etym>(a pr.,
 <lb/>γεύομαι, je goûte)</etym> ; 
 diminution, abolition
@@ -3648,7 +3647,7 @@ diminution, abolition
 </entryFree>
 
 <entryFree>
-<p><orth>Agglutinant</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">agglutinons</foreign>
+<p><orth>Agglutinant</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">agglutinans</foreign>
 <etym>(<hi>gluten</hi>,
 <lb/>colle)</etym>. 
 On appelait autrefois <hi>agglutinons</hi>
@@ -3682,7 +3681,7 @@ action des SUbstances
 </entryFree>
 
 <entryFree>
-<p><orth>Agglutiner</orth>, v. a., <hi>agglutinare</hi>
+  <p><orth>Agglutiner</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">agglutinare</foreign></hi>
 <etym>(<hi>Gluten</hi>,
 <pb n="20" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0030/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=30"/> colle)</etym>, 
 coller, réunir. <hi>Agglutiner
@@ -3690,14 +3689,14 @@ coller, réunir. <hi>Agglutiner
 </entryFree>
 
 <entryFree>
-<p><orth>Aggravé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">defcssus</foreign> ; chien fàtigué,
+<p><orth>Aggravé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">defessus</foreign> ; chien fàtigué,
 <lb/>chien dessolé : boiterie, erevasses,
 <lb/>ampoules qui SUrviennent sous la
 <lb/>peau des pattes des chiens de chasse.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aggraver</orth>, V. a. <hi/>
+<p><orth>Aggraver</orth>, <gram>v. a.</gram> <hi/>
 <etym>(<hi>ad</hi>, augm., <hi>gravis</hi>,
 <lb/>pesant)</etym> ; 
 rendre plus grave. <hi>S’aggraver</hi>,
@@ -3740,13 +3739,13 @@ mouvement continuel
 </entryFree>
 
 <entryFree>
-<p><orth>Aglie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aglia</foreign>,  ; cicatrice</p>
+  <p><orth>Aglie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aglia</foreign>, <foreign xml:lang="grc">ἀγλίη</foreign> ; cicatrice</p>
 
 <p>blanche à la cornée.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aglosse</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aglossas</foreign>
+<p><orth>Aglosse</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aglossus</foreign>
 <etym>(a priv. γλὤσσα,
 <lb/>langue)</etym> ; 
 privé de la langue.</p>
@@ -3831,7 +3830,7 @@ partie de la gymnastique qui
 </entryFree>
 
 <entryFree>
-<p><orth>Agréablement</orth>, adv., <hi>jueundé</hi> ; une
+  <p><orth>Agréablement</orth>, <gram>adv.</gram>, <hi><foreign xml:lang="lat">jucundè</foreign></hi> ; une
 <lb/>des conditions exigées pour qu’une opération
 <lb/>SOit bien faite. Ce mot ne doit
 <lb/>pas être prie au pied de la lettre ; il signifie
@@ -3880,7 +3879,7 @@ Ce terme S’emploie
 </entryFree>
 
 <entryFree>
-<p><orth>Agriothymie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">insaniaferox</foreign>
+<p><orth>Agriothymie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">insania ferox</foreign>
 <etym>(ἄγριος,
 <lb/>féroce, Ουμὸς, caractère)</etym> ; 
 tendance à
@@ -3922,7 +3921,7 @@ terme employé pour désigner
 </entryFree>
 
 <entryFree>
-<p><orth>Agrypnie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">agrypnia</foreign>, <foreign xml:lang="grc">Λγρυττνί'Χ</foreign>
+<p><orth>Agrypnie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">agrypnia</foreign>, <foreign xml:lang="grc">ἀγρυπνία</foreign>
 <lb/>
 <etym>(<hi>a</hi> pr., ὕπνος, sommeil)</etym> ; 
 insomnie.</p>
@@ -3930,7 +3929,7 @@ insomnie.</p>
 
 <entryFree>
 <p><orth>Agrypnocoma</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">agrypnocoma</foreign>,
-<lb/>ἀγρυπνοκωμα
+  <lb/><foreign xml:lang="grc">ἀγρυπνόκωμα</foreign>
 <etym>(a priv. ὕπνος, sommeil,
 <lb/>χὤμα, assoupissement)</etym> ; 
 état d’assoupissement
@@ -3938,7 +3937,7 @@ insomnie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Agyrias</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">agyrms</foreign>
+<p><orth>Agyrias</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">agyrias</foreign>
 <etym>(ἄγυρις, amas,
 <lb/>collection)</etym> ; 
 opacité du cristallin.</p>
@@ -4000,7 +3999,7 @@ tache
 </entryFree>
 
 <entryFree>
-<p><orth>Aigle</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aiglia</foreign>, αἰγλία. V. <ref>AIGE</ref>.</p>
+<p><orth>Aigle</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aiglia</foreign>, <foreign xml:lang="grc">αἰγλία</foreign>. V. <ref>AIGE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -4016,7 +4015,7 @@ tache
 </entryFree>
 
 <entryFree>
-<p><orth>Aigre-doux</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">sub-caeidus</foreign> ; composé
+<p><orth>Aigre-doux</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">sub-acidus</foreign> ; composé
 <lb/>de doux et d’aigre : <hi>saveur, manière,
 <lb/>ton, style aigre-doux</hi>.</p>
 </entryFree>
@@ -4028,7 +4027,7 @@ tache
 </entryFree>
 
 <entryFree>
-<p><orth>Aigremoine</orth>, <hi>s</hi>. <hi>{., agrimonia eupatoria</hi>,
+  <p><orth>Aigremoine</orth>, <hi>s</hi>. <hi><foreign xml:lang="lat">agrimonia eupatoria</foreign></hi>,
 <lb/>L. ; petite plante vivace, de la famille
 <lb/>des rosacées et de la dodécandrie digynie,
 <lb/>qui croît dans les bois et sur les pelouses.
@@ -4070,19 +4069,19 @@ tache
 </entryFree>
 
 <entryFree>
-<p><orth>Aigrette</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">papposus</foreign> ; quiest pourvu
+<p><orth>Aigretté</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">papposus</foreign> ; quiest pourvu
 <lb/>d’une aigrette. Ce terme se dit des fruits
 <lb/>munis d’une aigrette.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aigreurs</orth>, <gram>s. f.</gram> pL, <hi>acores</hi> ; rapports
+  <p><orth>Aigreurs</orth>, <gram>s. f. pl.</gram> , <hi><foreign xml:lang="lat">acores</foreign></hi> ; rapports
 <lb/>acides qui proviennent de l’irritation de
 <lb/>l’estomac.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aigu</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">acutus ; se</foreign> dit des maladies
+<p><orth>Aigu</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">acutus</foreign> dit des maladies
 <lb/>qui marchent avec rapidité, durent
 <lb/>peu, eu égard à leur siége, et ont
 <lb/>généralement un certain degré de gravité.
@@ -4114,7 +4113,7 @@ tache
 <lb/>mèche, qu’elle Sert à introduire dans les
 <lb/>parties.</p>
 
-<p><term>AIguille a acupuncture</term>, Instrument
+<p><term>Aiguille à acupuncture</term>, Instrument
 <lb/>composé d’une tige d’or ou d’argent inflexible,
 <lb/>conique, déliée, longue de trois
 <lb/>à quatre pouces, montée SUr un manche
@@ -4124,13 +4123,13 @@ tache
 <lb/>à modérer le mouvement de progression
 <lb/>qu’on lui imprime, soit en tournant
 <lb/>le manche entre les doigts, SOit en le
-<lb/>frappant avec un maillet. <hi>V</hi> ACUPUNCTURE.</p>
+<lb/>frappant avec un maillet. <hi>V</hi><ref>ACUPUNCTURE</ref>.</p>
 
-<p><term>AIguille a appareil</term>, aiguille à coudre
+<p><term>Aiguille à appareil</term>, aiguille à coudre
 <lb/>ordinaire, dont on se sert pour confectionner
 <lb/>les bandages.</p>
 
-<p><term>AIguille a bec-de-lièvre</term>, instrument
+<p><term>Aiguille à bec-de-lièvre</term>, instrument
 <lb/>iisité pour pratiquer la suture entortillée.
 <lb/>C’est une tige droite d’acier, d’argent
 <lb/>ou d’or, cylindrique, de grosseur
@@ -4165,7 +4164,7 @@ tache
 <p>cette pointe parcoure de nouveau leur
 <lb/>trajet.</p>
 
-<p><term>AIguille a cataracte</term>, iHStrument
+<p><term>Aiguille à cataracte</term>, iHStrument
 <lb/>usité pour opérer la dépression ou le
 <lb/>broiement du cristallin devenu opaque.
 <lb/>AUtrefois, cette aiguille était composée
@@ -4195,7 +4194,7 @@ tache
 <lb/>dans le globe de l’œil, celui de Ses
 <lb/>côtés qui est en rapport avec le cristallin.</p>
 
-<p><term>AIguille à contre – ouverture</term>, instrument
+<p><term>Aiguille à contre-ouverture</term>, instrument
 <lb/>presque inusité, composé d’une
 <lb/>lame d’acier longue et étroite, dont la
 <lb/>pointe est aigue et tranchante des deux
@@ -4207,7 +4206,7 @@ tache
 <lb/>qu’elle chemine au milieu des parties
 <lb/>qu’elle doit respecter.</p>
 
-<p><term>AIguille a fistule</term>, tige d’argent,
+<p><term>Aiguille à fistule</term>, tige d’argent,
 <lb/>longue, aplatie et flexible, percée d’une
 <lb/>ouverture vers rune de Ses extrémités,
 <lb/>mousse vers l’autre, dont on se servait
@@ -4223,11 +4222,11 @@ tache
 <lb/>une fistule dont l’orifice interne ne
 <lb/>pouvait être trouvé.</p>
 
-<p><term>AIguille ά gaine</term>. V. <ref>AIguille a contreouverture</ref>.
+<p><term>Aiguille à gaîne</term>. V. <ref>Aiguille à contre-ouverture</ref>.
 </p>
 <pb n="23" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0033/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=33"/>
 
-<p><term>AIguille aimantée</term>, lame d’acier trempé,
+<p><term>Aiguille aimantée</term>, lame d’acier trempé,
 <lb/>large à son milieu, pointue à Ses
 <lb/>deux extrémités, mobile SUr un pivot,
 <lb/>et qui, aprèe avoir été frottée avec un aimant
@@ -4235,7 +4234,7 @@ tache
 <lb/>rune de Ses extrémités vers le pôle
 <lb/>nord, et l’autre veis le pôle sud du globe.</p>
 
-<p><term>AIguille a inoculation</term>, lame d’acier,
+<p><term>Aiguille à inoculation</term>, lame d’acier,
 <lb/>étroite, mince, terminée par une pointe
 <lb/>acérée et en fer de lance, et présentant
 <lb/>.sur une de Ses faces une rainure destinée
@@ -4245,7 +4244,7 @@ tache
 <lb/>montées sur une châsse, comme la lame
 <lb/>d’une lancette.</p>
 
-<p><term>AIguille ά ligature</term>, longue tige d’acier,
+<p><term>Aiguille à ligature</term>, longue tige d’acier,
 <lb/>aiguë vers rune de ses extrémites,
 <lb/>percée vers l’autre, et dont on se servait
 <lb/>autrefois pour passer, à travers un membre,
@@ -4274,7 +4273,7 @@ tache
 <lb/>à une tige droite. Larrey pense qu’on
 <lb/>pourrait ajouter aux avantages de cette
 <lb/>aiguille, en donnant à Sa pointe la forme
-<lb/>d’un fer de lance. | <hi>AIguille de Deschamps</hi> ;
+<lb/>d’un fer de lance. | <hi>Aiguille de Deschamps</hi> ;
 <lb/>c’est la précédente, fixée à angle
 <lb/>droit SUr un manche, et dont le chas
 <lb/>est SItué près de la pointe. Elle est ernployée
@@ -4284,9 +4283,9 @@ tache
 <lb/>décrite et représentéc fort long-temps
 <lb/>auparavant par Casa – Major Laplace.</p>
 
-<p><term>AIguille ά manche</term>. V. <ref>AIguille a ligature</ref>.</p>
+<p><term>Aiguille à manche</term>. V. <ref>Aiguille à ligature</ref>.</p>
 
-<p><term>AIguille ά séton</term>, lame d’acier, longue,
+<p><term>Aiguille à séton</term>, lame d’acier, longue,
 <lb/>étroite, aiguë et tranchante à l’une
 <lb/>de ses extrémités, percée à l’autre d’une
 <lb/>ouverture, dont on fait usage pour,
@@ -4295,9 +4294,9 @@ ton et y passer la mèche. | Stylet d’argent,
 <lb/>mousSe par un bout, percé vers
 <lb/>l’autre d’une ouverture, et qu’on emploie
 <lb/>pour déposer une mèche dans un
-<lb/>trajet déjà établi. V. <ref>AIguille ά contreouverture</ref>.</p>
+<lb/>trajet déjà établi. V. <ref>Aiguille à contre-ouverture</ref>.</p>
 
-<p><term>AIguille a suture</term>. POUr la SUture entortillée,
+<p><term>Aiguille à suture</term>. POUr la SUture entortillée,
 <lb/>c’est l’aiguille à bec-de-lièvre ;
 <lb/>pour la SUture à points passés et à SUrjet,
 <lb/>c’est l’aiguille à coudre ; pour les autres,
@@ -4310,44 +4309,44 @@ ton et y passer la mèche. | Stylet d’argent,
 <lb/>que cet instrument put pa.sser entre les
 <lb/>fibres tendineuses Sans les diviser.</p>
 
-<p><term>AIguillecourbe</term>. V. <ref>AIguille a ligature</ref>.</p>
+<p><term>Aiguille courbe</term>. V. <ref>Aiguille à ligature</ref>.</p>
 
-<p><term>AIguille de Beer</term>. V. <ref>AIguille a cataracte</ref>.</p>
+<p><term>Aiguille de Beer</term>. V. <ref>Aiguille à cataracte</ref>.</p>
 
-<p><term>AIguille de Deschamps.</term> V. <hi>AIguille
-<lb/>a ligature</hi>.</p>
+  <p><term>Aiguille de Deschamps.</term> V. <ref>Aiguille à ligature</ref>
+<lb/>.</p>
 
-<p><term>AIguille de DUpuytren</term>. V. <ref>AIguille</ref> à
-<lb/><hi>cataracte</hi>.</p>
+<p><term>Aiguille de Dupuytren</term>. V. <ref>Aiguille à cataracte</ref>
+<lb/>.</p>
 
-<p><term>AIguille de Graefe</term>. V. <ref>AIguille</ref> à ça<hi>tara,
+<p><term>Aiguille de Graefe</term>. V. <ref>Aiguille à cataracte</ref>,
 <lb/>etc</hi>.</p>
 
-<p><term>AIguille de Hey</term>. V. <ref>AIguille ά cataracte</ref>.</p>
+<p><term>Aiguille de Hey</term>. V. <ref>Aiguille à cataracte</ref>.</p>
 
-<p><term>AIguille de liimly</term>. V. <ref>AIguille a çataracte</ref>.</p>
+<p><term>Aiguille de Himly</term>. V. <ref>Aiguille à cataracte</ref>.</p>
 
-<p><term>AIguille de Langenbceh.</term> V. <hi>AIguille
-<lb/>ά cataracte</hi>.</p>
+<p><term>Aiguille de Langenbeck</term> V. <ref>Aiguille à cataracte</ref>
+<lb/>.</p>
 
-<p><term>AIguille de Paupe</term> <hi>, V</hi>. <hi>AIguille a ligature</hi>.</p>
+<p><term>Aiguille de Paupe</term> <hi>, V</hi>. <ref>Aiguille à ligature</ref>.</p>
 
-<p><term>AIguille de Scarpa</term>. V. <ref>AIguille ά çataracte</ref>.</p>
+<p><term>Aiguille de Scarpa</term>. V. <ref>Aiguille à cataracte</ref>.</p>
 
-<p><term>AIguille de Schmidt</term>. V. <ref>AIguille ά çataracte</ref>.</p>
+<p><term>Aiguille de Schmidt</term>. V. <ref>Aiguille à cataracte</ref>.</p>
 
-<p><term>AIguille de SIebold</term>. V. <ref>AIguille a çataracte</ref>.</p>
+<p><term>Aiguille de Siebold</term>. V. <ref>Aiguille à cataracte</ref>.</p>
 
-<p><term>AIguille de VValther.</term> V. <hi>AIguille a
-<lb/>cataracte</hi>.</p>
+<p><term>Aiguille de Walther.</term> V. <ref>Aiguille à cataracte</ref>
+<lb/>.</p>
 
-<p><term>AIguille droite.</term> V. <hi>AIguille a acupuneture,
+<p><term>Aiguille droite.</term> V. <hi>Aiguille a acupuneture,
 <lb/>ά appareils, a bec-de-lièvre,
 <lb/>a cataracte, a contre-ouverture, ά fistule</hi>.</p>
 
-<p><term>AIguille emmanchée</term>. V. <ref>AIguille a ligature</ref>.</p>
+<p><term>Aiguille emmanchée</term>. V. <ref>Aiguille à ligature</ref>.</p>
 
-<p><term>AIguille engainée</term>. V. <ref>AIguille a contre-ouverture</ref>.</p>
+<p><term>Aiguille engaînée</term>. V. <ref>Aiguille à contre-ouverture</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -4358,7 +4357,7 @@ ton et y passer la mèche. | Stylet d’argent,
 </entryFree>
 
 <entryFree>
-<p><orth>Aiguillon</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aeuleus</foreign>,
+<p><orth>Aiguillon</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aculeus</foreign>,
 <etym>(<hi>acus</hi>. aiguille)</etym>.
 
 <lb/>On désigne sous ce nom les piquans
@@ -4418,7 +4417,7 @@ lons des véritables épines, qui SOnt un
 </entryFree>
 
 <entryFree>
-<p><orth>Aile</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ala</foreign>, <foreign xml:lang="lat">puma</foreign> ; expansion du
+<p><orth>Aile</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ala</foreign>, <foreign xml:lang="lat">pinna</foreign> ; expansion du
 <lb/>corps de certains animaux qui leur sert
 <lb/>à voler. | Partie paire, plus ou moins
 <lb/>étendue, qui est SItuée sur les cotés d’un
@@ -4431,7 +4430,7 @@ lons des véritables épines, qui SOnt un
 </entryFree>
 
 <entryFree>
-<p><orth>Ailé</orth>, adj-, <hi>alatus</hi> ; qui est pourvu
+<p><orth>Ailé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">alatus</foreign> ; qui est pourvu
 <lb/>d’ailes. Le fruit de l’orme, du frêne,
 <lb/>des érables, les graines des bignoues, la
 <lb/>tige du bouillon blanc, <hi>sont ailes</hi>. <hi>| SOnde
@@ -4449,7 +4448,7 @@ lons des véritables épines, qui SOnt un
 </entryFree>
 
 <entryFree>
-<p><orth>Aimant</orth>, s, m., <hi>magnes</hi> ; variété amorphe
+  <p><orth>Aimant</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">magnes</foreign> ; variété amorphe
 <lb/>du fer oxidulé, qui jouit de la propriété
 <lb/>d’attirer le fer. | COrpsqui possède
 <lb/>cette propriété naturellement, ou auquel
@@ -4463,7 +4462,7 @@ lons des véritables épines, qui SOnt un
 </entryFree>
 
 <entryFree>
-<p><orth>Air</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acr</foreign>, ἀὴρ
+  <p><orth>Air</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aer</foreign>, <foreign xml:lang="grc">ἀὴρ</foreign>
 <etym>(αἴρω, j’emporte)</etym> ;
 
 <lb/>autrefois on appelait ainsi l’atmosphère
@@ -4486,7 +4485,7 @@ lons des véritables épines, qui SOnt un
 </entryFree>
 
 <entryFree>
-<p><orth>Airelle</orth>, S. f’., <hi>raecinium</hi> ; genre de
+<p><orth>Airelle</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">vaccinium</foreign> ; genre de
 <lb/>plantes, de la famille des vaeciniées et
 <lb/>de roclandne monogynie, dont toutes
 <lb/>les espèces ont pour fruits de petites
@@ -4582,7 +4581,7 @@ Les hotanistes appellent ainsi,
 </entryFree>
 
 <entryFree>
-<p><orth>Akinésie</orth>. V. <ref>ACINESIE</ref>.</p>
+<p><orth>Akinésie</orth>. V. <ref>ACINÉSIE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -4596,7 +4595,7 @@ Les hotanistes appellent ainsi,
 </entryFree>
 
 <entryFree>
-<p><orth>Alaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">alaeris</foreign>
+<p><orth>Alaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">alaris</foreign>
 <etym>(<hi>ala</hi>, aile)</etym> ; 
 qui
 <lb/>ressemble à une aile.—<hi>OS alaire</hi> OU <hi>ptèréal</hi> ;
@@ -4619,7 +4618,7 @@ qui
 </entryFree>
 
 <entryFree>
-<p><orth>Alalie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">mutilas</foreign>, <foreign xml:lang="lat">loquclae dcfectus</foreign>
+<p><orth>Alalie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">mutitas</foreign>, <foreign xml:lang="lat">loquelae defectus</foreign>
 <lb/>
 <etym>(<hi>a</hi> priv., λαλία, parole)</etym> ; 
 mutisme, privation
@@ -4639,7 +4638,7 @@ instrument dont on se sert
 </entryFree>
 
 <entryFree>
-<p><orth>Alaterne</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">rhamnus alatcmus</foreign>,
+<p><orth>Alaterne</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">rhamnus alaternus</foreign>,
 <lb/>L. ; espèce du genre <hi>nerprun</hi>, remarquable
 <lb/>par son feuillage toujouIS vert et
 <lb/>luisant, ce qui la fait rechercher pour
@@ -4677,7 +4676,7 @@ instrument dont on se sert
 </entryFree>
 
 <entryFree>
-<p><orth>Albâtre</orth> <hi>calcaire</hi> ; variété du carbonate
+<p><orth>Albatre calcaire</orth> ; variété du carbonate
 <lb/>de chaux, en masses compactes,
 <lb/>d’un très-beau blanc, et demi-transparentes.</p>
 
@@ -4687,7 +4686,7 @@ instrument dont on se sert
 </entryFree>
 
 <entryFree>
-<p><orth>Albinos</orth>, κ. m. <hi>I albus</hi>, blanc) ; mot espagnol
+<p><orth>Albinos</orth>, <gram>s. m.</gram> <hi>I albus</hi>, blanc) ; mot espagnol
 <lb/>employé pour désigner les hommes
 <lb/>atteints de <hi>leucéUopie</hi>, dont la peau
 <lb/>décolorée présente partout une teinte
@@ -4701,7 +4700,7 @@ instrument dont on se sert
 </entryFree>
 
 <entryFree>
-<p><orth>Albuginé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">albugiueus</foreign>
+<p><orth>Albuginé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">albugineus</foreign>
 <etym>(<hi>albus</hi>,
 <lb/>blanc)</etym> ; 
 qui est blanc. | <hi>Membrane albuginée</hi>
@@ -4738,7 +4737,7 @@ tache
 <lb/>SUccède à une inflammation de la cornée
 <lb/>transparente, Se dissipe quelquefois Spontanément,
 <lb/>mais le plus SOUVent est incurable.
-<lb/>V. <ref>Nèphélion, Lcucoma</ref>.</p>
+<lb/>V. <ref>Néphélion</ref>, <ref>Leucoma</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -4790,7 +4789,7 @@ sant le sirop de violettes, coagulable
 </entryFree>
 
 <entryFree>
-<p><orth>Alcalescence</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">a lcalescent la</foreign> ; développement
+<p><orth>Alcalescence</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alcalescentia</foreign> ; développement
 <lb/>des propriétés alcalines
 <lb/>dans un corps qui n’en jouissait pas. |
 <lb/>En pathologie, le mot <hi>alcalescence</hi> désignait
@@ -4799,7 +4798,7 @@ sant le sirop de violettes, coagulable
 </entryFree>
 
 <entryFree>
-<p><orth>Alcali</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alcali</foreign>, <foreign xml:lang="lat">alhali</foreign>
+<p><orth>Alcali</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alcali</foreign>, <foreign xml:lang="lat">alkali</foreign>
 <etym>(<hi>al</hi>, particule
 <lb/>augmeIItative, <hi>kali</hi>, plante marine
 <lb/>qui fournit la soude)</etym> ; 
@@ -4842,7 +4841,7 @@ après avoir désigné
 <p>température très-élevée pour qu’elles Se
 <lb/>convertissent en vapeurs.</p>
 
-<p><term>A lcali fossile</term> ; ancien nom de la <hi>soude</hi>,
+<p><term>Alcali fossile</term> ; ancien nom de la <hi>soude</hi>,
 <lb/>parce qu’on la trouve abondamment dans
 <lb/>la nature, à l’état de Sel.</p>
 
@@ -4854,7 +4853,7 @@ après avoir désigné
 <lb/>imposée à la <hi>potasse</hi>, parce qu’on
 <lb/>l’obtient des végétaux.</p>
 
-<p><term>Alcali volatil</term> <hi>, alcali volatil siuor</hi> ; ancien
+<p><term>Alcali volatil</term> <term>alcali volatil fluor</term> ; ancien
 <lb/>nom de <hi>Vammoniaque</hi>, qui lui avait
 <lb/>été donné parce qu’elle se volatilise à
 <lb/>une chaleur très-modérée.</p>
@@ -4873,7 +4872,7 @@ qui engendre les
 </entryFree>
 
 <entryFree>
-<p><orth>Alcalimètre</orth>, S. rn., <hi>alcalimetrum</hi>
+  <p><orth>Alcalimètre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alcalimetrum</foreign>
 <etym>(<hi>alcali</hi>,
 <lb/>μέτρον, mesure)</etym> ; 
 instrument propieà
@@ -4891,7 +4890,7 @@ instrument propieà
 </entryFree>
 
 <entryFree>
-<p><orth>Alcalinité</orth>, s. f’., <hi>alcalinités</hi> ; faculté
+  <p><orth>Alcalinité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alcalinitas</foreign> ; faculté
 <lb/>dont jouissent certaine corps de manifester
 <lb/>les proprrétés caracténstiques des
 <lb/>alcalis.</p>
@@ -4916,7 +4915,7 @@ instrument propieà
 </entryFree>
 
 <entryFree>
-<p><orth>Alcarrazas</orth>, s. f-, vasee de terre poreuse,
+<p><orth>Alcarrazas</orth>, <gram>s. f.</gram>, vasee de terre poreuse,
 <lb/>dans lesquels l’eau se refroidit, en
 <lb/>raison de l’évaporation d’une partie du
 <lb/>liquide à travers leurs parois.</p>
@@ -5019,7 +5018,7 @@ liquide
 </entryFree>
 
 <entryFree>
-<p><orth>Àlcoolomètre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alcoolometrum</foreign>
+<p><orth>Alcoolomètre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alcoolometrum</foreign>
 <lb/>
 <etym>(<hi>alcool</hi>, et μέτρον, mesure)</etym> ; 
 instrument
@@ -5061,7 +5060,7 @@ instrument
 </entryFree>
 
 <entryFree>
-<p><orth>Alectromantie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alcctromantia</foreign>
+<p><orth>Alectromantie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alectromantia</foreign>
 <etym>(
 <lb/>ἀλεἀτωρ, coq, μαντεία, divination)</etym> ; 
 SOrte
