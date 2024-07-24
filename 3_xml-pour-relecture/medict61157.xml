@@ -5108,7 +5108,7 @@ propre à expulser du corps
 </entryFree>
 
 <entryFree>
-<p><orth>Alexipyretique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">alcxypyretiens</foreign>
+<p><orth>Alexipyrétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">alexypyreticus</foreign>
 <lb/>
 <etym>(ἀλέξω, je repousSe, πυρετὸς, fièvre)</etym>
 
@@ -5117,7 +5117,7 @@ propre à expulser du corps
 
 <entryFree>
 <p><orth>Alexitère</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">alexiterium</foreign>,
-<lb/>ἀλεξητὴρ
+  <lb/><foreign xml:lang="grc">ἀλεξητὴρ</foreign>
 <etym>(ἀλέξω, je repousse)</etym> ; 
 remède,
 <lb/>médicament, contre poison externe.</p>
@@ -5136,13 +5136,13 @@ drap
 <p><orth>Algalie</orth>, <gram>s. f.</gram>
 <etym>(dérivé de l’arabe)</etym> ;
 
-<lb/>sonde creuse. V. <ref>CATHÉTER</ref>.
+<lb/>sonde creuse. V. <ref>CATHETER</ref>.
 </p>
 <pb n="28" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0038/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=38"/>
 </entryFree>
 
 <entryFree>
-<p><orth>Algedo</orth>, S. L
+<p><orth>Algedo</orth>, <gram>s. f.</gram>
 <etym>(ἄλγος, douleur)</etym> ; 
 inflam’
 <lb/>mation du col de la vessie, dans la blen*
@@ -5163,7 +5163,7 @@ inflam’
 </entryFree>
 
 <entryFree>
-<p><orth>Algues</orth>, S. <hi>Î., algae</hi>. Les auteurs anciens
+  <p><orth>Algues</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">algae</foreign>. Les auteurs anciens
 <lb/>comprenaient sous ce nom un groupe
 <lb/>de plantes aeotydédones OU cryptogames,
 <lb/>que les modernes ont divisées en plusieurs
@@ -5182,7 +5182,7 @@ inflam’
 </entryFree>
 
 <entryFree>
-<p><orth>Alhagi</orth>, OU <hi>agul</hi>, s. m. ; nom que les
+<p><orth>Alhagi</orth>, OU <orth>agul</orth>, <gram>s. m.</gram> ; nom que les
 <lb/>Arabes donnent à une SOrte de manne que
 <lb/>ron recueille sur une espèce de Sainfoin
 <lb/>épineux, qui croit en abondance dans la
@@ -5203,7 +5203,7 @@ inflam’
 </entryFree>
 
 <entryFree>
-<p><orth>Alhandal</orth>, s. L C’est ainsi que les
+<p><orth>Alhandal</orth>, <gram>s. f.</gram> C’est ainsi que les
 <lb/>Arabes désignent la coloquinte : de là le
 <lb/>nom de <hi>trochisques d’alhandal</hi>, dans lesquele
 <lb/>la coloquinte entre en assez grande
@@ -5211,7 +5211,7 @@ inflam’
 </entryFree>
 
 <entryFree>
-<p><orth>Alibile</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">alibiUS</foreign> ; Synonyme de
+<p><orth>Alibile</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">alibilis</foreign> ; Synonyme de
 <lb/><hi>nutritif</hi>.</p>
 </entryFree>
 
@@ -5245,8 +5245,8 @@ lie claire, et que ron croit généralement
 </entryFree>
 
 <entryFree>
-<p><orth>Aliénation mentale</orth>, <hi>alienatio mentis,
-<lb/>V</hi>. FOLIE.</p>
+  <p><orth>Aliénation mentale</orth>, <foreign xml:lang="lat">alienatio mentis</foreign>,
+<lb/>V. <ref>FOLIE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -5301,7 +5301,7 @@ lie claire, et que ron croit généralement
 </entryFree>
 
 <entryFree>
-<p><orth>Alismacees</orth>, <hi>alismaceae</hi> ; famille de plantes
+  <p><orth>Alismacees</orth>, <foreign xml:lang="lat">alismaceae</foreign> ; famille de plantes
 <lb/>monoeotylédonées, établie par RIchard,
 <lb/>et qui comprend plusieurs genres
 <lb/>autrefois.éunis aux joncs : tels SOnt l’a-
@@ -5309,7 +5309,7 @@ lie claire, et que ron croit généralement
 </entryFree>
 
 <entryFree>
-<p><orth>Alisma</orth> ou <orth>Plantain d’eau</orth>, <hi>alisma plantago</hi>,
+  <p><orth>Alisma</orth> ou <orth>Plantain d’eau</orth>, <foreign xml:lang="lat">alisma plantago</foreign>,
 <lb/>L. ; johe plante vivace, qui croît
 <lb/>SUr le bord des étangs et de.s ruisseaux,
 <lb/>où elle se fait distinguer par Ses feuilles
@@ -5322,17 +5322,17 @@ lie claire, et que ron croit généralement
 </entryFree>
 
 <entryFree>
-<p><orth>Alité</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">lecto asisixus</foreign> ; qui est obligé,
+<p><orth>Alité</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">lecto affixus</foreign> ; qui est obligé,
 <lb/>par maladie, de rester au lit.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aliter (s’)</orth>, <hi>lecto se ponere</hi> ; être contraint
+  <p><orth>Aliter (s’)</orth>, <foreign xml:lang="lat">lecto se ponere</foreign> ; être contraint
 <lb/>de se mettre au lit par maladie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Alkekenge</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">physalis alkehengi</foreign>,
+<p><orth>Alkékenge</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">physalis alkekengi</foreign>,
 <lb/>L. ; petite plante de la famille des
 
 
@@ -5362,14 +5362,14 @@ solanées, et de la pentandric monogynie,
 </entryFree>
 
 <entryFree>
-<p><orth>Allaiter</orth>, v. a., <hi>lactare</hi> ; nourrir avec
+  <p><orth>Allaiter</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">lactare</foreign> ; nourrir avec
 <lb/>du lait ; donner à téter.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Allantoïde</orth>, <gram>adj.</gram> et <gram>s. f.</gram>, <hi>allantoïdes,
-<lb/>allantois, membrana urinaria ; membrana
-<lb/>farciminalis</hi>, ἀλλαντοειδὴς ; (ἀλλἄς, saucisse)
+<p><orth>Allantoïde</orth>, <gram>adj.</gram> et <gram>s. f.</gram>, <foreign xml:lang="lat">allantoïdes</foreign>,
+<lb/><foreign xml:lang="lat">allantois</foreign>, <foreign xml:lang="lat">membrana urinaria</foreign> ; <foreign xml:lang="lat">membrana farciminalis</foreign>
+<lb/>, <foreign xml:lang="grc">ἀλλαντοειδὴς</foreign> ; (ἀλλἄς, saucisse)
 <lb/> ; vésicule membraneuse, oblongue,
 <lb/>blanche, mince, transparente et
 <lb/>dénuée de vaisseaux, qui s’observe
@@ -5398,7 +5398,7 @@ solanées, et de la pentandric monogynie,
 </entryFree>
 
 <entryFree>
-<p><orth>Aller</orth>, v. a., <hi>ire</hi> ; Se dit des allures du
+<p><orth>Aller</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">ire</foreign> ; Se dit des allures du
 <lb/>cheval ; <hi>aller le pas</hi>, lc <hi>trot</hi>. V. <ref>ALLURE</ref>.
 <lb/>— <hi>ά trois jambes</hi>, se dit d’un cheval qui
 <lb/>boite ; – <hi>de roreille</hi>, lorsqu’il baisse ou
@@ -5406,8 +5406,8 @@ solanées, et de la pentandric monogynie,
 </entryFree>
 
 <entryFree>
-<p><orth>Alliage</orth>, <gram>s. m.</gram>, <hi>alligatio, metallorum
-<lb/>permixtio, connubium metallieum</hi> ; combinaison
+<p><orth>Alliage</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alligatio</foreign>, <foreign xml:lang="lat">metallorum permixtio</foreign>
+<lb/>, <foreign xml:lang="lat">connubium metallicum</foreign> ; combinaison
 <lb/>d’un métal avec un ou plusieurs
 <lb/>autres métaux.</p>
 </entryFree>
@@ -5428,7 +5428,7 @@ gardée comme antiscorbutique, mais On
 </entryFree>
 
 <entryFree>
-<p><orth>Allotriophagie</orth>, S. L. <hi>desiderium devorandi
+<p><orth>Allotriophagie</orth>, <gram>s. f.</gram> <hi>desiderium devorandi
 <lb/>insolita, non nutrientia</hi>
 <etym>(ἀλλότριον,
 <lb/>insolite, φάγω, je mange)</etym> ; 
@@ -5439,7 +5439,7 @@ désir de manger
 </entryFree>
 
 <entryFree>
-<p><orth>Allure</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">progrcssio</foreign> ; train, marche
+<p><orth>Allure</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">progressio</foreign> ; train, marche
 <lb/>du cheval ; – <hi>naturelle</hi>, le pae, le
 <lb/>trot, le galop ; – <hi>défectueuse</hi>, raubin,
 <lb/>rentrepasou traquenard, l’amble ; – <hi>artificielles</hi>,
@@ -5487,18 +5487,18 @@ désir de manger
 <lb/>
 <etym>(<hi>Άογος</hi>, déi aisonnable, τροφὴ, nutrition)</etym>,
 
-<lb/>ἀλογοτροφία ; nutrition irrégulière.</p>
+<lb/><foreign xml:lang="grc">ἀλογοτροφία</foreign> ; nutrition irrégulière.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Alonge</orth>, S. L ; instrument de chimie,
+<p><orth>Alonge</orth>, <gram>s. f.</gram> ; instrument de chimie,
 <lb/>qui a la forme d’un fuseau, et qu’on place
 <lb/>entre la cornue et le récipient, pour éloigner
 <lb/>ce dernier du feu.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Alongé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">dongatus</foreign> ; qui est étendu
+<p><orth>Alongé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">elongatus</foreign> ; qui est étendu
 <lb/>en longueur.—<hi>MOellealongée</hi>, nom donné
 <lb/>à la protubérance cérébrale, à cause de
 <lb/>sa forme.</p>
@@ -5512,7 +5512,7 @@ désir de manger
 </entryFree>
 
 <entryFree>
-<p><orth>Alopécie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alopeda</foreign>, ἀλωπεκία
+  <p><orth>Alopécie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alopecia</foreign>, <foreign xml:lang="grc">ἀλωπεκία</foreign>
 <lb/>
 <etym>(ἀλώπης, renard)</etym> ; 
 dénudation morbide
@@ -5520,7 +5520,7 @@ dénudation morbide
 </entryFree>
 
 <entryFree>
-<p><orth>Alose</orth>, s. f'., <hi>alosa</hi> ; poisson de mer,
+  <p><orth>Alose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alosa</foreign> ; poisson de mer,
 <lb/>du genre clupée, que l’on pèche lorsqu’il
 <lb/>remonte les rivières, et qui fournit
 <lb/>un aliment salubre et agréable.</p>
@@ -5532,7 +5532,7 @@ dénudation morbide
 </entryFree>
 
 <entryFree>
-<p><orth>Alouchi</orth>, s. L On appelle ainsi la
+<p><orth>Alouchi</orth>, <gram>s. f.</gram>On appelle ainsi la
 <lb/>gomme que ron retire du <hi>cannellier
 <lb/>blanc</hi>.</p>
 </entryFree>
@@ -5550,7 +5550,7 @@ dénudation morbide
 </entryFree>
 
 <entryFree>
-<p><orth>Alphitidon</orth>, s. In., <hi>alphitidon</hi>, ἀλφιτιδὸν
+  <p><orth>Alphitidon</orth>, <gram>alphitidon</gram>, <foreign xml:lang="lat">alphitidon</foreign>, <foreign xml:lang="grc">ἀλφιτιδὸν</foreign>
 <lb/>
 <etym>(άλφιτον, farine)</etym> ; 
 fracture du crâne
@@ -5559,7 +5559,7 @@ fracture du crâne
 </entryFree>
 
 <entryFree>
-<p><orth>Alphitomancie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alptlitomantia</foreign>
+<p><orth>Alphitomancie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alphitomantia</foreign>
 <etym>(
 <lb/>άλφιτον, farine d’orge, μαντεία, divination)</etym>
 
@@ -5567,7 +5567,7 @@ fracture du crâne
 </entryFree>
 
 <entryFree>
-<p><orth>Alphonsin</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alphonsinum ; espèce</foreign>
+<p><orth>Alphonsin</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alphonsinum</foreign>
 <lb/>de tire-balle inusité aujourd’hui,
 <lb/>qu’on nomme ainsi parce qu’il est dù à
 <lb/>Alphonse de Ferri ; il était composé d’un
@@ -5604,14 +5604,14 @@ lèpre blanche. – <hi>mêlas</hi>, lèpre
 </entryFree>
 
 <entryFree>
-<p><orth>Alterant</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>alterans,
-<lb/>SIticulosus</hi>, διψητικὸς, ἀλλοιωτικὸς ; qui
+<p><orth>Altérant</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">alterans</foreign>,
+<lb/><foreign xml:lang="lat">siticulosus</foreign>, <foreign xml:lang="grc">διψητικὸς</foreign>, <foreign xml:lang="grc">ἀλλοιωτικὸς</foreign> ; qui
 <lb/>donne de la soif, ou qui agit sur le corps
 <lb/>humain sans provoquer d’évacuations.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Altération</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alteratio</foreign>, ἀλλάιωσις
+<p><orth>Altération</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">alteratio</foreign>, <foreign xml:lang="grc">ἀλλάιωσις</foreign>
 <lb/><hi/>
 <etym>(<hi>altcr</hi>, autre)</etym> ; 
 changement en mal.—<hi>Altération
@@ -5628,19 +5628,19 @@ changement en mal.—<hi>Altération
 </entryFree>
 
 <entryFree>
-<p><orth>Altéré</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">dcpraratus</foreign> ; desséché,
+<p><orth>Altéré</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">depravatus</foreign> ; desséché,
 <lb/>resserré.— <hi>PIed altéré</hi>. V. <ref>CLAUDICATION</ref>,
-<lb/>BOITERIE.    <hi>Flanc altéré</hi>, V. <ref>ALTÉRATION</ref>.</p>
+<lb/><ref>BOITERIE</ref><hi>Flanc altéré</hi>, V. <ref>ALTÉRATION</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Altérer</orth>, v. a., <hi>alterarc ; sitim provocare</hi> ;
+<p><orth>Altérer</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">alterare</foreign><foreign xml:lang="lat">sitim provocare</foreign>;
 <lb/>causer la soif. | MOdifier d’une
 <lb/>manière désavantageuse.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Altérer (s’)</orth>, v. n., <hi>corrumpi</hi> ; subir
+<p><orth>Altérer (s’)</orth>, <gram>v. n.</gram>, <foreign xml:lang="lat">corrumpi</foreign> ; subir
 <lb/>une modification en mal.</p>
 </entryFree>
 
@@ -5652,7 +5652,7 @@ changement en mal.—<hi>Altération
 </entryFree>
 
 <entryFree>
-<p><orth>Alterne</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">alternas</foreign> ; Se dit des parties
+<p><orth>Alterne</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">alternus</foreign> ; Se dit des parties
 <lb/>qui sont situées d’un et d’autre côté
 <lb/>d’un axe, mais non SUr le même plan.
 <lb/>AInsi les branches, les rameaux et les
@@ -5670,7 +5670,7 @@ changement en mal.—<hi>Altération
 
 <entryFree>
 <p><orth>Althæa</orth> ; nom latin du genre <hi>guimauve.
-<lb/>V</hi>. ce mot.</p>
+<lb/>V</hi>. <ref>GUIMAUVE</ref></p>
 </entryFree>
 
 <entryFree>
@@ -5682,7 +5682,7 @@ changement en mal.—<hi>Altération
 </entryFree>
 
 <entryFree>
-<p><orth>Aluine</orth>, s. f ; un des noms sous lesquels
+<p><orth>Aluine</orth>, <gram>s. f.</gram> ; un des noms sous lesquels
 <lb/>on désigne l’<hi>absinthe</hi>. V. <ref>ABSINTHE</ref>.</p>
 </entryFree>
 
@@ -5711,7 +5711,7 @@ changement en mal.—<hi>Altération
 </entryFree>
 
 <entryFree>
-<p><orth>Aluminium</orth>,, s. m. ; métal dont on présume
+<p><orth>Aluminium</orth>,<gram>s. m.</gram>; métal dont on présume
 <lb/>que l’alumine est un oxide, et
 
 
@@ -5723,7 +5723,7 @@ qu’on ne connaît pas encore, quoique
 </entryFree>
 
 <entryFree>
-<p><orth>Alun</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alumen</foreign>, στυπτηρία ; sursulfate
+<p><orth>Alun</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alumen</foreign>, <foreign xml:lang="grc">στυπτηρία</foreign> ; sursulfate
 <lb/>d’alumine et de potasse, ou d’alurnine
 <lb/>et d’ammoniaque, ou enfin d’alumine,
 <lb/>de potasse et d’ammoniaque. On
@@ -5739,7 +5739,7 @@ qu’on ne connaît pas encore, quoique
 <lb/>potasse cristallisé en cubes, qu’on obtient
 <lb/>quand on ajoute un excès de potasse.</p>
 
-<p><term>Alun tle roche</term> ; masse produite par le
+<p><term>Alun de roche</term> ; masse produite par le
 <lb/>refroidissement de l’alun ordinaire, fondu
 <lb/>dans son eau de cristallisation à une
 <lb/>chaleur qui surpasSe peu celle de l’eau
@@ -5755,7 +5755,7 @@ qu’on ne connaît pas encore, quoique
 </entryFree>
 
 <entryFree>
-<p><orth>Aluner</orth>, v. a. ; plonger un corps dans
+<p><orth>Aluner</orth>, <gram>v. a.</gram> ; plonger un corps dans
 <lb/>une dissolution aqueuse d’alun, ou l’imprégner
 <lb/>d’alun par un procédé quelconque.</p>
 </entryFree>
@@ -5767,8 +5767,8 @@ qu’on ne connaît pas encore, quoique
 </entryFree>
 
 <entryFree>
-<p><orth>Alvéole</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alveola</foreign>, <foreign xml:lang="lat">fovcola</foreign>, <foreign xml:lang="grc">βό-</foreign>
-<lb/>θριον, φάτνιον. On donne ce nom à des
+<p><orth>Alvéole</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">alveola</foreign>, <foreign xml:lang="lat">foveola</foreign>, <foreign xml:lang="grc">βόθριον</foreign>
+<lb/>, <foreign xml:lang="grc">φάτνιον</foreign>. On donne ce nom à des
 <lb/>cavités creusées dans l’épaisseur du bord
 <lb/>libre des deux mâchoires, et qui logent
 <lb/>les racines des dents.</p>
@@ -5800,8 +5800,8 @@ qu’on ne connaît pas encore, quoique
 </entryFree>
 
 <entryFree>
-<p><orth>Alypon</orth>, <hi>alypum</hi>, ou <hi>turbith végétal,
-<lb/>globularia alypum</hi>, L. ; petit arbuste qui
+<p><orth>Alypon</orth>, <foreign xml:lang="lat">alypum</foreign>, ou <orth>turbith végétal</orth>,
+<lb/><foreign xml:lang="lat">globularia alypum</foreign>, L. ; petit arbuste qui
 <lb/>croit sur les rochers des régions méditerranéennes,
 <lb/>et oui fait partie de la famille
 <lb/>des globulariées. Ses feuilles ont une Saveur
@@ -5817,7 +5817,7 @@ qu’on ne connaît pas encore, quoique
 </entryFree>
 
 <entryFree>
-<p><orth>Alysme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anxictas</foreign>
+<p><orth>Alysme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anxietas</foreign>
 <etym>(ἀλύω, je suis
 <lb/>inquiet, agité)</etym> ; 
 anxiété, inquiétude.
@@ -5838,14 +5838,14 @@ anxiété, inquiétude.
 </entryFree>
 
 <entryFree>
-<p><orth>Amaigrissement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">maries</foreign>, <foreign xml:lang="lat">maceratio</foreign> ;
+<p><orth>Amaigrissement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">macies</foreign>, <foreign xml:lang="lat">maceratio</foreign> ;
 <lb/>passage de l’embonpoint à la
 <lb/>maigreur ; état d’une personne dont l’embonpoint
 <lb/>diminue.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amalgamation</orth>, S. f'., <hi>amalgamatio ;</hi>
+<p><orth>Amalgamation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amalgamatio</foreign>
 <lb/>opération métallurgique qui consiste à
 <lb/>extraire l’or et l’argent de leurs gangues,
 <lb/>par le moyen du mercure.</p>
@@ -5861,7 +5861,7 @@ combinaison
 </entryFree>
 
 <entryFree>
-<p><orth>Amalgamer</orth>, v. a. ; combiner le mercure
+<p><orth>Amalgamer</orth>, <gram>v. a.</gram> ; combiner le mercure
 <lb/>avec d’autres métaux.</p>
 </entryFree>
 
@@ -5941,17 +5941,17 @@ ricin, elle se compose d’un embryon et
 
 <entryFree>
 <p><orth>Amandé</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amygdalatum</foreign> ; lait
-<lb/>d’amande. V. <ref>EMULSION</ref>.</p>
+<lb/>d’amande. V. <ref>ÉMULSION</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amandier</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amygdalus eommunis</foreign> ;
+<p><orth>Amandier</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amygdalus communis</foreign> ;
 <lb/>arbre qui pioduit les amandes. <hi>V</hi>.
-<lb/>AMANDE.</p>
+<lb/><ref>AMANDE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amanite</orth>, ou ORONGE, <gram>s. m.</gram>, <foreign xml:lang="lat">amanlta</foreign> !
+<p><orth>Amanite</orth>, ou <orth>Oronge</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amanita</foreign> !
 <lb/>genre de champignons qui contient
 <lb/>toutes les espèces d’agaric dont le pédicule
 <lb/>est renflé à la base, et qui sont entièrement
@@ -5972,7 +5972,7 @@ ricin, elle se compose d’un embryon et
 </entryFree>
 
 <entryFree>
-<p><orth>Amaranthacées</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amaranthaeeae</foreign>
+<p><orth>Amaranthacées</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amaranthaceae</foreign>
 <etym>(
 <lb/>a priv., μαραίνω, je flétris, ἀὸθος, fleur)</etym> ;
 
@@ -5992,7 +5992,7 @@ ricin, elle se compose d’un embryon et
 </entryFree>
 
 <entryFree>
-<p><orth>Amarinite</orth>, s. L ; nom générique imposé
+<p><orth>Amarinite</orth>, <gram>s. f.</gram>; nom générique imposé
 <lb/>à un certain nombre de principes
 <lb/>immédiats des végétaux, composés de
 <lb/>carbone uni avec de rhvdrogene et de
@@ -6004,7 +6004,7 @@ ricin, elle se compose d’un embryon et
 </entryFree>
 
 <entryFree>
-<p><orth>Amaurose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amaurosis</foreign>, ἀμαύρωσις
+  <p><orth>Amaurose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amaurosis</foreign>, <foreign xml:lang="grc">ἀμαύρωσις</foreign>
 <lb/>
 <etym>(ἀμαυρὸς, obscur)</etym> ; 
 paralysie de la
@@ -6023,7 +6023,7 @@ paralysie de la
 </entryFree>
 
 <entryFree>
-<p><orth>Ambi</orth>, s. ηι., <hi>ambi, ambe</hi>
+  <p><orth>Ambi</orth>, <gram> s. m.</gram>, <foreign xml:lang="lat">ambi</foreign>, <foreign xml:lang="lat">ambe</foreign>
 <etym>(<hi>iqB-r</hi>,, sommet)</etym>
 
 <lb/> ; machine décrite par HIppocrate,
@@ -6049,7 +6049,7 @@ paralysie de la
 </entryFree>
 
 <entryFree>
-<p><orth>Ambidextre</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ambidcxter</foreign>, <foreign xml:lang="grc">àpspiδέςιος</foreign>
+<p><orth>Ambidextre</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ambidexter</foreign>, <foreign xml:lang="grc">ἀμφιδέξιος</foreign>
 <lb/>
 <etym>(<hi>ambo</hi>. deux, <hi>dca tra</hi>, droite)</etym> ; 
 qui
@@ -6076,11 +6076,11 @@ qui
 </entryFree>
 
 <entryFree>
-<p><orth>Amblome</orth>, s. <hi>r, abortus</hi>, ἄμβλωμα ; avortement.</p>
+  <p><orth>Amblome</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">abortus</foreign>, <foreign xml:lang="grc">ἄμβλωμα</foreign> ; avortement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amblose</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">abortus</foreign>, ἄμβλωσις ; avortement.</p>
+  <p><orth>Amblose</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">abortus</foreign>, <foreign xml:lang="grc">ἄμβλωσις</foreign> ; avortement.</p>
 </entryFree>
 
 <entryFree>
@@ -6119,7 +6119,7 @@ ohscurcissement
 <entryFree>
 <p><orth>Ambre</orth> <hi>blanc</hi>, variété du <hi>succin</hi>.</p>
 
-<p><term>Ambre gris</term> <hi>, s</hi>. m., <hi>ambra grisea</hi>, αμβρα
+  <p><term>Ambre gris</term> <gram>s. m.</gram><foreign xml:lang="lat">ambra grisea</foreign>, <foreign xml:lang="grc">ἄμβρα</foreign>
 <lb/> ; suhstance plus légère que reau, opaque,
 <lb/>cendrée, ordinairement tachetée
 <lb/>de points blancs et noirs, molle, tenace,
@@ -6153,7 +6153,7 @@ ohscurcissement
 </entryFree>
 
 <entryFree>
-<p><orth>Ambréine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ambrcina</foreign> ; SUbstance
+<p><orth>Ambréine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ambreina</foreign> ; SUbstance
 <lb/>grasse, fusible, sublirnable et décomposable
 <lb/>au feu, qui forme en grande partie
 <lb/>l’ambre gris, et qui paraît n’ètre
@@ -6162,7 +6162,7 @@ ohscurcissement
 </entryFree>
 
 <entryFree>
-<p><orth>Ambréique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ambreieus</foreign> ; acide
+<p><orth>Ambréique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ambreicus</foreign> ; acide
 <lb/>solide, jaunâtre et moins fusible que
 <lb/>rambréine, qui s’obtient en traitant celleci
 <lb/>par l’acide nitrique. QUelquee chimietes
@@ -6210,7 +6210,7 @@ réunion de tout ce qui est nécessaire
 </entryFree>
 
 <entryFree>
-<p><orth>Ambulant</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ambuluns</foreign>
+<p><orth>Ambulant</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ambulans</foreign>
 <etym>(<hi>ambulare</hi>,
 <lb/>changer de lieu)</etym> ; 
 qui change, ou qu’on
@@ -6227,8 +6227,8 @@ changement en
 </entryFree>
 
 <entryFree>
-<p><orth>Amendement</orth>, <gram>s. m.</gram>, <hi>alleratio, remissiu,
-<lb/>levamentum</hi>
+<p><orth>Amendement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">allevatio</foreign>, <foreign xml:lang="lat">remissio</foreign>,
+<lb/><foreign xml:lang="lat">levamentum</foreign>
 <etym>(<hi>a</hi> priv., <hi>menda</hi>, défaut)</etym> ;
 
 <lb/>changement en mieux dans le cours d’une
@@ -6252,13 +6252,13 @@ délire gai,
 </entryFree>
 
 <entryFree>
-<p><orth>Aménorrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amenai rhaea fj</foreign>. priv.,
+<p><orth>Aménorrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amenorrhaea</foreign>. priv.,
 <lb/>μὴν, mois, ρέω, je coule) ; SUspension,
 <lb/>abolition du flux menstruel.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amentacé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amcntaceus</foreign>. <hi>On</hi> appelle
+<p><orth>Amentacé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amentaceus</foreign>. <hi>On</hi> appelle
 <lb/>ainsÎ les fleurs qui sont disposees en chatons,
 <lb/>telles que celles du Saule, du peuplier,
 <lb/>du chêne, etc. V. <ref>CHATON</ref>. Jnssreu
@@ -6276,12 +6276,12 @@ délire gai,
 </entryFree>
 
 <entryFree>
-<p><orth>Amer</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">amarus</foreign>, πικρὸς ;
+<p><orth>Amer</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">amarus</foreign>, <foreign xml:lang="grc">πικρὸς</foreign> ;
 <lb/>qui a de l’amertume.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amertume</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amaritudo</foreign>, πικρία ; Saveur
+<p><orth>Amertume</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amaritudo</foreign>, <foreign xml:lang="grc">πικρία</foreign> ; Saveur
 <lb/>particulière, et toujours désagréable,
 <lb/>quand elle est un peu intense.</p>
 </entryFree>
@@ -6295,14 +6295,14 @@ sans ordre,
 </entryFree>
 
 <entryFree>
-<p><orth>Amétrie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amctria</foreign>, <foreign xml:lang="lat">ipslpla</foreign>
+<p><orth>Amétrie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ametria</foreign>, <foreign xml:lang="grc">ἀμετρία</foreign>
 <etym>(a pr.,
 <lb/>μέτρον, mesure)</etym> ; 
 irrégularité.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Àmiantacé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amiantaceus</foreign> ; qui a
+<p><orth>Amiantacé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amiantaceus</foreign> ; qui a
 <lb/>l’aspect de ramianthe ; Se dit d’une espèce
 <lb/>de <hi>teigne</hi> qui entoure la hase des
 <lb/>cheveux d’une pellicule ayant quelque
@@ -6310,7 +6310,7 @@ irrégularité.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amidine</orth>, S. L ; substance d’un blanc
+<p><orth>Amidine</orth>, <gram>s. f.</gram> ; substance d’un blanc
 <lb/>jaunâtre, très-fiiable, en fragmens irréguliers,
 <lb/>demi – transparente, inodore,
 <lb/>insipide, soluble dans reau chaude seulement,
@@ -6321,7 +6321,7 @@ irrégularité.</p>
 
 <entryFree>
 <p><orth>Amidon</orth>, ou <orth>Amidonite</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amylum</foreign>,
-<lb/>ἄμυλον, ἀμυλίον
+<lb/><foreign xml:lang="grc">ἄμυλον</foreign>, <foreign xml:lang="grc">ἀμυλίον</foreign>
 <etym>(a priv., μύλ-η, meule)</etym> ;
 
 <lb/>substance grenue, cnstalloÏde, composée
@@ -6349,7 +6349,7 @@ irrégularité.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ammochosie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ammochosia</foreign>, <foreign xml:lang="grc">Ùpp.Wχωσία</foreign>
+<p><orth>Ammochosie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ammochosia</foreign>, <foreign xml:lang="grc">ἀμμωχωσία</foreign>
 <lb/>
 <etym>(ἄμμος, sable, χὤσις, amas)</etym> ; 
 bain
@@ -6363,7 +6363,7 @@ bain
 </entryFree>
 
 <entryFree>
-<p><orth>Ammoniacal</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ammoniacarts</foreign> ; qui
+<p><orth>Ammoniacal</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ammoniacalis</foreign> ; qui
 <lb/>a rapport à l’ammoniaque, qui contient
 <lb/>de l’ammoniaque, qui a l’odeur de l’ammoniaque
 <lb/> : <hi>odeur, pommade, sueur,
@@ -6377,19 +6377,19 @@ bain
 </entryFree>
 
 <entryFree>
-<p><orth>Ammoniaco-magnésien</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ammonmco-magnesicus</foreign> ;
+<p><orth>Ammoniaco-magnésien</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ammoniaco-magnesicus</foreign> ;
 <lb/>nom donné aux.se le qui
 <lb/>contiennent de l’ammoniaque et de la
 <lb/>magnésie.</p>
 
-<p><term>A mmoniaco – mercuriel</term>, <gram>adj.</gram>, <hi>ammoniaco
-<lb/>– mercurialis</hi> ; nom donné aux Sels
+<p><orth>Ammoniaco-mercuriel</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ammoniaco-mercurialis</foreign>
+<lb/>; nom donné aux Sels
 <lb/>qui contiennent du mercure et de l’ammoniaque.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ammoniaque (gomme)</orth>, <hi>ammoniacum
-<lb/>gummi</hi> ; substance gommo – résineuse,
+<p><orth>Ammoniaque (gomme)</orth>, <foreign xml:lang="lat">ammoniacum gummi</foreign>
+<lb/> ; substance gommo – résineuse,
 <lb/>ainsi appelée parce qu’on la tirait autrefois
 <lb/>de la LIbye, pays abondant en Sable.
 <lb/>Elle est en larmee blanchâtres en
@@ -6404,7 +6404,7 @@ bain
 </entryFree>
 
 <entryFree>
-<p><orth>Ammoniaque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ammoniaea</foreign> ; gaz
+<p><orth>Ammoniaque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ammoniaca</foreign> ; gaz
 <lb/>alcalin, incolore, transparent, élastique,
 <lb/>d’une odeur vive et pénétrante,
 <lb/>d’une saveur âcre et urineuse, tres-soluble
@@ -6428,28 +6428,28 @@ bain
 </entryFree>
 
 <entryFree>
-<p><orth>Ammonium</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ammoniam</foreign> ; métal
+<p><orth>Ammonium</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ammonium</foreign> ; métal
 <lb/>hypothétique, admis par » Davy et Berzelius,
 <lb/>qui supposent que rhydrogène et
 <lb/>l’azote en sont des oxides.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ammoniure</orth>, 3. L ; composé d’ammoniaque
+<p><orth>Ammoniure</orth>,<gram>s. f.</gram> ; composé d’ammoniaque
 <lb/>et d’u.n oxide métallique. QUelques-unes
 <lb/>de ces combinaisons SOnt Rrlminantes.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amnésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amnesia</foreign>, <foreign xml:lang="lat">oblirio</foreign>
+<p><orth>Amnésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amnesia</foreign>, <foreign xml:lang="lat">oblivio</foreign>
 <etym>(a priv.,
 <lb/>μνησις, mémoire)</etym> ; 
 perte de la mémoire.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amnios</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amnion</foreign>, <foreign xml:lang="lat">amnios</foreign>, <foreign xml:lang="lat">àp-</foreign>
-<lb/>νίον, ἀμνιος
+<p><orth>Amnios</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amnion</foreign>, <foreign xml:lang="lat">amnios</foreign>, <foreign xml:lang="grc">ἀμνίον</foreign>
+<lb/>, <foreign xml:lang="grc">ἀμνιος</foreign>
 <etym>(ἄνα, ensemble, εὶναι, je SUis)</etym> ;
 
 <lb/>membrane séreuse, mince, presque
@@ -6469,7 +6469,7 @@ perte de la mémoire.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amniotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amnioticas</foreign> ; nom
+<p><orth>Amniotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amnioticus</foreign> ; nom
 <lb/>d’un acide blanc, brillant, inodore,
 <lb/>cristallisable en longues aiguilles, à peine
 <lb/>soluble dans reau froide, très-soluble
@@ -6480,7 +6480,7 @@ perte de la mémoire.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amnique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amnieus</foreign> ; nom donné
+<p><orth>Amnique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amnicus</foreign> ; nom donné
 <lb/>par quelques chimistes à <hi>Vacide amniotique</hi>.</p>
 </entryFree>
 
@@ -6488,19 +6488,19 @@ perte de la mémoire.</p>
 <p><orth>Amome</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amomum</foreign> ; genre de
 <lb/>plantes de la famille des amomées ou
 <lb/>drymyrrhizées, qui produit plusieurs niédicamens,
-<lb/>tels que le cardamome, le
-<lb/>gingembre, les graines de paradis. <hi>V</hi>.
+<lb/>tels que le <ref>cardamome</ref>, le
+<lb/><ref>gingembre</ref>, les <ref>graines de paradis</ref>. <hi>V</hi>.
 <lb/>ces mots.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amomées</orth>, s ? L, <hi>amomeae</hi> ; famille de
+<p><orth>Amomées</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">amomeae</foreign> ; famille de
 <lb/>plantes plus généralement désignées
 <lb/>sous le nom de <hi>cannées</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amorphe</orth>, <gram>adj.</gram>, de <hi>forrnis</hi>
+<p><orth>Amorphe</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">deformis</foreign>
 <etym>(<hi>a</hi>. priv.,
 <lb/>μορφὴ, forme)</etym> ; 
 difforme, informe.</p>
@@ -6522,13 +6522,13 @@ difformité, vice de conformation.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amouille</orth>, S. <hi>f</hi>. ; nom vulgaire du premier
+<p><orth>Amouille</orth>, <gram>s. f.</gram>. ; nom vulgaire du premier
 <lb/>lait que donne une vache fraîche
 <lb/>velée.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amour</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amor</foreign>, φιλία ; sentiment
+<p><orth>Amour</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amor</foreign>, <foreign xml:lang="grc">φιλία</foreign> ; sentiment
 <lb/>passionné d’une personne d’un Sexe pour
 <lb/>une personne d’un autre sexe ; violent
 <lb/>attacbement pour une chose quelconque.</p>
@@ -6548,7 +6548,7 @@ qui a les deux
 </entryFree>
 
 <entryFree>
-<p><orth>Amphémérine</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amphemerina</foreign>, ἀμφημερινὴ
+  <p><orth>Amphémérine</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amphemerina</foreign>, <foreign xml:lang="grc">ἀμφημερινὴ</foreign>
 <lb/>
 <etym>(ἀμφὶ, chaque, ὴμέρα, jour)</etym> ; 
 se
@@ -6557,7 +6557,7 @@ se
 </entryFree>
 
 <entryFree>
-<p><orth>Amphiarthrose</orth>,.<gram>s. f.</gram>, <foreign xml:lang="lat">amphiart liras is</foreign>
+<p><orth>Amphiarthrose</orth>,.<gram>s. f.</gram>, <foreign xml:lang="lat">amphiarthrosis</foreign>
 <etym>(
 <lb/>ἀμφὶ, des deux côtés, ἄρθρον, articulation)</etym>
 
@@ -6568,8 +6568,8 @@ se
 </entryFree>
 
 <entryFree>
-<p><orth>Amphiblestroïde</orth>, <gram>adj.</gram> et S. l‘., <hi>retiformis</hi>,
-<lb/>ἀμφιβληάτροειδὴς
+<p><orth>Amphiblestroïde</orth>, <gram>adj.</gram> et <gram>s. f.</gram>,<foreign xml:lang="lat">retiformis</foreign>,
+<lb/><foreign xml:lang="grc">ἀμφιβληστροειδὴς</foreign>
 <etym>(ἀμφίβληστρον, filet
 <lb/>à prendre du poisson, εἷδος, forme)</etym> ; 
 nom
@@ -6583,7 +6583,7 @@ nom
 </entryFree>
 
 <entryFree>
-<p><orth>Amphisarque</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">omphisarca</foreign>
+<p><orth>Amphisarque</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amphisarca</foreign>
 <etym>(ἀμφὶ,
 <lb/>autour, σὰρξ, chair)</etym> ; 
 on nomme ainsi
@@ -6597,7 +6597,7 @@ on nomme ainsi
 </entryFree>
 
 <entryFree>
-<p><orth>Amphismile</orth>, s. Ε, ἀμφισμίλη
+  <p><orth>Amphismile</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀμφισμίλη</foreign>
 <etym>(ἀμφὶ,
 <lb/>des deux cotés, σμίλη, scalpel)</etym> ; 
 scalpel
@@ -6664,8 +6664,8 @@ se
 </entryFree>
 
 <entryFree>
-<p><orth>Amplitude</orth>, <gram>s. f.</gram>, <hi>plenitudo ; – des poches
-<lb/>gutturales</hi> ou <hi>d’EUstachi</hi>, dépôt qui
+  <p><orth>Amplitude</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">plenitudo</foreign> ; – des poches
+<lb/>gutturales ou <hi>d’EUstachi</hi>, dépôt qui
 <lb/>Se forme dans ces cavités : on y pénètre,
 <lb/>pour les vider, au moyen d’une opération
 <lb/>appelée <hi>hyo-vertébrotomie</hi>, ou <hi>ponction
@@ -6683,7 +6683,7 @@ se
 </entryFree>
 
 <entryFree>
-<p><orth>Amputation</orth>, s. <hi>r., amputatio</hi>
+<p><orth>Amputation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amputatio</foreign>
 <etym>(<hi>amputare</hi>,
 <lb/>couper)</etym> ; 
 opération par laquelle on sè-
@@ -6715,13 +6715,13 @@ pare, à raide de l’instrtIment tranchant,
 </entryFree>
 
 <entryFree>
-<p><orth>Amputer</orth>, v. a., <hi>amputare</hi> ; couper. Séparer
+  <p><orth>Amputer</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">amputare</foreign> ; couper. Séparer
 <lb/> : pratiquer l’amputation.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amulette</orth>, s. m, <hi>amuletum, TttplappOÎ</hi>,
-<lb/>περίαπτον
+<p><orth>Amulette</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">amuletum</foreign>,<foreign xml:lang="grc">περίαμμα</foreign>
+<lb/><foreign xml:lang="grc">περίαπτον</foreign>
 <etym>(amoUere, éloigner)</etym> ; 
 Objet qu’on
 <lb/>porte SUr soi pour Se garantir des maladies
@@ -6729,22 +6729,22 @@ Objet qu’on
 </entryFree>
 
 <entryFree>
-<p><orth>Amyché</orth>., <gram>s. f.</gram>, ἀμυχὴ
+  <p><orth>Amyché</orth>., <gram>s. f.</gram>, <foreign xml:lang="grc">ἀμυχὴ</foreign>
 <etym>(ἀμυσσω, j’écorche)</etym>
 
 <lb/> ; légère excoriation.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amyctique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">amyeticus</foreign>,
-<lb/>ἀμυστικὸς
+<p><orth>Amyctique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">amycticus</foreign>,
+<lb/><foreign xml:lang="grc">ἀμυστικὸς</foreign>
 <etym>(ἀμυσσω, je déchire)</etym> ; 
 topique
 <lb/>corrosif.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amygdale</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amygdala</foreign>, παρίσθμιον
+<p><orth>Amygdale</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amygdala</foreign>, <foreign xml:lang="grc">παρίσθμιον</foreign>
 <lb/>
 <etym>(ἀαυγδαλη, amande)</etym>. 
 On appelle ainsi
@@ -6764,14 +6764,14 @@ On appelle ainsi
 </entryFree>
 
 <entryFree>
-<p><orth>Amygdalite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arnygdalitis</foreign>
+<p><orth>Amygdalite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">amygdalitis</foreign>
 <etym>(<hi>itpoysà-</hi>
 <lb/>λη, amande)</etym> ; 
 inflammation des amygdales.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Amylacé</orth>, <gram>adj.</gram>, arny/aceui, ἄμυλος <hi/>
+<p><orth>Amylacé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">amylaceus</foreign>, <foreign xml:lang="grc">ἄμυλος</foreign> <hi/>
 <etym>(<hi>amylum</hi>,
 <lb/>amidon)</etym> ; 
 qui est de la nature de
@@ -6779,7 +6779,7 @@ qui est de la nature de
 </entryFree>
 
 <entryFree>
-<p><orth>Anabase</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">augmentum</foreign>, ἀνάδασις
+<p><orth>Anabase</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">augmentum</foreign>, <foreign xml:lang="grc">ἀνάβασις</foreign>
 <lb/>
 <etym>(ἀναβαίνω, je monte)</etym> ; 
 période d’accroissement
@@ -6787,16 +6787,16 @@ période d’accroissement
 </entryFree>
 
 <entryFree>
-<p><orth>Anabole</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">sursilm eVacuatio</foreign>, ἀναβολὴ,
-<lb/>ἀναγολὴ
+<p><orth>Anabole</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">sursum evacuatio</foreign>, <foreign xml:lang="grc">ἀναβολὴ</foreign>,
+<lb/><foreign xml:lang="grc">ἀναγολὴ</foreign>
 <etym>(ἀνὰ, en haut, βάλλω, je jette)</etym>
 
 <lb/> ; évacuation par le haut.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anabrochisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anabroclùsmus</foreign>,
-<lb/>ἀναβροχισμὸς
+<p><orth>Anabrochisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anabrochismus</foreign>,
+<lb/><foreign xml:lang="grc">ἀναβροχισμὸς</foreign>
 <etym>(ἀνὰ, à travers, βρόχος, nœud
 <lb/>coulant)</etym> ; 
 opération qui, dit-on, con-
@@ -6807,8 +6807,8 @@ sÎSte à saisir avec un nœud coulant formé
 </entryFree>
 
 <entryFree>
-<p><orth>Anabrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anabrosis</foreign>, ἀνάβρωσις,
-<lb/>διάβρωσις
+<p><orth>Anabrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anabrosis</foreign>, <foreign xml:lang="grc">ἀνάβρωσις</foreign>,
+<lb/><foreign xml:lang="grc">διάβρωσις</foreign>
 <etym>(ἀναβρώσκω, je ronge)</etym> ; 
 érosion.</p>
 </entryFree>
@@ -6831,7 +6831,7 @@ sÎSte à saisir avec un nœud coulant formé
 </entryFree>
 
 <entryFree>
-<p><orth>Anacatharsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anaeatharsis</foreign>, ἀνακάθαρσις
+  <p><orth>Anacatharsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anacatharsis</foreign>, <foreign xml:lang="grc">ἀνακάθαρσις</foreign>
 <lb/>
 <etym>(ἀνὰ, en haut, καθαίρω, je pars)</etym> ;
 
@@ -6839,7 +6839,7 @@ sÎSte à saisir avec un nœud coulant formé
 </entryFree>
 
 <entryFree>
-<p><orth>Anacathartique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anacatharUcus</foreign>
+<p><orth>Anacathartique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anacatharticus</foreign>
 <lb/>
 <etym>(ἀνὰ, en haut, καθαίρω, je
 <lb/>pals)</etym> ; 
@@ -6847,7 +6847,7 @@ qui purge par le haut.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anachrempsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anachrempsis</foreign>, <foreign xml:lang="grc">àxiχριμψις</foreign>
+<p><orth>Anachrempsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anachrempsis</foreign>, <foreign xml:lang="grc">ἀνάχρεμψις</foreign>
 <lb/>
 <etym>(ἀνὰ, en haut, χρέπτομαι, je cracbe)</etym>
 
@@ -6855,7 +6855,7 @@ qui purge par le haut.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anacinème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">exscreatio</foreign>, ἀνακίνημα
+  <p><orth>Anacinème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">exscreatio</foreign>, <foreign xml:lang="grc">ἀνακίνημα</foreign>
 <lb/>
 <etym>(ἀνακινέω, je remue)</etym> ; 
 impulsion communiquée
@@ -6864,7 +6864,7 @@ impulsion communiquée
 </entryFree>
 
 <entryFree>
-<p><orth>Anaclintére</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">recubitorium</foreign>, ἀνακλιντήριον
+  <p><orth>Anaclintère</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">recubitorium</foreign>, <foreign xml:lang="grc">ἀνακλιντήριον</foreign>
 <lb/>
 <etym>(ἀνὰ, en haut, κλιντὴρ, lit)</etym> ;
 
@@ -6872,7 +6872,7 @@ impulsion communiquée
 </entryFree>
 
 <entryFree>
-<p><orth>Anaclisie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">deeubitus</foreign>, ανάκλισις
+<p><orth>Anaclisie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">decubitus</foreign>, <foreign xml:lang="grc">ἀνάκλισις</foreign>
 <lb/>
 <etym>(ἀνὰ, sur, κλίνη, lit)</etym> ; 
 SItuation du malade
@@ -6880,7 +6880,7 @@ SItuation du malade
 </entryFree>
 
 <entryFree>
-<p><orth>Anacollème</orth>, <gram>s. m.</gram>, ἀνάκολλημα
+  <p><orth>Anacollème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ἀνάκολλημα</foreign>
 <etym>(ἀνακολλάω,
 <lb/>je colle)</etym> ; 
 épithéme frontal.</p>
@@ -6888,21 +6888,21 @@ SItuation du malade
 
 <entryFree>
 <p><orth>Anaconchylisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">gargarismus</foreign>,
-<lb/>ἀνακογχυλισμὸς
+<lb/><foreign xml:lang="grc">ἀνακογχυλισμὸς</foreign>
 <etym>(κονχυλίζειν, Se gargariser)</etym> ;
 
 <lb/>action de Se gargariser ; gargarisme.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anactésie</orth>, <gram>s. m.</gram>, ἀνάκτησις
+<p><orth>Anactésie</orth>, <gram>s. m.</gram>, <foreign xml:lang="grc">ἀνάκτησις</foreign>
 <etym>(ἀνακτάομαι,
 <lb/>je recouvre)</etym> ; 
 récupération des forces.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anadiplose</orth>, <gram>s. f.</gram>, ἀναδίπλωσις
+  <p><orth>Anadiplose</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναδίπλωσις</foreign>
 <etym>(ἀνὰ, derechef,
 <lb/>διπλόω, je double)</etym> ; 
 redoublement
@@ -6910,7 +6910,7 @@ redoublement
 </entryFree>
 
 <entryFree>
-<p><orth>Anadose</orth>, <gram>s. f.</gram>, ἀνάδοσις
+<p><orth>Anadose</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀνάδοσις</foreign>
 <etym>(ἀναδίδωμι, je
 <lb/>distribue)</etym> ; 
 introduction du chyle dans
@@ -6918,7 +6918,7 @@ introduction du chyle dans
 </entryFree>
 
 <entryFree>
-<p><orth>Anadrome</orth>, S. I., ἀναδρωμὴ
+<p><orth>Anadrome</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναδρωμὴ</foreign>
 <etym>(ἀνὰ, en
 <lb/>haut, <hi>δρέμω, je</hi> coure)</etym> ; 
 transport des
@@ -6934,7 +6934,7 @@ transport des
 </entryFree>
 
 <entryFree>
-<p><orth>Anagoge</orth>, <gram>s. f.</gram>, ἀναγογὴ
+<p><orth>Anagoge</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναγογὴ</foreign>
 <etym>(ἀνὰ, en haut.
 
 
@@ -6946,15 +6946,15 @@ transport des
 </entryFree>
 
 <entryFree>
-<p><orth>Anagraphe</orth>, <gram>s. m.</gram>, <hi>medieamentorum
-<lb/>praescriptio</hi>, ἀνα-γραφὴ
+<p><orth>Anagraphe</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">medicamentorum praescriptio</foreign>
+<lb/>, <foreign xml:lang="grc">ἀναγραφὴ</foreign>
 <etym>(ἀναγράφω, j’écris)</etym> ;
 
 <lb/>formule, recette.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anagyre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anagyris faetida</foreign>
+<p><orth>Anagyre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anagyris foetida</foreign>
 <etym>(ἀνὰ,
 <lb/>en haut, γυρὸς, cercle)</etym> ; 
 arbnsseau de la
@@ -6971,7 +6971,7 @@ arbnsseau de la
 </entryFree>
 
 <entryFree>
-<p><orth>Analepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">renutritio</foreign>, ἀνάληψις
+  <p><orth>Analepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">renutritio</foreign>, <foreign xml:lang="grc">ἀνάληψις</foreign>
 <lb/>
 <etym>(ἀνὰ, derechef, <hi>λαμβάνω</hi>, je prends)</etym> ;
 
@@ -6983,7 +6983,7 @@ arbnsseau de la
 </entryFree>
 
 <entryFree>
-<p><orth>Analeptique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">analeptieus</foreign>
+<p><orth>Analeptique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">analepticus</foreign>
 <lb/>
 <etym>(ἀνὰ, derechef, λαμβάνω, je prends)</etym> ;
 
@@ -6994,7 +6994,7 @@ arbnsseau de la
 </entryFree>
 
 <entryFree>
-<p><orth>Analgésie</orth>, <gram>s. f.</gram>, ἀναλγησία
+  <p><orth>Analgésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναλγησία</foreign>
 <etym>(a priv.,
 <lb/>ἄλγος, douleur)</etym> ; 
 absence de la douleur.</p>
@@ -7028,7 +7028,7 @@ ressemblance. C’est
 </entryFree>
 
 <entryFree>
-<p><orth>Analogisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">analogismus</foreign>, ἀναλογίσμος
+<p><orth>Analogisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">analogismus</foreign>, <foreign xml:lang="grc">ἀναλογίσμος</foreign>
 <lb/> ; manière de procéder par analogie.</p>
 </entryFree>
 
