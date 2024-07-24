@@ -2875,7 +2875,7 @@ principe volatil,
 <entryFree>
 <p><orth>Adiarrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adiarrhaea</foreign>
 <etym>(a priv.,
-<lb/>διαῥῥεIν, couler)</etym> ; 
+<lb/>διαῤῥεIν, couler)</etym> ; 
 rétention d’humeurs
 <lb/>qui devraient être cxpulsées.</p>
 </entryFree>
@@ -7033,15 +7033,15 @@ ressemblance. C’est
 </entryFree>
 
 <entryFree>
-<p><orth>Analose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">tabes</foreign>, <foreign xml:lang="lat">consumptio</foreign>, ἀνάλωσις,
-<lb/>μείωσις
+<p><orth>Analose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">tabes</foreign>, <foreign xml:lang="lat">consumptio</foreign>, <foreign xml:lang="grc">ἀνάλωσις</foreign>,
+<lb/><foreign xml:lang="grc">μείωσις</foreign>
 <etym>(ἀναλίσχω, je consume)</etym> ;
 
 <lb/>consomption, dépérissement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Analyse</orth>, s, L, <hi>analysis</hi>, ἀνάλυσις
+  <p><orth>Analyse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">analysis</foreign>, <foreign xml:lang="grc">ἀνάλυσις</foreign>
 <etym>(ἀνὰ,
 <lb/>à travers, λύω, je délie)</etym> ; 
 en médecine,
@@ -7066,13 +7066,13 @@ en médecine,
 </entryFree>
 
 <entryFree>
-<p><orth>Analytique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">analytieus</foreign>’, qui a
+<p><orth>Analytique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">analyticus</foreign>’, qui a
 <lb/>rapport à l’analyse.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anamnésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">reeordatio</foreign>, <foreign xml:lang="lat">reminiscentia</foreign>,
-<lb/>ἀνάμνησις
+<p><orth>Anamnésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">recordatio</foreign>, <foreign xml:lang="lat">reminiscentia</foreign>,
+<lb/><foreign xml:lang="grc">ἀνάμνησις</foreign>
 <etym>(ἀνὰ, derechef, μνήμη,
 <lb/>mémoire)</etym> ; 
 retour de la mémoire, rérniniscence.</p>
@@ -7080,7 +7080,7 @@ retour de la mémoire, rérniniscence.</p>
 
 <entryFree>
 <p><orth>Anamnestique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anamnesticus</foreign>,
-<lb/>ἀναμνηστικὸς
+<lb/><foreign xml:lang="grc">ἀναμνηστικὸς</foreign>
 <etym>(ἀνὰ, derechef, μνήμη,
 <lb/>mémoire)</etym> ; 
 qui rappelle, qui fait ressouvenir
@@ -7096,7 +7096,7 @@ qui rappelle, qui fait ressouvenir
 </entryFree>
 
 <entryFree>
-<p><orth>Anapétie</orth>, s. I., ἀναπέτεια
+<p><orth>Anapétie</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναπέτεια</foreign>
 <etym>(ἀνὰ, entre,
 <lb/>πετάω, je dilate)</etym> ; 
 entre-baillement, dilatation
@@ -7105,7 +7105,7 @@ entre-baillement, dilatation
 </entryFree>
 
 <entryFree>
-<p><orth>Anaphlase</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">manuslupratio</foreign>
+<p><orth>Anaphlase</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">manustupratio</foreign>
 <etym>(
 <lb/>ἀνὰ, particule indiquant le mouvement
 <lb/>de bas en haut, φλάω, je cohabite)</etym> ;
@@ -7114,15 +7114,15 @@ entre-baillement, dilatation
 </entryFree>
 
 <entryFree>
-<p><orth>Anaphonèse</orth>, <gram>s. f.</gram>, <hi>rociferatia, àcjaqnôνγ,
-<lb/>σίς</hi>
+  <p><orth>Anaphonèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">vociferatio</foreign>, <foreign xml:lang="grc">ἀναφώνησις</foreign>,
+<lb/>
 <etym>(ἀνὰ, en haut, φωνή, voix)</etym> ; 
 action
 <lb/>de crier, de parler à voix haute.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anaphore</orth>, <gram>s. f.</gram>, ἀναφορὴ
+  <p><orth>Anaphore</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναφορὴ</foreign>
 <etym>(ἀνὰ, en
 <lb/>haut, φέρω, je porte)</etym> ; 
 évacuation par le
@@ -7130,7 +7130,7 @@ action
 </entryFree>
 
 <entryFree>
-<p><orth>Anaphorique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anaphorieus</foreign>
+<p><orth>Anaphorique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anaphoricus</foreign>
 <etym>(ἀνὰ,
 <lb/>en haut, φέρω, je porte)</etym> ; 
 qui rejette
@@ -7139,7 +7139,7 @@ qui rejette
 
 <entryFree>
 <p><orth>Anaphrodisie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">impotentia venerea</foreign>,
-<lb/>ἀναφροδισία
+<lb/><foreign xml:lang="grc">ἀναφροδισία</foreign>
 <etym>(ocpriv., <hi>Αφροδίτη</hi>, Yénus)</etym> ;
 
 <lb/>absence de tous désirs voluptueux.</p>
@@ -7154,7 +7154,7 @@ qui n’éprouve
 </entryFree>
 
 <entryFree>
-<p><orth>Anaplase</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">eonformaté</foreign>), ἀναπλασις
+  <p><orth>Anaplase</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">conformatio</foreign>), <foreign xml:lang="grc">ἀνάπλασις</foreign>
 <lb/>
 <etym>(ἀνὰ, ensemble, πλάσσω, je forme, je
 <lb/>façonne)</etym> ; 
@@ -7163,7 +7163,7 @@ consOlidation des fragrnens
 </entryFree>
 
 <entryFree>
-<p><orth>Anaplérose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">rspletio</foreign>, ἀναπλήρωσις
+  <p><orth>Anaplérose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">repletio</foreign>, <foreign xml:lang="grc">ἀναπλήρωσις</foreign>
 
 
 <pb n="38" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0048/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=48"/>
@@ -7176,8 +7176,8 @@ opération
 </entryFree>
 
 <entryFree>
-<p><orth>Anaplérotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anapleroUcus</foreign>,
-<lb/>ἀναπληροτικὸς
+<p><orth>Anaplérotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anapleroticus</foreign>,
+<lb/><foreign xml:lang="grc">ἀναπληροτικὸς</foreign>
 <etym>(ἀναπληρόω, je remplis)</etym>,
 
 <lb/>nom donne aux remèdes qu’on croyait
@@ -7186,7 +7186,7 @@ opération
 </entryFree>
 
 <entryFree>
-<p><orth>Anarrhée</orth>, <gram>s. f.</gram>, ἀνάῥῥοια
+  <p><orth>Anarrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀνάῤῥοια</foreign>
 <etym>(ἀνὰ, Cn
 <lb/>haut, ρέω, je coule)</etym> ; 
 afflux des humeurs
@@ -7194,9 +7194,9 @@ afflux des humeurs
 </entryFree>
 
 <entryFree>
-<p><orth>Anarrhégnyme</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">disrumpor</foreign>, <foreign xml:lang="lat">àvixp-</foreign>
-<lb/>ῥηγνυμενὸς
-<etym>(ἀναῥῥήγνυμαι, rompd'e)</etym> ; 
+<p><orth>Anarrhégnyme</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">disrumpor</foreign>, <foreign xml:lang="grc">ἀναῤῥηγνυμενὸς</foreign>
+<lb/
+<etym>(ἀναῤῥήγνυμαι, rompd'e)</etym> ; 
 Se dit
 <lb/>des ulcères qui se renouvellent par la rupture
 <lb/>de leurcicatrice, trop promptement
@@ -7204,7 +7204,7 @@ Se dit
 </entryFree>
 
 <entryFree>
-<p><orth>Anarrhopie</orth>, <gram>s. f.</gram>, ἀναῥῥοπία
+<p><orth>Anarrhopie</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναῤῥοπία</foreign>
 <etym>(ἀνὰ, en
 <lb/>haut, ρέπω, j’incline)</etym> ; 
 fluxion vers le
@@ -7212,7 +7212,7 @@ fluxion vers le
 </entryFree>
 
 <entryFree>
-<p><orth>Anasarque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anasarca</foreign>, ἀνασὰρκα
+<p><orth>Anasarque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anasarca</foreign>, <foreign xml:lang="grc">ἀνασὰρκα</foreign>
 <lb/>
 <etym>(ἀνὰ, entre, σὰρξ, chair)</etym> ; 
 hydropisie générale
@@ -7238,7 +7238,7 @@ hydropisie générale
 </entryFree>
 
 <entryFree>
-<p><orth>Anaspase</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">rctractio</foreign>, ἀνάσπασις
+<p><orth>Anaspase</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">retractio</foreign>, <foreign xml:lang="grc">ἀνάσπασις</foreign>
 <lb/>
 <etym>(ἀνασπάω, je resserre)</etym> ; 
 constriction en
@@ -7246,7 +7246,7 @@ constriction en
 </entryFree>
 
 <entryFree>
-<p><orth>Anastæcheiose</orth>, <gram>s. f.</gram>, ἀναστοιχέιωσις
+  <p><orth>Anastæcheiose</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναστοιχείωσις</foreign>
 <lb/>
 <etym>(ἀνὰ, entre, à travers, άτοιχεIον, élément)</etym>
 
@@ -7255,15 +7255,15 @@ constriction en
 </entryFree>
 
 <entryFree>
-<p><orth>Anastaltique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anastaltiens</foreign>,
-<lb/>ἀνασταλτικὸς
+<p><orth>Anastaltique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anastalticus</foreign>,
+<lb/><foreign xml:lang="grc">ἀνασταλτικὸς</foreign>
 <etym>(ἀνὰ, avec, <hi>ἀτέλλω</hi>, je
 <lb/>serre)</etym> ; 
 astringent.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anastase</orth>, <gram>s. f.</gram>, ἀνάστασις
+<p><orth>Anastase</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀνάστασις</foreign>
 <etym>(ἀνὰ, en
 <lb/>haut, ἵσταμαε, je retourne)</etym> ; 
 Séjour des
@@ -7271,8 +7271,8 @@ Séjour des
 </entryFree>
 
 <entryFree>
-<p><orth>Anastomose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anastomosis</foreign>, <foreign xml:lang="grc">άναστό-</foreign>
-<lb/>μωσις
+<p><orth>Anastomose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anastomosis</foreign>, <foreign xml:lang="grc">ἀναστόμωσις</foreign>
+<lb/>
 <etym>(ἀνὰ, avec, στόμα, bouche)</etym> ; 
 communication
 <lb/>entre deux vais.seaux émanée
@@ -7282,7 +7282,7 @@ communication
 </entryFree>
 
 <entryFree>
-<p><orth>Anastomotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ar.astomoticus</foreign> ;</p>
+<p><orth>Anastomotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anastomoticus</foreign> ;</p>
 
 <p>qui établit une anastomose ; <hi>branche anastomotique.
 <lb/>| tuédicamens anastomotiques</hi>,
@@ -7300,8 +7300,8 @@ inversion, extraversion,
 </entryFree>
 
 <entryFree>
-<p><orth>Anatomie</orth>, <hi>s</hi>. <hi>il., anatome, anatomia</hi>,
-<lb/>ἀνατομὴ
+<p><orth>Anatomie</orth>, <gram>s. f.</gram>. <foreign xml:lang="lat">anatome</foreign>,<foreign xml:lang="lat">anatomia</foreign>
+<lb/><foreign xml:lang="grc">ἀνατομὴ</foreign>
 <etym>(ἀνὰ, à travers, τέμνω, je coupe)</etym> ;
 
 <lb/>art de disséquer les corps vivans, pour
@@ -7335,7 +7335,7 @@ inversion, extraversion,
 </entryFree>
 
 <entryFree>
-<p><orth>Anatomiser</orth>, v. a., <hi>animalium corpus
+<p><orth>Anatomiser</orth>, <gram>v. a.</gram>, <hi>animalium corpus
 <lb/>incidere</hi> ; disséquer.</p>
 </entryFree>
 
@@ -7345,16 +7345,16 @@ inversion, extraversion,
 </entryFree>
 
 <entryFree>
-<p><orth>Anatrésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">perforatio</foreign>, ἀνάτρησις ;
+<p><orth>Anatrésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">perforatio</foreign>, <foreign xml:lang="grc">ἀνάτρησις</foreign> ;
 <lb/>trépanation.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ânatribe</orth>. V. <ref>ANATRIPSIE</ref>.</p>
+<p><orth>Anatribe</orth>. V. <ref>ANATRIPSIE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anatripsie</orth>, <gram>s. f.</gram>, ἀνάτριψις
+  <p><orth>Anatripsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀνάτριψις</foreign>
 <etym>(ἀνὰ, vers,
 <lb/>τρέπω, fc frotte)</etym> ; 
 friction.</p>
@@ -7369,14 +7369,14 @@ friction.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anatrope</orth>, <gram>s. f.</gram>, ἀνατροπὴ
+  <p><orth>Anatrope</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀνατροπὴ</foreign>
 <etym>(ἀνὰ, en
 <lb/>haut, τρέπω, je tourne)</etym> ; 
 renversement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anaudie</orth>, <gram>s. f.</gram>, ἀναυδία
+<p><orth>Anaudie</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναυδία</foreign>
 <etym>(a priv., ἀυδὴ,
 <lb/>voix)</etym> ; 
 extinctiôn de voix.</p>
@@ -7397,7 +7397,7 @@ tumeur inflammatoire
 </entryFree>
 
 <entryFree>
-<p><orth>Ancipité</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aneeps</foreign>
+<p><orth>Ancipité</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anceps</foreign>
 <etym>(<hi>anceps</hi>, épée à
 <lb/>deux tranchans)</etym> ; 
 Synonyme de <hi>gladiè</hi>,
@@ -7411,7 +7411,7 @@ ment comprlmées qu’elles offrent deux
 </entryFree>
 
 <entryFree>
-<p><orth>Ancistroïde</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">andstroides</foreign>
+<p><orth>Ancistroïde</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ancistroides</foreign>
 <etym>(ἄγκιστρον,
 <lb/>crochet)</etym> ; 
 épithète donnée a rapopbyse
@@ -7447,7 +7447,7 @@ petit muscle (épicondylo – cubital,
 </entryFree>
 
 <entryFree>
-<p><orth>Anctériasme</orth>, s, m., <hi>insibulatio</hi>, ἀγκτηριασμὸς
+<p><orth>Anctériasme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">infibulatio</foreign>, <foreign xml:lang="grc">ἀγκτηριασμὸς</foreign>
 <lb/>
 <etym>(ἀγκτηριάζω, je serre avec un
 <lb/>lien)</etym> ; 
@@ -7459,7 +7459,7 @@ Infibulation.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Âncylomèle</orth>. V. <ref>ANKYLOMÈLE</ref>.</p>
+<p><orth>Ancylomèle</orth>. V. <ref>ANKYLOMÈLE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -7475,7 +7475,7 @@ Infibulation.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ancyroïde</orth>. <gram>adj.</gram>, <foreign xml:lang="lat">ancyroidcs f</foreign> ἀγκυροειδὴς
+<p><orth>Ancyroïde</orth>. <gram>adj.</gram>, <foreign xml:lang="lat">ancyroïdcs f</foreign> <foreign xml:lang="grc">ἀγκυροειδὴς</foreign>
 <lb/>
 <etym>(ἄγκυρα, ancre, έἷδβς, figure)</etym> ; 
 nom
@@ -7499,7 +7499,7 @@ nom
 
 <entryFree>
 <p><orth>Andranatomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">andranatomia</foreign>,
-<lb/>ἀνδρανατομὴ
+<lb/><foreign xml:lang="grc">ἀνδρανατομὴ</foreign>
 <etym>(ἀνὴρ, homme, ἀνὰ, à travers,
 <lb/>τέμνω, je coupe)</etym> ; 
 anatomie ou dissection
@@ -7515,7 +7515,7 @@ anatomie ou dissection
 </entryFree>
 
 <entryFree>
-<p><orth>Androgyne</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">androgyna</foreign>, ἀνδρόγυνος
+<p><orth>Androgyne</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">androgyna</foreign>, <foreign xml:lang="grc">ἀνδρόγυνος</foreign>
 <lb/>
 <etym>(ἀνὴρ, homme, γυνή, femme)</etym> ; 
 synonyme
@@ -7577,7 +7577,7 @@ QUand les étamines
 </entryFree>
 
 <entryFree>
-<p><orth>Androtomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">androtomia</foreign>, ἀνδροτομὴ
+<p><orth>Androtomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">androtomia</foreign>, <foreign xml:lang="grc">ἀνδροτομὴ</foreign>
 <lb/>
 <etym>(ἀνὴρ, homme, τέμνω, je coupe)</etym> ;
 
@@ -7592,19 +7592,19 @@ QUand les étamines
 </entryFree>
 
 <entryFree>
-<p><orth>Âne</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asinus</foreign> ; espèce du genre
+<p><orth>Αne</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asinus</foreign> ; espèce du genre
 <lb/><hi>cheval</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anéantissement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">extinctio ; expression</foreign>
+<p><orth>Anéantissement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">extinctio</foreign>
 <lb/>hyperbolique dont les gens du
 <lb/>monde Se Servent pour désigner une fatigue
 <lb/>excesSIVe, ou bien la.syncope.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anêbe</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">impuber</foreign>, <foreign xml:lang="grc">αντ/βος</foreign>
+<p><orth>Anèbe</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">impuber</foreign>, <foreign xml:lang="grc">ἄνηβος</foreign>
 <etym>(<hi>a priv</hi>.,
 <lb/>ή'βη, puberté)</etym> ; 
 impubère, qui n’est pas
@@ -7613,7 +7613,7 @@ impubère, qui n’est pas
 
 <entryFree>
 <p><orth>Aneilème</orth> ou <orth>Aneilèse</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">involutio</foreign>,
-<lb/>ἀνείλημα, ἀνείλησις
+<lb/><foreign xml:lang="grc">ἀνείλημα</foreign>, <foreign xml:lang="grc">ἀνείλησις</foreign>
 <etym>(ἀνειλεἵσθαι, je suis roulé
 <lb/>en haut)</etym> ; 
 tIansport des gaz intes-tinaux
@@ -7621,7 +7621,7 @@ tIansport des gaz intes-tinaux
 </entryFree>
 
 <entryFree>
-<p><orth>Anelage</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">agnum parère</foreign> ; port
+<p><orth>Anelage</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">agnum parere</foreign> ; port
 <lb/>ou mise bas de la brebis.</p>
 </entryFree>
 
@@ -7635,14 +7635,14 @@ qui n’est pa.s
 </entryFree>
 
 <entryFree>
-<p><orth>Anémasie</orth> ou <orth>Anémosie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anaemasis</foreign>
+<p><orth>Anémasie</orth> ou <orth>Anémose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anaemasis</foreign>
 <lb/>
 <etym>(a priv., alpa, sang)</etym> ; 
 défaut de Sang.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anémie</orth>, s. I., <hi>anaemia</hi>
+  <p><orth>Anémie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anaemia</foreign>
 <etym>(a priv., αἷμα,
 
 
@@ -7662,7 +7662,7 @@ défaut de Sang. | Maladie dans
 </entryFree>
 
 <entryFree>
-<p><orth>Anémographie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anemograpliia</foreign>
+<p><orth>Anémographie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anemographia</foreign>
 <etym>(
 <lb/>ἄνεμος, vent, γράφω, j’écris)</etym> ; 
 partie de
@@ -7671,7 +7671,7 @@ partie de
 </entryFree>
 
 <entryFree>
-<p><orth>Anémomètre</orth>, S. m,, <hi>anemcmetrum</hi>
+  <p><orth>Anémomètre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anemometrum</foreign>
 <lb/>
 <etym>(<hi>ανιμος</hi>, vent, μέτρον, mesure)</etym> ; 
 instrument
@@ -7742,7 +7742,7 @@ défaut d’irritabilité,
 </entryFree>
 
 <entryFree>
-<p><orth>Anésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">remis sio</foreign>, ἄνεσις
+<p><orth>Anésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">remissio</foreign>, <foreign xml:lang="grc">ἄνεσις</foreign>
 <etym>(ἀνίημι,
 <lb/>je relâche)</etym> ; 
 rémission, amélioration
@@ -7750,7 +7750,7 @@ rémission, amélioration
 </entryFree>
 
 <entryFree>
-<p><orth>Anesthésie</orth>, <gram>s. f.</gram>, ἀναισθησία
+<p><orth>Anesthésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀναισθησία</foreign>
 <etym>(a priv.,
 <lb/>αἰσθάνομαι, je sens)</etym> ; 
 diminution ou abolition
@@ -7775,7 +7775,7 @@ plante annuelle,
 </entryFree>
 
 <entryFree>
-<p><orth>Anètique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">remittens</foreign>, ἀνετικὸς
+  <p><orth>Anétique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">remittens</foreign>, <foreign xml:lang="grc">ἀνετικὸς</foreign>
 <lb/>
 <etym>(ἀνίημι, je relâche)</etym> ; 
 remède qui adoucit
@@ -7800,11 +7800,11 @@ remède qui adoucit
 </entryFree>
 
 <entryFree>
-<p><orth>Anévrismatose</orth>. /. ARTÉRIOCHOLOSIE.</p>
+<p><orth>Anévrismatose</orth>. <ref> ARTÉRIOCHOLOSIE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anévrysmal</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anevrysmatieus</foreign> ;
+<p><orth>Anévrysmal</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anevrysmaticus</foreign> ;
 <lb/>qui tient à l’anévrysme ; <hi>sac anévrysmal,
 <lb/>tumeur anévrysmale</hi>.</p>
 </entryFree>
@@ -7933,7 +7933,7 @@ on les reconnaît à une tumeur plus ou
 
 <entryFree>
 <p><orth>Angéiographie</orth> ou <orth>Angiographie</orth>, <gram>s. f.</gram>,
-<lb/><hi>angeiographia</hi>. <hi>angiographia</hi>
+<lb/><<foreign xml:lang="lat">angeiographia</foreign>. <foreign xml:lang="lat">angiographia</foreign>
 <etym>(ἀγγεIον,
 <lb/>vaisseau, γράφω, je décris)</etym> ; 
 partie de
@@ -7951,7 +7951,7 @@ description des vaisseaux lymphatiques.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Angéiohydrologiæ</orth> ou <orth>Angiohydrologie</orth>,
+<p><orth>Angéiohydrologie</orth> ou <orth>Angiohydrologie</orth>,
 <lb/><gram>s. f.</gram>, <foreign xml:lang="lat">angeiohydrologia</foreign>
 <etym>(<hi>àcflaov</hi>,
 <lb/>vaisseau, ὕδωρ, eau, et λόγος, discours)</etym> ;
@@ -7969,8 +7969,8 @@ description des vaisseaux lymphatiques.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Angéiologie</orth> ou <orth>Angiologie</orth>, <gram>s. f.</gram>, <hi>angeiologia,
-<lb/>angeologia</hi>, ἀγ-γειολογία
+<p><orth>Angéiologie</orth> ou <orth>Angiologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angeiologia</foreign>,
+<lb/><foreign xml:lang="lat">angeologia</foreign><foreign xml:lang="grc">ἀγγειολογία</foreign>
 <etym>(ἄγγεIὸν,
 <lb/>vaisseau, λόγος, discoure)</etym> ; 
 description
@@ -7979,7 +7979,7 @@ description
 
 <entryFree>
 <p><orth>Angéiorrhagie</orth> ou <orth>Angiorrhagie</orth>, <gram>s. f.</gram>,
-<lb/><hi>prosiuvium sanguinis</hi>
+<lb/><foreign xml:lang="lat">profluvium sanguinis</foreign>
 <etym>(ἀγγειον, vaisseau,
 <lb/>ῥή-γνυμαι, je coule avec force)</etym> ; 
 hémorrhagie
@@ -7988,8 +7988,8 @@ hémorrhagie
 </entryFree>
 
 <entryFree>
-<p><orth>Angéiorrhée</orth> ou <orth>Angiorhée</orth>, <gram>s. f.</gram>, <hi>prosiurium
-<lb/>sanguinis</hi>
+<p><orth>Angéiorrhée</orth> ou <orth>Angiorhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">profluvium sanguinis</foreign>
+<lb/>
 <etym>(ἀγγεἵον, vaisseau, ρεω,
 <lb/>je coule)</etym> ; 
 hémorrhagie – passive, flux
@@ -7997,8 +7997,8 @@ hémorrhagie – passive, flux
 </entryFree>
 
 <entryFree>
-<p><orth>Angéiotomie</orth> ou <orth>Angiotomie</orth>, <gram>s. f.</gram>, <hi>angeiotomia,
-<lb/>angiotomia</hi>, ἀγγιοτομια
+<p><orth>Angéiotomie</orth> ou <orth>Angiotomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angeiotomia</foreign>,
+<lb/><foreign xml:lang="lat">angiotomia</foreign>, <foreign xml:lang="grc">ἀγγιοτομία</foreign>
 <etym>(ἀγγεἵον,
 <lb/>vaisseau, τέμ.νω, je coupe)</etym> ; 
 dissection
@@ -8006,7 +8006,7 @@ dissection
 </entryFree>
 
 <entryFree>
-<p><orth>Angélique</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">allgeHca</foreign>, <foreign xml:lang="lat">archangelica</foreign>,
+<p><orth>Angélique</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angelica</foreign>, <foreign xml:lang="lat">archangelica</foreign>,
 <lb/>L. ; grande et belle plante de la famille
 <lb/>des ombelliferes et de la pentandire
 <lb/>digynie, qu’on cultive en France.
@@ -9403,7 +9403,7 @@ propre à combattre le carcinome.</p>
 <entryFree>
 <p><orth>Anti-catarrhal</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticatorrhalis</foreign>
 <lb/>
-<etym>(ἀντὶ, contre, κατάῥῥος, ça-
+<etym>(ἀντὶ, contre, κατάῤῥος, ça-
 tarrhe)</etym> ; 
 employé dans le traitement du
 <lb/>catarrhe.</p>
@@ -9432,7 +9432,7 @@ employé dans le traitement du
 <entryFree>
 <p><orth>Anti-diarrhéique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antidiarrheicus</foreign>
 <lb/>
-<etym>(ἀντὶ, contre, διαῥῥεὤ, je
+<etym>(ἀντὶ, contre, διαῤῥεὤ, je
 <lb/>coule)</etym> ; 
 remède contre la diarrhée.</p>
 </entryFree>
@@ -9535,7 +9535,7 @@ remède
 <entryFree>
 <p><orth>Anti-hémorrhoïdal</orth>, <gram>adj.</gram> et s. m,, <hi>antihemorrhoidalis
 <lb/></hi>
-<etym>(ἀντὶ, contre, αἱμοῥῥἀίδες,
+<etym>(ἀντὶ, contre, αἱμοῤῥἀίδες,
 <lb/>hémorrhmdes)</etym> ; 
 remède contre les bemorrboïdes.</p>
 </entryFree>
@@ -10628,8 +10628,8 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aporrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aporrhaea</foreign>, ἀπόῥῥοια
-<lb/>(ἀποῥῥέω, je coule) ; ebute des cheveux.</p>
+<p><orth>Aporrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aporrhaea</foreign>, ἀπόῤῥοια
+<lb/>(ἀποῤῥέω, je coule) ; ebute des cheveux.</p>
 </entryFree>
 
 <entryFree>
@@ -11840,7 +11840,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arrhcea</foreign>, ἄῥῥοια, ἄῥῥοιη
+<p><orth>Arrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arrhcea</foreign>, ἄῤῥοια, ἄῤῥοιη
 <lb/>(a priv., ῥέω, je coule) ; suppression d’un
 <lb/>écoulement.</p>
 </entryFree>
@@ -24509,7 +24509,7 @@ cataracte, dans laquelle le cristallin opaque
 
 <entryFree>
 <p><orth>Catarrhectique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">catarrhecticus</foreign>(
-<lb/>καταῥῥήγγυμι, fondre, briser) ; ou appelait
+<lb/>καταῤῥήγγυμι, fondre, briser) ; ou appelait
 <lb/>jadis ainsi des substances auxquelles
 <lb/>on attribuait de.s propriétés dissolvantes,
 <lb/>comme roxymel, etc.</p>
@@ -24522,7 +24522,7 @@ cataracte, dans laquelle le cristallin opaque
 </entryFree>
 
 <entryFree>
-<p><orth>Catarrhexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">catarrhexis</foreign>, καταῥῥηξις
+<p><orth>Catarrhexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">catarrhexis</foreign>, καταῤῥηξις
 <lb/> ; propriété dont jouissent lcs remèdes
 <lb/>qu’HIppocrate nommait <hi>catarrhectiques</hi>.
 <lb/>| Ce mot signifie aussi, dans ses
@@ -24530,12 +24530,12 @@ cataracte, dans laquelle le cristallin opaque
 </entryFree>
 
 <entryFree>
-<p><orth>Catarrhopie</orth>, S. l., καταῥῥοπία (κατὰ,
+<p><orth>Catarrhopie</orth>, S. l., καταῤῥοπία (κατὰ,
 <lb/>en bas, ῥέω, je coule) ; mot pal – lequel
 <lb/>on désignait rafflux des liquides vers les
 <lb/>parties inférieures, et plus particulière-
 ment vers les viscéres abdominaux. Le
-<lb/>mot αναῥῥοπία lui est opposé.</p>
+<lb/>mot αναῤῥοπία lui est opposé.</p>
 </entryFree>
 
 <entryFree>
@@ -29014,7 +29014,7 @@ ils supposent que, du cœur, le sang
 </entryFree>
 
 <entryFree>
-<p><orth>Cirrhose</orth>, s. 1. (κιῥῥὸς, roux, jaune).
+<p><orth>Cirrhose</orth>, s. 1. (κιῤῥὸς, roux, jaune).
 <lb/>Laennec donne ce nom à une concrétion
 <lb/>granulense d’un jaune roux, que l’on
 <lb/>rencontre particulièrement dans le foie.</p>
@@ -39684,13 +39684,13 @@ plexus cervical. – <hi>Plexus diaphragmatiques</hi>,
 </entryFree>
 
 <entryFree>
-<p><orth>Diarrhage</orth>, <gram>s. f.</gram>, διαῥῥαγὴ ; fracture,
+<p><orth>Diarrhage</orth>, <gram>s. f.</gram>, διαῤῥαγὴ ; fracture,
 <lb/>.laines donne ce nom à la fracture de l’os
 <lb/>tem por.al.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Diarrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">diarrhaeil</foreign> (διαῥῥεω, je
+<p><orth>Diarrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">diarrhaeil</foreign> (διαῤῥεω, je
 <lb/>coule de toutes parts) ; évacuation sou
 <lb/>vent répétée par l’anUs de matières fé
 <lb/>cales liquides, bilieuses, muqueuses, séreuses,
@@ -40322,7 +40322,7 @@ presque tonjours la poudre de ses feuillcs
 
 <entryFree>
 <p><orth>Diorrhose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">diorrhosis</foreign> (δὶα, à travers,
-<lb/>ὀῥῥὸς, Sérosité) ; flux d’urine dont
+<lb/>ὀῤῥὸς, Sérosité) ; flux d’urine dont
 <lb/>l’abondance finit par jeter le malade dans
 <lb/>un état de consomption.</p>
 </entryFree>
@@ -47249,7 +47249,7 @@ hernie) ; hernie de l’épiploon a travers
 </entryFree>
 
 <entryFree>
-<p><orth>Epirrhée</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">epirrhaea</foreign>, ἐπιῥῥοὴ ;
+<p><orth>Epirrhée</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">epirrhaea</foreign>, ἐπιῤῥοὴ ;
 <lb/>transport des humeurs vers un point de
 <lb/>l’économie animale.</p>
 </entryFree>
@@ -47814,7 +47814,7 @@ traînent l’épuisement. | La fortraiture,
 </entryFree>
 
 <entryFree>
-<p><orth>Errhipsie</orth>, <gram>s. f.</gram>, ἔῥῥιψις, <foreign xml:lang="lat">prostratio</foreign> ;
+<p><orth>Errhipsie</orth>, <gram>s. f.</gram>, ἔῤῥιψις, <foreign xml:lang="lat">prostratio</foreign> ;
 <lb/>abattement, prostration.</p>
 </entryFree>
 
@@ -60062,7 +60062,7 @@ l’intestin rectum. Alibert lui fait occuper,
 
 <entryFree>
 <p><orth>Hémorrhoscopie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">haemorrhoscopia</foreign>,
-<lb/>αἱμοῥῥοσκοπία (άἷμα, sang, ῥέω, je
+<lb/>αἱμοῤῥοσκοπία (άἷμα, sang, ῥέω, je
 <lb/>coule, σκοπέω, j’examine) ; examen des
 <lb/>qualités et de rétat du Sang tiré des
 <lb/>veines.</p>
@@ -65593,7 +65593,7 @@ employé tout récemment par quelques
 </entryFree>
 
 <entryFree>
-<p><orth>Infirmité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">insirmilas</foreign>, ἀῥῥωστια ;
+<p><orth>Infirmité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">insirmilas</foreign>, ἀῤῥωστια ;
 <lb/>privation de l’usage d’une partie quelconque
 <lb/>du corps.</p>
 </entryFree>
@@ -70130,7 +70130,7 @@ arrivant à la base de la langue. – <hi>MUscle
 
 <entryFree>
 <p><orth>Liparosquirrhe</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">liparoscirrhus</foreign>(
-<lb/>λιπαρὸς, graisse, σκίῥῥος, endurcissement)
+<lb/>λιπαρὸς, graisse, σκίῤῥος, endurcissement)
 <lb/> ; synonyme de <hi>lipome</hi>.</p>
 </entryFree>
 
@@ -75822,7 +75822,7 @@ musculaires du constricteur SUpérieur
 </entryFree>
 
 <entryFree>
-<p><orth>Myrrhe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">myrrha</foreign>, μυῥῥα ; gommerésine
+<p><orth>Myrrhe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">myrrha</foreign>, μυῤῥα ; gommerésine
 <lb/>en masSCS brunâtree, d’une odeur
 <lb/>agréable, d’une Saveur chaude, amère
 <lb/>et aromatique, qui vient de l’Arabie et
@@ -79862,7 +79862,7 @@ qu’elle a une forme assez analogue à ceIle
 </entryFree>
 
 <entryFree>
-<p><orth>Orrhochésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">orrhocheZIa</foreign> (ὀρῥος,
+<p><orth>Orrhochésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">orrhocheZIa</foreign> (ὀῤῥος,
 <lb/>petit-lait, χέζω, je vais à la Selle) ; diarrhée
 <lb/>séreuse.</p>
 </entryFree>
@@ -84663,7 +84663,7 @@ out événement extraordinaire, inatendu.</p>
 
 <entryFree>
 <p><orth>Phléborrhagie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">phleborrhagia</foreign>,
-<lb/>φΛεβοῥῥαγία (φλέψ, veine, ῥήγνυμι, je fais
+<lb/>φΛεβοῤῥαγία (φλέψ, veine, ῥήγνυμι, je fais
 <lb/>iIrnption) ; hémorrhagie dans laquelle
 <lb/>le sang provient d’une veine.</p>
 </entryFree>
@@ -95055,7 +95055,7 @@ du membre pelvien, distinguées en
 
 <entryFree>
 <p><orth>Sarco-hydrocèle</orth>. <gram>s. f.</gram>, <foreign xml:lang="lat">sarco-lrydrOcele</foreign>
-<lb/>(σὰρῥ, chair, ὑδὤρ, eau, κήλη, tumeur)
+<lb/>(σὰῤῥ, chair, ὑδὤρ, eau, κήλη, tumeur)
 <lb/> ; squirre du testicule complique
 <lb/>d’IIydropisie de la tunique vaginale. On
 <lb/>dit plus souvent <hi>hydro-sarcocèle</hi>.</p>
@@ -95667,18 +95667,18 @@ tèrleure du bandage, qu’elle empêche
 </entryFree>
 
 <entryFree>
-<p><orth>Scirrhocèle</orth>, s. L. <hi>scirrhocele</hi> (σκίῥῥος,
+<p><orth>Scirrhocèle</orth>, s. L. <hi>scirrhocele</hi> (σκίῤῥος,
 <lb/>dur, κήλη, hernie) ; squirrhe des testicules.</p>
 </entryFree>
 
 <entryFree>
 <p><orth>Scirrhophthalmie</orth>. <gram>s. f.</gram>, <foreign xml:lang="lat">scirrhophthulmia</foreign>
-<lb/>(σκίῥῥος, dur, ὀφθαλμὸς, œil) ; Synonyme
+<lb/>(σκίῤῥος, dur, ὀφθαλμὸς, œil) ; Synonyme
 <lb/>de <hi>sclèrophthalmie</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Scirrhose</orth>, s. f‘., <hi>scirrhosis</hi>, σκίῥῥωσις ;
+<p><orth>Scirrhose</orth>, s. f‘., <hi>scirrhosis</hi>, σκίῤῥωσις ;
 <lb/>tumeur livide, effet d’une Inflammation
 <lb/>intense et prolongée.</p>
 </entryFree>
@@ -96877,7 +96877,7 @@ du carpe. – <hi>Valvules semi-lunaires</hi> ou <hi>sigmoïdes</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Séreux</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">scrosus</foreign>, ὀῥῥώδης, va*
+<p><orth>Séreux</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">scrosus</foreign>, ὀῤῥώδης, va*
 
 
 <pb n="525" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0535/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=535"/>
@@ -96893,7 +96893,7 @@ du carpe. – <hi>Valvules semi-lunaires</hi> ou <hi>sigmoïdes</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Serosité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">serositas</foreign>, ὀῥῥὸς ; pare
+<p><orth>Serosité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">serositas</foreign>, ὀῤῥὸς ; pare
 <lb/>la plus aqueuse d’une humeur aniiale.
 <lb/>Fluide qui se rapproche beaucoup
 <lb/>e reau pour la consistance.</p>
@@ -108104,7 +108104,7 @@ torale et adOUcissante, quoiqu’il SOit
 </entryFree>
 
 <entryFree>
-<p><orth>Virilité</orth>, <gram>s. f.</gram>, <hi>virilitas, ἀῥῥενδώης,
+<p><orth>Virilité</orth>, <gram>s. f.</gram>, <hi>virilitas, ἀῤῥενδώης,
 <lb/>àvàptla</hi> ; époque de la vie à laquelle
 <lb/>rhomme atteint toute sa perfection pbysique.</p>
 </entryFree>
