@@ -10505,14 +10505,14 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aponévrologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aponerrologia</foreign>(
+<p><orth>Aponévrologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aponevrologia</foreign>(
 <lb/>ἀπονεύρωσις, aponévrOSe,^o ;, discours) ;
 <lb/>histoire des aponévroses.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aponévrose</orth>, <gram>s. f.</gram>, <hi>aponevrosis, aponeurosis,
-<lb/>άπονευρωσις</hi> (<hi>ἀπὸ</hi>, de, νευρον, nerf) ;
+<p><orth>Aponévrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aponevrosis</foreign>, <foreign xml:lang="lat">aponeurosis</foreign>,
+<lb/><foreign xml:lang="grc">ἀπονεύρωσις</foreign></hi> (<hi>ἀπὸ</hi>, de, νευρον, nerf) ;
 <lb/>membrane blanche, hIISante, satinée,
 <lb/>d’un tissu dense et serre, trèe-résistante,
 <lb/>peu extensible, et formée en presque
@@ -10521,13 +10521,13 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aponévrotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aponeurotieus</foreign> ;
+<p><orth>Aponévrotique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aponeuroticus</foreign> ;
 <lb/>qui a rapport aux aponévroses, qui en
 <lb/>présente les caractères.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aponévrotomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aponcurotomia</foreign>(
+<p><orth>Aponévrotomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aponeurotomia</foreign>(
 <lb/>ἀπονευρωσις, aponévrose, τέμνω, je
 <lb/>coupe) ; dissection OU anatomie des aponévroses.</p>
 </entryFree>
@@ -10539,17 +10539,16 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apophlegmatisant</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apo-</foreign></p>
-
-<p><term>phlegmatisaus</term>(ἀπὸ, dehors, φλέγμα, pituite)
+<p><orth>Apophlegmatisant</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apophlegmatisans</foreign></p>
+<p>(ἀπὸ, dehors, φλέγμα, pituite)
 <lb/> ; médicament qui facilite rexpulsion
 <lb/>de la pituite, du mucus nasal, bronchique,
 <lb/>guttural.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apophlegmatisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apophlcgmatismus</foreign>,
-<lb/>ἀποφλεγματισμὸς (ἀπὸ, dehors,
+<p><orth>Apophlegmatisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apophlegmatismus</foreign>,
+<lb/><foreign xml:lang="grc">ἀποφλεγματισμὸς</foreign> (ἀπὸ, dehors,
 <lb/>φλέγμα, pituite) ; expulsion de la pituite.</p>
 </entryFree>
 
@@ -10558,17 +10557,17 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apophthore</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apophlhorus</foreign>
+<p><orth>Apophthore</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apophthorus</foreign>
 <lb/>(ἀπὸ, dehors, φθείρω, je corromps) ;
 <lb/>abortif, avortement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apophyse</orth>, s. f’., <hi>apophyses</hi>, ἀπόφυσις
+<p><orth>Apophyse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apophysis</foreign>, <foreign xml:lang="grc">ἀπόφυσις</foreign>
 <lb/>(ἀποφύω, je nais ou je croî.s des.sus) ;
 <lb/>éminence d’un es qui fait corps avec lui.</p>
 
-<p><term>Apophyse d’Jngrassia</term> ; nom donné aux
+<p><term>Apophyse d’Ιngrassia</term> ; nom donné aux
 <lb/>petites ailes du sphénoïde.</p>
 </entryFree>
 
@@ -10591,7 +10590,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apoplexie</orth>,.<gram>s. f.</gram>, <foreign xml:lang="lat">apoplexia</foreign>, ἀποπληξία
+<p><orth>Apoplexie</orth>,.<gram>s. f.</gram>, <foreign xml:lang="lat">apoplexia</foreign>, <foreign xml:lang="grc">ἀποπληξία</foreign>
 <lb/>(ἀποπλήσσω, je frappe violemment) ;
 <lb/>suspension du mouvement volontaire et
 <lb/>du Sentiment, avec persistance de la
@@ -10616,18 +10615,18 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apopnixie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apopmxis</foreign>, ἀπόπνιξις
+<p><orth>Apopnixie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apopnixis</foreign>, <foreign xml:lang="grc">ἀπόπνιξις</foreign>
 <lb/>(ἀποπνίγω, je SUffoque) ; sentiment de
 <lb/>suffocalioII.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apopsychie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apopsychia</foreign>, ἀποψυχία
+<p><orth>Apopsychie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apopsychia</foreign>, <foreign xml:lang="grc">ἀποψυχία</foreign>
 <lb/>(ἀπὸ. loin, <hi>ψυχὴ</hi>, âIne) ; défaillance.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aporrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aporrhaea</foreign>, ἀπόῤῥοια
+<p><orth>Aporrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aporrhaea</foreign>, <foreign xml:lang="grc">ἀπόῤῥοια</foreign>
 <lb/>(ἀποῤῥέω, je coule) ; ebute des cheveux.</p>
 </entryFree>
 
@@ -10642,12 +10641,12 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Aposceparnismos</orth>. V. <ref>APOSKÉPARNISMOS</ref>.</p>
+<p><orth>Aposceparnismos</orth>. V. <ref>APOSKΕPARNISMOS</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aposchasie</orth>, s. <hi>r</hi>.. <hi>scarisicalio</hi>, ἀπόσχασις,
-<lb/>ἀποσγσσυὸς (ἀποσκευάζω, je décharge)
+<p><orth>Aposchasie</orth>, <gram>s. f.</gram>. <foreign xml:lang="lat">scarificatio</foreign>, <foreign xml:lang="grc">ἀπόσχασις</foreign>,
+<lb/><foreign xml:lang="lat">ἀποσχασμὸς</foreign> (ἀποσκευάζω, je décharge)
 <lb/> ; scaiIfication. | Incision | MOUcheture.
 <lb/>| OUVerture d’une veine.</p>
 </entryFree>
@@ -10657,12 +10656,12 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Apositie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apos'tia</foreign>. ἀποσίτια (ἀπὸ,
+  <p><orth>Apositie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apositia</foreign>. <foreign xml:lang="grc">ἀποσίτια</foreign> (ἀπὸ,
 <lb/>loin, <hi>σIτοξ</hi>, blé) ; dégoût pour les alimens.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apositique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apositicus</foreign>, ἀποσιτικὸς
+<p><orth>Apositique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apositicus</foreign>, <foreign xml:lang="grc">ἀποσιτικὸς</foreign>
 <lb/> ; qui ote le ifoCIt des alimens.</p>
 </entryFree>
 
@@ -10671,8 +10670,8 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Aposképarnismos</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">cposcepamismus</foreign>,
-<lb/>ἀποσκεπαρνισμὸς (ἀπὸ, par, σκέπσρνον,
+<p><orth>Aposkeparnismos</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aposceparnismus</foreign>,
+<lb/><foreign xml:lang="grc">ἀποσκεπαρνισμὸς</foreign> (ἀπὸ, par, σκέπσρνον,
 <lb/>doloire), plaie du crâne produite
 <lb/>pai un iISstrumeiIt tranchant qui a agi
 <lb/>en dédolant, et dans laquelle une pièce
@@ -10680,19 +10679,19 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Aposkepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aposehcpsis</foreign> (<hi>άπόσ-</hi>
+<p><orth>Aposkepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aposchepsis</foreign> (<hi>άπόσ-</hi>
 <lb/>κηπτω, je me porte sur) ; Synonyme de
 <lb/><hi>m la tu se</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apospongisme</orth>, s. ni., <hi>aposp ngismus</hi>,
-<lb/>ἀποσπογγισμὸς (ἀπὸ, dehors, σπογγία,
+<p><orth>Apospongisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="grc">ἀποσπογγισμὸς</foreign>,
+<lb/> (ἀπὸ, dehors, σπογγία,
 <lb/>éponge) ; action d’eponger.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apostase</orth>, S f., <hi>apostasis</hi>, ἀπόἄίασις
+<p><orth>Apostase</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apostasis</foreign>, <foreign xml:lang="grc">ἀπόστασις</foreign>
 <lb/>(ἀπὸ, sur, ίστημι, j’établis, j’arrête) ;
 <lb/>abcès, j Séparation d’un fragment d’une
 <lb/>fracture. | SOlution d’une maladie par
@@ -10700,17 +10699,17 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Apostaxis</orth>, <hi>l</hi>. EPISTAxIS.</p>
+<p><orth>Apostaxis</orth>, <ref>EPISTAXIS</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apostème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apostema</foreign>, ἀπόστημα
+<p><orth>Apostème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apostema</foreign>, <foreign xml:lang="grc">ἀπόστημα</foreign>
 <lb/>(ἀπὸ, sur, ἵάτημι, je pose) ; abcès. J 1 umeut
 <lb/>en général.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apostérigme</orth>,.<gram>s. m.</gram>, <foreign xml:lang="lat">aposterigma</foreign> ; ἀποστήριγμα
+<p><orth>Apostérigme</orth>,.<gram>s. m.</gram>, <foreign xml:lang="lat">aposterigma</foreign> ; <foreign xml:lang="grc">ἀποστήριγμα</foreign>
 <lb/>(ἀποστηρίζω, je soutiens) ; maladie
 <lb/>chronique des intestins.</p>
 </entryFree>
@@ -10724,7 +10723,7 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Apothèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apothcsis</foreign>, ἀπόθεσις
+<p><orth>Apothèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apothesis</foreign>, <foreign xml:lang="grc">ἀπόθεσις</foreign>
 <lb/>(ἀποτίθημι, je dépose) ; position qu’on
 <lb/>doit donnera un membre fracturé, après
 <lb/>la réduction des fragmens et l’application
@@ -10732,25 +10731,25 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Apostrophe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apostrophe</foreign>, ἀποάτροφὴ
+<p><orth>Apostrophe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apostrophe</foreign>, <foreign xml:lang="grc">ἀποστροφὴ</foreign>
 <lb/>(ἀπὸ, loin, τροφὴ, nourriture) ;
 <lb/>dégoût pour les alimen.s.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apote</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">a pot us</foreign>, ἄποτος (a priv.,
+<p><orth>Apote</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apotus</foreign>, <foreign xml:lang="grc">ἄποτος</foreign> (a priv.,
 <lb/>πότης, buveur) ; qui ne boit pas, OU qui
 <lb/>n’éprouve pas le besoin de boire.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apotelesme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apoielcsma</foreign> (ἀπὸ,
+<p><orth>Apotelesme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apotelesma</foreign> (ἀπὸ,
 <lb/>de, τέλεσμα, accomplissement) ; terminaison
 <lb/>d’une maladie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apothérapie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apotherapia</foreign>, ἀποθεραπεία
+<p><orth>Apothérapie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apotherapia</foreign>, <foreign xml:lang="grc">ἀποθεραπεία</foreign>
 <lb/>(ἀπὸ, de, θεραπευω, je guéris) ;
 <lb/>svnonvme de <hi>thérapeutique</hi>.</p>
 </entryFree>
@@ -10763,21 +10762,21 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Apothicairerie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apotheca</foreign>, ἀποθήκη
+<p><orth>Apothicairerie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apotheca</foreign>, <foreign xml:lang="grc">ἀποθήκη</foreign>
 <lb/> ; boutique dans laquelle on vend des
 <lb/>substances médicinales ; art de préparer
 <lb/>les drcgues et les médicamens.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apothrause</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apcthrausis</foreign>, <foreign xml:lang="grc">άπό—</foreign>
+<p><orth>Apothrause</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apothrausis</foreign>, <foreign xml:lang="grc">ἀπόθραυσις</foreign>
 <lb/>θραυσις (ἀποθραύω, je fracasse) ; fracture
 <lb/>avec plaie de la superficie d’un os, dont
 <lb/>les esquilles Se présentent pour être extraites.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apozème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apozema</foreign>, ἀπόζημα
+<p><orth>Apozème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apozema</foreign>, <foreign xml:lang="grc">ἀπόζημα</foreign>
 <lb/>(ἀποζέω, je fais bouillir) ; décoctum
 <lb/>prolongé de plusieurs médicamens végétaux
 <lb/>à la fois, qu’on prescrit par veirécs,
@@ -10785,7 +10784,7 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Appaiser</orth>, v. a., <hi>lenire’</hi>, calmer. – <hi>un
+<p><orth>Appaiser</orth>, <gram>v. a.</gram>,<foreign xml:lang="lat">lenire</foreign>, calmer. – <hi>un
 <lb/>cheval</hi>, c’est employer des moyens pour
 <lb/>adoucir sa colère, soit par des caresSes,
 <lb/>SOit par un sifflement léger, ou en lui
@@ -10793,7 +10792,7 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Appareil</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apparatus</foreign>, <foreign xml:lang="grc">χζ~ά—</foreign>
+<p><orth>Appareil</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apparatus</foreign>, <foreign xml:lang="grc">κατάσκευὴ</foreign>
 <lb/>σκευὴ <hi>[apparo</hi>, je prépare) ; ensemble des
 <lb/>organes qui concourent à l’exercice d’une
 <lb/>fonction. ASsemblage de plusieurs
@@ -10804,20 +10803,20 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Appareiller</orth>, v. <gram>adj.</gram>, <foreign xml:lang="lat">copulare ; ac-</foreign>
+<p><orth>Appareiller</orth>, <gram>v. adj.</gram>, <foreign xml:lang="lat">copulare</foreign>
 <lb/>coupler de.s objets Semblables. | Accoupler
 <lb/>un mâle et une femelle pour racte
 <lb/>de la génération.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Appater</orth>, v. a., <hi>inescare</hi> ; attirer avec
+  <p><orth>Appater</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">inescare</foreign> ; attirer avec
 <lb/>un appât. | DOnner certaine pâte aux
 <lb/>volailles pour les engraisser.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Appauvri</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">d</foreign>. <hi>pauperatus, tenuis</hi> ;
+<p><orth>Appauvri</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">depauperatus</foreign>. <foreign xml:lang="lat">tenuis</foreign> ;
 <lb/>Se disait jadis du Sang que l’on
 <lb/>SUpposait privé d’une partie de ses principes
 <lb/>constituans, lorsqu’il était sans
@@ -10835,14 +10834,14 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Appeler</orth>, V. a., <hi>appellare</hi>. <hi> un cheval</hi>,</p>
+<p><orth>Appeler</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">appellare</foreign>. <hi> un cheval</hi>,</p>
 
 <p>c’est frapper de la langue contre le palais,
 <lb/>ce qui produit un son particulier.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Appendice</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">appcndix</foreign>, ἐπίφυσις
+<p><orth>Appendice</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">appendix</foreign>, <foreign xml:lang="grc">ἐπίφυσις</foreign>
 <lb/><hi/>(<hi>ad</hi>, à, <hi>pendere</hi>, pendre) ; partie d’un
 <lb/>corps qui fait bien tout avec lui, mais
 <lb/>Semble cependant lui avoir été SUr-ajoutée,
@@ -10862,26 +10861,26 @@ lobulés qu’on remarque dans la corolle
 </entryFree>
 
 <entryFree>
-<p><orth>Appendicule</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">appentliculatus-</foreign>, qui
+<p><orth>Appendiculé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">appendiculatus</foreign>, qui
 <lb/>est muni d’appendices : telles SOnt les anthères
 <lb/>des bruyères, la corolle de beaucoup
 <lb/>d’apocynées et de borraginécs.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Appension</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">appensio</foreign>, ἀνάτηψις
+<p><orth>Appension</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">appensio</foreign>, <foreign xml:lang="grc">ἀνάτηψις</foreign>
 <lb/><hi/>(<hi>ad</hi>, à, <hi>pendere, '</hi> pendre) ; suspension
 <lb/>d’une partie à raide d’une écharpe ou
 <lb/>d’autres <hi>suspensoirs</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Appétence</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">appetenlia</foreign> ; désir ardent
+<p><orth>Appétence</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">appetentia</foreign> ; désir ardent
 <lb/>et passionné pour un objet quelconque.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Appétit</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">appetitus</foreign>, <foreign xml:lang="grc">ορίξις</foreign>, <foreign xml:lang="grc">ὀρμὴ</foreign>,
+<p><orth>Appétit</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">appetitus</foreign>, <foreign xml:lang="grc">ὄρεξις</foreign>, <foreign xml:lang="grc">ὁρμὴ</foreign>,
 <lb/>sensation qui détermine à mettre en jeu
 <lb/>le.s organes sur lesquels doit agir l’objet
 <lb/>désiré. Se dit le plus souvent du désir
@@ -10916,57 +10915,57 @@ lobulés qu’on remarque dans la corolle
 </entryFree>
 
 <entryFree>
-<p><orth>Application</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">applicatio</foreign>, <foreign xml:lang="grc">Ιφαρ—</foreign>
-<lb/>μοφη, προσοικέτωσις ; apposition d’un
+<p><orth>Application</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">applicatio</foreign>, <foreign xml:lang="grc">ἐφαρμοφὴ</foreign>
+<lb/>, <foreign xml:lang="lat">προσοικέτωσις</foreign> ; apposition d’un
 <lb/>corps à la SUrface d’un autre. Application
 <lb/>que l’intelligence, fait à la pratique
 <lb/>des notions acquises par l’attention.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apprivoiser</orth>, v, a., <hi>mansuefacere</hi> ; Tendre
+<p><orth>Apprivoiser</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">mansuefacere</foreign> ; Tendre
 <lb/>doux un animal farouche, à l’aide
 <lb/>île moyens suggérés par l’industrie de
 <lb/>rhomme.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apracte</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apractus</foreign>, ἄπρακτα (a pr.,
+<p><orth>Apracte</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apractus</foreign>, <foreign xml:lang="grc">ἄπρακτα</foreign> (a pr.,
 <lb/>πρασσω. je fais) ; se dit des parties génitales
 <lb/>inbabiles a la copulation ou à la <hi>génération</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apre</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">as per</foreign>, τραχότης ; rude au
+<p><orth>Apre</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">asper</foreign>, <foreign xml:lang="grc">τραχότης</foreign> ; rude au
 <lb/>toucher ou au goût ; qui affecte désagréablement
 <lb/>ce.s deux Sens.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apreté</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">OSperitas</foreign>, τράχωμα ; qualité
+<p><orth>Apreté</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asperitas</foreign>, <foreign xml:lang="grc">τράχωμα</foreign> ; qualité
 <lb/>d’être âpre. Ce mot est employe
 <lb/>quelquefois comme Synonyme d’accr-
 <lb/><hi>bile</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Approximation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">approximotio</foreign> :
+<p><orth>Approximation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">approximatio</foreign> :
 <lb/>rapprochement immédiat de rhomme</p>
 
 <p>avec les animaux, dans un but thérapeutique.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apsychie</orth>., <gram>s. f.</gram>, <foreign xml:lang="lat">apsychia</foreign>, ἀψυχία (a pr.,
+<p><orth>Apsychie</orth>., <gram>s. f.</gram>, <foreign xml:lang="lat">apsychia</foreign>, <foreign xml:lang="grc">ἀψυχία</foreign> (a pr.,
 <lb/>ψυχη, âme) ; défaillance, perle de sentiment.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apulotique</orth>. V. <ref>EPULOTIQUE</ref>.</p>
+<p><orth>Apulotique</orth>. V. <ref>ÉPULOTIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apyète</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apyetosydz-</foreign>ύητος (a pr.,
+<p><orth>Apyète</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apyetos</foreign>,<foreign xml:lang="grc">ἀπύητος</foreign> (a pr.,
 <lb/>πυον, pus) ; maladie extérieure qui n’est
 <lb/>point deprature à produire la SUppuration.</p>
 </entryFree>
@@ -10981,7 +10980,7 @@ lobulés qu’on remarque dans la corolle
 </entryFree>
 
 <entryFree>
-<p><orth>Apyrétique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apyretieus</foreign> (a priv.,
+<p><orth>Apyrétique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apyreticus</foreign> (a priv.,
 <lb/>πυρετὸς, fièvre) ; sans fièvre.—<hi>JOUr apyrétique</hi>,
 <lb/>celui où l’intermission a lieu.
 <lb/>—<hi>Maladie apyrétique</hi>, maladie qui n’est
@@ -10989,7 +10988,7 @@ lobulés qu’on remarque dans la corolle
 </entryFree>
 
 <entryFree>
-<p><orth>Apyrexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apyrexui</foreign>, ἀπυρεξία
+<p><orth>Apyrexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apyrexia</foreign>, <foreign xml:lang="grc">ἀπυρεξία</foreign>
 <lb/>(a priv., πύρεξις, fièvre) ; intervalle de
 <lb/>temps qui sépare deux accès de fièvre.
 <lb/>L’apyrexie cst complète ou incomplète,
@@ -11000,27 +10999,27 @@ lobulés qu’on remarque dans la corolle
 </entryFree>
 
 <entryFree>
-<p><orth>Apyromèle</orth>, 8. f., <hi>apyromele</hi>, ἀπυρομήλη
+<p><orth>Apyromèle</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apyromele</foreign>, <foreign xml:lang="grc">ἀπυρομήλη</foreign>
 <lb/>(a priv., πυρὴν, noyau, μήλη, <hi>κοη-</hi>
 <lb/>de) ; SOnde.sans bouton.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aquatique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aquatieus</foreign> (<hi>aqua</hi>,
+<p><orth>Aquatique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aquaticus</foreign> (<hi>aqua</hi>,
 <lb/>eau) ; qui vit dans reau, ou qui est pénétré
 <lb/>d’eau.—<hi>Cancer aquatique</hi>, ulcération
 <lb/>scorbutique de la bouche.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aqueduc</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aquaeductus</foreign>, <foreign xml:lang="lat">ospo-</foreign>
+<p><orth>Aqueduc</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aquaeductus</foreign>, <foreign xml:lang="grc">ὑδροχόν</foreign>
 <lb/>χόν <hi/>(<hi>aqua</hi>, eau, <hi>duccre</hi>, conduire) ; çanal
 <lb/>qui Sert à transmettre les eaux. Les
 <lb/>anatomistes donnent ce nom à quelques
 <lb/>conduits pratiquée dans les os, quoiqu’il
 <lb/>n’y passe point de fluides.</p>
 
-<p><term>AqueducdeCOtugno</term> <hi>, aquaeductus COtunnU</hi> ;
+<p><term>Aqueduc de Cotugno</term> <hi>, aquaeductus COtunnU</hi> ;
 <lb/>canal qui s’étend du vestibule à la
 <lb/>face postérieure du rocher.</p>
 
@@ -11054,11 +11053,11 @@ y fait naître de petits flocons albumineux.</p>
 <entryFree>
 <p><orth>Aquila alba</orth> ; protochlorure de mercure.</p>
 
-<p><term>Aquila mitigata</term>, protochlorure de mercure.</p>
+<p><orth>Aquila mitigata</orth>, protochlorure de mercure.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arachide</orth>, S. 0., <hi>arachis hypogœa ; famille</hi>
+<p><orth>Arachide</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arachis hypogaea</foreign> ; famille
 <lb/>des légumineuses, diadelphie décandrie
 <lb/> ; petite plante annuelle, originaire
 <lb/>de l’Amérique méridionale, qui
@@ -11089,8 +11088,8 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arachnoïde</orth>, <gram>adj.</gram> et S., <hi>arachnoideus</hi>,
-<lb/>ἀραχνοειδὴς (ἀράχνη, toile d’araignée,
+<p><orth>Arachnoïde</orth>, <gram>adj.</gram> et <gram>s.</gram>, <foreign xml:lang="lat">arachnoideus</foreign>,
+<lb/><foreign xml:lang="grc">ἀραχνοειδὴς</foreign> (ἀράχνη, toile d’araignée,
 <lb/>εἷδος, forme) ; qui ressemble à une toile
 <lb/>d’araignée. Epithète donnée autrefois à
 <lb/>la capsule du cristallin et à celle de
@@ -11124,14 +11123,14 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Araeoïde</orth>, s. L ; nom donné par Meissner
+<p><orth>Araeoïde</orth>, <gram>s. f.</gram> ; nom donné par Meissner
 <lb/>à toute combinaison du calorique
 <lb/>avec un corps quelconque.</p>
 </entryFree>
 
 <entryFree>
 <p><orth>Araeoticon</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">rarefaciens</foreign>,
-<lb/>ἀραιωτικὸς (ἀραίοω, je rarefie) ; médicament
+<lb/><foreign xml:lang="grc">ἀραιωτικὸς</foreign> (ἀραίοω, je rarefie) ; médicament
 <lb/>auquel on suppose la propriété de
 <lb/>raréfier les humeurs. | Mel'ssner appelle
 <lb/>ainsi le calorique, qui est le <hi>raréfiant</hi> par
@@ -11150,7 +11149,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aralies</orth> ou <orth>Araliacées</orth>, <hi>araliaceae ;</hi>
+  <p><orth>Aralies</orth> ou <orth>Araliacées</orth>, <foreign xml:lang="lat">araliaceae</foreign>
 <lb/>famille de plantes dicotylédones polypétalcs,
 <lb/>ayant les étamines èpigynes. Lne
 <lb/>Seule plante de cet ordre naturel est employée
@@ -11172,12 +11171,12 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arborescent</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arborcscens</foreign>. On
+<p><orth>Arborescent</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arborescens</foreign>. On
 <lb/>appelle <hi>tige arborescente</hi> celle des arbrisseaux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arbre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arbor</foreign>, φυτὸν. Dans son
+  <p><orth>Arbre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arbor</foreign>, <foreign xml:lang="grc">φυτὸν</foreign>. Dans son
 <lb/>Sens le plus étendu, ce mot désigne toute.s
 <lb/>les plantes vivaces dont la lige est ligneuse.
 <lb/>Mais les botanistes ont établi,
@@ -11202,7 +11201,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arbre de diane</orth>, <hi>arbor DIanae</hi> ; végétation
+<p><orth>Arbre de Diane</orth>, <foreign xml:lang="lat">arbor Dianae</foreign> ; végétation
 <lb/>mctallique qu’on obtient en mêlant
 <lb/>ensemble des nitrates d’argent et de
 <lb/>mercure, dissous dans reau, et versant
@@ -11214,7 +11213,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arbre de vie</orth>, <hi>arbor vitae</hi> ; nom donné
+<p><orth>Arbre de vie</orth>, <foreign xml:lang="lat">arbor vitae</foreign> ; nom donné
 <lb/>à l’espèce d’arborÎSation qu’on aperçoit
 <lb/>en coupant longitudinalement le cervelet,
 <lb/>et qui résulte de la disposition
@@ -11231,7 +11230,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arc</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arc us</foreign> ; portion d’une ligne
+<p><orth>Arc</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arcus</foreign> ; portion d’une ligne
 <lb/>courbe quelconque, et en particulier
 <lb/>d’un cercle. | Partie du corps dont
 <lb/>la forme se rapproche de cette figure
@@ -11270,14 +11269,14 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arcanum</orth> <hi>coralHnum</hi> –, deutoxide de
+<p><orth>Arcanum corallinum</orth> –, deutoxide de
 <lb/>mercure obtenu en calcinant le nitrate
 <lb/>mercuriel.</p>
 
-<p><term>Arcanum duplicatum</term>. V. <ref>SULFATE</ref> <hi>de
+<p><orth>Arcanum duplicatum</orth>. V. <ref>SULFATE</ref> <hi>de
 <lb/>potasse</hi>.</p>
 
-<p><term>Arcanum tartari</term>. V. <ref>ACÉTATE</ref> <hi>de potasse</hi>.</p>
+<p><orth>Arcanum tartari</orth>. V. <ref>ACÉTATE</ref> <hi>de potasse</hi>.</p>
 </entryFree>
 
 <entryFree>
@@ -11303,7 +11302,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Archée</orth>, s. f‘. (ἀρχὴ, principe) ; terme
+<p><orth>Archée</orth>, <gram>s. f.</gram>. (ἀρχὴ, principe) ; terme
 <lb/>créé par van Helmont, et désignant la
 <lb/>force primitive, le principe de la vie du
 <lb/>corps humain et de tonte la nature, la
@@ -11317,7 +11316,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Archélogie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ardtelogia</foreign>, ἀρχηλογία
+<p><orth>Archélogie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">archeologia</foreign>, <foreign xml:lang="grc">ἀρχηλογία</foreign>
 <lb/>(ἀρχὴ, principe, λόγος, discours) ;
 <lb/>traité des principes fondamentaux de la
 <lb/>science de l’homme.</p>
@@ -11328,7 +11327,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Archiatre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">archiater</foreign>, ἀρχίατρος
+<p><orth>Archiatre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">archiater</foreign>, <foreign xml:lang="grc">ἀρχίατρος</foreign>
 <lb/>(ἀρχὸς, prince, ἰατρὸς, médecin) ;
 <lb/>prince ou premier des médecins. La signification
 <lb/>ancienne de ce mot est douteuse.
@@ -11338,7 +11337,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Archigénique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">archige)lius</foreign> (ἀρχὴ,
+<p><orth>Archigénique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">archigenius</foreign> (ἀρχὴ,
 <lb/>principe, γίνομαι, j’engendre) ; principal.
 <lb/>Se dit des maladies aigues.</p>
 </entryFree>
@@ -11350,7 +11349,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Archimîe</orth>. V. <ref>ALCHIMIE</ref>.</p>
+<p><orth>Archimie</orth>. V. <ref>ALCHIMIE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -11377,8 +11376,8 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arctation</orth>, c. L, <hi>arctatio, arctitudo</hi>,
-<lb/>ξυμπίλησις, συμπίλησις ; rétrécisse ment
+<p><orth>Arctation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arctatio</foreign>, <foreign xml:lang="lat">arctitudo</foreign>,
+<lb/><foreign xml:lang="grc">ξυμπίλησις</foreign>, <foreign xml:lang="grc">συμπίλησις</foreign> ; rétrécisse ment
 <lb/>d’un orifice ou d’un conduit organique.</p>
 
 <p>| COnstipation. | Infibulation.</p>
@@ -11414,7 +11413,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ardeur</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ardor</foreign>, κ.αῦμα ; sentiment
+<p><orth>Ardeur</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ardor</foreign>, <foreign xml:lang="grc">καῦμα</foreign> ; sentiment
 <lb/>de brûlure, d’une vive chaleur.—<hi>Ardeur
 <lb/>d’urine</hi>, cuisson brûlante causée par l’urine
 <lb/>lorsqu’elle passe sur la membrane
@@ -11446,13 +11445,13 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Arëfaction</orth>, S. L', <hi>arefaetio</hi>, ξήρανσις ;
+<p><orth>Aréfaction</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arefactio</foreign>, <foreign xml:lang="grc">ξήρανσις</foreign> ;
 <lb/>de.ssiccal ion, action de dCSSécher ; opération
 <lb/>île pharmacie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arénation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arenatia</foreign> ; Operation
+<p><orth>Arénation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arenatio</foreign> ; Operation
 <lb/>qui cOnsiste à couvrir tout ou partie du
 <lb/>corps avec du Sable chaud.</p>
 </entryFree>
@@ -11469,7 +11468,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Aréotique</orth>, <gram>adj.</gram> et S., <hi>araeoticus</hi> (ἀραιόω,
+<p><orth>Aréotique</orth>, <gram>adj.</gram> et <gram>s.</gram>, <foreign xml:lang="lat">araeoticus</foreign> (ἀραιόω,
 <lb/>je raréfie) ; médicament que l’on croyait
 <lb/>avoir la propriété de raréfier les lmmeurs.</p>
 </entryFree>
@@ -11491,21 +11490,21 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Arête</orth>, <hi>arista</hi>. On appelle ainsi la pointe
+<p><orth>Arête</orth>, <foreign xml:lang="lat">arista</foreign>. On appelle ainsi la pointe
 <lb/>raide, et souvent tordue à Sa base, qui
 <lb/>naît sur les écailles florales de certains
 <lb/>genres de graminées, comme dans l’avoine
 <lb/>et le froment.</p>
 
-<p><term>Arête</term>  ou <hi>queue de rat</hi> ; nom donné à
+<p><term>Arête</term>  ou <term>queue de rat</term> ; nom donné à
 <lb/>des croûtes dures, écailleuses, qui vIennent
 <lb/>aux plis du genou et du jarret du
 <lb/>cheval.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Argema</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">argema</foreign>, <foreign xml:lang="lat">dpyipa</foreign>, <foreign xml:lang="grc">αρ-</foreign>
-<lb/>γεμον (ἀργὸς, blanc) ; petit ulcère du
+<p><orth>Argema</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">argema</foreign>, <foreign xml:lang="grc">ἄργεμα</foreign>, <foreign xml:lang="grc">ἄργεμον</foreign>
+<lb/>(ἀργὸς, blanc) ; petit ulcère du
 <lb/>cercle de l’iris, partie blanc, partie
 <lb/>rouge ou noir, qui a eté décrit par HIppocrate.</p>
 </entryFree>
@@ -11515,7 +11514,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Argémone</orth>, s. In., <hi>argemone nlexicana</hi>,
+  <p><orth>Argémone</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">argemone mexicana</foreign>,
 <lb/>L. ; famille des papavéracées, polvandrie
 <lb/>monogynie. Plante annuelle qui,
 <lb/>du Mexique sa patrie, s’est introduite
@@ -11537,8 +11536,8 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Argent</orth>, <gram>s. m.</gram>, <hi>argentant, άίργυρος,
-<lb/>ipyopirjv</hi> (ἀργὸς, blanc) ; métal SOlide,
+<p><orth>Argent</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">argentum</foreign>, <foreign xml:lang="grc">ἄργυρος</foreign>,
+<lb/><foreign xml:lang="grc">ἀργύριον</foreign> (ἀργὸς, blanc) ; métal SOlide,
 <lb/>d’un blanc éclatant, insipide, inodore,
 <lb/>hés-SOnore, très – malléable, très-duclile,
 <lb/>peu dur, cristallisable en pyramides
@@ -11557,8 +11556,8 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Argile</orth> ou <orth>Argille</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">argitla</foreign>, <foreign xml:lang="lat">Ôtp-</foreign>
-<lb/>γιλος, ἄργιλλος (ἀργὸς, blanc) ; melange
+<p><orth>Argile</orth> ou <orth>Argille</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">argilla</foreign>, <foreign xml:lang="grc">ἄργιλος</foreign>
+<lb/><foreign xml:lang="grc">ἄργιλλος</foreign> (ἀργὸς, blanc) ; melange
 <lb/>d’alumine et de silice qu’on trouve abondamment
 <lb/>dans la nature, mais qui contient
 <lb/>presque toujours du carbonate de
@@ -11576,7 +11575,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Aryrogonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">argyrogonia</foreign>, ἀργυρογονία
+<p><orth>Aryrogonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">argyrogonia</foreign>, <foreign xml:lang="grc">ἀργυρογονία</foreign>
 <lb/>(ἄργυρος, argent, γόνος, semence)
 <lb/> ; nom donné par quelques alchimistes
 <lb/>à la pierre philosophale, à la
@@ -11584,7 +11583,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Argyropée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">argyropaea</foreign>, <foreign xml:lang="lat">ipyopo-</foreign>
+<p><orth>Argyropée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">argyropaea</foreign>, <foreign xml:lang="lat">ἀργυροποία</foreign>
 <lb/>ποία (ἄργυρος, argent, ποίεω, je fais) ; art
 <lb/>de faire de l’argent : Synonyme d’â/chi-
 <lb/><hi>mie</hi>.</p>
@@ -11592,7 +11591,7 @@ long-temps que le cachou était retiré
 
 <entryFree>
 <p><orth>Arheumatique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arheumaticus</foreign>,
-<lb/>ἀρευμάτιάIβς (a priv., ῥεῦμα, fluxion) ; qui
+<lb/><foreign xml:lang="grc">ἀρευμάστιστος</foreign> (a priv., ῥεῦμα, fluxion) ; qui
 <lb/>n’a point encore eu de fluxion ou de rhumatisme.</p>
 </entryFree>
 
@@ -11609,7 +11608,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Arhythme</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arhythmus</foreign>, ἀῥυθμὸς
+<p><orth>Arhythme</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arhythmus</foreign>, <foreign xml:lang="grc">ἀῥυθμὸς</foreign>
 </p>
 <pb n="59" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0069/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=69"/>
 
@@ -11618,19 +11617,19 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Aride</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">oridus</foreign>, ξηρὸς, καρφαλέὸς,
-<lb/>κατάξηρος ; sec. – <hi>LOngue, peau
+<p><orth>Aride</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aridus</foreign>, <foreign xml:lang="grc">ξηρὸς</foreign>, <foreign xml:lang="grc">καρφαλέος</foreign>,
+<lb/><foreign xml:lang="grc">κατάξηρος</foreign> ; sec. – <hi>LOngue, peau
 <lb/>aride</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aridité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ariditas</foreign>, ξηρασία ; Sècberesse
+<p><orth>Aridité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ariditas</foreign>, <foreign xml:lang="grc">ξηρασία</foreign> ; Sècberesse
 <lb/>de la langue, de la gorge, des
 <lb/>lèvres, de la peau, des cheveux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arille</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arillus</foreign>, γίγαρτον ; prolongement
+  <p><orth>Arille</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arillus</foreign>, <foreign xml:lang="grc">γίγαρτον</foreign> ; prolongement
 <lb/>particulier du trophosperme
 <lb/>ou SUpport de la graine, qu’il recouvre
 <lb/>dans une étendue plus OU moins considérable,
@@ -11652,12 +11651,12 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Ariste</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aristatus</foreign> ; s’emploie pour
+<p><orth>Aristé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aristatus</foreign> ; s’emploie pour
 <lb/>les parties munies d’une arête.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aristoloche</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aristoloehia</foreign> (<hi>ίρισΊος</hi>,
+<p><orth>Aristoloche</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aristolochia</foreign> (<hi>ίρισΊος</hi>,
 <lb/>bon, λοχεία, lochie, aCeouchcment) ;
 <lb/>famille des ai istolochiées, gynandrie
 <lb/>hexandrie. Plusieurs especes SOnt cmployées
@@ -11670,7 +11669,7 @@ long-temps que le cachou était retiré
 <lb/>Celles de l’aristoloche serpentaire
 <lb/><hi/>(<hi>aristoloehia serpentaria)</hi>, connue
 <lb/>.sous le nom de <hi>serpentaire de VIrginie</hi>,
-<lb/>SOnt fort employées. <hi>VOy</hi>. SERPENTAIRE
+<lb/>SOnt fort employées. <hi>VOy</hi>. <ref>SERPENTAIRE</ref>
 <lb/><hi>de VIrginie</hi>. Enfin quelques auteurs ont
 <lb/>cherché dans la racine de raristoloche
 <lb/>clématite <hi/>(<hi>aristoloehia elematitis</hi>), une
@@ -11679,7 +11678,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Aristoloches</orth> ou <orth>Aristolochiées</orth>, <hi>aristolochiae</hi> ;
+<p><orth>Aristoloches</orth> ou <orth>Aristolochiées</orth>, <foreign xml:lang="lat">aristolochiae</foreign> ;
 <lb/>famille de plantes – dicotylédones
 <lb/>apétales, ayant les étamines épigynes.
 <lb/>Ce petit groupe, qui se compose
@@ -11695,7 +11694,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Aristolochique</orth>, <gram>adj.</gram> et s, m., <hi>arîstolo-</hi></p>
+<p><orth>Aristolochique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">aristolochicus</foreign></p>
 
 <p><term>chicus</term>(άριστος, bon, λοχεία, couches) ;
 <lb/>remède propre à faire couler les lochies.</p>
@@ -11717,7 +11716,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Armer</orth>, v. a., <hi>protegere</hi> ; se dit d’un
+<p><orth>Armer</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">protegere</foreign> ; se dit d’un
 <lb/>cheval qui baisse la tête, courbe l’encolure,
 <lb/>appuie le.s branches de la bride
 <lb/>contre le poitrail, et empêche par-là
@@ -11728,7 +11727,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Armoise</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arlemisia vulgaris</foreign>, L.;
+<p><orth>Armoise</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">artemisia vulgaris</foreign>, L.;
 <lb/>plante vivace, de la famille naturelle des
 <lb/>corymbifèIes et de la syngenésie polygamie
 <lb/>superflue, qui doit communément
@@ -11740,7 +11739,7 @@ long-temps que le cachou était retiré
 <lb/>celles de l’absinthe, quoiqu’elles SOient
 <lb/>rnoin.s énergiques. Plusieurs autres espèces
 <lb/>du genre <hi>armoise</hi> SOnt employécs
-<lb/>en médecine, !. AURONE, ESTRAGON, SRSIEN
+<lb/>en médecine, !. <ref>AURONE</ref>, <ref>ESTRAGON</ref>, <ref>SEMEN CONTRA</ref>
 <lb/>CONTRA.</p>
 </entryFree>
 
@@ -11770,7 +11769,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Aroïdes</orth> ou <orth>Aroïdées</orth>, <hi>aroideae</hi> ; famille
+<p><orth>Aroïdes</orth> ou <orth>Aroïdées</orth>, <foreign xml:lang="lat">aroideae</foreign> ; famille
 <lb/>de plantes monocotylédones, dont
 <lb/>les étamines SOnt hypogynes. Elle ne
 <lb/>renferme pas de médicamens bien énergiques.
@@ -11787,7 +11786,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Aromate</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aroma</foreign>, ἀ'ρωμα ; drogue
+<p><orth>Aromate</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aroma</foreign>, <foreign xml:lang="grc">ἄρωμα</foreign> ; drogue
 <lb/>médicinale ou autre, tirée du règne
 <lb/>végétal, et qui exhale une odeur suave.</p>
 </entryFree>
@@ -11799,7 +11798,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arome</orth>, s. m,, <hi>aroma</hi> (ἄρωμα, parfum)
+  <p><orth>Arome</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aroma</foreign> (ἄρωμα, parfum)
 <lb/> ; matière odorante des plantes ;
 <lb/>émanation, SOUVent impondérable, des
 <lb/>corps, qui agit sur rorgane de l’odorat,
@@ -11816,8 +11815,8 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arrachement</orth>, S. m, <hi>avulsio, ahrupt’o</hi>,
-<lb/>ἀποσπασμα ; action de séparer une
+<p><orth>Arrachement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">avulsio</foreign>, <foreign xml:lang="lat">abruptio</foreign>,
+<lb/><foreign xml:lang="grc">ἀπόσπασμα</foreign> ; action de séparer une
 <lb/>partie du corps en rompant avec effort
 <lb/>les liens organiques qui l’unissent aux
 <lb/>autres. | MOde opératoire usité dans certaines
@@ -11839,13 +11838,13 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arrhcea</foreign>, ἄῤῥοια, ἄῤῥοιη
+<p><orth>Arrhée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arrhaea</foreign>, <foreign xml:lang="grc">ἄῤῥοια</foreign>, <foreign xml:lang="grc">ἄῤῥοιη</foreign>
 <lb/>(a priv., ῥέω, je coule) ; suppression d’un
 <lb/>écoulement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arrière-bouche</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">os postcrum</foreign> ;
+<p><orth>Arrière-bouche</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">os posterum</foreign> ;
 <lb/>nom vulgaire Ilu <hi>pharynx</hi>,</p>
 </entryFree>
 
@@ -11875,7 +11874,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arrow-roo</orth>. ; mots anglais adoptés en
+<p><orth>Arrow-root</orth>. ; mots anglais adoptés en
 <lb/>France pour désigner la fécule Ifu <hi>maranta
 <lb/>iudica</hi>, qui, de même que toutes
 <lb/>les fécules, est émolliente quand eile sc</p>
@@ -11902,30 +11901,30 @@ cée ; mais elle contient un suc âcre,
 <lb/>par la combinaison de l’acide arsenique
 <lb/>avec une base salifiahle.</p>
 
-<p><hi>Arséniate de protoxide de potassium,
-<lb/>proto-arséniatc de potassiutit, arsèni</hi>. <hi>te de
-<lb/>potasse, arsenias potasser</hi> ; sel incristal*
+<p><term>Arséniate de protoxide de potassium</term>,
+<lb/><term>proto-arséniate de potassium</term>, <term>arséniate de potasse</term>
+<lb/>, arsenias potasser ; sel incristal*
 <lb/>lisable, vénéneux, lnusite,</p>
 
-<p><hi>Arséniate acide de protoxide de potas
-<lb/>sium, sur-proto arséniate de potassium,
-<lb/>s'.r-arst'niate de potasse,, arséniate acide
-<lb/>de potasse</hi> ; sel cristalli.sable en prismes à
+<p><term>Arséniate acide de protoxide de potassium</term>
+<lb/>, <term>sur-proto arséniate de potassium</term>,
+<lb/><term>sur-arséniate de potasse</term>,<term>arséniate acide de potasse</term>
+<lb/> sel cristalli.sable en prismes à
 <lb/>quatre pans, terminés par des pyrami – des
 <lb/>à quatre faces, très-soluble dans
 <lb/>l’eau, plus à chaud qu’à froid, irritant,
 <lb/>corIOSIf, fébrifuge.</p>
 
-<p><hi>Arsrniate de prctoxide de sodium, protoarséniate
-<lb/>de sodium, arséniate de soude,
-<lb/>arsenias sodae</hi> ; sel cristalli.sable en pIISmes
+<p><term>Arséniate de protoxide de sodium</term>, <term>protoarséniate de sodium</term>
+<lb/>, <term>arséniate de soude</term>,
+<lb/>arsenias sodae ; sel cristalli.sable en pIISmes
 <lb/>hexaèdres réguliers, trias – soluble
 <lb/>dans l’eau, plus à chaud qu’à froid, vénéneux,
 <lb/>fébrifuge,</p>
 
-<p><hi>Arséniate acide de protoxide de sodium,
-<lb/>sur-proto-arséniate de sodium, sur-arsémate
-<lb/>de soude, arséniate acide de soude ;</hi>
+<p><term>Arséniate acide de protoxide de sodium</term>,
+<lb/><term>sur-proto-arséniate de sodium</term>, <term>sur-arséniate de soude</term>
+<lb/>, <term>arséniate acide de soude</term> ;
 <lb/>Sel incIT-lallisable, vénéneux.</p>
 </entryFree>
 
@@ -11968,7 +11967,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arsenical</orth>, adj-, <hi>arsenicalis</hi> ; qui se
+  <p><orth>Arsenical</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arsenicalis</foreign> ; qui se
 <lb/>rapporte à l’arsenic : <hi>odeur, préparation,
 <lb/>vapeur arsenicale, poison arsenical</hi>.</p>
 </entryFree>
@@ -11990,29 +11989,29 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arsénique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arsenicus</foreign> ; qui contient
+<p><orth>Arséniqué</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arsenicus</foreign> ; qui contient
 <lb/>de l’arsenic.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arsenite</orth>, s. rn., <hi>arsenis</hi> ; sel formé
+  <p><orth>Arsénite</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arsenis</foreign> ; sel formé
 <lb/>par la combinaison de racide arsenieux
 <lb/>avec une base salifiable.</p>
 
-<p><hi>Arsénite de protoxide de potassium,
-<lb/>proto – arsénite de potassium, arsénite de
-<lb/>potasse, arsenis potassae</hi> ; Sel incristallisable
+<p><term>Arsénite de protoxide de potassium</term>,
+<lb/><term>proto-arsénite de potassium</term>, <term>arsénite de potasse</term>
+<lb/>, arsenis potassae</hi> ; Sel incristallisable
 <lb/>et incolore, qui fait la base de la solution
 <lb/>minérale de FOwler.</p>
 
-<p><hi>Arsénite de deutoxide de cuivre, deutoarsénite
-<lb/>de cuivre, vert de Scheele, arsenis
-<lb/>cupri</hi> ; sel qui fournit une couleur
+<p><term>Arsénite de deutoxide de cuivre</term>, <term>deutoarsénite de cuivre</term>
+<lb/>, <term>vert de Scheele</term>, arsenis
+<lb/>cupri ; sel qui fournit une couleur
 <lb/>verte dans la peinture a l’huile.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Art  <hi>de guérir</hi></orth>, ars sanandi ; application
+  <p><orth>Art  <hi>de guérir</hi></orth>, <foreign xml:lang="lat">ars sanandi</foreign>; application
 <lb/>méthodique des préceptes des
 <lb/>grands maîtres et des leçons de rexpé
 <lb/>ricnce au traitement des maladics.</p>
