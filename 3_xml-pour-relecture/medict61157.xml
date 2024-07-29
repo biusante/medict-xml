@@ -820,7 +820,7 @@ nom
 
 <entryFree>
 <p><orth>Absus</orth>, espèce du genre casse, <foreign xml:lang="lat">cassia
-<lb/>absus</foreign></hi>, L., qui croît en Égypte et dans
+<lb/>absus</foreign>, L., qui croît en Égypte et dans
 <lb/>rlnde, et dont les graines pulvérrsées
 <lb/>et rnélées à du SUcre en poudre étaient
 <lb/>autrefois et SOnt encore employées, sous
@@ -907,7 +907,7 @@ thacées, qui croît dans différentcs parties
 </entryFree>
 
 <entryFree>
-  <p><orth>Acampsie</orth><gram>s. f.</gram> <hi><foreign xml:lang="lat">rigiditas articulorum</foreign></hi>
+  <p><orth>Acampsie</orth><gram>s. f.</gram> <foreign xml:lang="lat">rigiditas articulorum</foreign>
 <etym>(
 <lb/>a priv., κάμπτω, je plie)</etym> ; 
 soudure des
@@ -1027,7 +1027,7 @@ Cette expression s’applique aux
 </entryFree>
 
 <entryFree>
-  <p><orth>Accablement</orth><gram>s. m.</gram><hi><foreign xml:lang="lat">torpor</foreign></hi> ; sentiment
+  <p><orth>Accablement</orth><gram>s. m.</gram><foreign xml:lang="lat">torpor</foreign> ; sentiment
 <lb/>de faiblesse avec engourdissement.</p>
 </entryFree>
 
@@ -1099,18 +1099,18 @@ collection de phénomènes, de symptômes,
 <lb/>les diverses branches de l’histoire
 <lb/>naturelle, etc.</p>
 
-<p><hi><term>Accessoire du long fléchisseur commun
+<p><term>Accessoire du long fléchisseur commun
 <lb/>des orteils</term>, accessorius siexoris longi digitorum
 <lb/>pedis, earo quadrata Sylvii, caro
-<lb/>accessoria, plantaris verus</hi> ; petit muscle
+<lb/>accessoria, plantaris verus ; petit muscle
 <lb/>de la plante du pied, qui se porte obliquement
 <lb/>du calcanéum au bord externe
 <lb/>du long fléchisseur commun des orteils,
 <lb/>dont il augmente la force et corrige robliquité.</p>
 
-<p><hi><term>Accessoire du sacro-lombaire, transversaire
-<lb/>grêle, transversaire collatéral du cou</hi>,
-<lb/>ou <hi>de Winslow</term></hi> ; assemblage de faisceaux
+<p><term>Accessoire du sacro-lombaire, transversaire
+<lb/>grêle, transversaire collatéral du cou,
+<lb/>ou de Winslow</term> ; assemblage de faisceaux
 <lb/>charnus ou tendineux que certains anatomistes
 <lb/>ont isolés à tort du muscle <hi>sacro-lombaire</hi>,
 <lb/>dont il fait partie.</p>
@@ -8039,7 +8039,7 @@ dilatation
 </entryFree>
 
 <entryFree>
-<p><orth>Angine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angina</foreign>, συνάγχη, κυνάγχη
+<p><orth>Angine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angina</foreign>, <foreign xml:lang="grc">συνάγχη</foreign>, <foreign xml:lang="grc">κυνάγχη</foreign>
 <lb/><hi/>
 <etym>(<hi>angere</hi>, suffoquer)</etym> ; 
 inflammation
@@ -8063,7 +8063,7 @@ inflammation
 <lb/>de <hi>croup</hi> est la plus dangereuse.</p>
 
 <p><term>Angine externe</term> <hi>, angina externa</hi>. <hi>V</hi>.
-<lb/>OREILLONS.</p>
+<lb/><ref>OREILLONS</ref>.</p>
 
 <p><term>Angine gangréneuse</term> <hi>, angina gangraenosa</hi> ;
 <lb/>inflammation du pharynx, simple
@@ -8078,13 +8078,13 @@ inflammation
 <lb/>sujets disposés aux congestions lymphatiques.</p>
 
 <p><term>Angine maligne</term> <hi>, angina maligna</hi>. <hi>V</hi>.
-<lb/>ΑVοινε <hi>gangreneuse</hi>.</p>
+<lb/><ref>ANGINE</ref>gangréneuse.</p>
 
-<p><hi>Angine membraneuse, angina mcmbranacea.
-<lb/>V</hi>. CROUP.</p>
+<p><term>Angine membraneuse</term>, angina mcmbranacea.
+<lb/>. <ref>CROUP</ref>.</p>
 
 <p><term>Angine polypeuse</term> <hi>, angina polyposa</hi>. <hi>V</hi>.
-<lb/>CROUP.</p>
+<lb/><ref>CROUP</ref>.</p>
 
 <p><term>Angine sèche</term> <hi>, angina sicca</hi> ; inflammation
 <lb/>chronique du pharynx, avec Sentiment
@@ -8189,28 +8189,28 @@ qui provient
 </entryFree>
 
 <entryFree>
-<p><orth>Anglaiser</orth>, v. a., <hi>amputare</hi> ; opération
+  <p><orth>Anglaiser</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">amputare</foreign> ; opération
 <lb/>qui consiste à couper et à enlever
 <lb/>les muscles coccygiens du cheval, pour
 <lb/>lui faire porter la queue en trompe.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Angle</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">angulus</foreign>, <foreign xml:lang="grc">γωνίοί</foreign>, κάνθος ;
+  <p><orth>Angle</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">angulus</foreign>, <foreign xml:lang="grc">γωνία</foreign>, <foreign xml:lang="grc">κάνθος</foreign> ;
 <lb/>incidence' l’une SUr l’autre de deux lignes
 <lb/>droites ou courbes, qui lais.sent entre
 <lb/>elles un écartement plus ou moins considérable.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Angoisse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angor</foreign>, <foreign xml:lang="grc">άγωνία</foreign> ; Sentiment
+<p><orth>Angoisse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angor</foreign>, <foreign xml:lang="grc">ἀγωνία</foreign> ; Sentiment
 <lb/>presque indéfinissable de douleur
 <lb/>et de resSerrement à l’épigastre.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Angone</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angone</foreign>, <foreign xml:lang="lat">praefoeatio fau-</foreign>
-<lb/>ciurn ; sentiment de strangulation, avec
+<p><orth>Angone</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angone</foreign>, <foreign xml:lang="lat">praefocatio faucium</foreign>
+<lb/>sentiment de strangulation, avec
 <lb/>suffocation imminente, qui Se fait Sentir
 <lb/>plus communément chez les femmes
 <lb/>que chez les hommes.
@@ -8227,7 +8227,7 @@ qui provient
 </entryFree>
 
 <entryFree>
-<p><orth>Anguille</orth> <hi>électrique</hi>. V. <ref>GYMNOTE</ref>.</p>
+<p><orth>Anguille électrique</orth>. V. <ref>GYMNOTE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -8244,8 +8244,8 @@ qui provient
 <lb/>de la mâchoire inférieure dans les
 <lb/>oiseaux et lee reptiles.</p>
 
-<p><term>Angulaire de romoplate</term>, <gram>adj.</gram> et <gram>s. m.</gram>,
-<lb/><hi>angularis, levator seapulœ</hi> ; nom d’un
+<p><term>Angulaire de l'omoplate</term>, <gram>adj.</gram> et <gram>s. m.</gram>,
+<lb/><hi>angularis, levator scapulœ</hi> ; nom d’un
 <lb/>muscle qui s’étend du sommet des apcphyses
 <lb/>transverses des quatre dernières
 <lb/>vertébres cervicales à rangle interne et
@@ -8253,8 +8253,8 @@ qui provient
 </entryFree>
 
 <entryFree>
-<p><orth>Angustation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angustatio</foreign>. <hi>arctatio,
-<lb/>coarctatio, constrietio</hi>, άIενοχωρία ;
+<p><orth>Angustation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">angustatio</foreign>. <foreign xml:lang="lat">arctatio</foreign>,
+<lb/><foreign xml:lang="lat">coarctatio</foreign>, <foreign xml:lang="lat">constrictio</foreign>, <foreign xml:lang="grc">στενοχωρία</foreign> ;
 <lb/>rétrécissement, constrictiOn.</p>
 </entryFree>
 
@@ -8275,18 +8275,18 @@ qui provient
 <lb/>un peu aromatique. C’est un tonique
 <lb/>employé comme succédané du quinquina.</p>
 
-<p><term>Angusture ferrugineuse</term> <hi>, f'</hi>. EAUSsE <hi>angusture</hi>.</p>
+<p><term>Angusture ferrugineuse</term> <ref>FAUSSE angusture</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anhalt-schaumbourg</orth>, dans le pays de
+<p><orth>Anhalt-Schaumbourg</orth>, dans le pays de
 <lb/>Nassau, possède une source d’eau minérale
 <lb/>ferrugineuse acidulé froide.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anhaphie</orth>, s. l‘., <hi>tactus imminutus,
-<lb/>tactus abolitus</hi>
+<p><orth>Anhaphie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">tactus imminutus</foreign>,
+<lb/><foreign xml:lang="lat">tactus abolitus</foreign>
 <etym>(a priv., ἀφὴ, tact)</etym> ; 
 diminution
 <lb/>ou privatIOn absolue du tact.</p>
@@ -8331,7 +8331,7 @@ mode particulier de la respiration,
 </entryFree>
 
 <entryFree>
-<p><orth>Anidrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anidrosis</foreign>, ἀνίδρωσις
+<p><orth>Anidrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anidrosis</foreign>, <foreign xml:lang="grc">ἀνίδρωσις</foreign>
 <lb/>
 <etym>(a priv., ἱδρόω, je sue)</etym> ; 
 diminution ou
@@ -8339,7 +8339,7 @@ diminution ou
 </entryFree>
 
 <entryFree>
-<p><orth>Animal</orth>., <gram>s. m.</gram>, <foreign xml:lang="lat">animal</foreign>, ζὤον <hi/>
+  <p><orth>Animal</orth>., <gram>s. m.</gram>, <foreign xml:lang="lat">animal</foreign>, <foreign xml:lang="grc">ζῶον</foreign> <hi/>
 <etym>(<hi>anima</hi>,
 <lb/>âme)</etym>. 
 En laissant de côté les animalcules
@@ -8419,8 +8419,8 @@ union de râme et du corps. On a
 </entryFree>
 
 <entryFree>
-<p><orth>Animer</orth>, v. a., <hi>excitare.—Animer un
-<lb/>cheval</hi>, c’est le réveiller, quand il ralentit
+  <p><orth>Animer</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">excitare</foreign>.—Animer un
+<lb/>cheval, c’est le réveiller, quand il ralentit
 <lb/>Ses mouvemens, au moyen de la langue ou
 <lb/>du sifflement de la gaule.</p>
 </entryFree>
@@ -8436,7 +8436,7 @@ union de râme et du corps. On a
 </entryFree>
 
 <entryFree>
-<p><orth>Anis</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">pimpinella auisum</foreign>, <foreign xml:lang="lat">L</foreign>. ;
+<p><orth>Anis</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">pimpinella anisum</foreign>, <foreign xml:lang="lat">L</foreign>. ;
 <lb/>petite plante annuelle de la famille des
 <lb/>omhelliferes et de la pentandrie digynie,
 <lb/>qui vient d’Egypte, mais qui s’est naturalisée
@@ -8455,7 +8455,7 @@ union de râme et du corps. On a
 </entryFree>
 
 <entryFree>
-<p><orth>Anisotaque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anisotachys</foreign>, ἀνισοταχὺς
+<p><orth>Anisotaque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anisotachys</foreign>, <foreign xml:lang="grc">ἀνισοταχὺς</foreign>
 <lb/><hi/>
 <etym>(<hi>a</hi> priv., ἴσος, pareil, ταχὺς, vite)</etym> ;
 
@@ -8464,7 +8464,7 @@ union de râme et du corps. On a
 </entryFree>
 
 <entryFree>
-<p><orth>Ankyloblépharon</orth>, <gram>s. m.</gram>, ἀγκυλοβλέφαρον
+  <p><orth>Ankyloblépharon</orth>, <gram>s. m.</gram>, <foreign xml:lang="grc">ἀγκυλοβλέφαρον</foreign>
 <lb/>
 <etym>(ἀγκύλος, resserré, βλέφαρον, paupière)</etym>
 
@@ -8474,8 +8474,8 @@ union de râme et du corps. On a
 </entryFree>
 
 <entryFree>
-<p><orth>Ankyloglosse</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anhyloglossum</foreign>,
-<lb/>ἀγκυζ?ογλωσσον
+<p><orth>Ankyloglosse</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ankyloglossum</foreign>,
+<lb/><foreign xml:lang="grc">ἀγκυλόγλωσσον</foreign>
 <etym>(ἀγκύλος, courbé, γλὤσσα,
 <lb/>langue)</etym> ; 
 gêne dans les mouvemens de la
@@ -8485,7 +8485,7 @@ gêne dans les mouvemens de la
 </entryFree>
 
 <entryFree>
-<p><orth>Ankylomèle</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ancylomcle</foreign>, ἀγκυλομήλη
+  <p><orth>Ankylomèle</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ancylomcle</foreign>, <foreign xml:lang="grc">ἀγκυλομήλη</foreign>
 <lb/>
 <etym>(ἀγκύλος, courbé, μήλη, sonde)</etym> ;
 
@@ -8493,7 +8493,7 @@ gêne dans les mouvemens de la
 </entryFree>
 
 <entryFree>
-<p><orth>Ankylomérisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anhylomerismus</foreign>
+<p><orth>Ankylomérisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ankylomerismus</foreign>
 <lb/>
 <etym>(ἀγκύλος, resserrement, ρήρος, partie)</etym>
 
@@ -8506,7 +8506,7 @@ gêne dans les mouvemens de la
 </entryFree>
 
 <entryFree>
-<p><orth>Ankylose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anhylosis</foreign>, ἀγχύλωσις
+  <p><orth>Ankylose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ankylosis</foreign>, <foreign xml:lang="grc">ἀγχύλωσις</foreign>
 <lb/>
 <etym>(ἀγκύλος, courbé)</etym> ; 
 état d’une articulation
@@ -8523,7 +8523,7 @@ gêne dans les mouvemens de la
 </entryFree>
 
 <entryFree>
-<p><orth>Ankylotome</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ancylotomus</foreign>, ἀγκυλότομος
+<p><orth>Ankylotome</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ancylotomus</foreign>, <foreign xml:lang="grc">ἀγκυλότομος</foreign>
 <lb/>
 <etym>(ἀγκύλος, courbe, τέμνω, je
 <lb/>coupe)</etym> ; 
@@ -8538,8 +8538,8 @@ couteau ou bistouri courbe.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anneau</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">annulas</foreign>, δακτυλίδιον,
-<lb/>κρίκος ; arceau melallique ou de toute autre
+<p><orth>Anneau</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">annulus</foreign>, <foreign xml:lang="grc">δακτυλίδιον</foreign>,
+<lb/><foreign xml:lang="lat">κρίκος</foreign> ; arceau melallique ou de toute autre
 <lb/>substance qu’on porte au doigt. | OUVetture
 <lb/>plus OU moins circulaire qui traveree
 <lb/>quelque partie du corps : <hi>anneau
@@ -8554,7 +8554,7 @@ couteau ou bistouri courbe.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anneler</orth>, v. a., <hi>intorquere annulas';</hi>
+<p><orth>Anneler</orth>, <gram>v. a.</gram>,<foreign xml:lang="lat">intorquere annulos</foreign>
 <lb/>mettre des anneaux au grouin des porcs
 <lb/>pour les empêcher de fouiller la terre,
 <lb/>ou à la vulve des jumens pour qu’elles
@@ -8578,7 +8578,7 @@ couteau ou bistouri courbe.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Annuel</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">annuus.ctn</foreign> appelle <hi>plante
+<p><orth>Annuel</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">annuus</foreign> appelle <hi>plante
 <lb/>annuelle</hi>, celle qui ne vit pas au delà
 <lb/>d’une année ; semée au printemps, la
 <lb/>graine de cettc plante acquiert tout son
@@ -8604,7 +8604,7 @@ couteau ou bistouri courbe.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Annuler</orth>, v. a., <hi>abrogare</hi> ; abolir les
+<p><orth>Annuler</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">abrogare</foreign> ; abolir les
 <lb/>conditions de la vente d’un animal.</p>
 </entryFree>
 
@@ -8619,12 +8619,12 @@ On donne ce nom aux narcotiques en général
 </entryFree>
 
 <entryFree>
-<p><orth>Anodynie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">indolentia</foreign>, ἀνωδυνία ;
+<p><orth>Anodynie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">indolentia</foreign>, <foreign xml:lang="grc">ἀνωδυνία</foreign> ;
 <lb/>cessation ou absence de la douleur.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anoie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">amcntia</foreign>, <foreign xml:lang="lat">acjota</foreign>
+<p><orth>Anoie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">amentia</foreign>, <foreign xml:lang="grc">ἀνοέα</foreign>
 <etym>(a pr., νοος,
 <lb/>esprit)</etym> ; 
 démence, imbécillité, idiotisme.</p>
@@ -8650,7 +8650,7 @@ qui fait exception, inégal,
 <lb/>actuelle du mot, qui a été détourné
 <lb/>de sa signification étymologique.</p>
 
-<p>| <term>Anomal</term>  se dit en botanique de toutes
+<p>| Anomal  se dit en botanique de toutes
 <lb/>les parties qui ont SUbi quelque transformation
 <lb/>insolite, laquelle change entièrement
 <lb/>leur nature. TOUrnefort appeait
@@ -8671,7 +8671,7 @@ nom
 </entryFree>
 
 <entryFree>
-<p><orth>Anomalie</orth>, S. I‘., <hi>anomalia</hi>, ἀνωμαλία
+  <p><orth>Anomalie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anomalia</foreign>, <foreign xml:lang="grc">ἀνωμαλία</foreign>
 <lb/>
 <etym>(a priv., ὀμαλὸς, égal)</etym> ; 
 inégalité, irrégularité,
@@ -8696,7 +8696,7 @@ nom générique sous
 
 <entryFree>
 <p><orth>Anomphale</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anomphalus</foreign>,
-<lb/>ἀνόμφαλος
+<lb/><foreign xml:lang="grc">ἀνόμφαλος</foreign>
 <etym>(a priv., ὀμφαλὸς, nombril)</etym> ;
 
 <lb/>qui n’a point d’ombilic. On a prétendu
@@ -8706,7 +8706,7 @@ nom générique sous
 </entryFree>
 
 <entryFree>
-<p><orth>Anones</orth> ou <orth>Anonacées</orth>, <hi>anonaceae</hi> ; famille
+<p><orth>Anones</orth> ou <orth>Anonacées</orth>, <foreign xml:lang="lat">anonaceae</foreign> ; famille
 <lb/>de plantes dieotylédones polypétales,
 <lb/>dont les étaminCS sont hypogynes.
 <lb/>Elle ne fournit aucun médicament employé
@@ -8724,7 +8724,7 @@ qui n’a point de testicules.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anorexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorexia</foreign>, ἀνόρεξία
+<p><orth>Anorexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorexia</foreign>, <foreign xml:lang="grc">ἀνόρεξία</foreign>
 <lb/>
 <etym>(a priv., όρεξις, appétit)</etym> ; 
 diminution ou
@@ -8732,7 +8732,7 @@ diminution ou
 </entryFree>
 
 <entryFree>
-<p><orth>Anorganogésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorganogenia</foreign>
+<p><orth>Anorganogéνie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorganogenia</foreign>
 <etym>(
 <lb/>a priv., <hi>opyavov</hi>, organe, γίνομαι, j’engendre)</etym>
 
@@ -8748,7 +8748,7 @@ description des corps inorganiques.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ànorganologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorganologia</foreign>
+<p><orth>Αnorganologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorganologia</foreign>
 <etym>(
 <lb/>apr., ὀ'ργανον, organe, λέγω, j’enseigne)</etym> ;
 
@@ -8775,7 +8775,7 @@ irrégulier, qui n’est pas
 </entryFree>
 
 <entryFree>
-<p><orth>Anosie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anosia</foreign>, ἀνοσία
+<p><orth>Anosie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anosia</foreign>, <foreign xml:lang="grc">ἀνοσία</foreign>
 <etym>(a pr.,
 <lb/>νόσος, maladie)</etym> ; 
 Santé.</p>
@@ -8789,7 +8789,7 @@ diminution ou abolition de l’odorat.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anosphrésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">odoratus defcctus</foreign>
+<p><orth>Anosphrésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">odoratus defectus</foreign>
 <etym>(
 <lb/>a priv., ὀσφρησις, odorat)</etym> ; 
 diminution
@@ -8797,7 +8797,7 @@ diminution
 </entryFree>
 
 <entryFree>
-<p><orth>Ânse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ansa</foreign> ; épithète donnée à
+<p><orth>Anse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ansa</foreign> ; épithète donnée à
 <lb/>toute partie recourbée sur elle-même,
 <lb/>connu esont les intestins, certaines anastomoses
 <lb/>nerveuses, etc. | <hi>Anse de sil ;</hi>
@@ -8806,7 +8806,7 @@ diminution
 </entryFree>
 
 <entryFree>
-<p><orth>Anserine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ehenopodium</foreign> – genre
+<p><orth>Anserine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">chenopodium</foreign> – genre
 <lb/>de la famille naturelle des chénopodées
 <lb/>et de la pentandrie digynie, dont plusieurs
 <lb/>espèces indigènes et exotiques sont employées
@@ -8859,7 +8859,7 @@ nent en lavemcns ou SOUs forme de fomentations.
 
 <entryFree>
 <p><orth>Antagoniste</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antagonista</foreign>,
-<lb/>ἀνταγωνιστὴς
+<lb/><foreign xml:lang="grc">ἀνταγωνιστὴς</foreign>
 <etym>(ἀντὶ, contre, ἀγωνίζω, j’agis)</etym>
 
 <lb/> ; nom sous lequel on désigne un
@@ -8874,15 +8874,15 @@ nent en lavemcns ou SOUs forme de fomentations.
 </entryFree>
 
 <entryFree>
-<p><orth>Antaphrodisiaque</orth>. <hi>VOy</hi>. Α.ΝΤΙ-ΑΡΠΒΟϋΙSIAQUE.</p>
+<p><orth>Antaphrodisiaque</orth>. <hi>VOy</hi><ref>ANTI-APHRODISIAQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Antaphroditique</orth>. <hi>VOy</hi>. ΛVΤΙ – APHRODITIQUE.</p>
+<p><orth>Antaphroditique</orth>. <hi>VOy</hi>. <ref>ANTI-APHRODITIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Antapodose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antapodosis</foreign>, ἀνταπόδοσις
+<p><orth>Antapodose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antapodosis</foreign>, <foreign xml:lang="grc">ἀνταπόδοσις</foreign>
 <lb/>
 <etym>(<hi>ἀνταποδίδωμι</hi>, je rends en échange)</etym>
 
@@ -8890,11 +8890,11 @@ nent en lavemcns ou SOUs forme de fomentations.
 </entryFree>
 
 <entryFree>
-<p><orth>Antapoplectique</orth>. <hi>VOy</hi>. ΛVΤΙ – APOPLECTIQUE.</p>
+<p><orth>Antapoplectique</orth>. <hi>VOy</hi>. <ref>ANTI-APOPLECTIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Antarthritique</orth>. <hi>VOy</hi>. ΑVϊΙ – ARTHRITIQUE.</p>
+<p><orth>Antarthritique</orth>. <hi>VOy</hi>. <ref>ANTI-ARTHRITIQUE</ref></p>
 </entryFree>
 
 <entryFree>
@@ -8906,7 +8906,7 @@ nent en lavemcns ou SOUs forme de fomentations.
 </entryFree>
 
 <entryFree>
-<p><orth>Antémédiaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anternediarius</foreign>.
+<p><orth>Antémédiaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">antemediarius</foreign>.
 <lb/>MIrbel donne le nom de <hi>sépales antemediaires</hi>
 <lb/>a ceux qui sont opposés aux pelales.</p>
 </entryFree>
@@ -8916,7 +8916,7 @@ nent en lavemcns ou SOUs forme de fomentations.
 </entryFree>
 
 <entryFree>
-<p><orth>Antéphialtique</orth>. <hi>VOy</hi>. ΛVΤΙ – ÉPHIALTIQUE.</p>
+<p><orth>Antéphialtique</orth>. <hi>VOy</hi>. <ref>ANTI-ÉPHIALTIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -8930,7 +8930,7 @@ mot barroque employé pour
 </entryFree>
 
 <entryFree>
-<p><orth>Antèversion</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anterersio</foreign>
+<p><orth>Antéversion</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anteversio</foreign>
 <etym>(<hi>antè</hi>,
 <lb/>devant, <hi>vertcre</hi>, tourner)</etym> ; 
 déplacement
@@ -8954,11 +8954,11 @@ déplacement
 </entryFree>
 
 <entryFree>
-<p><orth>Anthectique</orth>. V. <ref>ANTI HECTIQUE</ref>.</p>
+<p><orth>Anthectique</orth>. V. <ref>ANTI-HECTIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anthélix</orth>, s. m,., <hi>anthelix</hi>. ἀνθέλιξ
+  <p><orth>Anthélix</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anthelix</foreign>. <foreign xml:lang="grc">ἀνθέλιξ</foreign>
 <etym>(ἀντὶ,
 <lb/>devant, ΛIξ, limaçon)</etym> ; 
 éminence du
@@ -8982,12 +8982,12 @@ qui
 </entryFree>
 
 <entryFree>
-<p><orth>Anthéral</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anthcralis</foreign> ; qui appartient
+<p><orth>Anthéral</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">antheralis</foreign> ; qui appartient
 <lb/>aux anthères.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anthère</orth>, s. <hi>L.anthera</hi>, ἀνθηρὰ
+<p><orth>Anthère</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthera</foreign>, <foreign xml:lang="grc">ἀνθηρὰ</foreign>
 <etym>(ἀνθηρὸς,
 <lb/>fleuri)</etym> ; 
 partie essentielle de l’étamine,
@@ -9022,13 +9022,13 @@ nom donné par
 </entryFree>
 
 <entryFree>
-<p><orth>Anthère</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthesis</foreign>, ἀνθήσις ; fforaison
+  <p><orth>Anthèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthesis</foreign>, <foreign xml:lang="grc">ἀνθήσις</foreign> ; fforaison
 <lb/> : ensernble des phénomènes qui accompagnent
 <lb/>répanouissemeIIt des fleuI.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anthologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthologia</foreign>, ἀνθολογία
+  <p><orth>Anthologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthologia</foreign>, <foreign xml:lang="grc">ἀνθολογία</foreign>
 <lb/>
 <etym>(ἀίνθος, fleur, λόγος, discoure, ou λέγω.
 
@@ -9063,7 +9063,7 @@ nom donné
 </entryFree>
 
 <entryFree>
-<p><orth>Anthracite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthracites</foreign>, ἀνθρακὶτης
+<p><orth>Anthracite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthracites</foreign>, <foreign xml:lang="grc">ἀνθρακὶτης</foreign>
 <lb/> ; minéral assez voisin du charbon de
 <lb/>terre, dont il diffère parce qu’il ne contient
 <lb/>guère que du carbone pur, mêlé
@@ -9072,7 +9072,7 @@ nom donné
 </entryFree>
 
 <entryFree>
-<p><orth>Anthracode</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anthraeodes</foreign>
+<p><orth>Anthracode</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anthracodes</foreign>
 <etym>(ἄνθραξ,
 <lb/>charbon)</etym> ; 
 noir comme du charbon ;
@@ -9091,7 +9091,7 @@ noir comme du charbon ;
 </entryFree>
 
 <entryFree>
-<p><orth>Anthracose</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anthracosis</foreign>, <foreign xml:lang="grc">άνθριχ-</foreign>
+<p><orth>Anthracose</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anthracosis</foreign>, <foreign xml:lang="grc">ἀνθράκωσις</foreign>
 <lb/>κωσις
 <etym>(ἄνθραξ, charbon)</etym> ; 
 charbon qui attaque
@@ -9099,8 +9099,8 @@ charbon qui attaque
 </entryFree>
 
 <entryFree>
-<p><orth>Ànthrax</orth>. V. <ref>CHARBON</ref>, JAVART, CLOU,
-<lb/>FURONCLE.</p>
+<p><orth>Anthrax</orth>. V. <ref>CHARBON</ref>, <ref>JAVART</ref>, <ref>CLOU</ref>,
+<lb/><ref>FURONCLE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -9126,7 +9126,7 @@ médecine des
 </entryFree>
 
 <entryFree>
-<p><orth>Anthropogénie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antltropogenia</foreign>
+<p><orth>Anthropogénie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthropogenia</foreign>
 <etym>(
 <lb/>ἄνθρωπος, homme, γεννάω, j’engendre)</etym> ;
 
@@ -9151,8 +9151,8 @@ ture et le mode d’action des Organes,
 </entryFree>
 
 <entryFree>
-<p><orth>Anthropologie</orth>, <gram>s. f.</gram>, <hi>anthropologia,
-<lb/>anthropologium</hi>
+<p><orth>Anthropologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthropologia</foreign>,
+<lb/><foreign xml:lang="lat">anthropologium</foreign>
 <etym>(ἄνθρωπος, homme, λόγος,
 <lb/>discours)</etym> ; 
 ensemble des connaissances
@@ -9183,8 +9183,8 @@ nom donné par Spindler au
 </entryFree>
 
 <entryFree>
-<p><orth>Anthropométrie</orth>, <gram>s. f.</gram>, <hi>anthropometria,
-<lb/>άνθρωπο/ΛIτρίοί</hi>
+<p><orth>Anthropométrie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthropometria</foreign>,
+<lb/><foreign xml:lang="grc">ἀνθρωπομετρία</foreign>
 <etym>(ἄνθρωπος, homme, μέτρον,
 <lb/>mesure)</etym> ; 
 art de calculer et de déterminer
@@ -9193,7 +9193,7 @@ art de calculer et de déterminer
 </entryFree>
 
 <entryFree>
-<p><orth>Ânthropomorphologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthropomorphologia</foreign>
+<p><orth>Anthropomorphologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthropomorphologia</foreign>
 <lb/>_
 <etym>(ἄνθρωπος, homme, <hi>ρ-οργη</hi>,
 <lb/>forme, λόγος, discours)</etym> ;. 
@@ -9203,7 +9203,7 @@ science de la
 </entryFree>
 
 <entryFree>
-<p><orth>Anthroponomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antliroponomia</foreign>
+<p><orth>Anthroponomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthroponomia</foreign>
 <etym>(
 <lb/>ἄνθρωπος, homme, νόμος, règle)</etym> ; 
 connaissance
@@ -9231,7 +9231,7 @@ qui
 </entryFree>
 
 <entryFree>
-<p><orth>Anthroposomatologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthroposomatoloiqia</foreign>
+<p><orth>Anthroposomatologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthroposomatologia</foreign>
 <lb/>
 <etym>(ἄνθρωπος, homme, σὤμα,
 <lb/>corps, λόγος, discours)</etym> ; 
@@ -9240,8 +9240,8 @@ description du
 </entryFree>
 
 <entryFree>
-<p><orth>Anthroposophie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthroposopltia</foreign>,
-<lb/>ἀνθρωποσοφία
+<p><orth>Anthroposophie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthroposophia</foreign>,
+<lb/><foreign xml:lang="grc">ἀνθρωποσοφία</foreign>
 <etym>(ἄνθρωπος, homme, σοφία,
 <lb/>connaissance)</etym> ; 
 Science ou connaissance
@@ -9259,8 +9259,8 @@ Science ou connaissance
 </entryFree>
 
 <entryFree>
-<p><orth>Anthypnotique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anthypnotions</foreign>,
-<lb/>ἀνθυπνοτικὸς
+<p><orth>Anthypnotique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anthypnoticus</foreign>,
+<lb/><foreign xml:lang="grc">ἀνθυπνοτικὸς</foreign>
 <etym>(ἀντὶ, contre, ὕπνος,
 <lb/>sommeil)</etym> ; 
 qui empêche de dormir.
@@ -9270,7 +9270,7 @@ qui empêche de dormir.
 
 <entryFree>
 <p><orth>Anthypochondriaque</orth>, <gram>adj.</gram> et <gram>s. m.</gram>,
-<lb/><hi>anthypochondriacus</hi>
+<lb/><foreign xml:lang="lat">anthypochondriacus</foreign>
 <etym>(ἀντὶ, contre, ὑποχονδριακὸς,
 <lb/>hypochondriaque)</etym> ; 
 propIe à
@@ -9312,7 +9312,7 @@ qui fait cesser rappétit vénérien.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-apoplectique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiapopleeticus</foreign>
+<p><orth>Anti-apoplectique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiapoplecticus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, ἀποπληξία,
 <lb/>apoplexie)</etym> ; 
@@ -9330,7 +9330,7 @@ utile dans le traitement de
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-asthmatique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiasthmalicus</foreign>
+<p><orth>Anti-asthmatique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiasthmaticus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, ἀσθμα, asthme)</etym> ;
 
@@ -9347,20 +9347,20 @@ remède contre l’atrophie.</p>
 
 <entryFree>
 <p><orth>Anti-ballomène</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anti-ballomenus</foreign>,
-<lb/>ἀντιβαλλομενὸς
+<lb/><foreign xml:lang="grc">ἀντιβαλλομενὸς</foreign>
 <etym>(ἀντιβάλλω, je substitue)</etym> ;
 
 <lb/>succédané.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Antibrachial</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">antibraelÙalis</foreign> !
+<p><orth>Antibrachial</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">antibrachialis</foreign> !
 <lb/>qui a rapport à ravant-bras. <hi>Extrémité
 <lb/>antibrachiatc de l’humérus</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-cachectique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticachccticus</foreign>
+<p><orth>Anti-cachectique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticachecticus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, καχεξία, çachexie)</etym>
 
@@ -9368,7 +9368,7 @@ remède contre l’atrophie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-cacochymique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticaeochymicus</foreign>
+<p><orth>Anti-cacochymique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticacochymicus</foreign>
 <lb/>
 <etym>(ἀντι, contre, κακοχυμια,
 <lb/>cacochymie)</etym> ; 
@@ -9377,7 +9377,7 @@ propre à combattre la
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-cancéreux</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticar.cerosus</foreign>
+<p><orth>Anti-cancéreux</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticancerosus</foreign>
 <lb/>
 <etym>(ἀντὶ, contie, <hi>cancer</hi>, cancer)</etym> ;
 
@@ -9385,15 +9385,15 @@ propre à combattre la
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-carcinomateux</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>anticardnosus
-<lb/></hi>
+  <p><orth>Anti-carcinomateux</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticarcinosus</foreign>
+<lb/>
 <etym>(ἀντὶ, contre, καρκίνωμα,
 <lb/>cancer)</etym> ; 
 propre à combattre le carcinome.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anticarde</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anticardium</foreign>, ἀντικάρδιον
+<p><orth>Anticarde</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anticardium</foreign>, <foreign xml:lang="grc">ἀντικάρδιον</foreign>
 <lb/>
 <etym>(ἀντὶ, devant, καρδία, Cœur)</etym> ;
 
@@ -9401,7 +9401,7 @@ propre à combattre le carcinome.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-catarrhal</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticatorrhalis</foreign>
+<p><orth>Anti-catarrhal</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anticatarrhalis</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, κατάῤῥος, ça-
 tarrhe)</etym> ; 
@@ -9439,20 +9439,20 @@ remède contre la diarrhée.</p>
 
 <entryFree>
 <p><orth>Anti-dinique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antidinicus</foreign>,
-<lb/>αντιδινικὸς
+<lb/><foreign xml:lang="grc">ἀντιδινικὸς</foreign>
 <etym>(ἀντὶ, contre, δἵνος, vertige)</etym> ;
 
 <lb/>remède contre le vertige.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Antidotaire</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antidotarium</foreign>, ἀντιδοτάριον
+  <p><orth>Antidotaire</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antidotarium</foreign>, <foreign xml:lang="grc">ἀντιδοτάριον</foreign>
 <lb/> ; recueil d’antidotes.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Antidote</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antidatas</foreign>, <foreign xml:lang="lat">antidotum</foreign>,
-<lb/>ἀντίδοτος
+<p><orth>Antidote</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antidotus</foreign>, <foreign xml:lang="lat">antidotum</foreign>,
+<lb/><foreign xml:lang="grc">ἀντίδοτος</foreign>
 <etym>(ἀντὶ. contre, <hi>δίδωμι</hi>, je
 <lb/>donne)</etym> ; 
 médicament administré dans la
@@ -9477,7 +9477,7 @@ remède contre
 </entryFree>
 
 <entryFree>
-<p><orth>Anti éphialtique</orth>, <gram>adj.</gram> et S. ιη., <hi>antiephialtieus</hi>
+  <p><orth>Anti-éphialtique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiephialticus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, ἐφιάλτης, cauchemar)</etym>
 
@@ -9485,7 +9485,7 @@ remède contre
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-émétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antemetiens</foreign>
+<p><orth>Anti-émétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antemeticus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, ἐμετικὸς, émétique)</etym> ;
 
@@ -9493,8 +9493,8 @@ remède contre
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-épileptique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>ante.
-<lb/>pilepticus</hi>
+  <p><orth>Anti-épileptique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antepilepticus</foreign>
+<lb/>
 <etym>(ἀντὶ, contre, ἐπιληψία, épilepsie)</etym>
 
 <lb/> ; remède contre l’épilepsie.</p>
@@ -9509,8 +9509,8 @@ remède
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-galactique</orth>, <gram>adj.</gram> et S. ni., <hi>antiga.
-<lb/>lacticus</hi>
+  <p><orth>Anti-galactique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antigalacticus</foreign>
+<lb/>
 <etym>(ἀντὲ, contre, γάλα, lait)</etym> ; 
 remède
 <lb/>contre la Sécrétion du lait.</p>
@@ -9525,7 +9525,7 @@ remède
 </entryFree>
 
 <entryFree>
-<p><orth>Anti hectique</orth>, <gram>adj.</gram> et<gram>s. m.</gram>, <foreign xml:lang="lat">anti-hectieus</foreign>
+<p><orth>Anti-hectique</orth>, <gram>adj.</gram> et<gram>s. m.</gram>, <foreign xml:lang="lat">anti-hecticus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, ἕξις, habitude)</etym> ; 
 remède
@@ -9533,15 +9533,15 @@ remède
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-hémorrhoïdal</orth>, <gram>adj.</gram> et s. m,, <hi>antihemorrhoidalis
-<lb/></hi>
+  <p><orth>Anti-hémorrhoïdal</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antihemorrhoidalis</foreign>
+<lb/>
 <etym>(ἀντὶ, contre, αἱμοῤῥἀίδες,
 <lb/>hémorrhmdes)</etym> ; 
 remède contre les bemorrboïdes.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-herpétique</orth>, <gram>adj.</gram> et s. In., <hi>antiherpeticus</hi>
+  <p><orth>Anti-herpétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiherpeticus</foreign>
 <etym>(ἀντὶ, contre, ἕρπης, dartre)</etym> ;
 
 <lb/>remède contre les dartres.</p>
@@ -9557,24 +9557,23 @@ remède contre l’hydrophobie
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-hydropique</orth>, <gram>adj.</gram> et S. m-.<hi>antihydropicus
-<lb/></hi>
+<p><orth>Anti-hydropique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>.<foreign xml:lang="lat">antihydropicus</foreign>
+<lb/>
 <etym>(ἀντὶ, contre, ὕδωρ, hydropisie)</etym>
 
 <lb/> ; remède contre, rhydropisie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-hypnotique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>anttrhypnoticus
-<lb/></hi>
+  <p><orth>Anti-hypnotique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-hypnoticus</foreign>
 <etym>(ἀντὶ, contre, ὕπνος, sommeil)</etym> ;
 
 <lb/>remède contre l’assoupissement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-hypochondriaque</orth>, <gram>adj.</gram> et s. In.,
-<lb/><hi>anti-hvpocondriaeus</hi>
+<p><orth>Anti-hypochondriaque</orth>, <gram>adj.</gram> et <gram>s. m.</gram>,
+<lb/><foreign xml:lang="lat">anti-hypocondriacus</foreign>
 <etym>(ἀντὶ, contre, υποχονδριακὸς,
 <lb/>hypocondriaque)</etym> ; 
 remède
@@ -9582,15 +9581,15 @@ remède
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-hystérique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>antihystericus
-<lb/></hi>
+  <p><orth>Anti-hystérique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antihystericus</foreign>
+<lb/>
 <etym>(ἀντὶ, contre, ὑστέρα, matrice)</etym>
 
 <lb/> ; remède contre l’hystérie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-ictérique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>anthieterieus
+<p><orth>Anti-ictérique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-ictericus</foreign>
 <lb/></hi>
 <etym>(ἀντὶ, contre, ἴκτερος, jaunisse)</etym> ;
 
@@ -9606,7 +9605,7 @@ remède contre
 </entryFree>
 
 <entryFree>
-<p><orth>Antilobe</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antilobium</foreign>, ἀντιλοβων
+  <p><orth>Antilobe</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antilobium</foreign>, <foreign xml:lang="grc">ἀντιλόβων</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, <hi>λοβὸς</hi>, lobe)</etym> ; 
 nom
@@ -9615,7 +9614,7 @@ nom
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-loïmique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-loimicas</foreign>
+<p><orth>Anti-loïmique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-loimicus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, λοιμὸς, peste)</etym> ; 
 remède
@@ -9672,7 +9671,7 @@ remede contre la mélancolie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Antimonite</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antimonis ; ' se</foreign>[
+<p><orth>Antimonite</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antimonis</foreign>
 <lb/>formé par la combinaison de racide anthnonieux
 <lb/>avec une base salifiable.</p>
 </entryFree>
@@ -9705,8 +9704,8 @@ remede contre la mélancolie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti néphrétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antinephreticus</foreign>,
-<lb/>ἀντινεφριτικὸς
+<p><orth>Anti-néphrétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antinephreticus</foreign>,
+<lb/><foreign xml:lang="grc">ἀντινεφριτικὸς</foreign>
 <etym>(ἀντὶ, contre,
 <lb/>νέφρος, rein)</etym> ; 
 remède contre la colique
@@ -9715,7 +9714,7 @@ remède contre la colique
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-odontalgique</orth>, <gram>adj.</gram> ct <gram>s. m.</gram>, <foreign xml:lang="lat">antiodontalgieus</foreign>
+<p><orth>Anti-odontalgique</orth>, <gram>adj.</gram> ct <gram>s. m.</gram>, <foreign xml:lang="lat">antiodontalgicus</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, ὀδύν, dent,,
 <lb/>ἄλγος, douleur)</etym> ; 
@@ -9724,8 +9723,8 @@ remède contre le mal
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-orgastique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>antiorgasticus
-<lb/></hi>
+  <p><orth>Anti-orgastique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiorgasticus</foreign>
+<lb/>
 <etym>(ἀντὶ, contre, ὀργάω, je désire
 <lb/>ardemment)</etym> ; 
 remède contre l’orgasme,
@@ -9733,8 +9732,8 @@ remède contre l’orgasme,
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-paralytique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiparalylieus</foreign>,
-<lb/>ἀντιπαραλυτικὸς,,
+<p><orth>Anti-paralytique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiparalyticus</foreign>,
+<lb/><foreign xml:lang="grc">ἀντιπαραλυτικὸς</foreign>,,
 <etym>(ἀντὶ, contre,
 <lb/>παραλύω, je relâche)</etym> ; 
 remède contre
@@ -9742,7 +9741,7 @@ remède contre
 </entryFree>
 
 <entryFree>
-<p><orth>Antipathie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antipathia</foreign>, ἀντιπάθια
+<p><orth>Antipathie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antipathia</foreign>, <foreign xml:lang="grc">ἀντιπάθια</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, πάθος, passion)</etym> ;
 
@@ -9750,13 +9749,13 @@ remède contre
 </entryFree>
 
 <entryFree>
-<p><orth>Antipathique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">antipathieus</foreign> ; opposé,
+<p><orth>Antipathique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">antipathicus</foreign> ; opposé,
 <lb/>contraire, qui répugne ; relatif
 <lb/>à l’antipathie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-pestilentiel</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antipestilentialLS</foreign>
+<p><orth>Anti-pestilentiel</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antipestilentialis</foreign>
 <lb/>
 <etym>(ἀντὶ, contre, <hi>pestis</hi>, peste)</etym> ;
 
@@ -9765,7 +9764,7 @@ remède contre
 
 <entryFree>
 <p><orth>Anti-pharmaque</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antipharmacus</foreign>,
-<lb/>ἀντιφάρμακος
+<lb/><foreign xml:lang="grc">ἀντιφάρμακος</foreign>
 <etym>(ἀντὶ, contre,
 <lb/>φάρμακον, poison)</etym> ; 
 contre-poison ; reméde
@@ -9781,30 +9780,30 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-phthisique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-</foreign>
+<p><orth>Anti-phthisique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiphthisicus</foreign>
 </p>
 <pb n="50" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0060/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=60"/>
 
-<p><term>phthisicus</term>(ἀντὶ, contre, φθίσις, phthisie)
+<p>(ἀντὶ, contre, φθίσις, phthisie)
 <lb/> ; remède contre la phthisie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-physique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anti-physicus</foreign>, <foreign xml:lang="lat">àv-</foreign>
-<lb/>τιφυσικὸς (ἀντὶ, contre, φυσέω, je souffle) ;
+<p><orth>Anti-physique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">anti-physicus</foreign>, <foreign xml:lang="grc">ἀντιφυσικὸς</foreign>
+<lb/>(ἀντὶ, contre, φυσέω, je souffle) ;
 <lb/>remède contre les vents. | COntre nature
 <lb/>(ἀντὶ, contre, φύσις, nature.)</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-pleurétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>antipleureticus
-<lb/></hi>(ἀντὶ, contre, πλευρὰ, plèvre) ;
+  <p><orth>Anti-pleurétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antipleureticus</foreign>
+<lb/>(ἀντὶ, contre, πλευρὰ, plèvre) ;
 <lb/>remède contre la pleurésie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-podagrique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-podagrieus</foreign>,
-<lb/>ἀντιποδαγρικὸς (ἀντὶ, contre,
+<p><orth>Anti-podagrique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-podagricus</foreign>,
+<lb/><foreign xml:lang="grc">ἀντιποδαγρικὸς</foreign> (ἀντὶ, contre,
 <lb/>ποδάγρα, goutte) ; remède contre la
 <lb/>goutte.</p>
 </entryFree>
@@ -9819,7 +9818,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-psorique</orth>, <gram>adj.</gram> et S. In., <hi>auti-psoricus</hi>
+<p><orth>Anti-psorique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-psoricus</foreign>
 <lb/>(ἀντὶ, contre, ψώρα, gale) ; remède
 <lb/>COntre la gale.</p>
 </entryFree>
@@ -9831,37 +9830,37 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-pyique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti pyicus</foreign>(
+<p><orth>Anti-pyique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-pyicus</foreign>(
 <lb/>ἀντὶ, contre, πύον, pus) ; reméde propre
 <lb/>à prévenir OU diminuer la SUppuration.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-pyrétique</orth>, <gram>adj.</gram> et s. In., <hi>anti-pyretiens</hi>
+<p><orth>Anti-pyrétique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-pyreticus</foreign>
 <lb/>(ἀντὶ, contre, πυρετὸς, fièvre) ;
 <lb/>remède contre la fièvre.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti pyrotique</orth>, <gram>adj.</gram> et S – m-, <hi>anti-pyroticus</hi>
+<p><orth>Anti-pyrotique</orth>, <gram>adj.</gram> et<gram>s. m.</gram>, <foreign xml:lang="lat">anti-pyroticus</foreign>
 <lb/>(ἀντὶ, contre, πῦρ, feu) ; remède
 <lb/>contre la brulùre.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-quartanaire</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiquartanaruis</foreign>
+<p><orth>Anti-quartanaire</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiquartanarius</foreign>
 <lb/>(ἀντὶ, contre, <hi>quartana</hi>,
 <lb/>quarte) ; remède contre la fièvre quarte.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-rachitique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>antiracldticus
-<lb/></hi>(ἀντὶ, contre, ῥάχις, épine du
+  <p><orth>Anti-rachitique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antirachiticus</foreign>
+<lb/>(ἀντὶ, contre, ῥάχις, épine du
 <lb/>dos) ; remède contre le rachitisme.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti scolique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-scolieus</foreign>
+<p><orth>Anti-scolique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-scolicus</foreign>
 <lb/>(ἀντὶ, contre, σκώληξ, ver) ; remède
 <lb/>contre les vers.</p>
 </entryFree>
@@ -9883,7 +9882,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-septique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-septieus</foreign>
+<p><orth>Anti-septique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-septicus</foreign>
 <lb/>(ἀντὶ, contre, σηπτὸς, pourri) ; re.
 <lb/>mede contre la putridité, ou qui S’oppose
 <lb/>à la putrefaction.</p>
@@ -9895,42 +9894,42 @@ contre-poison ; reméde
 
 
 <entryFree>
-<p><orth>Antispase</orth>, S. <hi>i'., antispasis</hi> (ἀντὶ, contre,
+  <p><orth>Antispase</orth>, <gram>s. f.</gram><foreign xml:lang="lat">antispasis</foreign> (ἀντὶ, contre,
 <lb/>σπάσις, traction) ; révulsion.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-spasmodique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-spasmoditus</foreign> 
+<p><orth>Anti-spasmodique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-spasmodicus</foreign> 
 <cb/> (ἀντὶ, contre, σπάω, je resserre)
 <lb/> ; remède contre le Spasme.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti spastique</orth>, <gram>adj.</gram> et<gram>s. m.</gram>, <foreign xml:lang="lat">anli-spasFIcus</foreign>
+<p><orth>Anti-spastique</orth>, <gram>adj.</gram> et<gram>s. m.</gram>, <foreign xml:lang="lat">anti-spasticus</foreign>
 <lb/>(ἀντὶ, contre, σπάσις, traction) ;
 <lb/>révulsif.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-sterigme</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anti sterigma</foreign>, <foreign xml:lang="lat">iv-</foreign>
+<p><orth>Anti-stérigme</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anti-sterigma</foreign>, <foreign xml:lang="grc">ἀντιστήριγμα</foreign>
 <lb/>τιστήριγμα (ἀντὶ, contre, στήριγμα, appui) ;
 <lb/>béquille.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti sternum</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anti-sternum</foreign>, ἀντίάτερνον
+<p><orth>Anti-sternum</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anti-sternum</foreign>, <foreign xml:lang="grc">ἀντίστερνον</foreign>
 <lb/>(ἀντὶ, contre, στέρνον, Sternum)
 <lb/> ; dos.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-syphilitique</orth>, <gram>adj.</gram> et<gram>s. m.</gram>, <foreign xml:lang="lat">anH-syphiliticus</foreign>
+<p><orth>Anti-syphilitique</orth>, <gram>adj.</gram> et<gram>s. m.</gram>, <foreign xml:lang="lat">anti-syphiliticus</foreign>
 <lb/>(ἀντὶ, contre, <hi>syphilis</hi>, vérole) ;
 <lb/>remède contre les maux vénériens.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-thenar</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anti-theuar</foreign>, <foreign xml:lang="grc">ίντί-</foreign>
+<p><orth>Anti-thénar</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anti-thenar</foreign>, <foreign xml:lang="grc">ἀντίθέναρ</foreign>
 <lb/>θεναρ (ἀντὶ, A is à-vis, θεὸαρ, thénar) ; nom
 <lb/>donné par WInslow à une portion de
 <lb/>l’adducteur et du court fléchl'sseur du
@@ -9938,7 +9937,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-tragus</orth>, s. m-, <hi>anti-tragus</hi>, ἀντίτραγος
+<p><orth>Anti-tragus</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anti-tragus</foreign>, <foreign xml:lang="grc">ἀντίτραγος</foreign>
 <lb/>(ἀντὶ, vis-à-vis, τράγος, bouc) ; éminenee
 <lb/>conique du pavillon de l’oreille,
 <lb/>qui est située en face et un peu en dessous
@@ -9954,13 +9953,13 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-vénérien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-ixnereus</foreign>
+<p><orth>Anti-vénérien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-venereus</foreign>
 <lb/>(ἀντὶ, contre, I <hi>enus)</hi> ; remède contre
 <lb/>les maux vénériens.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-vermiculaire</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antirerminosus</foreign>
+<p><orth>Anti-vermiculaire</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">antiverminosus</foreign>
 <lb/>(ἀντὶ, contre, <hi>vermis</hi>, ver) ;
 <lb/>remède contre les vers.</p>
 </entryFree>
@@ -9988,7 +9987,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Antodontalgique</orth>. <hi>VOy</hi>. ANTI-UIDONTALGIQUE.</p>
+<p><orth>Antodontalgique</orth>. <hi>VOy</hi>. <ref>ANTI-ODONTALGIQUE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -9996,18 +9995,18 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Antre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aentrum</foreign> ; caverne, çavité
+<p><orth>Antre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">antrum</foreign> ; caverne, çavité
 <lb/>qui pénétre profondément dans la
 <lb/>SUbstance d’un os.</p>
 
-<p><term>Antred’Hyghmorc</term> <hi>, antrum llyghnwri:</hi>
+<p><term>Antre d’Hyghmore</term> <hi>, antrum llyghnwri:</hi>
 <lb/>cavité profonde creusée dans la substance
 <lb/>de l’os maxillaire SUpérieur.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anus</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anus</foreign>, <foreign xml:lang="lat">podex</foreign>, ἀρκὸς, δακνύριον,
-<lb/>ἔδρα, κύσσαλος, κυσὸς ; ouverture
+<p><orth>Anus</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anus</foreign>, <foreign xml:lang="lat">podex</foreign>, <foreign xml:lang="grc">ἀρκὸς</foreign>, <foreign xml:lang="grc">δακτύριον</foreign>,
+<lb/><foreign xml:lang="lat">ἔδρα</foreign>, <foreign xml:lang="grc">κύσσαλος</foreign>, <foreign xml:lang="grc">κυσὸς</foreign> ; ouverture
 <lb/>circulaire, située à l’extrémité inférieure
 <lb/>du rectum, et par laquelle les résidus
 <lb/>des alimens sont expulsés.
@@ -10022,13 +10021,13 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apagma</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apagma</foreign>, ἄπαγμα (ἀπὸ,
+<p><orth>Apagma</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apagma</foreign>, <foreign xml:lang="grc">ἄπαγμα</foreign> (ἀπὸ,
 <lb/>loin de, άγω, je blase) ; écartement des
 <lb/>fragmens d’un os fracturé.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apalachine</orth>, s. rn. On désigne sous ce
+<p><orth>Apalachine</orth>, <gram>s. m.</gram> On désigne sous ce
 <lb/>nom les feuilles de plusieurs arbrisseaux
 <lb/>qui croissent tous dans les monts Apalaches
 <lb/>en Amérique septentrionale, et que
@@ -10040,13 +10039,13 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apallage</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">apallage</foreign>, ἀπαλλαγὴ
+<p><orth>Apallage</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">apallage</foreign>, <foreign xml:lang="grc">ἀπαλλαγὴ</foreign>
 <lb/>(ἀπαλλάσσω, je change) ; passage de la
 <lb/>maladie à la santé.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apanthropie</orth>, s. I., ἀπανθρωπία (a pr.,
+<p><orth>Apanthropie</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀπανθρωπία</foreign> (a pr.,
 <lb/>άνθρωπος, homme) ; haine des hommes,
 <lb/>penchant à s’éloigner des villes, à fuir
 <lb/>dans des lieux inhabités, à vivre dans
@@ -10058,14 +10057,14 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apathie</orth>, S. f’., <hi>apalhia</hi>, ἀπάθεια (a pr.,
+<p><orth>Apathie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apathia</foreign>, <foreign xml:lang="grc">ἀπάθεια</foreign> (a pr.,
 <lb/>πάθος, affection) ; insensibilité, suspension
 <lb/>des facultés affectives, indifférence
 <lb/>profonde.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apathique</orth>, adj-, <hi>apathicus</hi> ; qui est
+<p><orth>Apathique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">apathicus</foreign> ; qui est
 <lb/>dans l’apathie, qui est peu SUsceptible
 <lb/>d’émolio,. | <hi>Animaux apathiques</hi>, ceux,
 <lb/>suivant Lamarck, qui n’ont en eux mêmes
@@ -10075,12 +10074,12 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apéchème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apeehema</foreign>, ἀπήχημα
+<p><orth>Apéchème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apechema</foreign>, <foreign xml:lang="grc">ἀπήχημα</foreign>
 <lb/>(ἀπὸ, loin, ηχος,.son) ; contre-coup.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apelle</orth>, S. In, <hi>ape</hi>. <hi>Ua</hi>, λειπόδεμος <hi/>(<hi>a</hi> pr.,
+<p><orth>Apelle</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apella</foreign>, <foreign xml:lang="grc">λειπόδεμος</foreign> <hi/>(<hi>a</hi> pr.,
 <lb/><hi>pelles</hi>, peau) ; état du prépuce dans lequel
 <lb/>il est trop court pour couvrir le
 <lb/>gland, selon LInné et VOgeL Rétraction
@@ -10089,13 +10088,13 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apepsia</foreign>, ἀπεψία (a pr.,
+<p><orth>Apepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apepsia</foreign>, <foreign xml:lang="grc">ἀπεψία</foreign> (a pr.,
 <lb/>πέψις, coction) ; defaut de digestion, indigestion,
 <lb/>digestion difficile.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apérianthacé</orth>, <hi>aperianthaceus</hi> ; M
+<p><orth>Apérianthacé</orth>, <foreign xml:lang="lat">aperianthaceus</foreign> ; M
 <lb/>lie ! appelle ainsi une section de la famille
 <lb/>des fougères, qui comprend les cycadées.</p>
 </entryFree>
@@ -10107,15 +10106,15 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apéritif</orth>, <gram>adj.</gram> et S, m., <hi>aperitirus,
-<lb/>aperieus</hi> (<hi>aperire</hi>, ouvrir) ; remé le qui <hi>a</hi>
+<p><orth>Apéritif</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">aperitivus</foreign>,
+<lb/><foreign xml:lang="lat">aperiens</foreign></hi> (<hi>aperire</hi>, ouvrir) ; remé le qui <hi>a</hi>
 <lb/>la propriété d’ouvrir les couloirs de l’économie,
 <lb/>qui SOllicite les Sécrétions et les
 <lb/>exciétions.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apétalé</orth>, ou mieux <ref>APÉTALÉ</ref>, <hi>apetalus</hi></p>
+  <p><orth>Apétalé</orth>, ou mieux <orth>Apétale</orth>, <foreign xml:lang="lat">apetalus</foreign></p>
 
 <p><term>Anus artificiel</term> ; issue qu’on pratique aux
 <lb/>matières fécales, dans les cas d’imperforation
@@ -10163,12 +10162,12 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anxis</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">eonstrictio</foreign> (ἄνξις, étranglement)
+<p><orth>Anxis</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">constrictio</foreign> (ἄνξις, étranglement)
 <lb/> ; constriction, Selon SVvediaur.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aochlésie</orth>,,. f., <hi>aochlcsia</hi> (a priv.,
+  <p><orth>Aochlésie</orth>,<gram>s. f.</gram>, <foreign xml:lang="lat">aochlesia</foreign> (a priv.,
 <lb/>ὀ'χλος, trouble) ; calme, rémission.</p>
 </entryFree>
 
@@ -10187,7 +10186,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aortique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aortieus</foreign> ; qui appartient
+<p><orth>Aortique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aorticus</foreign> ; qui appartient
 <lb/>ou qui naît de l’aorte ; <hi>ventricule
 <lb/>aortiqux, oreillette aortique, artères aortiques</hi>
 <lb/>ou intercostales, <hi>ouverture aortique</hi>
@@ -10213,19 +10212,19 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aphepsème</orth>, <hi>s</hi>. m., <hi>decoctum</hi> (ἀφέψω,
+  <p><orth>Aphepsème</orth>, <gram>s. m.</gram> <foreign xml:lang="lat">decoctum</foreign> (ἀφέψω,
 <lb/>je fais bopillir) ; Ulecoction.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphérèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphaerea is</foreign>. ἀφαίρεσις
+<p><orth>Aphérèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphaeresis</foreign>. <foreign xml:lang="grc">ἀφαίρεσις</foreign>
 <lb/>(ἀφαιοεώ, je retranche) ; opération par
 <lb/>laquelle On retranche quelque chose du
 <lb/>corps.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphesis</foreign>, ἄφεσις (ἀφίημι,
+<p><orth>Aphésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphesis</foreign>, <foreign xml:lang="grc">ἄφησις</foreign> (ἀφίημι,
 <lb/>je relâche) ; rémission dans une maladie.</p>
 
 <p>| Prostration.</p>
@@ -10233,19 +10232,19 @@ contre-poison ; reméde
 
 <entryFree>
 <p><orth>Aphilanthropie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphilanthropia</foreign>,
-<lb/>ἀφιλανθρωπία <hi/>(<hi>a</hi> priv., φιλέω, aimer, ἄνθρωπος,
+<lb/><foreign xml:lang="grc">ἀφιλανθρωπία</foreign> <hi/>(<hi>a</hi> priv., φιλέω, aimer, ἄνθρωπος,
 <lb/>homme) ; ennui du commerce
 <lb/>des hommes ; amour de la solitude.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphonia</foreign>, <foreign xml:lang="grc">άφωνίχ</foreign> (apr.,
+<p><orth>Aphonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphonia</foreign>, <foreign xml:lang="grc">ἀφωνία</foreign> (apr.,
 <lb/>φωνὴ, voix) ; privation de la voix, extinction
 <lb/>de voix.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphorisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aphorismus</foreign>, <foreign xml:lang="grc">άφορισμὸς</foreign>
+<p><orth>Aphorisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aphorismus</foreign>, <foreign xml:lang="grc">ἀφορισμὸς</foreign>
 <lb/>(<hi>ἀφορίζω</hi>, je Sépare) ; sentence ou
 <lb/>maxime générale énoncée en peu de
 <lb/>mots.</p>
@@ -10258,39 +10257,39 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aphrode</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aphrodcs</foreign>, <foreign xml:lang="lat">atpptasr,-</foreign>(
+<p><orth>Aphrode</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aphrodes</foreign>, <foreign xml:lang="grc">ἀφρωδὴς</foreign>(
 <lb/>ἀφρός, écume) ; écumeux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphrodisiaque</orth>, <gram>adj.</gram> ets.m. (Α'φροδίτη,
+<p><orth>Aphrodisiaque</orth>, <gram>adj.</gram> et <gram>s. m.</gram>. (Α'φροδίτη,
 <lb/>vénu.s) ; remède qui porte aux plaisirs de
 <lb/>l’amour.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphrodisiasme</orth>, S. In., <hi>aphrodisiasmus</hi>,
-<lb/>ἀφροδισιασμὸς (Αφροδίτη, vénus) ; acte vénérien,
+<p><orth>Aphrodisiasme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aphrodisiasmus</foreign>,
+<lb/><foreign xml:lang="grc">ἀφροδισιασμὸς</foreign> (Αφροδίτη, vénus) ; acte vénérien,
 <lb/>copulation, cohabitation, coït.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphrodisie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">aphrodisia</foreign>, ἀφροδίσια
+<p><orth>Aphrodisie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">aphrodisia</foreign>, <foreign xml:lang="grc">ἀφροδίσια</foreign>
 <lb/>(Λ'φρ.δίτη, vénus) ; âge de la puberté.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphrogale</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ophrogala</foreign>. <hi>άφρό-</hi>
-<lb/>γαλα (ἀφρός, écume, γάλα, lait) ; lait battu
+  <p><orth>Aphrogale</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aphrogala</foreign>. <foreign xml:lang="grc">ἀφρόγαλα</foreign>
+<lb/>(ἀφρός, écume, γάλα, lait) ; lait battu
 <lb/>et réduit en mousse écumeuse.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphronitre</orth>. V. <ref>HALINITRE</ref>.</p>
+<p><orth>Aphronitre</orth>. V. <ref>HALONITRE</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aphrosyne</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphrosyne</foreign>, <foreign xml:lang="lat">à“ppoiT”JVe</foreign>)
+<p><orth>Aphrosyne</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphrosyne</foreign>, <foreign xml:lang="grc">ἀφροσύνη</foreign>)
 <lb/>(<hi>a</hi> priv., φρὴν, esprit) ; dérangement des
 <lb/>facultés intellectuelles, folie.</p>
 </entryFree>
@@ -10300,7 +10299,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aphthe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphtha</foreign>, ἄφθα ; petit
+<p><orth>Aphthe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphtha</foreign>, <foreign xml:lang="lat">ἅφθα</foreign> ; petit
 <lb/>ulcère blanchâtre et SUperficiel qi i se
 <lb/>forme SUr la membrane interne de la
 <lb/>bouche, et quelquefois du pharynx, de
@@ -10316,13 +10315,13 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apilepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apilcpsis</foreign> (ἀπὸ, SOUs,
+<p><orth>Apilepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apilepsis</foreign> (ἀπὸ, SOUs,
 <lb/>λαμβάνω, je.saisis) ; synonyme <hi>d’apoplexie</hi>.</p>
 </entryFree>
 
 <entryFree>
 <p><orth>Aplestie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">voracitas insaturabilis</foreign>,
-<lb/>ἀπληστία ; voracité insatiable.</p>
+<lb/><foreign xml:lang="grc">ἀπληστία</foreign> ; voracité insatiable.</p>
 </entryFree>
 
 <entryFree>
@@ -10332,7 +10331,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apnee</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apneae</foreign>, ἄπνοια (a priv.,
+<p><orth>Apnée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apneae</foreign>, <foreign xml:lang="grc">ἄπνοια</foreign> (a priv.,
 <lb/>πνέω, je respire) ; suspension de la respiration
 <lb/> ; Synonyme <hi>d’asphyxie</hi>, auquel
 <lb/>il doit être préféré, quoiqu’il soit moins
@@ -10358,7 +10357,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apocapnisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apocapnismus</foreign>, ἀποκαπνισμὸς
+<p><orth>Apocapnisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apocapnismus</foreign>, <foreign xml:lang="grc">ἀποκαπνισμὸς</foreign>
 <lb/>(ἀπὸ, contre, καπνὸς, fumée) ;
 <lb/>fumigation de vapeurs aromatiques, lorsqu’on
 <lb/>les aspire an moyen d’un entonnoir
@@ -10366,43 +10365,43 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apocenose</orth>, <gram>s. f.</gram>, ἀποκένωσις (ἀπὸ, dehors,
-<lb/>κένωσις, évacuation) ; nom donné
+<p><orth>Apocenose</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀποκένωσις</foreign> (ἀπὸ, dehors,
+<lb/>, évacuation) ; nom donné
 <lb/>par CUllen et Swediaur aux flux morbides.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apocope</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apocope</foreign>, ἀποκοπὴ (ἀπὸ,
+<p><orth>Apocope</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apocope</foreign>, <foreign xml:lang="grc">ἀποκοπὴ</foreign> (ἀπὸ,
 <lb/>de, κοπτω, je coupe) ; abscission.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apocrisie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apocrisis</foreign>, ἀπόκρισις
+<p><orth>Apocrisie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apocrisis</foreign>, <foreign xml:lang="grc">ἀπόκρισις</foreign>
 <lb/>(ἀπὸ, dehors, κρίσις, jugement) ; excrétion,
 <lb/>excrément.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apocroustique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apocrustiens</foreign>,
-<lb/>ἀποκρουστικὸς (ἀπὸ, dehors, κρούω,
+<p><orth>Apocroustique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apocrusticus</foreign>,
+<lb/><foreign xml:lang="grc">ἀποκρουστικὸς</foreign> (ἀπὸ, dehors, κρούω,
 <lb/>je pousse).</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apocyesie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apocyesis</foreign>, <foreign xml:lang="lat">ànoxorrriç</foreign>(
+<p><orth>Apocyésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apocyesis</foreign>, <foreign xml:lang="grc">ἀποκύησις</foreign>(
 <lb/>ἀπὸ, dehors, κυεω, j’engendre) ; accouchement,
 <lb/>parturition.</p>
 </entryFree>
 
 <entryFree>
 <p><orth>Apodacrytique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apodacryticus</foreign>,
-<lb/>ἀποδακρυτικὸς (ἀπὸ, de, δακρύω,
+<lb/><foreign xml:lang="lat">ἀποδακρυτικὸς</foreign> (ἀπὸ, de, δακρύω,
 <lb/>je pleure) ; remède pour faire couler 1rs
 <lb/>larmes d’abord, puis les arrêter.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apode</orth>, adj-, <hi>pede priratus</hi> (a priv.,
+<p><orth>Apode</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">pede privatus</foreign> (a priv.,
 <lb/>ποῦς, pied) ; qui n’a point de pied.</p>
 </entryFree>
 
@@ -10415,7 +10414,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apodytère</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apodytenum</foreign>, ἀποδυθήριον
+<p><orth>Apodytère</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apodyterium</foreign>, <foreign xml:lang="grc">ἀποδυθήριον</foreign>
 <lb/> ; local dans lequel les Grecs Se
 <lb/>dépouillaient de leurs vétemeus avant
 <lb/>d’entrer dans le bain.</p>
@@ -10427,24 +10426,24 @@ contre-poison ; reméde
 
 <pb n="53" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0063/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=63"/>
 
-ἀπογαλαήIισμὸς (ἀπὸ, de, γάλα., lait) ; sevrage,
+<foreign xml:lang="lat">ἀπογαλακτισμὸς</foreign> (ἀπὸ, de, γάλα., lait) ; sevrage,
 <lb/>ablactation.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apogeusie</orth>, s.'f., <hi>apogeusis</hi> (ἀπὸ priv.,
+<p><orth>Apogeusie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apogeusis</foreign> (ἀπὸ priv.,
 <lb/>γευομαι, je goûte) ; dérangement dans le
 <lb/>sens du goût.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apoglaucosie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apoglaueosis</foreign>, ἀπογλαύκωσις.
+  <p><orth>Apoglaucosie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apoglaucosis</foreign>, <foreign xml:lang="grc">ἀπογλαύκωσις</foreign>.
 <lb/>V. <ref>GLAUCOME</ref>.</p>
 </entryFree>
 
 <entryFree>
 <p><orth>Apogone</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">apogonus</foreign>,
-<lb/>ἀπόγονος ; fœtus viable.</p>
+<lb/><foreign xml:lang="grc">ἀπόγονος</foreign> ; fœtus viable.</p>
 </entryFree>
 
 <entryFree>
@@ -10459,17 +10458,17 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apolepsie</orth>, <hi>t</hi>. L, <hi>apolepsis</hi>, ἀπόληψις
+<p><orth>Apolepsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apolepsis</foreign>, <foreign xml:lang="grc">ἀπόληψις</foreign>
 <lb/>(ἀπολαμβάυω, je retiens) ; rétention, suppre.ssion.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apoplexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apolexis</foreign>, ἀπόληζις (ἀπολέγω,
+<p><orth>Apolexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">apolexis</foreign>, <foreign xml:lang="grc">ἀπόληξις</foreign> (ἀπολέγω,
 <lb/>je finie) ; vieillesse, décrépitude.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Apolinose</orth>, <gram>s. f.</gram>, ἀπόλινωσις (ἀπὸ, par,
+<p><orth>Apolinose</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀπόλινωσις</foreign> (ἀπὸ, par,
 <lb/>λίνον, fil de lin) ; méthode d’opérer la
 <lb/>fistule stercorale par le moyen d’une ligature
 <lb/>faite avec un fil de lin, qu’employait
@@ -10478,7 +10477,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apomagma</orth>, s. rn., ἀπόμαγμα(ἀπομάσσω,
+<p><orth>Apomagma</orth>, <gram>s. m.</gram>, <foreign xml:lang="grc">ἀπόμαγμα</foreign>(ἀπομάσσω,
 <lb/>je nettoie) ; qui est propre à essuyer.</p>
 </entryFree>
 
@@ -10495,12 +10494,12 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apone</orth>, <gram>adj.</gram> et subst., <hi>aponum</hi> (a priv.,
+  <p><orth>Apone</orth>, <gram>adj.</gram> et <gram>subst.</gram>, <foreign xml:lang="lat">aponum</foreign> (a priv.,
 <lb/>πονος, douleur) ; remède contre la douleur.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aponévrographie</orth> , <gram>s. f.</gram>, uponeUrographia
+  <p><orth>Aponévrographie</orth> , <gram>s. f.</gram>, <foreign xml:lang="lat">aponevrographia</foreign>
 <lb/>(ἀπονεύρωσις, aponévrose, γράφω, je décris)
 <lb/> ; description des aponévroses.</p>
 </entryFree>
