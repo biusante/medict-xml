@@ -332,7 +332,7 @@ rune des trois et la plue
 </p>
 <pb n="3" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0013/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=13"/>
 
-<p><hi><term>Abducteur (court) du pouce</term>, abductor
+<p><term>Abducteur (court) du pouce</term>, <hi>abductor
 <lb/>breids pollicis mao us</hi> ; muscle sous-cutané
 <lb/>(carpo – sue – phalangien du pouce,
 <lb/>Cb.) de l’éminence thénar, qui se porte
@@ -4320,7 +4320,7 @@ ton et y passer la mèche. | Stylet d’argent,
 <lb/>.</p>
 
 <p><term>Aiguille de Graefe</term>. V. <ref>Aiguille à cataracte</ref>,
-<lb/>etc</hi>.</p>
+<lb/><hi>etc</hi>.</p>
 
 <p><term>Aiguille de Hey</term>. V. <ref>Aiguille à cataracte</ref>.</p>
 
@@ -11968,8 +11968,8 @@ cée ; mais elle contient un suc âcre,
 
 <entryFree>
   <p><orth>Arsenical</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arsenicalis</foreign> ; qui se
-<lb/>rapporte à l’arsenic : <hi>odeur, préparation,
-<lb/>vapeur arsenicale, poison arsenical</hi>.</p>
+<lb/>rapporte à l’arsenic : <choice><abbr> odeur, préparation,
+  <lb/>vapeur arsenicale, poison arsenical</abbr><expan><term>odeur arsenicale</term> <term>préparation arsenicale</term> <term>vapeur arsenicale</term> <term>poison arsenical</term></expan></choice>.</p>
 </entryFree>
 
 <entryFree>
@@ -19970,7 +19970,7 @@ les plus cachées des corps, et de découvrir
 </entryFree>
 
 <entryFree>
-<p><orth>Cabalistique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">cahalisticus</foreign> ; qui
+<p><orth>Cabalistique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">cabalisticus</foreign> ; qui
 <lb/>a rapport à la cabale. On donnait à cette
   <lb/>dernière le nom d’ <hi>art cabalistique</hi>.</p>
 </entryFree>
