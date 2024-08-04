@@ -370,7 +370,7 @@ action par laquelle
 <entryFree>
 <p><orth>Abeille</orth>s. f.<foreign xml:lang="lat">apis</foreign> ; genre d’insectes
 <lb/>de l’ordre des hyménoptères, dont rune
-<lb/>des espèces, <hi><term>abeille mellifique</term>, apismellisica</hi>,
+<lb/>des espèces, <term>abeille mellifique</term>,<hi> apismellisica</hi>,
 <lb/>L., est celle qui fournit le miel et
 <lb/>la cire.</p>
 </entryFree>
@@ -504,7 +504,7 @@ synonyme
 </entryFree>
 
 <entryFree>
-  <p><orth>Aboutir</orth>, v. II., <hi><foreign xml:lang="lat">abscedere</foreign></hi>, venir à bout,
+  <p><orth>Aboutir</orth>, v. II., <foreign xml:lang="lat">abscedere</foreign>, venir à bout,
 <lb/>finir, se terminer, suppurer ; Se dit
 <lb/>d’une tumeur inflammatoire qui se termine
 <lb/>par SUppuration. Terme usité parmi
@@ -512,7 +512,7 @@ synonyme
 </entryFree>
 
 <entryFree>
-  <p><orth>Aboutissement</orth>, <gram>s. m.</gram> <hi><foreign xml:lang="lat">abscessio</foreign></hi> ; terminaison
+  <p><orth>Aboutissement</orth>, <gram>s. m.</gram><foreign xml:lang="lat">abscessio</foreign> ; terminaison
 <lb/>par suppuration. VUlgaire.</p>
 </entryFree>
 
@@ -576,7 +576,7 @@ surun papIer, onze IOisles unesau-dessous
 
 <entryFree>
 <p><orth>Abricot</orth>, <gram>s. m.</gram>, fruit de l’abricotier,
-  <lb/><hi><foreign xml:lang="lat">armeniaca vulgaris</foreign></hi>, Lam. ; arbre originaire
+ <lb/><foreign xml:lang="lat">armeniaca vulgaris</foreign>, Lam. ; arbre originaire
 <lb/>d’Arménie, d’abord transporté à
 <lb/>ROme, d’OU il s’est ensuite répandu dans
 <lb/>toutes les contrées méridionales et tempérées
@@ -668,7 +668,7 @@ petit</p>
 <p><orth>Absinthe (grande)</orth>, <gram>s. f.</gram>
 <etym>(a priv., ψίνθος,
 <lb/>douceur)</etym> ; 
-  c’est <hi><foreign xml:lang="lat">artemisia absinthium</foreign></hi>, L.,
+  c’est <foreign xml:lang="lat">artemisia absinthium</foreign>, L.,
 <lb/>plante vivace de la famille des synanthérées,
 <lb/>et de la syngénésie polygamie superllue,
 <lb/>qui croît en France, et se distingue
@@ -690,7 +690,7 @@ petit</p>
 </entryFree>
 
 <entryFree>
-  <p><orth>Absorbant</orth>, <gram>adj.</gram> et <gram>s.</gram>., <hi><foreign xml:lang="lat">absorbans</foreign></hi>
+  <p><orth>Absorbant</orth>, <gram>adj.</gram> et <gram>s.</gram>., <foreign xml:lang="lat">absorbans</foreign>
 <etym>(<hi>ab</hi>,
 <lb/>de, <hi>sorbere</hi>, boire)</etym> ; 
 qui a la propriété
@@ -789,7 +789,7 @@ nom
 </entryFree>
 
 <entryFree>
-  <p><orth>Absterger</orth><gram>v. a.</gram> <hi><foreign xml:lang="lat">abstergere</foreign></hi> nettoyer
+  <p><orth>Absterger</orth><gram>v. a.</gram> <foreign xml:lang="lat">abstergere</foreign> nettoyer
 <lb/>la SUrface d’une plaie en suppuration
 <lb/>ou celle d’un ulcère.</p>
 </entryFree>
@@ -809,7 +809,7 @@ nom
 <p><orth>Abstinence</orth>, <gram>s. f.</gram>
 <etym>(apriv., <hi>tenere</hi>, tenir)</etym>,
 
-<lb/><hi><foreign xml:lang="lat">abstinentia</foreign>, <foreign xml:lang="lat">temperantia</foreign></hi>, <foreign xml:lang="grc">ἀσιτια</foreign>, <foreign xml:lang="grc">νεστέιη</foreign>,
+<lb/><foreign xml:lang="lat">abstinentia</foreign>, <foreign xml:lang="lat">temperantia</foreign>, <foreign xml:lang="grc">ἀσιτια</foreign>, <foreign xml:lang="grc">νεστέιη</foreign>,
 <lb/><foreign xml:lang="grc">λιμαγχία</foreign>, <foreign xml:lang="grc">λιμοκτονία</foreign> ; privation. SOit volontaire,
 <lb/>complète ou incomplète, SOit
 <lb/>même forcée, des alimens, des boÏSSons,
@@ -819,8 +819,8 @@ nom
 </entryFree>
 
 <entryFree>
-<p><orth>Absus</orth>, espèce du genre casse, <foreign xml:lang="lat">cassia
-<lb/>absus</foreign>, L., qui croît en Égypte et dans
+<p><orth>Absus</orth>, espèce du genre casse, <hi>cassia
+<lb/>absus</hi>, L., qui croît en Égypte et dans
 <lb/>rlnde, et dont les graines pulvérrsées
 <lb/>et rnélées à du SUcre en poudre étaient
 <lb/>autrefois et SOnt encore employées, sous
@@ -1136,8 +1136,8 @@ collection de phénomènes, de symptômes,
 <lb/>donné par Petit aux muselee <hi>jumeaux</hi> de
 <lb/>la cuisse.</p>
 
-<p><hi><term>Accessoire de Willis</term>, nervus accessorius
-<lb/>WIllisii, spinalis accessorius</hi> ; neI f
+  <p><term>Accessoire de Willis</term>,<hi>nervus accessorius
+    <lb/>WIllisii, spinalis accessorius</hi> ; neI f
 <lb/>pair, qui naît de la moelle rachidienne</p>
 
 <p>✓
@@ -1204,7 +1204,7 @@ qui a lieuparaccident.
 <entryFree>
 <p><orth>Accompagnement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">adjunctum</foreign>
 <lb/>ce qui est joint à quelque chose. —
-<lb/><hi><term>Accompagnement etc la cataracte</term></hi> ; matière
+<lb/><term>Accompagnement etc la cataracte</term> ; matière
 <lb/>visqueuse et blanchâtre qui entoure
 <lb/>le cristallin opaque, et qui, en restant
 <lb/>après l’opération, produit quelquefois
@@ -1224,7 +1224,7 @@ qui a lieuparaccident.
 </entryFree>
 
 <entryFree>
-  <p><orth>Accouchement</orth>,<gram>s. m.</gram> <hi><foreign xml:lang="lat">partus</foreign><foreign xml:lang="lat">parturitio</foreign></hi> ;
+  <p><orth>Accouchement</orth>,<gram>s. m.</gram> <foreign xml:lang="lat">partus</foreign><foreign xml:lang="lat">parturitio</foreign> ;
     <lb/><foreign xml:lang="grc">λοχεία</foreign>, <foreign xml:lang="grc">τόκος</foreign> ; expulsion naturelle
 <lb/>ou extraction de l’enfant et de Sesanncxes
 <lb/>hors du sein de la mère.—<hi>prématuré</hi>,
@@ -1244,13 +1244,13 @@ celui qui a lieu depuis le Septième mois
 </entryFree>
 
 <entryFree>
-<p><orth>Accoucher</orth>,<gram>v. a.</gram> <hi><foreign xml:lang="lat">obstetricare</foreign>, <foreign xml:lang="lat">obstetricari</foreign></hi>,
+<p><orth>Accoucher</orth>,<gram>v. a.</gram> <foreign xml:lang="lat">obstetricare</foreign>, <foreign xml:lang="lat">obstetricari</foreign>,
 <lb/><foreign xml:lang="grc">μαιόομαι</foreign> ; pratiquer le manuel de
 <lb/>l’accouchement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Accoucher</orth>, <gram>v. n.</gram><hi><foreign xml:lang="lat">parturire</foreign></hi>, <foreign xml:lang="grc">τίκτειν</foreign>,
+<p><orth>Accoucher</orth>, <gram>v. n.</gram><foreign xml:lang="lat">parturire</foreign>, <foreign xml:lang="grc">τίκτειν</foreign>,
 <lb/><foreign xml:lang="grc">τοκαεῖν</foreign> ; mettre un enfant au monde.</p>
 </entryFree>
 
@@ -1272,7 +1272,7 @@ celui qui a lieu depuis le Septième mois
 </entryFree>
 
 <entryFree>
-  <p><orth>Accoupler</orth>,<gram>v. a.</gram><hi><foreign xml:lang="lat">copulare</foreign>, <foreign xml:lang="lat">conjugare</foreign> ;</hi>
+  <p><orth>Accoupler</orth>,<gram>v. a.</gram><foreign xml:lang="lat">copulare</foreign>, <foreign xml:lang="lat">conjugare</foreign> ;
 <lb/>attacher deux bœufs SOUs le même joug. |
 <lb/>Manière de fixer, d’arranger les chevaux
 <lb/>qu’on conduit en route. | Faire trotter
@@ -1285,7 +1285,7 @@ celui qui a lieu depuis le Septième mois
 </entryFree>
 
 <entryFree>
-<p><orth>Accoutumer</orth>,<gram>v. a.</gram><hi><foreign xml:lang="lat">assuefacere</foreign></hi> ; c’est
+<p><orth>Accoutumer</orth>,<gram>v. a.</gram><foreign xml:lang="lat">assuefacere</foreign> ; c’est
 <lb/>habituer un cheval à certains bruits ou à
 <lb/>certains exercices, de manière à ce qu’il
 <lb/>n’en ait pas peur, et qu’il reste en place.</p>
@@ -1300,7 +1300,7 @@ synonyme <hi>d’augmentation,
 </entryFree>
 
 <entryFree>
-  <p><orth>Accroissement</orth>,<gram>s. m.</gram><hi><foreign xml:lang="lat">accretio</foreign>, <foreign xml:lang="lat">incrementum</foreign></hi> ;
+  <p><orth>Accroissement</orth>,<gram>s. m.</gram><foreign xml:lang="lat">accretio</foreign>, <foreign xml:lang="lat">incrementum</foreign> ;
 <lb/>augmentation de la masse ou
 <lb/>du volume d’un corps, par l’application
 <lb/>de nouvelles molécules autour de celles
@@ -1328,7 +1328,7 @@ synonyme <hi>d’augmentation,
 </entryFree>
 
 <entryFree>
-<p><orth>Acculer (s’)</orth>,<gram>v. r.</gram><hi><foreign xml:lang="lat">regredi</foreign></hi> dit d’un
+<p><orth>Acculer (s’)</orth>,<gram>v. r.</gram><foreign xml:lang="lat">regredi</foreign> dit d’un
 <lb/>cheval qui recule contre un mur, et reete
 <lb/>dans cette position Sans qu’il soit possible
 <lb/>de l’en faire changer.</p>
@@ -1365,8 +1365,8 @@ absence totale de la tête.
 </entryFree>
 
 <entryFree>
-  <p><orth>Acéphalobrache</orth>, <gram>adj.</gram>, <hi><foreign xml:lang="lat">acephalobrachium</foreign>
-<lb/></hi>
+  <p><orth>Acéphalobrache</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">acephalobrachium</foreign>
+<lb/>
 <etym>(a, priv., κεφαλὴ, tète, βραχὶων,
 <lb/>bras)</etym> ; 
 fœtus sans tête ni bras.</p>
@@ -1425,7 +1425,7 @@ fœtus
 </entryFree>
 
 <entryFree>
-  <p><orth>Acerbe</orth>,<gram>adj.</gram><hi><foreign xml:lang="lat">acerbus</foreign></hi>
+  <p><orth>Acerbe</orth>,<gram>adj.</gram><foreign xml:lang="lat">acerbus</foreign>
 <etym>(<hi>aeerbare</hi>, aigrir)</etym> ;
 
 <lb/>qui participe de l’aigre et de ramer, et
@@ -1497,30 +1497,30 @@ nom dessages-femmes chez les
 <lb/>donnent de l’acide acétique et de l’acide
 <lb/>pyro-acétique par la distillation.</p>
 
-<p><hi><term>Acétate acide de tritoxide de fer</term>, <term>surtritacétate
-<lb/>de fer</term>, acetas fcrri, ferrum aceticum</hi> ;
+<p><term>Acétate acide de tritoxide de fer</term>, <term>surtritacétate
+  <lb/>de fer</term>, <hi>acetas fcrri, ferrum aceticum</hi>;
 <lb/>sel incristallisable, trèssoluble
 <lb/>dans reau, et d’un rouge brun ; c’est un
 <lb/>produit de l’art, et on remploie en teinture.</p>
 
-<p><hi><term>Acétate d’alumine</term>, acetas aluminae,
-<lb/>alumina acetica</hi> ; sel incristallisable,
+  <p><term>Acétate d’alumine</term>, <hi>acetas aluminae,
+    <lb/>alumina acetica</hi> ; sel incristallisable,
 <lb/>incolore, déliquescent, et qui rougit la
 <lb/>teinture de tournesol ; il a une Saveur
 <lb/>astringente et Styptique ; c’est un produit
 <lb/>de rart : il Sert en teinture à fixer
 <lb/>les couleurs SUr les toiles peintes.</p>
 
-<p><hi><term>Acétate d’ammoniaque</term>, <term>esprit de Mindererus</term>,
-<lb/>acetas ammonii, ammonium
-<lb/>aceticum</hi> ; Sel incristallisable, incolore,
+<p><term>Acétate d’ammoniaque</term>, <term>esprit de Mindererus</term>,
+  <lb/><hi>acetas ammonii, ammonium
+    <lb/>aceticum</hi> ; Sel incristallisable, incolore,
 <lb/>très-volatil, d’une odeur pénétrante, et
 <lb/>d’une saveur piquante, qui se forme dans
 <lb/>l’urine en putréfaction, et qui agit comme
 <lb/>stimulant sur lestissus organiques.</p>
 
-<p><hi><term>Acétate de deutoxide de cuivre</term>, <term>deutacétate
-<lb/>de cuivre</term>, acetas cupri</hi>. <hi>euprum aceticum</hi> ;
+<p><term>Acétate de deutoxide de cuivre</term>, <term>deutacétate
+  <lb/>de cuivre</term>, <hi>acetas cupri. euprum aceticum</hi> ;
 <lb/>sel cristallisable en rbomboÏdes,
 <lb/>vert – bleuâtre, légèrement efflorescent,
 <lb/>SOluble dansreau et ralcool, et qui a une
@@ -1528,31 +1528,31 @@ nom dessages-femmes chez les
 <lb/>de rart. On en extrait le vinaigre
 <lb/>radical. H est très-vénéneux, irritant.</p>
 
-<p><hi><term>Acétate (sous-) de deutoxide de cuivre</term>,
-<lb/><term>sous-deutacétate de cuivre</term></hi> ; sel pulvérulent,
+<p><term>Acétate (sous-) de deutoxide de cuivre</term>,
+<lb/><term>sous-deutacétate de cuivre</term> ; sel pulvérulent,
 <lb/>d’un vert pâle, insipide, in-
 solnble dans reau et ralcool. C’est un
 <lb/>produit de rart, comme le précédent.
 <lb/>mais il est moins vénéneux que lui. 11
 <lb/>agit comme irritant.</p>
 
-<p><hi><term>Acétate de deutoxide de mercure</term>, <term>deutacétate
-<lb/>de mercure</term>, acetas hydrat'gyri,
-<lb/>hydrargyrum aceticum</hi> ; Sel incristallisable,
+<p><term>Acétate de deutoxide de mercure</term>, <term>deutacétate
+  <lb/>de mercure</term>,<hi> acetas hydrat'gyri,
+    <lb/>hydrargyrum aceticum</hi> ; Sel incristallisable,
 <lb/>mais prenant par la desSIccation la
 <lb/>forme d’une masSe jaunâtre, déliquescente
 <lb/>et très-soluble dans ralcool, qu’on
 <lb/>produit par rart, et qui fait la base des
 <lb/>dragées de Keyser.</p>
 
-<p><hi><term>Acétate de morphine</term>, acetas morphii ;
-<lb/>morphium aceticum</hi> ; sel incolore, cristallisable
+  <p><term>Acétate de morphine</term>, <hi>acetas morphii ;
+    <lb/>morphium aceticum</hi> ; sel incolore, cristallisable
 <lb/>en petits rayons, et trèssoluble
 <lb/>dansreau ; narcotique.</p>
 
-<p><hi><term>Acétate de plomb</term>, <term>sel de Saturne</term>,
-  <lb/><term>sucre de Saturne</term>,<term>sucre de plomb</term>, acetas
-<lb/>plumbi, plumbum aceticum</hi> ; Sel cristallisable
+<p><term>Acétate de plomb</term>, <term>sel de Saturne</term>,
+  <lb/><term>sucre de Saturne</term>,<term>sucre de plomb</term>,<hi>acetas
+    <lb/>plumbi, plumbum aceticum</hi> ; Sel cristallisable
 <lb/>en prismes rhomboïdaux comprimés
 <lb/>et terminés par des sommets dièdres,
 <lb/>légèrement efflorescent, très-soluble
@@ -1568,9 +1568,9 @@ solnble dans reau et ralcool. C’est un
 <lb/>et Stimulant. Sa dissolution dans reau
 <lb/>forme <hi>l’extrait de Saturne</hi>, qui est desSIccatif.</p>
 
-<p><hi><term>Acétate de protoxide de barium</term>, <term>acétate
-<lb/>de baryte</term>, <term>proto-acétate de barium</term>, acetas
-<lb/>barytae, baeryta acetica</hi> ; sel cristallisable
+<p><term>Acétate de protoxide de barium</term>, <term>acétate
+  <lb/>de baryte</term>, <term>proto-acétate de barium</term>, <hi>acetas
+    <lb/>barytae, baeryta acetica</hi> ; sel cristallisable
 <lb/>en aiguilles et en pyramides à quatre
 <lb/>pans, comprimées et transparentes,
 <lb/>légèrement efflorescent, trés – SOluble
@@ -1578,21 +1578,21 @@ solnble dans reau et ralcool. C’est un
 <lb/>Saveur piquante et âcre ; produit de rart
 <lb/>et vénéneux.</p>
 
-<p><hi><term>Acétate de protoxide de potassium</term>,
+<p><term>Acétate de protoxide de potassium</term>,
 <lb/><term>acétate de potasse</term>, <term>proto-acétate de potassium</term>,
 <lb/><term>terre foliée de tartre</term>,<term>sel diurétique</term>,
-<lb/><term>sel digestif de Sylvius</term>, acetas potassae, hali
-<lb/>aceticum</hi> ; sel très-déliquescent, difficilement
+  <lb/><term>sel digestif de Sylvius</term>, <hi>acetas potassae, hali
+    <lb/>aceticum</hi> ; sel très-déliquescent, difficilement
 <lb/>cristallisable en paillettes ou en
 <lb/>prismes, d’une saveur piquante, trèssoluble
 <lb/>dans ralcool ; il existe dans la
 <lb/>sève de presque toris les arbres ; il eststimulant,
 <lb/>diurétique.</p>
 
-  <p><hi><term>Acétate deprotoxide de sodium</term>, <term>acétate
+  <p><term>Acétate deprotoxide de sodium</term>, <term>acétate
     <lb/>de soude</term>, <term>proto-acétate de sodium</term>, <term>terre
     <lb/>foliée minérale</term>, <term>terre foliée cristallisée</term>,
-<lb/>acetas sodœ, natrum aceticum</hi> ; sel cristallisable
+    <lb/><hi>acetas sodœ, natrum aceticum</hi> ; sel cristallisable
 <lb/>en longs prismes striés, à quatre
 <lb/>ou six paIIS, inaltérable à rair, d’une saveur
 <lb/>fraîche, acerbe et même légèrement
@@ -1831,8 +1831,8 @@ qui est légèrement acide.</p>
 </entryFree>
 
 <entryFree>
-  <p><orth>Acier</orth>, <gram>s. m.</gram>, <hi><foreign xml:lang="lat">chalybs</foreign>, proto-carbure de
-<lb/>fer</hi> ; combinaison du fer avec une à vingt
+  <p><orth>Acier</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">chalybs</foreign>, proto-carbure de
+<lb/>fer ; combinaison du fer avec une à vingt
 <lb/>parties de carbone par mille ; corps solide,
 <lb/>très-brillant, inodore, insipide, trèsductile,
 <lb/>très-malléable, susceptible d’un
@@ -1902,7 +1902,7 @@ immobilité. | Intervalle entre
 </entryFree>
 
 <entryFree>
-  <p><orth>Acinos</orth>,<gram>s. m.</gram> <hi><foreign xml:lang="lat">thymus acinos</foreign></hi> ; espèce</p>
+  <p><orth>Acinos</orth>,<gram>s. m.</gram> <foreign xml:lang="lat">thymus acinos</foreign> ; espèce</p>
 
 <p>de thym annuel, commun dans les
 <lb/>champs, et dont l’odeur est moins
@@ -1941,7 +1941,7 @@ se dit d’une
 </entryFree>
 
 <entryFree>
-  <p><orth>Acné</orth>,<gram>s. m.</gram><hi> <foreign xml:lang="lat">varus</foreign></hi> ; tubercule inflammatoire
+  <p><orth>Acné</orth>,<gram>s. m.</gram> <foreign xml:lang="lat">varus</foreign> ; tubercule inflammatoire
 <lb/>et dur qui Se manifeste au visage.</p>
 </entryFree>
 
@@ -2017,8 +2017,8 @@ moyen propre à diminuer
 </entryFree>
 
 <entryFree>
-  <p><orth>Acore <hi>vrai</hi></orth>, <gram>s. m.</gram>, <hi><foreign xml:lang="lat">acorus verus</foreign>, <foreign xml:lang="lat">acorus
-<lb/>calamus</foreign></hi>. V. <ref>CALAMUS</ref> <hi>aromatique</hi>.</p>
+  <p><orth>Acore <hi>vrai</hi></orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acorus verus</foreign>, <foreign xml:lang="lat">acorus
+calamus</foreign>. V. <ref>CALAMUS</ref> <hi>aromatique</hi>.</p>
 </entryFree>
 
 <entryFree>
@@ -2038,7 +2038,7 @@ irrégularité dans les jours critiques.
 
 <entryFree>
 <p><orth>Acotylédon</orth>, ou <orth>Acotylédoné</orth>, <gram>adj.</gram> et <gram>s. m.</gram>
-<lb/> <hi><foreign xml:lang="lat">acotyledoneus</foreign></hi>
+<lb/> <foreign xml:lang="lat">acotyledoneus</foreign>
 <etym>(a pr., κοτυληδών, cotylédon)</etym>
 
 <lb/> : se dit de l’embryon lorsqu’il est
@@ -2093,8 +2093,8 @@ nom donné par CbausSIer.au
 </entryFree>
 
 <entryFree>
-  <p><orth>Acoustique</orth>, <gram>s. m.</gram> et <gram>adj.</gram>, <hi><foreign xml:lang="lat">acustica</foreign>,
-    <lb/><foreign xml:lang="lat">acusticus</foreign></hi>
+  <p><orth>Acoustique</orth>, <gram>s. m.</gram> et <gram>adj.</gram>, <foreign xml:lang="lat">acustica</foreign>,
+    <lb/><foreign xml:lang="lat">acusticus</foreign>
 <etym>(ἀκούω, j’entends)</etym> ; 
 branche de
 <lb/>la physIque qui S’occupe de la théorie
@@ -2166,7 +2166,7 @@ faiblesse, débilité, impuissance.</p>
 <entryFree>
 <p><orth>Acreté</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">acritas</foreign> ; qualité propre
 <lb/>aux SUbstances âcres, à la chaleur âcre.
-<lb/><hi>| <term>Arreté du sang, des humeurs</term></hi> ; altération
+<lb/>| <term>Arreté du sang, des humeurs</term> ; altération
 <lb/>morbide chimérique, admise par les anciens.
 <lb/>| Ce mot est aussi synonyme d’ai-
 <lb/><hi>grcurs</hi>.</p>
@@ -2299,7 +2299,7 @@ extrémité du cordon ombilical,
 </entryFree>
 
 <entryFree>
-  <p><orth>Acropathie</orth>, <gram>s. f.</gram> <hi><foreign xml:lang="lat">acropathia</foreign></hi>
+  <p><orth>Acropathie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">acropathia</foreign>
 <etym>(ἄκρος,
 <lb/>extrême, πάθος, maladie)</etym> ; 
 maladie
@@ -2336,7 +2336,7 @@ amputation des
 </entryFree>
 
 <entryFree>
-  <p><orth>Acrothymion</orth>, <gram>s. m.</gram>, <hi><foreign xml:lang="lat">acrothymion</foreign></hi>
+  <p><orth>Acrothymion</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acrothymion</foreign>
 <etym>(ἄκρος, extrême, θύμιον, verrue)</etym> ; 
 SOrte de verrue
 <lb/>conique, rugueuse et Saignante.</p>
@@ -2437,7 +2437,7 @@ Cette expression est
 
 <entryFree>
 <p><orth>Acutangulé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">acutangulatus</foreign> ou
-  <lb/><hi><foreign xml:lang="lat">acutè-angulatus</foreign></hi>
+  <lb/><foreign xml:lang="lat">acutè-angulatus</foreign>
 <etym>(<hi>acutus</hi>, aigu, <hi>angulus</hi>,
 <lb/>angle)</etym> ; 
 épithète donnée aux parties SOlides
@@ -2487,8 +2487,8 @@ opération
 </entryFree>
 
 <entryFree>
-  <p><orth>Adarticulation</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adarticulatio</foreign> ; synonyme
-<lb/>d’abarticulation</hi> et de <hi>dtarthrose</hi>,
+  <p><orth>Adarticulation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adarticulatio</foreign> ; synonyme
+<lb/>d’abarticulation et de <hi>dtarthrose</hi>,
 <lb/>employé par Ingrassia, qui a traduit
 <lb/>ainsi le mot grec προσάρθρωσις.</p>
 </entryFree>
@@ -2532,8 +2532,8 @@ On appelle
 <p>raxe du corps la cuisse, qu’il fait tourner
 <lb/>un peu SUr elle-même de dedans en dehors.</p>
 
-<p><hi><term>Adducteur (second ou court) de la cuisse</term>,
-<lb/>adductor brevis fenmris</hi> ; muscle (SOUSpubio-fémoral,
+<p><term>Adducteur (second ou court) de la cuisse</term>,
+<lb/><hi>adductor brevis fenmris</hi> ; muscle (SOUSpubio-fémoral,
 <lb/>Cb.) de la partie interne
 <lb/>de la cuisse, qui S’étend du corps et de
 <lb/>la branche du pubis au tiers SUpérieur de
@@ -2552,16 +2552,16 @@ On appelle
 <lb/>diffère pas des deux précédons pour lee
 <lb/>usages.</p>
 
-<p><hi><term>Adducteur du pouce</term>, adductor polraeis
-<lb/>manûs</hi> ; large rnuscle (métacarpo – pbalangien
+  <p><term>Adducteur du pouce</term>, <hi>adductor polraeis
+    <lb/>manûs</hi> ; large rnuscle (métacarpo – pbalangien
 <lb/>du pouce. Ch.) triangulaire, de
 <lb/>l’éminence thénar, qui Se porte du troisième
 <lb/>os du métacarpe à la partie interne
 <lb/>de la première phalange du pouce, et
 <lb/>qui sert à rapprocher ce doigt des autres.</p>
 
-<p><hi><term>Adducteur du petit doigt</term>, adductor
-<lb/>digiti minimi</hi> ; muscle (carpo-phalangien
+  <p><term>Adducteur du petit doigt</term>, <hi>adductor
+    <lb/>digiti minimi</hi> ; muscle (carpo-phalangien
 <lb/>du petit doigt, CII.) aplati et alongé, de
 <lb/>l’éminence hypothénar, qui, de ros pisiferme,
 <lb/>va gagner la partie interne de la
@@ -2569,7 +2569,7 @@ On appelle
 <lb/>Sert à porter celui-ci en dedans et en
 <lb/>avant.</p>
 
-<p><hi><term>Adducteur du gros orteil</term>, adductor posi
+  <p><term>Adducteur du gros orteil</term>, <hi>adductor posi
 <lb/>licis pedi, hallucis</hi> ; muscle (calcanéosous
 <lb/>phalangien de l’orteil. Ch.) épais,
 <lb/>aplati et alongé, SItué au côté interne de
@@ -2650,8 +2650,8 @@ douleur qui
 </entryFree>
 
 <entryFree>
-  <p><orth>Adénemphraxie</orth>,<gram>s. f.</gram>., <hi><foreign xml:lang="lat">glandularum
-<lb/>obstructio</foreign></hi>
+  <p><orth>Adénemphraxie</orth>,<gram>s. f.</gram>., <foreign xml:lang="lat">glandularum
+obstructio</foreign>
 <etym>(ἀδὴν, glande, ἐμφράσσω, j’obstrue)</etym>
 
 <lb/> ; engorgement des glandee.</p>
@@ -2690,7 +2690,7 @@ partie de l’anatomie
 </entryFree>
 
 <entryFree>
-  <p><orth>Adéno-méningée</orth>, <gram>adj. f.</gram> <hi><foreign xml:lang="lat">adeno-meningea</foreign></hi>
+  <p><orth>Adéno-méningée</orth>, <gram>adj. f.</gram> <foreign xml:lang="lat">adeno-meningea</foreign>
 <lb/>
 <etym>(ἀδὴν, glande, μὴνιγξ, membrane)</etym>.
 
@@ -2710,7 +2710,7 @@ tumeur
 </entryFree>
 
 <entryFree>
-  <p><orth>Adeno-nerveuse</orth>, <gram>adj. f.</gram><hi><foreign xml:lang="lat">adeno-nervosa</foreign></hi>
+  <p><orth>Adeno-nerveuse</orth>, <gram>adj. f.</gram><foreign xml:lang="lat">adeno-nervosa</foreign>
 <etym>(
 <lb/>ἀδὴν, glande, νεῦρον, nerf)</etym> : 
 épithète
@@ -2868,7 +2868,7 @@ principe volatil,
 </entryFree>
 
 <entryFree>
-  <p><orth>Adiaphorèse</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adiaphoresis</foreign></hi> ; défaut
+  <p><orth>Adiaphorèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adiaphoresis</foreign> ; défaut
 <lb/>de perspiration cutanée.</p>
 </entryFree>
 
@@ -2892,7 +2892,7 @@ rétention d’humeurs
 </entryFree>
 
 <entryFree>
-  <p><orth>Adipocire</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adipocira</foreign>, gras des
+  <p><orth>Adipocire</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adipocira</foreign>, <hi>gras des
 <lb/>cadavres, gras des cimetières</hi>
 <etym>(<hi>adeps</hi>,
 <lb/>graisse, <hi>cera</hi>, cire)</etym> ; 
@@ -2986,8 +2986,8 @@ nom d’une
 </entryFree>
 
 <entryFree>
-  <p><orth>Adraganthine</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">adraganthina</foreign>,
-<lb/>prunine, cérasine</hi> ; substance écailleuse,
+  <p><orth>Adraganthine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adraganthina</foreign>,
+    <lb/><hi>prunine, cérasine</hi> ; substance écailleuse,
 <lb/>d’un blanc Sale, ineipide, inodore, dure,
 <lb/>presque transparente, SOluble dans reau
 <lb/>bouillante, SUsceptible de se gonfler dans
@@ -3034,7 +3034,7 @@ action d’altérer,
 </entryFree>
 
 <entryFree>
-  <p><orth>Adultérer</orth>, <gram>v. ad.</gram>, <hi><foreign xml:lang="lat">adulterare</foreign></hi>, falsifier,
+  <p><orth>Adultérer</orth>, <gram>v. ad.</gram>, <foreign xml:lang="lat">adulterare</foreign>, falsifier,
 <lb/>altérer les médieamens, les alimens.</p>
 </entryFree>
 
@@ -3196,7 +3196,7 @@ maladie qui donne à
 </entryFree>
 
 <entryFree>
-  <p><orth>Ægyptiac</orth>, <gram>s. m.</gram>, <hi><foreign xml:lang="lat">pharmacum aegyptiacum</foreign></hi> ;
+  <p><orth>Ægyptiac</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">pharmacum aegyptiacum</foreign> ;
 <lb/>onguent compose avec le vinaigre,
 <lb/>le miel et le vert-de-gris. Cette préparation
 <lb/>est regardée comme dessiccative
@@ -3355,8 +3355,8 @@ centre des
 </entryFree>
 
 <entryFree>
-<p><orth>Affaissement</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">torpor</foreign>, <foreign xml:lang="lat">stupor</foreign>,
-<lb/><foreign xml:lang="lat">collapsus</foreign>, <foreign xml:lang="lat">depressio</foreign> ; se</hi>. dit en parlant du
+<p><orth>Affaissement</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">torpor</foreign>, <foreign xml:lang="lat">stupor</foreign>,
+<lb/><foreign xml:lang="lat">collapsus</foreign>, <foreign xml:lang="lat">depressio</foreign> ; se. dit en parlant du
 <lb/>bas-ventre, d’une tumeur, des mamelles
 <lb/>ou des forces d’un malade. | Se dit en
 <lb/>chirurgie pour exprimer l’état d’une partic
@@ -3440,7 +3440,7 @@ concours des humeurs
 </entryFree>
 
 <entryFree>
-  <p><orth>Affourrager</orth>, <gram>v. a.</gram>, <hi><foreign xml:lang="lat">pabulum praebere</foreign>;</hi>
+  <p><orth>Affourrager</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">pabulum praebere</foreign>;
 <lb/>donner du fourrage aux bestiaux.</p>
 </entryFree>
 
@@ -3681,7 +3681,7 @@ action des SUbstances
 </entryFree>
 
 <entryFree>
-  <p><orth>Agglutiner</orth>, <gram>s. f.</gram>, <hi><foreign xml:lang="lat">agglutinare</foreign></hi>
+  <p><orth>Agglutiner</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">agglutinare</foreign>
 <etym>(<hi>Gluten</hi>,
 <pb n="20" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0030/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=30"/> colle)</etym>, 
 coller, réunir. <hi>Agglutiner
@@ -3830,7 +3830,7 @@ partie de la gymnastique qui
 </entryFree>
 
 <entryFree>
-  <p><orth>Agréablement</orth>, <gram>adv.</gram>, <hi><foreign xml:lang="lat">jucundè</foreign></hi> ; une
+  <p><orth>Agréablement</orth>, <gram>adv.</gram>,  <foreign xml:lang="lat">jucundè</foreign> ; une
 <lb/>des conditions exigées pour qu’une opération
 <lb/>SOit bien faite. Ce mot ne doit
 <lb/>pas être prie au pied de la lettre ; il signifie
@@ -4027,7 +4027,7 @@ tache
 </entryFree>
 
 <entryFree>
-  <p><orth>Aigremoine</orth>, <hi>s</hi>. <hi><foreign xml:lang="lat">agrimonia eupatoria</foreign></hi>,
+  <p><orth>Aigremoine</orth>, <hi>s</hi>. <foreign xml:lang="lat">agrimonia eupatoria</foreign>,
 <lb/>L. ; petite plante vivace, de la famille
 <lb/>des rosacées et de la dodécandrie digynie,
 <lb/>qui croît dans les bois et sur les pelouses.
@@ -4075,7 +4075,7 @@ tache
 </entryFree>
 
 <entryFree>
-  <p><orth>Aigreurs</orth>, <gram>s. f. pl.</gram> , <hi><foreign xml:lang="lat">acores</foreign></hi> ; rapports
+  <p><orth>Aigreurs</orth>, <gram>s. f. pl.</gram> , <foreign xml:lang="lat">acores</foreign> ; rapports
 <lb/>acides qui proviennent de l’irritation de
 <lb/>l’estomac.</p>
 </entryFree>
@@ -7195,7 +7195,7 @@ afflux des humeurs
 
 <entryFree>
 <p><orth>Anarrhégnyme</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">disrumpor</foreign>, <foreign xml:lang="grc">ἀναῤῥηγνυμενὸς</foreign>
-<lb/
+<lb/>
 <etym>(ἀναῤῥήγνυμαι, rompd'e)</etym> ; 
 Se dit
 <lb/>des ulcères qui se renouvellent par la rupture
@@ -7933,7 +7933,7 @@ on les reconnaît à une tumeur plus ou
 
 <entryFree>
 <p><orth>Angéiographie</orth> ou <orth>Angiographie</orth>, <gram>s. f.</gram>,
-<lb/><<foreign xml:lang="lat">angeiographia</foreign>. <foreign xml:lang="lat">angiographia</foreign>
+<lb/><foreign xml:lang="lat">angeiographia</foreign>. <foreign xml:lang="lat">angiographia</foreign>
 <etym>(ἀγγεIον,
 <lb/>vaisseau, γράφω, je décris)</etym> ; 
 partie de
@@ -9590,7 +9590,7 @@ remède
 
 <entryFree>
 <p><orth>Anti-ictérique</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">anti-ictericus</foreign>
-<lb/></hi>
+<lb/>
 <etym>(ἀντὶ, contre, ἴκτερος, jaunisse)</etym> ;
 
 <lb/>remède contre la jaunisse.</p>
@@ -10107,7 +10107,7 @@ contre-poison ; reméde
 
 <entryFree>
 <p><orth>Apéritif</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">aperitivus</foreign>,
-<lb/><foreign xml:lang="lat">aperiens</foreign></hi> (<hi>aperire</hi>, ouvrir) ; remé le qui <hi>a</hi>
+<lb/><foreign xml:lang="lat">aperiens</foreign> (<hi>aperire</hi>, ouvrir) ; remé le qui <hi>a</hi>
 <lb/>la propriété d’ouvrir les couloirs de l’économie,
 <lb/>qui SOllicite les Sécrétions et les
 <lb/>exciétions.</p>
@@ -10512,7 +10512,7 @@ contre-poison ; reméde
 
 <entryFree>
 <p><orth>Aponévrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aponevrosis</foreign>, <foreign xml:lang="lat">aponeurosis</foreign>,
-<lb/><foreign xml:lang="grc">ἀπονεύρωσις</foreign></hi> (<hi>ἀπὸ</hi>, de, νευρον, nerf) ;
+<lb/><foreign xml:lang="grc">ἀπονεύρωσις</foreign> (<hi>ἀπὸ</hi>, de, νευρον, nerf) ;
 <lb/>membrane blanche, hIISante, satinée,
 <lb/>d’un tissu dense et serre, trèe-résistante,
 <lb/>peu extensible, et formée en presque
@@ -11968,8 +11968,8 @@ cée ; mais elle contient un suc âcre,
 
 <entryFree>
   <p><orth>Arsenical</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arsenicalis</foreign> ; qui se
-<lb/>rapporte à l’arsenic : <choice><abbr> odeur, préparation,
-  <lb/>vapeur arsenicale, poison arsenical</abbr><expan><term>odeur arsenicale</term> <term>préparation arsenicale</term> <term>vapeur arsenicale</term> <term>poison arsenical</term></expan></choice>.</p>
+<lb/>rapporte à l’arsenic : <hi> odeur, préparation,
+  <lb/>vapeur arsenicale, poison arsenical</hi>.</p>
 </entryFree>
 
 <entryFree>
@@ -11999,8 +11999,8 @@ cée ; mais elle contient un suc âcre,
 <lb/>avec une base salifiable.</p>
 
 <p><term>Arsénite de protoxide de potassium</term>,
-<lb/><term>proto-arsénite de potassium</term>, <term>arsénite de potasse</term>
-<lb/>, arsenis potassae</hi> ; Sel incristallisable
+<lb/><term>proto-arsénite de potassium</term>, <term>arsénite de potasse</term>,
+<lb/> <hi>arsenis potassae</hi> ; Sel incristallisable
 <lb/>et incolore, qui fait la base de la solution
 <lb/>minérale de FOwler.</p>
 
@@ -20196,7 +20196,7 @@ l’eau chaude, l’alcool, le vin et le vinaigre,
 <entryFree>
 <p><orth>Cacoèthe</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">cacoethes</foreign> (κακὸς, mauvais,
 <lb/>ῆθος, caractère) ; de mauvais caractère,.malin.
-  <lb/>– <hi><term>Ulcère eacoéthe</term></hi>.</p>
+  <lb/>– <term>Ulcère cacoéthe</term>.</p>
 </entryFree>
 
 <entryFree>
@@ -20306,7 +20306,7 @@ l’eau chaude, l’alcool, le vin et le vinaigre,
 </entryFree>
 
 <entryFree>
-  <p><orth>Cadmie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">cadmia</foreign> <foreign xml:lang="grc"></foreign>καδμεία</foreign> ; sublimation
+  <p><orth>Cadmie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">cadmia</foreign> <foreign xml:lang="grc">καδμεία</foreign> ; sublimation
 <lb/>de nature diverse qui a lieu sur
 <lb/>les parois des fourneaux, ou le IOng des
 <lb/>tuyaux, dans les lieux ou ron traite en
@@ -20363,12 +20363,12 @@ zinc, qui s’attache aux cheminées des
 <entryFree>
 <p><orth>Caduc</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">caducus</foreign>, <foreign xml:lang="lat">deciduus</foreign> (<hi>cadere</hi>.
 <lb/>tomber) ; qui ne peut se soutenir,
-  <lb/>qui tombe, qui chancelle. <term><hi>Age caduc</hi> </term> ou
-  <lb/><hi>caducité.—<term> <hi>Santé caduque</hi> </term>, qui commence
-    <lb/>à s’altérer, à chanceler.—<term> <hi>Dents caduques</hi></term>,
+  <lb/>qui tombe, qui chancelle. <term>Age caduc</term> ou
+  <lb/><term>caducité</term>.—<term>Santé caduque </term>, qui commence
+    <lb/>à s’altérer, à chanceler.— <term>Dents caduques</term>,
 <lb/>se dit pour le cheval des premières dents
 <lb/>qui tombent, et qui SOnt remplacées par
-    <lb/>celles d’adulte.—<term><hi>Mal caduc</hi> ou <hi>épilepsie</hi></term>,
+    <lb/>celles d’adulte.—<term>Mal caduc <hi>ou</hi>épilepsie</term>,
 <lb/>parce que ceux qui SOnt atteints de cette
 <lb/>affection tombent tout à coup lors de rinvasion
 <lb/>brusque des accès. Les vaches
