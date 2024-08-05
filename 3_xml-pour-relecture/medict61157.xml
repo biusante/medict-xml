@@ -12008,14 +12008,14 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-  <p><orth>Art  <hi>de guérir</hi></orth>, <foreign xml:lang="lat">ars sanandi</foreign>; application
+<p><orth>Art  <hi>de guérir</hi></orth>, <foreign xml:lang="lat">ars sanandi</foreign>; application
 <lb/>méthodique des préceptes des
 <lb/>grands maîtres et des leçons de rexpé
 <lb/>ricnce au traitement des maladics.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Artère</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arteria</foreign>, ἀρτηρία (ἀὴρ,
+<p><orth>Artère</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arteria</foreign>, <foreign xml:lang="grc">ἀρτηρία</foreign> (ἀὴρ,
 <lb/>air, τηρέω, je conserve, parce qu’on crut
 <lb/>d’abord que lee artères contenaient de
 <lb/>l’air) ; ordre de vaisseaux qui naissent
@@ -12039,13 +12039,13 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arteriaque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arteriacus</foreign> (ἀρτηρία,
+<p><orth>Artériaque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arteriacus</foreign> (ἀρτηρία,
 <lb/>artère) ; remède contre les altérations
 <lb/>de la voix.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Artériectasie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arteriectaiis</foreign> (<hi>àp-</hi>
+<p><orth>Artériectasie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arteriectasis</foreign> (<hi>àp-</hi>
 <lb/>τηρία, artère, ἔκτασις, dilatation). Alibert
 <lb/>donne ce nom aux anévrismes, qui
 <lb/>forment, dans Sa NOSologie, le huitième
@@ -12053,14 +12053,14 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Artériel</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arteriosus</foreign>, ἀρτηριεκὸς ;</p>
+<p><orth>Artériel</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arteriosus</foreign>, <foreign xml:lang="grc">ἀρτηριεκὸς</foreign> ;</p>
 
 <p>qui est relatif aux artères : <hi>appardl, çanal,
 <lb/>sang, systéme, tronc artériel</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Artériographie</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arteriograplùa</foreign>
+<p><orth>Artériographie</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arteriographia</foreign>
 <lb/>(ἀρτηρία, <hi>artère</hi>, γράφω, j’écris) ;
 <lb/>description des artères.</p>
 </entryFree>
@@ -12079,8 +12079,8 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arteriochalasie</orth>, <gram>s. f.</gram>, <hi>arteriarum
-<lb/>dilatatio</hi> (ἀ τηρία, artère, χάλασις, dilatation)
+<p><orth>Artériochalasie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arteriarum dilatatio</foreign>
+<lb/> (ἀ τηρία, artère, χάλασις, dilatation)
 <lb/> ; dilatation de ha plupart ou même
 <lb/>de toutes les artères ; maladie caractérisée,
 <lb/>selon Swediaur, par des palpitations,
@@ -12089,11 +12089,11 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Artériophthorie</orth>. Voy. <ref>Arteriochalasie</ref>.</p>
+<p><orth>Artériophthorie</orth>. Voy. <ref>Artériochalasie</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Artériosité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">artcriositas ; CZraC-</foreign>
+<p><orth>Artériosité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arteriositas</foreign>
 <lb/>tèrc organique d’une partie, qui tient à
 <lb/>ce que sa texture se rapproche de celle
 <lb/>des attéres, ou à ce qu’elle reçoit un
@@ -12102,7 +12102,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Artériotomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">artcriotomia</foreign>, ἀρτηριοτομία
+<p><orth>Artériotomie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arteriotomia</foreign>, <foreign xml:lang="grc">ἀρτηριοτομία</foreign>
 <lb/>(ἀρτηρία, artère, τέμνω, je
 <lb/>coupe) ; dissection des artères. | Opération
 <lb/>de chirurgie principalement employée
@@ -12118,7 +12118,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Artetisque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">artetiscus</foreign> (<hi>artus</hi>,
+<p><orth>Artétisque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">artetiscus</foreign> (<hi>artus</hi>,
 <lb/>membre) ; qui a perdu un membre.</p>
 </entryFree>
 
@@ -12130,7 +12130,7 @@ cée ; mais elle contient un suc âcre,
 
 <entryFree>
 <p><orth>Arthrembole</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">arthrembolus</foreign>,
-<lb/>ἀρθρεμβολος (ἄρθρον, articulation, ἐν, dedans,
+<lb/><foreign xml:lang="grc">ἀρθρέμβολος</foreign> (ἄρθρον, articulation, ἐν, dedans,
 <lb/>βάλλω, je mets) ; instrument dont
 <lb/>on se servait pour opérer la réduction
 <lb/>des luxations.</p>
@@ -12149,7 +12149,7 @@ cée ; mais elle contient un suc âcre,
 </entryFree>
 
 <entryFree>
-<p><orth>Arthrocace</orth>, s, L, <hi>arlhrocace</hi> (ἄρθρον,
+<p><orth>Arthrocace</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arthrocace</foreign> (ἄρθρον,
 <lb/>articulation, κακὸς, mauvais) ; maladie
 
 
@@ -12160,14 +12160,14 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Arthrodial</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arthrodialis</foreign>, <foreign xml:lang="grc">άρθρωδες</foreign>
+<p><orth>Arthrodial</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arthrodialis</foreign>, <foreign xml:lang="grc">ἀρθρώδες</foreign>
 <lb/>(ἄρθρον, jointure) ; qui a les caractè
 <lb/>res d’une arthrodie : <hi>articulation arthrodiale</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arthrodie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arthrodia</foreign>, <foreign xml:lang="lat">adartiCUlatio</foreign>
-<lb/>ἀρθρωδία (ἄρθρον, jointure) ; articulation
+<p><orth>Arthrodie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arthrodia</foreign>, <foreign xml:lang="lat">adarticulatio</foreign>
+<lb/><foreign xml:lang="grc">ἀρθρωδία</foreign> (ἄρθρον, jointure) ; articulation
 <lb/>mobile, formée par une tète
 <lb/>qui s’applique à la surface d’une excavation
 <lb/>peu profonde, de SOrte qu’elle peut
@@ -12175,13 +12175,13 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Arthrodynie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arthrildynia</foreign> (ἄρθρον,
+<p><orth>Arthrodynie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arthrodynia</foreign> (ἄρθρον,
 <lb/>articulation, ὀδύνη, douleur) ; douleur
 <lb/>dans hs articulations.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arthrombole</orth>., <gram>s. m.</gram>, <foreign xml:lang="lat">arthrombolc</foreign> (ἄρθοον,
+<p><orth>Arthrombole</orth>., <gram>s. m.</gram>, <foreign xml:lang="lat">arthrombole</foreign> (ἄρθοον,
 <lb/>articulation, βάλλω, je mets) ; coaptation,
 <lb/>réduction d’un os luxé ou des
 <lb/>fragmens d’une fracture.</p>
@@ -12199,7 +12199,7 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Arthrophlogose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">articulorum inflamtnatio</foreign>
+<p><orth>Arthrophlogose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">articulorum inflammatio</foreign>
 <lb/>(ἄρθρον, articulation, φλέγω,
 <lb/>je, brûle) ; inflammation des articulations.</p>
 </entryFree>
@@ -12211,7 +12211,7 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Arthrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arthrOSis</foreign>, <foreign xml:lang="grc">όίρθρωσις</foreign>,
+<p><orth>Arthrose</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">arthrosis</foreign>, <foreign xml:lang="grc">ἄρθρωσις</foreign>,
 <lb/>articulation en général.</p>
 </entryFree>
 
@@ -12223,7 +12223,7 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Artichaut</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">cynura seolymus</foreign>, L.
+<p><orth>Artichaut</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">cynara scolymus</foreign>, L.
 <lb/>CUltivé en abondance dans nos jardins,
 <lb/>l’artichaut est classé parmi les carduacées.
 <lb/>Ce SOnt Ses capitules de fleurs non
@@ -12237,14 +12237,14 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Article</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">articulas</foreign> ; synonyme
+<p><orth>Article</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">articulus</foreign> ; synonyme
 <lb/><hi>d’articulation mobile</hi> ; assemblage, jointure
 <lb/>de deux os qui peuvent jouer run
 <lb/>sur rautre.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Articulaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">articularis</foreign>, ἀρθρώδες
+<p><orth>Articulaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">articularis</foreign>, <foreign xml:lang="grc">ἀρθρώδες</foreign>
 <lb/> ; qui a rapport ou qui appartient à
 <lb/>une articulation t <hi>artère, capsule, veine
 <lb/>articulaire.—OS articulaire</hi>, rune des six
@@ -12254,7 +12254,7 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Articulation</orth>, <hi>articulatio</hi>. ἄρOpov ;
+  <p><orth>Articulation</orth>, <foreign xml:lang="lat">articulatio</foreign>. <foreign xml:lang="grc">ἄρθρον</foreign> ;
 <lb/>assEmblagE, jonction de diverses
 <lb/>pièces osseuses les uncs avec les autres.
 <lb/>La <hi>fausse articulation, Varticulation acddenteHe,
@@ -12265,7 +12265,7 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Artificiel</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">artisicialis</foreign> (<hi>ars</hi>, ait) ;
+<p><orth>Artificiel</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">artificialis</foreign> (<hi>ars</hi>, ait) ;
 <lb/>qui est (ait par la main de rhomme et
 <lb/>non par la nat’Ire.—<hi>Ueut artisicù lie, ecil
 <lb/>artisicicl.—Squelette artificiel</hi>, celui dont
@@ -12285,12 +12285,12 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Artopte</orth>, <gram>adj.</gram> et <gram>s. f.</gram>, <foreign xml:lang="lat">artopta</foreign>, <foreign xml:lang="grc">άρτόπτη</foreign>',
+<p><orth>Artopte</orth>, <gram>adj.</gram> et <gram>s. f.</gram>, <foreign xml:lang="lat">artopta</foreign>, <foreign xml:lang="grc">ἀρτόπτη</foreign>',
 <lb/>qui accouche aisément.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aryténéal</orth>, <gram>adj.</gram> ets. m. Geoffroy SaintHIlaire
+<p><orth>Aryténéal</orth>, <gram>adj.</gram> et <gram>s. m.</gram> Geoffroy SaintHIlaire
 <lb/>donne le nom <hi>d’aryténèaux</hi> à la
 <lb/>troisième paire d’os auxiliaires des arcs
 <lb/>branchiaux situés à la région hyoïdienne,
@@ -12301,8 +12301,8 @@ des articulations, j Carie des extrémités
 
 <entryFree>
 <p><orth>Aryténo-épiglottique</orth> ou <orth>Ary-épiglottique</orth>,
-<lb/><gram>adj.</gram> et <gram>s. m.</gram>, <hi>arytepiglottcus, arycpigh
-<lb/>tticus</hi> ; qui apparti nt aux cartilages
+<lb/><gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">arytepiglotteus</foreign>, <foreign xml:lang="lat">aryepiglotticus</foreign>
+<lb/>; qui apparti nt aux cartilages
 <lb/>aryténoïdes et à l’épiglotte. NOm
 <lb/>donné par Sœmrnerrmg aux fibres musculaires
 <lb/>du muscle aryténoïdien, qui,
@@ -12315,8 +12315,8 @@ des articulations, j Carie des extrémités
 </entryFree>
 
 <entryFree>
-<p><orth>Aryténoïde</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">arAaenoides</foreign>,
-<lb/>ἀρυταινοειδὴς ' nom de deux cartilages
+<p><orth>Aryténoïde</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">arytaenoides</foreign>,
+<lb/><foreign xml:lang="grc">ἀρυταινοειδὴς</foreign> ' nom de deux cartilages
 <lb/>du larynx situés en arrière sur le
 <lb/>cricoïde, qui ont la forme d’un carré allongé,
 <lb/>et qui, en se rapprochant run
@@ -12359,7 +12359,7 @@ faibles que les chevaux arzels sont malheureux
 </entryFree>
 
 <entryFree>
-<p><orth>Asaphie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asaphia</foreign>, ἀσάφεια (a pr.,
+<p><orth>Asaphie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asaphia</foreign>, <foreign xml:lang="grc">ἀσάφεια</foreign> (a pr.,
 <lb/>σαφὴς, clair) ; défaut de clarté dans la
 <lb/>voix.</p>
 </entryFree>
@@ -12389,14 +12389,14 @@ faibles que les chevaux arzels sont malheureux
 </entryFree>
 
 <entryFree>
-<p><orth>Ascardamycte</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ascai damycles</foreign>,
-<lb/>ἀσκαρδαμύκτης (a priv., σκαοδαμύττω, je
+<p><orth>Ascardamycte</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ascardamyctes</foreign>,
+<lb/><foreign xml:lang="grc">ἀσκαρδαμύκτης</foreign> (a priv., σκαοδαμύττω, je
 <lb/>cligne les yeux) ; qui regarde fixement
 <lb/>sans baisser les paupières.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ascaride</orth>, S m., <hi>ascaris</hi>, ἀσκαρίς (ἀσκαρίζω,
+<p><orth>Ascaride</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ascaris</foreign>, <foreign xml:lang="grc">ἀσκαρίς</foreign> (ἀσκαρίζω,
 <lb/>je sautille) ; genre de vers intestinaux
 <lb/>ayant pour caracteres un corps
 <lb/>allongé, cylindrique et aminci par les
@@ -12409,24 +12409,24 @@ faibles que les chevaux arzels sont malheureux
 </entryFree>
 
 <entryFree>
-<p><orth>Ascèle</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">asceles</foreign>, ἀσκελὴς (a pr.,
+<p><orth>Ascèle</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">asceles</foreign>, <foreign xml:lang="grc">ἀσκελὴς</foreign> (a pr.,
 <lb/>σκέλος, jambe) ; qui est San., jambes.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ascésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">exercitutio</foreign>, ἄσκησις ;
+<p><orth>Ascésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">exercitatio</foreign>, <foreign xml:lang="grc">ἄσκησις</foreign> ;
 <lb/>exercice.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ascia</orth>, s. L <hi/>(<hi>ascia</hi>, hache) ; nom
+<p><orth>Ascia</orth>, <gram>s. f.</gram> <hi/>(<hi>ascia</hi>, hache) ; nom
 <lb/>d’un bandage indiqué et décrit par HIppoerate,
 <lb/>et qu’on trouve figuré dans
 <lb/>Scultet.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Ascite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ascites</foreign>, <foreign xml:lang="grc">άσχΠ-ης</foreign> (ἀσκὸς,
+<p><orth>Ascite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ascites</foreign>, <foreign xml:lang="grc">ἀσκίτης</foreign> (ἀσκὸς,
 <lb/>outre) ; collection de sérosité dans l’abdomen
 <lb/> ; lIydropisie du bas-ventre. On la
 <lb/>dist ingue en <hi>péritoneale, sous – cutanée,
@@ -12449,13 +12449,13 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Ascitique</orth>, <gram>adj.</gram> et s., <hi>asciticus</hi> ; qui a
+<p><orth>Ascitique</orth>, <gram>adj.</gram> et <gram>s.</gram>, <foreign xml:lang="lat">asciticus</foreign> ; qui a
 <lb/>rapport à l’ascite, ou qui est affecté de
 <lb/>cette maladie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Asclépiade</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">aselepias</foreign> ; genre de
+<p><orth>Asclépiade</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">asclepias</foreign> ; genre de
 <lb/>plantes de la famille des apocynees, dont
 <lb/>une espèce est employée cn médecine
 <lb/>sous le nom de <hi>dompte-venin</hi>.</p>
@@ -12478,7 +12478,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Asitie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asitia</foreign>, ἀσιτία (a priv.,
+<p><orth>Asitie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asitia</foreign>, <foreign xml:lang="grc">ἀσιτία</foreign> (a priv.,
 <lb/>σIτος, aliment) ; degoùt pour les alimens,
 <lb/>inappétence, abstinence.</p>
 </entryFree>
@@ -12488,7 +12488,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Asode</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">asodes</foreign>. <hi>άϊώδης</hi> (<hi>CPtra</hi>,
+<p><orth>Asode</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">asodes</foreign>. <foreign xml:lang="grc">ἀσώδης</foreign> (<hi>CPtra</hi>,
 <lb/>dégoût) ; accompagné de dégoût, d’une
 <lb/>anxi.-té bien marquée.</p>
 </entryFree>
@@ -12502,7 +12502,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Asparaginées</orth>, s. L <hi>p\., asparagineæ</hi> ; famille
+  <p><orth>Asparaginées</orth>, <gram>s. f. pl.</gram> <foreign xml:lang="lat">asparagineae</foreign> ; famille
 <lb/>naturelle de plantes, dont le genre
 <lb/>asperge forme le type, et qu’on chasse parmi
 <lb/>les monocotylédones à étamines périgynes.
@@ -12528,7 +12528,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Asperge</orth>, S. <hi>r., asparagus ofsieinalis</hi>, L. ;
+<p><orth>Asperge</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asparagus officinalis</foreign> ;
 <lb/>plante qui croît naturellement dans le
 <lb/>midi de l’EUrope, et qu’on cultive dans
 <lb/>tous les jardins potagers, pour ses jeunes
@@ -12546,7 +12546,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Aspérité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">assieritas</foreign> ; pelde éminence
+<p><orth>Aspérité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asperitas</foreign> ; pelde éminence
 <lb/>que ron rencontre SUr une surface
 <lb/>OSseuse, ou sur toute autre partie du
 <lb/>corps. | Inflammation des paupières,
@@ -12587,7 +12587,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Asphyxie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asphyxia</foreign>, ἀσφυξία
+<p><orth>Asphyxie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">asphyxia</foreign>, <foreign xml:lang="grc">ἀσφυξία</foreign>
 <lb/>(a priv., σφύξις, pouls) ; suppression
 <lb/>du pouls, j SUspension de la respiration.
 <lb/>—On distingue <hi>l’asphyxie par strangulation,
@@ -12602,10 +12602,10 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Aspic</orth>, s. L ; nom vulgaire de la lavande,
+<p><orth>Aspic</orth>, <gram>s. f.</gram> ; nom vulgaire de la lavande,
 <lb/><hi>lavendula spica</hi>, L., avec laquelle
 <lb/>se prépare <hi>rhuile de spie</hi> ou <hi>d’aspic</hi>. <hi>V</hi>.
-<lb/>LAVANDE.</p>
+<lb/><ref>LAVANDE</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -12627,7 +12627,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Assaisonnement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">condimenturn</foreign> ;
+<p><orth>Assaisonnement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">condimentum</foreign> ;
 <lb/>SUbstance ordinairement d’un goût relevé
 <lb/>qui Sert à donner de la saveur ou une
 <lb/>odeur agréable aux mets, et qui est
@@ -12635,7 +12635,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Assembler</orth>, v. a.—<hi>un cheval</hi> ; c’est le
+<p><orth>Assembler</orth>, <gram>v. a.</gram>—<hi>un cheval</hi> ; c’est le
 <lb/>tenir de manière à ce que le train de derrière
 <lb/>SOit rapproché du train de devant,
 <lb/><hi>Ce</hi> qui lui relève les épaules et la tête :
@@ -12643,20 +12643,20 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Assident</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">assidens</foreign>, σύνεδρος
+<p><orth>Assident</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">assidens</foreign>, <foreign xml:lang="grc">σύνεδρος</foreign>
 <lb/><hi/>(<hi>ad</hi>, près, <hi>sedere</hi>, SIéger) ;.se dit des
 <lb/>symptômes accessoires, de ceux qui ne
 <lb/>sont pas inséparables de la maladie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Àssiette</orth>, s. L ; manière dent le cavalier
+<p><orth>Assiette</orth>, <gram>s. f.</gram> ; manière dent le cavalier
 <lb/>est placé SUr la selle.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Assimilation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">assimilatio</foreign>, ἐξομοίωσις,
-<lb/>ὀμοίωσις (<hi>assimilare</hi>, rendre Semblable)
+<p><orth>Assimilation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">assimilatio</foreign>, <foreign xml:lang="grc">ἐξομοίωσις</foreign>,
+<lb/><foreign xml:lang="grc">ὁμοίωσις</foreign> (<hi>assimilare</hi>, rendre Semblable)
 <lb/> ; action en vertu de laquelle les
 <lb/>corps doués de la vie s’appro-rient, rendent
 <lb/>Semblables à eux, les SUbstances
@@ -12665,7 +12665,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Assimine</orth>, S. f‘., <hi>assimina</hi> (<hi>ad</hi>, auprès,
+<p><orth>Assimine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">assimina</foreign> (<hi>ad</hi>, auprès,
 <lb/><hi>semen</hi>, Semence) ; nom donné par Desvaux
 <lb/>aux fruits autocarpiens Sphériques
 <lb/>formés par la réunion de nombreux ovaires
@@ -12688,42 +12688,42 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Assortir</orth>, v. a., <hi>congruere</hi> ; donner
+<p><orth>Assortir</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">congruere</foreign> ; donner
 <lb/>à une jument rétalon qui lui convient,
 <lb/>soit pour la forme. SOit pour les qualités.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Assouplir</orth>, v. a., <hi>singere.—un cheval</hi>,
+<p><orth>Assouplir</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">fingere</foreign>—un cheval,
 <lb/>le dresser à faire avec facilité tous les
 <lb/>exercices.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Assoupissant</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">soporifer</foreign>, <foreign xml:lang="lat">soporisicus</foreign> ;
+<p><orth>Assoupissant</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">soporifer</foreign>, <foreign xml:lang="lat">soporificus</foreign> ;
 <lb/>qui jette dans l’assoupissement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Assoupissement</orth>, <gram>s. m.</gram>, <hi>somnolentia,
-<lb/>sopor</hi> ; tendance au sommeil, SOmmeil
+<p><orth>Assoupissement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">somnolentia</foreign>,
+<lb/><foreign xml:lang="lat">sopor</foreign> ; tendance au sommeil, SOmmeil
 <lb/>incomplet. | SOmmeil morbide.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Assujettir</orth>, v. a., <hi>sirmis vinculis retinerc</hi>.
+<p><orth>Assujettir</orth>, <gram>v. a.</gram>, <hi>sirmis vinculis retinerc</hi>.
 <lb/>On Se rend maître du cheval pour
 <lb/>l’operer debout ou couché. Debout, on
 <lb/>emploie le torche-nez, les morailles, le
 <lb/>licol de force, des entraves. COUché ; Τ.
-<lb/>ABATTRE <hi>un cheval</hi>. <hi>– les épaules</hi>, c’est
+<lb/><ref>ABATTRE</ref> <hi>un cheval</hi>. <hi>– les épaules</hi>, c’est
 <lb/>conduire le cheval de manière que les
 <lb/>épaules ou les hanches ne sortent point
 <lb/>de la piste SUr laquelle on le conduit.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Astèrisqu’e</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">asteriseus</foreign> (ἀστὴρ,
+<p><orth>Astérisque</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">asteriscus</foreign> (ἀστὴρ,
 
 
 <pb n="65" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0075/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=75"/>
@@ -12758,7 +12758,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Asthme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">asthma</foreign>, ασθμα (ἄω,
+<p><orth>Asthme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">asthma</foreign>, <foreign xml:lang="grc">ἆσθμα</foreign> (ἄω,
 <lb/>je respire) ; gêne considérable de la respiration,
 <lb/>devenant insupportable par intervalles.
 <lb/>L’asthme n’est qu’un SymptI',me
@@ -12766,31 +12766,31 @@ posé. L’ascite est une maladie rarement
 <lb/>qu’en remontant à la SOUrce
 <lb/>qui le produit.</p>
 
-<p><term>ASthme aigu</term> <hi>, asthma acutus</hi> ; nom
+<p><term>Asthme aigu</term> <hi>, asthma acutus</hi> ; nom
 <lb/>donné par MIllar à une variété du croup
 <lb/>dans laquelle la suffocation est imminente,
 <lb/>et les phénomènes inflammatoireesont
 <lb/>peu prononcés.</p>
 
-<p><term>ASthme convulsif</term> <hi>, asthma eonvulsibus ;</hi>
+<p><term>Asthme convulsif</term> <hi>, asthma eonvulsibus ;</hi>
 <lb/>c’est le même que <hi>rasthme nerveux</hi>.</p>
 
-<p><term>ASthme humide</term> <hi>, asthma humidus ;</hi>
+<p><term>Asthme humide</term> <hi>, asthma humidus ;</hi>
 <lb/>asthme avec expectoration.</p>
 
-<p><term>ASthme nerveux</term> <hi>, asthma nervosus ;</hi>
+<p><term>Asthme nerveux</term> <hi>, asthma nervosus ;</hi>
 <lb/>c’est, dit-on, celui qui ne tient à aucune
 <lb/>alt'’ration des organIS de la respiration,
 <lb/>ni même de la circulation, ce qui ne
 <lb/>prouverait pas qu’il fut indépendant de
 <lb/>toute altération organique.</p>
 
-<p><term>ASthme sec</term> <hi>, asthma siecus</hi> ; asthme
+<p><term>Asthme sec</term> <hi>, asthma siecus</hi> ; asthme
 <lb/>sans expectoration.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Astome</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">astomus</foreign>, ἄοίομος (apr.,
+<p><orth>Astome</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">astomus</foreign>, <foreign xml:lang="grc">ἄστομος</foreign> (apr.,
 <lb/>ντόμα, bouche) ; Sans bouche.</p>
 </entryFree>
 
@@ -12820,35 +12820,35 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Astriction</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adstrictio</foreign>, άIύψις <hi/>(<hi>adstriugere</hi>,
+<p><orth>Astriction</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">adstrictio</foreign>, <foreign xml:lang="grc">στύψις</foreign> <hi/>(<hi>adstriugere</hi>,
 <lb/>resserrer) ; resserrement : effet
 <lb/>des astringens.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Astringent</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>adstringens,
-<lb/>στυφὸς</hi> (<hi>adstringere</hi>, resserrer) ; moyen
+<p><orth>Astringent</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">adstringens</foreign>,
+<lb/><foreign xml:lang="grc">στυφὸς</foreign></hi> (<hi>adstringere</hi>, resserrer) ; moyen
 <lb/>thérapeutique ui a la propriété de resserrer
 <lb/>les tissus organique.s.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Astroble</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">sidexatus</foreign>, ἀστροβλὴς,
-<lb/>ἀστρόβλητος (ἄοθρον,, astre, βάλλω, je frappe)
+<p><orth>Astroble</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">sideratus</foreign>, <foreign xml:lang="grc">ἀστροβλὴς</foreign>,
+<lb/><foreign xml:lang="grc">ἀστρόβλητος</foreign> (ἄοθρον,, astre, βάλλω, je frappe)
 <lb/> ; qui a subi rinfiuence des astres ;
 <lb/>apoplectique.</p>
 </entryFree>
 
 <entryFree>
 <p><orth>Astrobolisme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">astrobolismus</foreign>,
-<lb/>ἀστροβολισμὸς (άστρον, astre, βάλλω, je
+<lb/><foreign xml:lang="grc">ἀστροβολισμὸς</foreign> (άστρον, astre, βάλλω, je
 <lb/>frappe) ; action des astres SUr une personne
 <lb/> ; SIdération ; apoplexie</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Astrologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">astrologia</foreign>, αστρολο-
-<lb/><hi>γίχ</hi> (<hi>ddlpov</hi>, astre, λόγος, discours) ; discours
+  <p><orth>Astrologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">astrologia</foreign>, <foreign xml:lang="grc">ἀστρολογία</foreign>
+<lb/>(<hi>ddlpov</hi>, astre, λόγος, discours) ; discours
 <lb/>ou traité sur les astres. Détourné
 <lb/>de SOn acception primitive, ce mot désigne
 <lb/>maintenant la prétendue science de
@@ -12857,15 +12857,15 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Astysie</orth>, <gram>s. f.</gram>, <hi>defcctus tentiginis, impotent
-<lb/>ia virilis</hi> (a priv., στύομαι, je SUis
+<p><orth>Astysie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">defectus tentiginis</foreign>, <foreign xml:lang="lat">impotentia virilis</foreign>
+<lb/> (a priv., στύομαι, je SUis
 <lb/>en érection) ; impuissance, défaut d’érection
 <lb/>de la verge.</p>
 </entryFree>
 
 <entryFree>
 <p><orth>Ataractapoiesie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ataractapoiesia</foreign>,
-<lb/>ἀταρακτοποιησἰη (a priv., ταρακτὴς, qui
+<lb/><foreign xml:lang="grc">ἀταρακτοποιησίη</foreign> (a priv., ταρακτὴς, qui
 <lb/>trouble, ποιέω, je fais) ; intrépidité,
 <lb/>fermeté ; qualité que, Selon HIppocrate,
 <lb/>le médecin doit posSéder à un haut degré.</p>
@@ -12878,7 +12878,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Ataxie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ataxia</foreign>, ἀταξία (a priv.,
+<p><orth>Ataxie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">ataxia</foreign>, <foreign xml:lang="grc">ἀταξία</foreign> (a priv.,
 <lb/>τάξις, ordre) ; désordre, irrégularité ;
 <lb/>trouble des espi its animaux, des prineipes
 <lb/>vl'auX, des forces vitales, des fonetions
@@ -12886,7 +12886,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Ataxique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ataxie us</foreign> ; qui annonce
+<p><orth>Ataxique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">ataxicus</foreign> ; qui annonce
 <lb/>l’ataxie, qui est causé ou caractérisé par
 <lb/>l’ataxie : <hi>symptôme ataxique, état ataxique</hi>.
 <lb/>PInel a donné le nom de <hi>fièvre ataxique</hi>
@@ -12901,18 +12901,18 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atecnie</orth>, s. I., ἀτεκνία (a priv., τέκω,
+<p><orth>Atecnie</orth>, <gram>s. f.</gram>., <foreign xml:lang="grc">ἀτεκνία</foreign> (a priv., τέκω,
 <lb/>j’engendre) ; Stérilité.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Athanasie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">athanasia</foreign>, ἀθανασία
+<p><orth>Athanasie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">athanasia</foreign>, <foreign xml:lang="grc">ἀθανασία</foreign>
 <lb/>(a priv., θάνατος, mort) ; antidote contre
 <lb/>diverses maladies du foie, des reins.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Athelxie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">athelxis</foreign>, ἀθελξις (ἀθέλγω,
+<p><orth>Athelxie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">athelxis</foreign>, <foreign xml:lang="grc">ἄθελξις</foreign> (ἀθέλγω,
 <lb/>je suce) ; succion.
 </p>
 <pb n="66" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0076/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=76"/>
@@ -12924,15 +12924,15 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Athérome</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">atheroma</foreign>, ἀθέρωμα,
-<lb/>ἀθήρωμα (ἄθήρα, bouillie) ; tumeur formée
+<p><orth>Athérôme</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">atheroma</foreign>, <foreign xml:lang="grc">ἀθέρωμα</foreign>,
+<lb/><foreign xml:lang="grc">ἀθήρωμα</foreign> (ἄθήρα, bouillie) ; tumeur formée
 <lb/>par un kyste qui renferme une matière
 <lb/>blanche et purulente Semblable à
 <lb/>de la bouillie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Athlétique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">athletieus</foreign>, ἀθλητικὸς
+<p><orth>Athlétique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">athleticus</foreign>, <foreign xml:lang="grc">ἀθλητικὸς</foreign>
 <lb/>(ἀθλέω, je combats) ; terme employé
 <lb/>pour désigner l’habitude générale du
 <lb/>corps chez les personncs dont le Système
@@ -12942,20 +12942,20 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Athlipte</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aequalis</foreign>, ἄθλ’.πτος
+<p><orth>Athlipte</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">aequalis</foreign>, <foreign xml:lang="grc">ἄθλιπτος</foreign>
 <lb/>(a priv., θλίβω, j’opprime) ; se dit du
 <lb/>pouls égal et nullement gêné.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Athymie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">athymia</foreign>, ἀθυμία (a pr.,
+<p><orth>Athymie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">athymia</foreign>, <foreign xml:lang="grc">ἀθυμία</foreign> (a pr.,
 <lb/>θυμὸς, courage) ; découragement, abattement,
 <lb/>désespoir. | Swediaur S’est Servi
 <lb/>de ce mot pour designer la melancolie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atlas</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">atlas</foreign>, ἀτλας, ἀτλάντιον
+<p><orth>Atlas</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">atlas</foreign>, <foreign xml:lang="grc">ἄτλας</foreign>, <foreign xml:lang="grc">ἀτλάντιον</foreign>
 <lb/>(a augm., ταλάω, je SUpporte) ; nom
 <lb/>donné à la première vertèbre cervicale,
 <lb/>parce qu’elle supporte tout le poids de
@@ -12969,7 +12969,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atloïdo-axoïdien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">atldidoaxoideus</foreign> ;
+<p><orth>Atloïdo-axoïdien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">atloïdo-axoïdeus</foreign> ;
 <lb/>qui a rapport à l’atlas et à l’axis.
 <lb/><hi>Articulation atloido – axoïdienne</hi>, ou des
 <lb/>deux premières vertèbres cervicales
@@ -12977,13 +12977,13 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atloïdo-mastoïdien</orth>, <gram>adj.</gram> et S. m. ;
+<p><orth>Atloïdo-mastoïdien</orth>, <gram>adj.</gram> et <gram>s. m.</gram> ;
 <lb/>nom donné au muscle petit oblique de
 <lb/>la tête.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atloïdo-musculaire</orth>, <hi>atloïdo – muscularis</hi> ;
+<p><orth>Atloïdo-musculaire</orth>, <foreign xml:lang="lat">atloïdo-muscularis</foreign>;
 <lb/>nom donné par GIrard à une artère
 <lb/>qui vient de l’occipitale, et qiîi s’anastomo.se
 <lb/>avec l’arterc trachélo-muscuha
@@ -12991,7 +12991,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atloïdo-occipital</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atlmdo-occipitares</foreign> ;
+<p><orth>Atloïdo-occipital</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atloïdo-occipitalis</foreign> ;
 <lb/>qui a rapport à ratlas et à roccipitah
 <lb/>NOm de l’articulation de la tète avec
 <lb/>la première vertèbre cervicale. NOm
@@ -13003,14 +13003,14 @@ posé. L’ascite est une maladie rarement
 
 <entryFree>
 <p><orth>Atloïdo-sous-mastoïdien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>,
-<lb/><hi>atloido-infra-mastdideus</hi>. Chaussier donne
+<lb/><foreign xml:lang="lat">atloïdo-infrà-mastoïdeus</foreign>. Chaussier donne
 <lb/>ce nom au muscle oblique SUpérieur de
 <lb/>la tête.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atloïdo-sous-occipital</orth>, <gram>adj.</gram>, <hi>atlmdoinfrà
-<lb/>– ocdpitalis</hi> ; nom du muscle petit
+  <p><orth>Atloïdo-sous-occipital</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atloïdo-infrà-occipitalis</foreign>
+<lb/>; nom du muscle petit
 <lb/>droit latéral de la tête, dans la nomenclature
 <lb/>de Chaussier. On appelle aussi de
 <lb/>meme le nru.scle court fléchisseur de
@@ -13018,8 +13018,8 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atloïdo-styloïdien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <hi>at
-<lb/>ldido – stylmdeus</hi> ; nom donné au muscle
+  <p><orth>Atloïdo-styloïdien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">atloïdo-styloïdeus</foreign>
+<lb/>; nom donné au muscle
 <lb/>petit fléchisseur de l’encolure.</p>
 </entryFree>
 
@@ -13038,7 +13038,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atmosphère</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atmosphaera</foreign>, ἀτμόσφαιρα
+<p><orth>Atmosphère</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atmosphaera</foreign>, <foreign xml:lang="grc">ἀτμόσφαιρα</foreign>
 <lb/>(ἀτμὸς, vapeur, σφα'ρα. Sphère) ;
 <lb/>masse de matière rare et ténue qui entoure
 <lb/>un corps ; rnasse de fluide rare,
@@ -13047,7 +13047,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atmosphérilie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atrnosphaerilion</foreign> ;
+<p><orth>Atmosphérilie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atmosphaerilion</foreign> ;
 <lb/>quelques naturalistes désignent ainsi
 <lb/>toutes les substances inorganiques qui
 <lb/>existent dans l’atmosphère, et dont ils
@@ -13055,13 +13055,13 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atmospherique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atmosphaericus</foreign> ;
+<p><orth>Atmosphérique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atmosphaericus</foreign> ;
 <lb/>qui a rapport à l’atmosphère : <hi>air, phénomène,
 <lb/>pierre atmosphérique</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atmospherologie</orth>, <gram>s. f.</gram>, <hi>atmosphaerologia
+<p><orth>Atmosphérologie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atmosphaerologia</foreign>
 <lb/></hi>(ἀτμὸς, vapeur, σπαIρα, Sphère,
 <lb/>λόγος, discours) ; traité des propriétés
 <lb/>de l’atmosphère.</p>
@@ -13073,12 +13073,12 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atolmie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atolmia</foreign>, ἀτολμία (a pr.,
+<p><orth>Atolmie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atolmia</foreign>, <foreign xml:lang="grc">ἀτολμία</foreign> (a pr.,
 <lb/>τόλμα, confiance) ; défiance.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atome</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">atomus</foreign>, ἄτομος (a priv.,
+<p><orth>Atome</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">atomus</foreign>, <foreign xml:lang="grc">ἄτομος</foreign> (a priv.,
 <lb/>τεμνω, je coupe) ; particule de matière
 <lb/>qu’on SUppose indivisible, uniquement
 <lb/>parce que sa divisibilité échappe à nos
@@ -13086,8 +13086,8 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atomisme</orth>,.<gram>s. m.</gram>, <hi>atomismus, philosophia
-<lb/>corpuscularis</hi> ; système philosopbique
+<p><orth>Atomisme</orth>,.<gram>s. m.</gram>, <foreign xml:lang="lat">atomismus</foreign>, <foreign xml:lang="lat">philosophia corpuscularis</foreign>
+<lb/>; système philosopbique
 <lb/>dans lequel on explique la formation
 <lb/>des corps par le moyen des atomes.</p>
 </entryFree>
@@ -13097,12 +13097,12 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atomistique</orth>, <gram>s. f.</gram>, <hi>atOmistica, atomisticum
-<lb/>systema</hi> ; Synonyme <hi>d’atomisme</hi>.</p>
+<p><orth>Atomistique</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atomistica</foreign>, <foreign xml:lang="lat">atomisticum systema</foreign>
+<lb/> ; Synonyme <hi>d’atomisme</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atonia</foreign>, ἀτονία (a priv., τόνος,
+<p><orth>Atonie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atonia</foreign>, <foreign xml:lang="grc">ἀτονία</foreign> (a priv., τόνος,
 <lb/>ίοη, force) ; défaut de force, fàiblesse,
 <lb/>flaccidité, diminution ou perte de fa tonicité.
 <lb/>La gastrite aiguë intense a été dé
@@ -13111,7 +13111,7 @@ posé. L’ascite est une maladie rarement
 </entryFree>
 
 <entryFree>
-<p><orth>Atonique</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atonicns</foreign> ; entretenu
+<p><orth>Atonique</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atonicus</foreign> ; entretenu
 <lb/>ou caractérisé par l’atonie ; qui produit
 <lb/>l’atonie. <hi>L lcèrc atoniqae, indication ato
 <lb/>nique, médicament atonique</hi>.</p>
@@ -13150,13 +13150,13 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Atrachèle</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atrachelus</foreign>, ἀτραχηλὸς
+<p><orth>Atrachèle</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atrachelus</foreign>, <foreign xml:lang="grc">ἀτραχηλὸς</foreign>
 <lb/>(a pr., τράχηλος, cou) ; qui a le cou
 <lb/>trés-court.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atrésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atrcsia</foreign>, <foreign xml:lang="grc">άτρτησίχ</foreign> (a priv.,
+<p><orth>Atrésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atresia</foreign>, <foreign xml:lang="grc">ἀτρησία</foreign> (a priv.,
 <lb/>τράω, je perce) ; imperforation.</p>
 </entryFree>
 
@@ -13165,7 +13165,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Atrices</orth>, <gram>s. f.</gram> pl., <hi>atrices</hi> ; petites tumeurs
+<p><orth>Atrices</orth>, <gram>s. f. pl.</gram><foreign xml:lang="lat">atrices</foreign> ; petites tumeurs
 <lb/>qui se développent et disparaissent
 <lb/>alternativement aux environs de
 <lb/>l’anus. (COndylùmes, suivant quelques
@@ -13173,12 +13173,12 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Atrophie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atrophia</foreign>, ἀτροφία (a pr.,
+<p><orth>Atrophie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">atrophia</foreign>, <foreign xml:lang="grc">ἀτροφία</foreign> (a pr.,
 <lb/><hi>τροφὴ</hi>, nourriture) ; état d’une partie
 <lb/>qui, ne prenant plus de nourriture,
 <lb/>diminue peiI à peu de volume.</p>
 
-<p><term>Atrophie mèsenterique</term>. V. <ref>Carreau</ref>.</p>
+<p><term>Atrophie mésentérique</term>. V. <ref>Carreau</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -13199,7 +13199,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Attaque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">insultas</foreign> ; apparition
+<p><orth>Attaque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">insultus</foreign> ; apparition
 <lb/>SOUdaine d’une maladie périodique, ordinairement
 <lb/>non febrile.</p>
 
@@ -13212,12 +13212,12 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Atteint</orth>, <gram>adj.</gram> ; <foreign xml:lang="lat">atteint</foreign> d’une maladie,
+<p><orth>Atteint</orth>, <gram>adj.</gram> ; atteint d’une maladie,
 <lb/>c’est-à-dire <hi>a/fectè</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atteinte</orth>, S. L <hi>ictus</hi> ; contusion qui a
+<p><orth>Atteinte</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">ictus</foreign> ; contusion qui a
 <lb/>lieu au tendon <hi/>(<hi>tendon féru, nerf fera)</hi>,
 <lb/>au paturon, au talon, au Sabot ; elle est
 <lb/>dite, dans ce dernier cas, encornée.</p>
@@ -13252,26 +13252,26 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Attention</orth>, <gram>s. f.</gram>, <hi>attentio, audientia
-<lb/>ad rem</hi> ; direction de la faculté de percevoir
+<p><orth>Attention</orth>, <gram>s. f.</gram>, attentio, audientia
+<lb/>ad rem ; direction de la faculté de percevoir
 <lb/>vers la Sensation que procure un objet
 <lb/>quelconque.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atténuant</orth>, <gram>adj.</gram> et S., <hi>atténuons</hi>, λεπτύνος,
+<p><orth>Atténuant</orth>, <gram>adj.</gram> et <gram>s.</gram>, <foreign xml:lang="lat">attenuans</foreign>, <foreign xml:lang="grc">λεπτύνος</foreign>,
 <lb/><hi/>(<hi>tenais</hi>, menu) ; médicament qui
 <lb/>diminue la consistance des humeurs, ou
 <lb/>qui est censé avoir cette propriété.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atténuation</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">attenuatio</foreign>, λεπτυσμὸς
+<p><orth>Atténuation</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">attenuatio</foreign>, <foreign xml:lang="grc">λεπτυσμὸς</foreign>
 <lb/> ; effet des médicamens atténuans.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atténuer</orth>, v. a., <hi>attenuare</hi> ; rendre les
+<p><orth>Atténuer</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">attenuare</foreign> ; rendre les
 <lb/>liqnides animaux plus lluidcs.</p>
 </entryFree>
 
@@ -13297,15 +13297,15 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Attractif</orth>, <gram>adj.</gram> et S., <hi>attractivus, attrahens,
-<lb/>altractorius</hi> (<hi>ad, vers, trahere</hi>,
+<p><orth>Attractif</orth>, <gram>adj.</gram> et <gram>s.</gram>, <foreign xml:lang="lat">attractivus</foreign>, <foreign xml:lang="lat">attrahens</foreign>,
+<lb/><foreign xml:lang="lat">attractorius</foreign></hi> (<hi>ad, vers, trahere</hi>,
 <lb/>tirer) ; remède qui a la propriété d’attirer
 <lb/>les liquides animaux vers le lieu où
 <lb/>on rapplique.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Attraction</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">attractio</foreign>, ὀλκὴ <hi/>(<hi>ad</hi>,
+  <p><orth>Attraction</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">attractio</foreign>, <foreign xml:lang="grc">ὁλκὴ</foreign> <hi/>(<hi>ad</hi>,
 <lb/>vers, <hi>trahere</hi>, tirer) ; force qui tend à
 <lb/>pousSer les corps ou les parties des corps
 <lb/>les uns vers les autres ; propriété généralement
@@ -13321,28 +13321,28 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Attrape-lourdaud</orth>. V. <ref>Bistouri</ref> <hi>caché</hi>.</p>
+<p><orth>Attrape-lourdaud</orth>. V. <ref>BISTOURI</ref> <hi>caché</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Attrition</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">attritio</foreign>, ἔκθλιμμα ;
+<p><orth>Attrition</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">attritio</foreign>, <foreign xml:lang="grc">ἔκθλιμμα</foreign> ;
 <lb/>frottement mutuel de deux corps. |
 </p>
 <pb n="68" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0078/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=78"/>
 </entryFree>
 
 <entryFree>
-<p><orth>Ecorchure</orth>. | COntnsion au plue haut
+<p>Εcorchure. | COntnsion au plue haut
 <lb/>degré.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Atypique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atypicus</foreign>, ἄτυπος (a pr.,
+<p><orth>Atypique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">atypicus</foreign>, <foreign xml:lang="grc">ἄτυπος</foreign> (a pr.,
 <lb/>τόπος,, type) i ff’d n’a Pas ^e type régulier.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Auber</orth>, <gram>adj.</gram> et S. m. ; mille-fleurs ou
+<p><orth>Auber</orth>, <gram>adj.</gram> et <gram>s. m.</gram> ; mille-fleurs ou
 <lb/>fleur de pécher. | RObe du cheval dans
 <lb/>laquelle il y a un mélange de poils blancs,
 <lb/>bais et alezans.</p>
@@ -13379,7 +13379,7 @@ des hommes doués d’un caractère mélancolique,
 
 <entryFree>
 <p><orth>Auditif</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">auditorius</foreign>, <foreign xml:lang="lat">auditivus</foreign>,
-<lb/>ἀκυστ κὸς <hi/>(<hi>audire</hi>, entendre) ; qui appartient
+<lb/><foreign xml:lang="grc">ἀκυστ κὸς</foreign>(<hi>audire</hi>, entendre) ; qui appartient
 <lb/>au sens on à l’organe de rouie : <hi>conduits
 <lb/>auditifs, externe</hi> et <hi>interne ; artères</hi>
 <lb/>et <hi>veines auditives, internes</hi> et <hi>externes ;
@@ -13387,7 +13387,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Audition</orth>, s f., <hi>auditus, wara-</hi>, action
+<p><orth>Audition</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">auditus</foreign>, <foreign xml:lang="grc">ἀκοή</foreign>, action
 <lb/>d’entendre ; Sensation à l’aide de laquelle
 <lb/>nous percevons les SOns.</p>
 </entryFree>
@@ -13397,7 +13397,7 @@ des hommes doués d’un caractère mélancolique,
 <lb/>les deux branches de l’os maxillaire du
 <lb/>cheval.</p>
 
-<p><term>AUge galvanique</term> ; appareil de physique
+<p><term>Auge galvanique</term> ; appareil de physique
 <lb/>qui n’est autre chose, dans le fond,
 <lb/>qu’une pile de YOlta dont les disques
 <lb/>métalliques sont disposés, non pas audessus,
@@ -13405,8 +13405,8 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Augment</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">augmentant</foreign>, <foreign xml:lang="lat">incremcnlum</foreign>,
-<lb/>α'ὑξησις, ἔπίδυσις, ἀνάβασις <hi>(auge
+<p><orth>Augment</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">augmentum</foreign>, <foreign xml:lang="lat">incrementum</foreign>,
+<lb/><foreign xml:lang="grc">αὒξησις</foreign>, <foreign xml:lang="grc">ἔπίδυσις</foreign>, <foreign xml:lang="grc">ἀνάβασις</foreign> <hi>(auge
 <lb/>re</hi>, augmenter) ; période d’une maladie
 <lb/>durant laquelle les symptômes S’accroissent.</p>
 </entryFree>
@@ -13422,7 +13422,7 @@ des hommes doués d’un caractère mélancolique,
 <p>employee. SOn bois est excellent pou?
 <lb/>les constructions soUs reau.</p>
 
-<p><term>AUlne noir</term> ; nom vulgaire de la bourdaine.</p>
+<p><term>Aulne noir</term> ; nom vulgaire de la bourdaine.</p>
 </entryFree>
 
 <entryFree>
@@ -13444,7 +13444,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Aura</orth>, <gram>s. f.</gram>, πνοὴ ; mot latin, conservé
+<p><orth>Aura</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">πνοὴ</foreign> ; mot latin, conservé
 <lb/>en français, par lequel on désigne une
 <lb/>émanation tIès-SUbtile qui S’élève d’un
 <lb/>corps, et l’entoure d’une atmosphère plus
@@ -13474,24 +13474,24 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Auriculaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">auricularis</foreign>, ὤτικὸς ;
+<p><orth>Auriculaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">auricularis</foreign>, <foreign xml:lang="grc">ὠτικὸς</foreign> ;
 <lb/>qui appartient à roreille externe, ou aux
 <lb/>oreillettes du cœur : <hi>appendice, artère,
 <lb/>doigt, nerf, veine auriculaire</hi>.</p>
 
-<p><term>AUriculaire antérieur</term>, <gram>adj.</gram> et <gram>s. m.</gram>,
+<p><term>Auriculaire antérieur</term>, <gram>adj.</gram> et <gram>s. m.</gram>,
 <lb/><hi>auricularis anterior</hi> ; nom d’un petit mus
 <lb/>cle pair qui s’attache d’une part à la partie
 <lb/>antérieure de l’hélix, de l’autre en
 <lb/>dehors de l’aponévrose épicranienne,
 <lb/>près du muscle frontal.</p>
 
-<p><term>AUriculaire postérieur</term>, <gram>adj.</gram> et <gram>s. m.</gram>,
+<p><term>Auriculaire postérieur</term>, <gram>adj.</gram> et <gram>s. m.</gram>,
 <lb/><hi>auricularis posterior</hi> ; muscle pair qui
 <lb/>S’étend de la convexité formée par la
 <lb/>conque de roreille à l’apophyse mastoÏde.</p>
 
-<p><term>AUriculaire supérieur</term>, <gram>adj.</gram> et s. m. ;
+<p><term>Auriculaire supérieur</term>, <gram>adj.</gram> et <gram>s. m.</gram> ;
 <lb/><hi>auricularis superior</hi> ; muscle pair qui de
 <lb/>la partie antérieure et interne du fibrecartilage
 <lb/>de l’oreille. Se porte à raponévrose
@@ -13512,7 +13512,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Auriculé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">auriculatus ; se</foreign> dit en
+<p><orth>Auriculé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">auriculatus</foreign> dit en
 <lb/>botanique de toutes les parties qui sont
 <lb/>garnies d’un auricule.</p>
 </entryFree>
@@ -13539,13 +13539,13 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Auriscalpium</orth>, <gram>s. m.</gram>, ώτογλυφὶς <hi/>(<hi>auris</hi>,
+<p><orth>Auriscalpium</orth>, <gram>s. m.</gram>, <foreign xml:lang="grc">ὠτογλυφὶς</foreign> <hi/>(<hi>auris</hi>,
 <lb/>oreille, <hi>scalpo</hi>, je gratte) ; cure-oreille.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aurone</orth> <hi>male</hi>, <gram>s. f.</gram>, <hi>artemisia abrota
-<lb/>num</hi>, L.; espèce d’armoise remarquable
+<p><orth>Aurone mâle</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">artemisia abrotanum</foreign>
+<lb/>, L.; espèce d’armoise remarquable
 <lb/>par l’odeur de citron que répandent
 <lb/>Ses feuilles lorsqu’on les froisse entre
 <lb/>les doigts ; de là le nom de <hi>citronnelle</hi>
@@ -13553,7 +13553,7 @@ des hommes doués d’un caractère mélancolique,
 <lb/>Ses propriétés sont moins développées
 <lb/>que celles de l’absinthe.</p>
 
-<p><term>AUrone femelle</term> ; nom donné souvent à
+<p><orth>Aurone femelle</orth> ; nom donné souvent à
 <lb/>la <hi>santoltne</hi>.</p>
 </entryFree>
 
@@ -13567,7 +13567,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Austère</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">austeras</foreign>, ἀυάIερὸς ; qualité
+<p><orth>Austère</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">austerus</foreign>, <foreign xml:lang="grc">αὐστερὸς</foreign> ; qualité
 <lb/>des substances qui produisent sur
 <lb/>l’organe du goût le plus haut degré de
 <lb/>l’impression désagréable désignée SOUs
@@ -13581,14 +13581,14 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Autarcie</orth>, <gram>s. f.</gram> autarcie, ἀυτάρκεια
+<p><orth>Autarcie</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">autarcia</foreign>, <foreign xml:lang="grc">αὐτάρκεια</foreign>
 <lb/>(ἀυτὸς, soi-même, ἀρκέω, je suffls) ; satisfàction
 <lb/>intérieure, modération, SObriété,
 <lb/>tempérance.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Autemesie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">autemesia</foreign> (ἀυτὸς,
+<p><orth>Autemésie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">autemesia</foreign> (ἀυτὸς,
 <lb/>soi même, <hi>IIίIσίς</hi>, vomissement) ; nom
 <lb/>donné par Alihert au vomissement idiopathique,
 <lb/>qui constitue le huitième
@@ -13597,7 +13597,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Autocarpien</orth> ; <gram>n. m.</gram> donné par DEsvaux
+<p><orth>Autocarpien</orth> ; n. m. donné par DEsvaux
 <lb/>aux fruits qui Se développent sans adhérer
 <lb/>à nul organe, et sans être recouverts
 <lb/>par aucun.</p>
@@ -13613,7 +13613,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Autocratique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">autocratieus</foreign>,
+<p><orth>Autocratique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">autocraticus</foreign>,
 <lb/>spontané : <hi>mouvement autocratique</hi>.</p>
 </entryFree>
 
@@ -13634,27 +13634,27 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Automnal</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">autumnalis ; se</foreign> dit de$
+<p><orth>Automnal</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">autumnalis</foreign> dit de$
 <lb/>fièvres intermittentes qui Se manifestent
 <lb/>en automne.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Automne</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">autumnus</foreign>, φθινόπωρον ;
+<p><orth>Automne</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">autumnus</foreign>, <foreign xml:lang="grc">φθινόπωρον</foreign> ;
 <lb/>saison de l’année qui S’étend depuis l’équinoxe
 <lb/>d’été jusqu’au SOlstice d’hiver.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Autophie</orth> ; synonymE d’<ref>Autopsie</ref>.</p>
+<p><orth>Autophie</orth> ; synonymE d’Autopsie.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Autophosphore</orth>, synonyme de <hi>phosphore</hi>.</p>
+<p><orth>Autophosphore</orth>, synonyme de phosphore.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Autopsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">autopsia</foreign>, ἀυτοψία (ἀυ
+ <p><orth>Autopsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">autopsia</foreign>, <foreign xml:lang="grc">ἀυτοψία</foreign> (ἀυ
 <lb/>τὸς, soi-même, ὀ'πτομαι, je vois) ; action
 <lb/>d’examiner soi-même. | <hi>AUtopsie cadavérique</hi>,
 <lb/>examen attentif que l’on fait d’un
@@ -13662,12 +13662,12 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Auxesie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">auxcsis</foreign>, αὕξησις (αυξε’ω,
+<p><orth>Auxesie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">auxesis</foreign>, <foreign xml:lang="grc">αὔξησις</foreign> (αυξε’ω,
 <lb/>j’augmente) ; accroisSement.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Auxiliaire</orth>, <gram>adj.</gram> et S. m,, <hi>auxiliaris</hi>
+<p><orth>Auxiliaire</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">auxiliaris</foreign>
 <lb/>(<hi>auxilium</hi>, Secours) ; se dit de toute partie
 <lb/>qui aide à l’action d’une ou de plusieurs
 <lb/>autres. | Employé SOUVent comme
@@ -13718,8 +13718,8 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
-<p><orth>Avant-coureur</orth>, <gram>adj.</gram>, <hi>praecurrens, prae
-<lb/>eursor ; se</hi> dit des signcs qui annoncent
+<p><orth>Avant-coureur</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">praecurrens</foreign>, <foreign xml:lang="lat">praecursor</foreign>
+<lb/>dit des signcs qui annoncent
 <lb/>que l’accoI’chement, le vomissement Ott
 
 
@@ -13758,7 +13758,7 @@ une maladie quelconque va se déclarer.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Aveline</orth>, s, L ; nom d’une variété de
+<p><orth>Aveline</orth>, <gram>s. f.</gram> ; nom d’une variété de
 <lb/>noisettes.</p>
 </entryFree>
 
