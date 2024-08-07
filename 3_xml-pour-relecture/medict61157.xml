@@ -21633,7 +21633,7 @@ lequel on vit ; car il y a des corps vrvans
 </entryFree>
 
 <entryFree>
-<p><orth>Cambré</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">cameratus</foreign> (καμάρα, arcade)
+  <p><orth>Cambré</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">cameratus</foreign> (<foreign xml:lang="grc">καμάρα</foreign>, arcade)
 <lb/> ; courbe en forme d’arc.</p>
 </entryFree>
 
@@ -21644,7 +21644,7 @@ lequel on vit ; car il y a des corps vrvans
 </entryFree>
 
 <entryFree>
-<p><orth>Cambuca</orth>, s. L ; nom donné par Paracelsc
+  <p><orth>Cambuca</orth>, <gram>s. f.</gram>  ; nom donné par Paracelsc
 <lb/>à une espèce de tumeur ulcérée aux
 <lb/>aines.</p>
 </entryFree>
@@ -21663,7 +21663,7 @@ lequel on vit ; car il y a des corps vrvans
 </entryFree>
 
 <entryFree>
-<p><orth>Caméléon</orth> <hi>blanc</hi> ; nom donné autrefois
+<p><orth>Caméléon</orth> <term>blanc</term> ; nom donné autrefois
 <lb/>à la <hi>carline sans tige</hi>, et SUrtout à sa racine.</p>
 
 <p><term>Caméléon minéral</term>. On déeigne SOUs ce
@@ -21696,7 +21696,7 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Camisole</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">inducula</foreign> ; on l’appelle
+<p><orth>Camisole</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">indueula</foreign> ; on l’appelle
 <lb/>encore <hi>gilet de force</hi>. C’est un vêtement
 <lb/>dont les manches sont réunies, et
 <lb/>que l’on ferme par derrière. Cette espèce
@@ -21707,7 +21707,7 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Camomille</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthemis</foreign> ; genre de
+  <p><orth>Camomille</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthemis </foreign> ; genre de
 <lb/>plantes de la syngénésie polygamie superflue
 <lb/>et de la famille des corymbifères,
 <lb/>dont on emploie en médecine plusieurs
@@ -21717,21 +21717,21 @@ taine quantité d’oxigène ; c’est ou un
 
 <p><term>Camomille commune</term>. V. <ref>Matricaire</ref>.</p>
 
-<p><term>Camomille fétide</term> <hi>, anthemis cotula ;</hi>
+  <p><term>Camomille fétide</term> , <foreign xml:lang="lat"> anthemis cotula </foreign> ;
 <lb/>plante herbacée, très-commune dans
 <lb/>toute l’EUrope, qui exhale une odeur forte
 <lb/>et désagréable. Elle agit de même que
 <lb/>la camomille romaine.</p>
 
-<p><term>Camomille romaine</term> <hi>, anthemis nobilis ;</hi>
+  <p><term>Camomille romaine</term> <hi>, <foreign xml:lang="lat"> anthemis nobilis </foreign> ;</hi>
 <lb/>plante herbacée, commune en France,
 <lb/>dont les fleurs, très-amères et aromatiques,
 <lb/>jouisScnt de la propriété tonique,
 <lb/>et SOnt administrées comme fébrifuges
 <lb/>et diaphorétiques.</p>
 
-<p><hi>Camomille des teinturiers, anthemis
-<lb/>tinctoria</hi> ; plante herbacée d’EUrope, qui
+  <p><hi>Camomille des teinturiers, <foreign xml:lang="lat">anthemis
+<lb/>tinctoria </foreign> ; plante herbacée d’EUrope, qui
 <lb/>Sert à teindre la laine en jaune aunIre, et
 <lb/>qui passe aussi pour vulnéraire et détersive.</p>
 </entryFree>
@@ -21770,7 +21770,7 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Campanule</orth>, S. h, <hi>campanula</hi> ; genre
+  <p><orth>Campanule</orth>, <gram>s. f</gram>, <foreign xml:lang="lat">campanula</foreign> ; genre
 <lb/>de plantes de la pentandrie monogynie,
 <lb/>qui sert de type a la famille des campanulaeées.
 <lb/>Plusieurs espèces, telles que
@@ -21795,8 +21795,8 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Camper (se)</orth>, v. r., <hi>se ponere.—Cheval
-<lb/>qui se campe</hi>, situation particulière qu’il
+  <p><orth>Camper (se)</orth>, <gram>v. r.</gram>, <foreign xml:lang="lat">se ponere</foreign>.—<term>Cheval 
+    <lb/>qui se campe</term>, situation particulière qu’il
 <lb/>prend pour uriner.</p>
 </entryFree>
 
@@ -21809,7 +21809,7 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Camphorique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">camphoricus</foreign> (<hi>camphora</hi>,
+<p><orth>Camphorique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">camphoricus</foreign> (<foreign xml:lang="lat">camphora</foreign>,
 <lb/>camphre) ; nom d’un acide produit
 <lb/>par l’action de racide nitrique à
 <lb/>chaud sur le camphre, cristallisable en
@@ -21865,7 +21865,7 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Camphrée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">camphorosma monspclienUs</foreign> ;
+<p><orth>Camphrée</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">camphorosma monspeliensis</foreign> ;
 <lb/>plante de la tétrandrie digynie
 <lb/>et de ha famille des atriplicées, qui
 <lb/>croît abondamment en France, sur les
@@ -21876,13 +21876,13 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Campsis</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">campsis</foreign> (<hi>χοψ.πIω, je</hi>
+<p><orth>Campsis</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">campsis</foreign> (<foreign xml:lang="grc">κάμπτω je</foreign>
 <lb/>courte) ; incurvation contre nature. Synonyme
 <lb/>de <hi>contracture</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Camus</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">sirnus</foreign> ; Se dit d’un cheval
+<p><orth>Camus</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">sinus</foreign> ; Se dit d’un cheval
 <lb/>qui a un enfoncement à la partie SUpérieure
 <lb/>du chanfrein.—On dit aussi <hi>nez
 <lb/>camus</hi>, en parlant d’une personne qui a
@@ -21890,7 +21890,7 @@ taine quantité d’oxigène ; c’est ou un
 </entryFree>
 
 <entryFree>
-<p><orth>Canal</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">canaris</foreign> (χαίνω, j’ouvre) ;
+  <p><orth>Canal</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">canaris</foreign> (<foreign xml:lang="grc">χαίνω</foreign>, j’ouvre) ;
 <lb/>excavation en forme de conduit, par laquelle
 <lb/>passe un liquide. En anatomie on
 <lb/>donne ce nom à des conduits qui livrent
@@ -21900,17 +21900,17 @@ taine quantité d’oxigène ; c’est ou un
 <lb/>entre les deux branches de l’os
 <lb/>maxillaire, et destiné à loger la langue.</p>
 
-<p><term>Canal alimentaire</term> <hi>, canaris eibarius</hi>. On
+<p><term>Canal alimentaire</term> <foreign xml:lang="lat">, canalis cibarius</foreign>. On
 <lb/>désigne ainsi ceux des organes digestifs
 <lb/>qui S’étendent depuis la bouche jusqu’à
 <lb/>l’anus.</p>
 
-<p><term>Canal artériel</term> <hi>, ductus arteriosus</hi> ; vaisseau
+  <p><term>Canal artériel</term> <foreign xml:lang="lat">ductus arteriosus</foreign> ; vaisseau
 <lb/>qui, dans le fœtus, établit une communication
 <lb/>entre l’aorte et l’artère pulmonaire,
 <lb/>et qui s’oblitère apres la naissance.</p>
 
-<p><term>Canal carotidien</term> <hi>, ductus caroticus</hi> ; çanal
+  <p><term>Canal carotidien</term>,  <foreign xml:lang="lat"> ductus caroticus</foreign> ; çanal
 <lb/>creuse dans la portion pierreuse du
 <lb/>temporal, qui, dirige d’abord verticalement
 <lb/>en haut, se courbe bientôt pour se
@@ -21919,7 +21919,7 @@ taine quantité d’oxigène ; c’est ou un
 <lb/>interne, ainsi qu’à plusieurs filets
 <lb/>nerveux.</p>
 
-<p><term>Canal cholédoque</term> <hi>, ductus cholcdocus t</hi>
+  <p><term>Canal cholédoque</term>,  <foreign xml:lang="lat"> ductus choledocus </foreign>
 <lb/>conduit qui résulte de la joIVctron de l’hépatique
 <lb/>et du cystique, et qui s’ouvre
 
@@ -21929,16 +21929,16 @@ taine quantité d’oxigène ; c’est ou un
 obliquement dans le duodénum, près de
 <lb/>sa dernière courbure.</p>
 
-<p><term>Canal cystique</term> <hi>, ductus cystieus</hi> ; conduit
+  <p><term>Canal cystique</term>  <foreign xml:lang="lat">, ductus cystieus</foreign> ; conduit
 <lb/>excréteur de la vésicule biliaire, qui
 <lb/>s’unit à angle aigu avec rhépatique, pour
 <lb/>former le canal cholédoque.</p>
 
-<p><term>Canal déférent</term> <hi>, ductus dcferens</hi>, qui
+  <p><term>Canal déférent</term>  <foreign xml:lang="lat">, ductus deferens</foreign>, qui
 <lb/>s’étend de répididyme à rune des deux
 <lb/>vésicules séminales.</p>
 
-<p><term>Canal dentaire</term> <hi>, ductus dentalis</hi>. Le ça<hi>nal
+  <p><term>Canal dentaire</term>,  <foreign xml:lang="lat"> ductus dentalis</foreign>. Le <hi>canal
 <lb/>dentaire supérieur et antérieur</hi>, rune
 <lb/>des divisions du SOUs-orbitaire, descend
 <lb/>dans la paroi antérieure du sinus maxillaire,
@@ -21951,10 +21951,10 @@ obliquement dans le duodénum, près de
 <lb/>de la mâchoire inférieure à l’externe,
 <lb/>près du menton.</p>
 
-<p><term>Canal digestif</term> <hi>, canaris digestivus</hi> ; synonyme
+<p><term>Canal digestif</term> <foreign xml:lang="lat">, canaris digestivus</foreign> ; synonyme
 <lb/>de <hi>canal alimentaire</hi>.</p>
 
-<p><term>Canal de Ferrein</term> <hi>, ductus Ferreini ;</hi>
+<p><term>Canal de Ferrein</term> <foreign xml:lang="lat">, ductus Ferreini </foreign>;
 <lb/>gouttière triangulaire que Ferrein StIpposait
 <lb/>résulter du rapprochement du
 <lb/>bord libre des paupières, appliqué contre
@@ -21963,7 +21963,7 @@ obliquement dans le duodénum, près de
 <lb/>lacrymaux durant le SOmmeil. On a reconnu
 <lb/>que ce canal n’existe point.</p>
 
-<p><term>Canal godronné</term> <hi>, ductus Petiti</hi>. François
+<p><term>Canal godronné</term> <foreign xml:lang="lat">, ductus Petiti</foreign>. François
 <lb/>Petit a donné ce nom au petit espace
 <lb/>triangulaire qui Sépare le corps vitré
 <lb/>du corps ciliaire, dans toute la circonférence
@@ -21975,28 +21975,28 @@ obliquement dans le duodénum, près de
 <lb/>et l’espèce d’ornement architectural
 <lb/>qu’on appelle <hi>godron</hi>.</p>
 
-<p><term>Canal hépatique</term> <hi>, ductus hepaticus</hi> ; conduit
+  <p><term>Canal hépatique</term> <foreign xml:lang="lat">ductus hepaticus</foreign>,  ; conduit
 <lb/>excréteur du foie, qui, après un
 <lb/>pouce et demi de trajet, s’unit au cystique
 <lb/>pour donner naissance au canal cholédoque.</p>
 
-<p><hi>Canal insiexe de l’os temporal, ductus
-<lb/>insiexus ossis temporalis</hi> ; nom donné par
+  <p><term>Canal insiexe de l’os temporal </term>, <foreign xml:lang="lat"> ductus
+    <lb/>insiexus ossis temporalis </foreign> ; nom donné par
 <lb/>Chaussier au canal carotidien.</p>
 
 <p><term>Canal intermédiaire des ventricules ;</term> 
 <lb/>ce nom est donné quelquefois à raquéduc
 <lb/>de Sydvius.</p>
 
-<p><term>Canal intestinal</term> <hi>, canaris intestinorum ;</hi>
+  <p><term>Canal intestinal</term> <foreign xml:lang="lat">, canaris intestinorum </foreign> ;
 <lb/>portion du canal digestif qui s’étend depuis
 <lb/>l’estomac jusqu’à ranus.</p>
 
-<p><term>Canal médullaire</term> <hi>, caenalis medullaris ;</hi>
+  <p><term>Canal médullaire</term>, <foreign xml:lang="lat"> canalis medullaris </foreign> ;
 <lb/>grande cavité qui occupe le centre du
 <lb/>corps des os longs, et qui loge la moelle.</p>
 
-<p><term>Canal nasal</term> <hi>, ductus nasalis</hi> ; conduit</p>
+  <p><term>Canal nasal</term> <foreign xml:lang="lat"> ductus nasalis </foreign> ; conduit</p>
 
 <p>formé par ros maxillaire supérieur, Seul
 <lb/>ou le plue souvent réuni avec le cornet
@@ -22005,61 +22005,61 @@ obliquement dans le duodénum, près de
 <lb/>dans la cavité nasale, au-dessous du cornet
 <lb/>inférieur.</p>
 
-<p><term>Canal pancréatique</term> <hi>, ductus pancreatieus</hi> ;
+  <p><term>Canal pancréatique</term>, <foreign xml:lang="lat"> ductus pancreatieus</foreign> ;
 <lb/>conduit excréteur du pancréas, qui
 <lb/>s’ouvre à un angle aigu dans le canal
 <lb/>cholédoque, ou s’accole simplement à
 <lb/>lui pour entrer isolément dans le duodénum.</p>
 
-<p><term>Canal de Petit</term> <hi>, ductus Petiti</hi>, très-souvent
+  <p><term>Canal de Petit</term> <foreign xml:lang="lat"> ductus Petiti</foreign>, très-souvent
 <lb/>désigné aussi sous le nom de <hi>canal
 <lb/>godronné</hi>.</p>
 
 <p><term>Canal rachidien</term> ; Synonyme de <hi>canal
 <lb/>vertébral</hi>.</p>
 
-<p><term>Canal salivaire</term> <hi>, ductus salivalis</hi>. On
+  <p><term>Canal salivaire</term>, <foreign xml:lang="lat"> ductus salivalis </foreign>. On
 <lb/>appelle le canal de Stenon <hi>conduit salivaire
 <lb/>supérieur</hi>, et celui de Warthon ça<hi>nal
 <lb/>salivaire inférieur</hi>.</p>
 
-<p><term>Canal sous-orbitaire</term> <hi>, ductus iufrà orbitalis</hi> ;
+  <p><term>Canal sous-orbitaire</term>, <foreign xml:lang="lat"> ductus infra orbitalis</foreign> ;
 <lb/>canal creusé dans répaÎSSeur de la
 <lb/>paroi inferieure de l’orbite, formée par
 <lb/>ros maxillaire supérieur, et qui loge les
 <lb/>vaisseaux et nerfs du meme nom.</p>
 
-<p><hi>Canal spirmde du temporal, ductus spiTOldeus
+  <p><hi>Canal spiroïde du temporal, <foreign xml:lang="lat"> ductus spiroïdeus </foreign>
 <lb/>ossis temporalis</hi>. Chaussier appelle
 <lb/>ainsi raquéduc de Fallope.</p>
 
-<p><term>Canal de Stenon</term> <hi>, ductus Stenonis ; çariai</hi>
+  <p><term>Canal de Stenon</term>, <foreign xml:lang="lat">ductus Stenonis </foreign>; çariai
 <lb/>excréteur de la glande parotide,
 <lb/>qui s’ouvre dans la bouche vis-à-vis l’intervalle
 <lb/>de la Seconde et de la troisième
 <lb/>dents molaires supérieures.</p>
 
-<p><term>Canal thoracique</term> <hi>, ductus thoracicus ;</hi>
+  <p><term>Canal thoracique</term> , <foreign xml:lang="lat"> ductus thoracicus </foreign> ;
 <lb/>vaisseau auquel ahoutis.sent tous les lactés
 <lb/>et la plupart des lymphatiques.</p>
 
-<p><term>Canal veineux</term> <hi>, ductus venosus</hi> ; branche
+  <p><term>Canal veineux</term> , <foreign xml:lang="lat"> ductus venosus</foreign> ; branche
 <lb/>de la veine ombilicale qui s’insère
 <lb/>dans une des hépatiques, et n’cxiste que
 <lb/>chez le fœtus.</p>
 
-<p><term>Canal vertébral</term> <hi>, ductus vertebralis</hi> ; conduit
+  <p><term>Canal vertébral</term>, <foreign xml:lang="lat"> ductus vertebralis </foreign> ; conduit
 <lb/>qui règne tout le long de la colonne
 <lb/>vertébrale, qui loge la moelle épinière,
 <lb/>et qui est formé par la SUccessÎOn des
 <lb/>trous vertébraux.  ,</p>
 
-<p><term>Canal de Warthon</term> <hi>, ductus W'artbonis ;</hi>
+  <p><term>Canal de Warthon</term>, <foreign xml:lang="lat"> ductus Warthonis </foreign>;
 <lb/>conduit excréteur de la glande maxillaire,
 <lb/>qui s’ouvre à côté du frein de la
 <lb/>langue.</p>
 
-<p><term>Canaux demi-circulaires</term> <hi>, canales scmidrculares</hi>.
+  <p><term>Canaux demi-circulaires</term>, <foreign xml:lang="lat"> canales semicirculares </foreign>.
 <lb/>On donne ce nom à trois conduite
 <lb/>creusés dans l’intérieur de la portion
 <lb/>pierreuse du temporal, dont deux
@@ -22104,7 +22104,7 @@ obliquement dans le duodénum, près de
 </entryFree>
 
 <entryFree>
-<p><orth>Cancroïde</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">cancrdideus</foreign>
+<p><orth>Cancroïde</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">cancroïdeus</foreign>
 <lb/>(<hi>cancer</hi>, cancer, έἷδος, forme) ; qui revét
 <lb/>la forme cancéreuse ; nom qui a été
 <lb/>assigné par Alibert à certains cancers de
@@ -22140,7 +22140,7 @@ obliquement dans le duodénum, près de
 </entryFree>
 
 <entryFree>
-<p><orth>Canicide</orth>, s, m, <hi/>(<hi>canis</hi>, chien, <hi>caedere</hi>,
+  <p><orth>Canicide</orth>, <gram> s, m. </gram>  (<foreign xml:lang="lat">canis</foreign>, chien, <foreign xml:lang="lat"> caedere </foreign>,
 <lb/>tuer) ; meurtre d’un chien ; dissection
 <lb/>d’un chien vivant.— C’est aussi un nom
 <lb/>de raconit, parce qu’il devient mortel
@@ -22148,7 +22148,7 @@ obliquement dans le duodénum, près de
 </entryFree>
 
 <entryFree>
-<p><orth>Caniculaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">cameularis</foreign> (<hi>canis</hi>,
+<p><orth>Caniculaire</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">canicularis</foreign> (<hi>canis</hi>,
 <lb/>chien) ; qui a rapport à la canicule. Les
 <lb/><hi>jours caniculaires</hi>, qui sont ordinairement
 <lb/>les plue chauds de l’année, S’étendent
@@ -22192,10 +22192,10 @@ obliquement dans le duodénum, près de
 </entryFree>
 
 <entryFree>
-<p><orth>Canne</orth> <hi>aromatique</hi>. V. <ref>Calamus</ref> <hi>aromatique.
+<p><orth>Canne</orth> <term>aromatique</term>. V. <ref>Calamus</ref> <hi>aromatique.
 <lb/>  *</hi></p>
 
-<p><term>Canne a sucre</term>  ou <hi>Canamelle</hi>, <gram>s. f.</gram>, <hi>saccharum
+  <p><term>Canne à sucre</term>  ou <sic choice> Canamelle</sic>  , <gram>s. f.</gram>, <hi>saccharum
 <lb/>officinale</hi> ; graminée de la trian
 <lb/>drie digynie, originaire des Indes, mais
 <lb/>cultivée en Afrique et en Amérique,
@@ -22213,22 +22213,22 @@ obliquement dans le duodénum, près de
 </entryFree>
 
 <entryFree>
-<p><orth>Cannelé</orth>, <gram>adj.</gram>, <hi>canaliculatus, striatus,
-<lb/>sulcatus</hi> ; qui offre une ou plusieurs
+<p><orth>Cannelé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">canaliculatus, striatus,
+<lb/>sulcatus</foreign> ; qui offre une ou plusieurs
 <lb/>cannelures. <hi>COrps cannelé</hi> ou <hi>strié</hi>, run
-<lb/>dcs ganglions cérébraux.—<hi>SOnde cannelée</hi>,
+  <lb/>dcs ganglions cérébraux.—<term>Sonde cannelée </term>,
 <lb/>instrument fort usité en chirurgie.
-<lb/>—<hi>SUbstance cannelée</hi> ou <hi>tubuleuse</hi>, substance
+<lb/>—<term>Substance cannelée</term> ou <hi>tubuleuse</hi>, substance
 <lb/>intérieure du parenchyme du rein.
-<lb/>—<hi>MUscle cannelé</hi>, nom imposé par LIeutaud
+<lb/>—<term>Muscle cannelé</term>, nom imposé par LIeutaud
 <lb/>aux deux museles jumeaux de la
 <lb/>cuisse, qu’il croyait n’en former qu’un
 <lb/>Seul.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Cannelle</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">cinnamomum</foreign>, κιννά-
-<lb/><hi>μωμον</hi> ; seconde écorce du <hi>laurus cinnamomurn</hi>.
+<p><orth>Cannelle</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">cinnamomum</foreign>, <foreign xml:lang="grc>">κιννά-
+  <lb/><hi>μωμον</foreign> ; seconde écorce du <hi>laurus cinnamomurn</hi>.
 <lb/>Elle a une odeur agréable, une
 <lb/>saveur aromatique, douce, chaude et
 <lb/>un peu sucrée. On en distingue trois
@@ -22241,7 +22241,7 @@ obliquement dans le duodénum, près de
 </entryFree>
 
 <entryFree>
-<p><orth>Cannelle</orth> <hi>blanche</hi>, <gram>s. f.</gram>, <foreign xml:lang="lat">cannella alha</foreign> !
+<p><orth>Cannelle</orth> <hi>blanche</hi>, <gram>s. f.</gram>, <foreign xml:lang="lat">cannella alba</foreign> !
 <lb/>nom donné dans le commerce à deux
 <lb/>écorces blanchâtres et aromatiques four-
 
@@ -22276,7 +22276,7 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 </entryFree>
 
 <entryFree>
-<p><orth>Cannellier</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">laurus cinnamomuni</foreign> ;
+<p><orth>Cannellier</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">laurus cinnamomum</foreign> ;
 <lb/>espèce de <hi>laurier</hi>, qui croît à Ceylan,
 <lb/>et dont la seconde écorce est connue
 <lb/>sous le nom de <hi>cannelle</hi>. V. <ref>Cannelle</ref>.</p>
@@ -22302,7 +22302,7 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 </entryFree>
 
 <entryFree>
-<p><orth>Cantharide</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">cantharis</foreign>, <foreign xml:lang="grc">χάνθοιρις</foreign>,(
+<p><orth>Cantharide</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">cantharis</foreign>, <foreign xml:lang="grc">κάνθαρος</foreign>,(
 <lb/>diminutif de κάνθαρος, escarbot). On
 <lb/>donne vulgairement ce nom à un insecte
 <lb/>du genre <hi>cantharide</hi> des entomologistes,
@@ -22316,7 +22316,7 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 </entryFree>
 
 <entryFree>
-<p><orth>Cantharidine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">canlharidina</foreign> (κάνθαρος,
+<p><orth>Cantharidine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">cantharidina</foreign> (κάνθαρος,
 <lb/>escarbot) ; substance lamelleuse,
 <lb/>micacée, blanche, brillante, insoluble
 <lb/>dans reau et ralcool froid, SOluble dans
@@ -22343,7 +22343,7 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 </entryFree>
 
 <entryFree>
-<p><orth>Canule</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">tabulas</foreign> (<hi>canna, roseau</hi>) ;
+<p><orth>Canule</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">tubulus</foreign> (<hi>canna, roseau</hi>) ;
 <lb/>tube d’or, d’argent, de platine,
 <lb/>de fer, de plomb, de bois, de carton,
 <lb/>de gomme élastique, etc., allongé, cylindrique,
@@ -22363,7 +22363,7 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 </entryFree>
 
 <entryFree>
-<p><orth>Caoutchouc</orth> ou <orth>Gomme <hi>élastique</hi></orth>, <gram>s. m.</gram> ;
+  <p><orth>Caoutchouc</orth> ou  <sic choice> Gomme élastique</sic>, <gram>s. m.</gram> ;
 <lb/>substance SOlide, blanche, molle, flexible,
 <lb/>très-élastique, tenace, plus légère
 <lb/>que reau, inodore et insipide, qui Se
@@ -22392,14 +22392,14 @@ nies par le <hi>drymis aromatica</hi>, ou le <hi>drymis
 <lb/>formulant, au lieu de <hi>capialur</hi> ou <hi>expiât</hi>,
 <lb/>que ron prenne ou qu’il prenne.</p>
 
-<p><term>Cap de maure</term>  ou <hi>caresse de maure</hi> (<hi>caput</hi>,
+<p><term>Cap de maure</term>  ou <orth>caresse de maure</orth> (<hi>caput</hi>,
 <lb/>tête) ; c’est un rouan, mais avec
 <lb/>cette distinction, que raût a la tête et
 <lb/>les extrémités noires.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Capacité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">capadtas</foreign> ; aptitude à
+<p><orth>Capacité</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">capacitas</foreign> ; aptitude à
 <lb/>contenir : rapport entre une cavité et le
 <lb/>corps qu’elle contient ou peut contenir.
 <lb/><hi>Capacité pour le calorique</hi>, faculté qu’ont
@@ -22436,7 +22436,7 @@ qu’on met SUr le cheval pour le garantir
 </entryFree>
 
 <entryFree>
-<p><orth>Capeline</orth>, s. <hi>i., capistrum</hi> (<hi>caput</hi>, tête) ;
+  <p><orth>Capeline</orth>, <gram>s.f.</gram>, <foreign xml:lang="lat">capistrum</foreign>caput, tête) ;
 <lb/>bandage figurant une espèce de calotte
 <lb/>ou de capuchon, dont 11 y a plusIeurs <hi>espèces</hi> :
 <lb/>la <hi>capeline de la tète</hi>, ou <hi>bonnet a
@@ -22474,23 +22474,23 @@ qu’on met SUr le cheval pour le garantir
 </entryFree>
 
 <entryFree>
-<p><orth>Capillaire</orth>, <gram>adj.</gram> et S. m. et f., <hi>capillaris.
-<lb/>capillaceus</hi> (<hi>capillas</hi>, cheveu) ; qui a
-<lb/>la ténuité d’un cheveu.—<hi>TUbe capillaire ;</hi>
+  <p><orth>Capillaire</orth>, <gram>adj.</gram> et <gram>s. m. et f. </gram>, <foreign>capillaris.
+<lb/>capillaceus</foreign> (<hi>capillas</hi>, cheveu) ; qui a
+<lb/>la ténuité d’un cheveu.—<term>TUbe capillaire ;</term>
 <lb/>les physiciens nomment ainsi les petits
 <lb/>tubes dont le diamètre n’excède pas un
 <lb/>trentième de pouce, et dans l’intérieur
 <lb/>desquels l’eau S’élève au-dessus de son ni।
 <lb/>veau, lorsqu’on plonge une de leurs extrémités
-<lb/>dans ce liquide. – <hi>Vaisseaux
-<lb/>capillaires</hi> ; nom donné par les physiologistes
+<lb/>dans ce liquide. – <term>Vaisseaux
+<lb/>capillaires</term> ; nom donné par les physiologistes
 <lb/>aux vaisseaux extrêmement déliés
 <lb/>et réunis par d’innombrables anastomoses,
 <lb/>qu’on suppose former un tissu continu
 <lb/>et intermédiaire entre les artères et
 <lb/>les veines, quoique cette théorie SOrt vivement
-<lb/>attaquée aujourd’hui. – <hi>Système
-<lb/>capillaire</hi> ; ensemble de tous les vaisseaux
+<lb/>attaquée aujourd’hui. – <term>Système
+<lb/>capillaire</term> ; ensemble de tous les vaisseaux
 <lb/>précédens : BIchat ra distingué en <hi>général</hi>,
 <lb/>qui entre dans la texture de tous
 <lb/>les organes, et en <hi>pulmonaire</hi>, qui est
@@ -22511,8 +22511,8 @@ qu’on met SUr le cheval pour le garantir
 <lb/>pour Stimulante, et qu’on donne en infusion
 <lb/>theiforme.</p>
 
-<p><hi>Capillaire de MOntpellier, adiantum çapillus
-<lb/>Veneris</hi> ; fougère du midi de la
+<p><term>Capillaire de Montpellier </term> , <foreign xml:lang="lat">adiantum capillus
+  <lb/>Veneris </foreign> ; fougère du midi de la
 <lb/>France, à laquelle on attribue lesrnêmcs
 <lb/>propriétés qu’à la capillaire du Canada.</p>
 </entryFree>
@@ -22532,18 +22532,18 @@ qu’on met SUr le cheval pour le garantir
 </entryFree>
 
 <entryFree>
-<p><orth>Capillation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">eapillatio</foreign> (<hi>capillus</hi>,
+<p><orth>Capillation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">capillatio</foreign> (<hi>capillus</hi>,
 <lb/>cheveu) ; fracture du crâne Sans
 <lb/>écartement des fragmens, et qui ne se
 <lb/>montre que sous l’aspect d’une fente.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Capistration</orth>, S. L V. <ref>Phymosis</ref>.</p>
+  <p><orth>Capistration</orth>, <gram>s.f.</gram> V. <ref>Phymosis</ref>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Capistre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">eapistrum</foreign> (<hi>eapistrare</hi>,
+<p><orth>Capistre</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">capistrum</foreign> (<hi>eapistrare</hi>,
 <lb/>mUISeler, enchevêtrer) ; nom donné
 <lb/>à quelques bandages de la tète. V. <ref>Capeline</ref>,
 <lb/>CIIEVESTRE. – vogel a désigné
@@ -22624,7 +22624,7 @@ forme d’une tête..—<hi>Fleurs capitulées</hi>, rassemblées
 </entryFree>
 
 <entryFree>
-<p><orth>Capre</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">gemma condita cap paridis</foreign> ;
+<p><orth>Capre</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">gemma condita capparidis</foreign> ;
 <lb/>bouton à fleur du câprier, confit
 <lb/>dans du vinaigre légèrement salé.</p>
 </entryFree>
@@ -22639,7 +22639,7 @@ forme d’une tête..—<hi>Fleurs capitulées</hi>, rassemblées
 </entryFree>
 
 <entryFree>
-<p><orth>Câprier</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">capparis</foreign> ; genre de
+<p><orth>Caprier</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">capparis</foreign> ; genre de
 <lb/>plantes de la polyandrie rnonogynie, servant
 <lb/>de type à la famille des capparidées,
 <lb/>dont les houtons à fleurs confits dans le
@@ -22648,7 +22648,7 @@ forme d’une tête..—<hi>Fleurs capitulées</hi>, rassemblées
 </entryFree>
 
 <entryFree>
-<p><orth>Caprification</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">caprijicatio</foreign> ; opération
+<p><orth>Caprification</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">caprificatio</foreign> ; opération
 <lb/>célèbre qui consiste à suspendre
 <lb/>sur les figuiers cultivés des figues sauvages
 <lb/>renfermant des cynips, qui, après
@@ -22683,13 +22683,13 @@ forme d’une tête..—<hi>Fleurs capitulées</hi>, rassemblées
 <p><term>Capsulaire</term>, <gram>adj.</gram>, <foreign xml:lang="lat">capsularis</foreign> ; qui a
 <lb/>rapport à quelqu’une des parties du corps
 <lb/>qu’on désigne sous le nom de <hi>capsules.
-<lb/>— LIgament capsulaire</hi> ; on appelle ainsi
+  <lb/>— <term>Ligament capsulaire</term></hi> ; on appelle ainsi
 <lb/>quelquefois les capsules fibreuses qui cn-
 tourent les articulations scapulo-humérale
-<lb/>et coxo-fémorale. – Les <hi>vaisseaux
-<lb/>capsulaires</hi> SOnt plus généralement connus
-<lb/>sous le nom de <hi>surrénaux</hi>. <hi>– Fruit
-<lb/>capsulaire</hi>, fruit simple et sec, qui s’ouvre
+<lb/>et coxo-fémorale. – Les <term>vaisseaux
+<lb/>capsulaires</term> SOnt plus généralement connus
+<lb/>sous le nom de <hi>surrénaux</hi>. <term>– Fruit
+<lb/>capsulaire</term>, fruit simple et sec, qui s’ouvre
 <lb/>à l’époque de Sa maturité.</p>
 </entryFree>
 
@@ -22712,38 +22712,38 @@ tourent les articulations scapulo-humérale
 <lb/>sec et polysperme, qui s’ouvre de luimême
 <lb/>à la maturité.</p>
 
-<p><term>Capsule du cœur</term> <hi>, capsula cxrdis</hi>. Paracelse
+<p><term>Capsule du cœur</term> <hi>, capsula cordis</hi>. Paracelse
 <lb/>désignait ainsi le péricarde.</p>
 
 <p><term>Capsule du cristallin</term> <hi>, capsula cristallina</hi> ;
 <lb/>membrane qui enveloppe le crietallin
 <lb/>de toutes parts.</p>
 
-<p><hi>Capsule de Glisson, capsulaglissoniana,
-<lb/>capsula Glissants, capsula hepatica</hi> ; tissu
+<p><term>Capsule de Glisson</term>, <foreign xml:lang="lat">capsula glissoniana,
+  <lb/>capsula Glissonis, capsula hepatica </foreign>c ; tissu
 <lb/>cellulaire très-dense qui accompagne et
 <lb/>environne toutes les ramifications de la
 <lb/>veine porte.</p>
 
-<p><term>Capsules articulaires</term> <hi>, capsulae articulares</hi>.
+<p><term>Capsules articulaires</term> <foreign xml:lang="lat"> capsulae articulares</foreign>.
 <lb/>On donne ce nom, ou celui de <hi>capsules
 <lb/>fibreuses</hi>, à des sacs membraneux,
 <lb/>fibreux, élastiqucs, blanchâtres, épais,
 <lb/>serrés et résistans, qui entourent les articulations
 <lb/>coxo-fémorale et scapulo-humérale.</p>
 
-<p><term>Capsules atrabilaires</term> <hi>, capsulae atrabilares</hi> :
+<p><term>Capsules atrabilaires</term> <foreign xml:lang="lat">, capsulae atrabilares</foreign> :
 <lb/>organes plus connus sous le nom de
 <lb/><hi>capsules surrénales</hi>.</p>
 
-<p><hi>Capsules fibreuses, capsulae sibrosae ;
-<lb/>synonyme</hi> de <hi>capsules articulaires</hi>.</p>
+  <p><term>Capsules fibreuses</term>, <foreign xml:lang="lat">capsulae fibrosae </foreign>;
+<lb/>synonyme</h> de <hi>capsules articulaires</hi>.</p>
 
-<p><term>Capsules séminales</term> <hi>, capsulae seminales</hi>.
+  <p><term>Capsules séminales</term>, <foreign xml:lang="lat">capsulae seminales</foreign>.
 <lb/>QUelques anatomistes ont appelé ainsi
 <lb/>le.s <hi>vésicules séminales</hi>.</p>
 
-<p><term>Capsules surrénales</term> <hi>, capsulae suprarenales</hi>.
+<p><term>Capsules surrénales</term>, <foreign xml:lang="lat"> capsulae suprarenales</foreign>.
 <lb/>On donne ce nom à deux petits
 <lb/>corps aplatis et triangulaires qui recouvrent
 <lb/>la partie supérieure des redns, en
@@ -22754,7 +22754,7 @@ tourent les articulations scapulo-humérale
 <lb/>l’humeur hypothétique que lesanciens
 <lb/>appelaient <hi>atrabile</hi>.</p>
 
-<p><term>Capsules synoviales</term> <hi>, capsulae synoidalesi</hi>
+<p><term>Capsules synoviales</term>, <hi>capsulae synoviales</hi>
 <lb/>poches membraneuses, eéreuses, lor-
 
 
@@ -22770,7 +22770,7 @@ niant des sacs Sans ouverture, qui revêtent
 </entryFree>
 
 <entryFree>
-<p><orth>Capuchon</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">cucullus</foreign>, <foreign xml:lang="lat">stydostegium</foreign> ;
+<p><orth>Capuchon</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">cucullus</foreign>, <foreign xml:lang="lat">stylostegium</foreign> ;
 <lb/>évasement des filets des étamines,
 <lb/>qui fait qu’elles couvrent l’ovaire en manière
 <lb/>de capuchon, comme dans les asclépiadées.
@@ -22780,7 +22780,7 @@ niant des sacs Sans ouverture, qui revêtent
 
 <entryFree>
 <p><orth>Capuchonné</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">cucullatus</foreign> ; qui a
-<lb/>la forme d’un capuchon. – <hi>Pétale capuchonnè</hi> :
+<lb/>la forme d’un capuchon. – <term>Pétale capuchonnè</term> :
 <lb/>tels sont ceux de rancolie.</p>
 </entryFree>
 
@@ -22812,7 +22812,7 @@ niant des sacs Sans ouverture, qui revêtent
 </entryFree>
 
 <entryFree>
-<p><orth>Caque-sangue</orth>, S. L (<hi>cacare</hi>, aller à la
+  <p><orth>Caque-sangue</orth>, <gram> s. f</gram> (<foreign xml:lang="lat">cacare</foreign>, aller à la
 <lb/>selle, <hi>sanguis</hi>. Sang) ; rendre du Sang
 <lb/>avec les selles. C’est la même chose que
 <lb/><hi>dysenterie</hi>. V. <ref>Dysenterie</ref>.</p>
@@ -22826,7 +22826,7 @@ niant des sacs Sans ouverture, qui revêtent
 </entryFree>
 
 <entryFree>
-<p><orth>Caractère</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">charactcr</foreign>, χαρακτὴρ ;
+  <p><orth>Caractère</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">character</foreign>, <foreign xml:lang="grc">χαρακτὴρ</foreign> ;
 <lb/>empreinte ou marque qui Sert à faire reconnaître
 <lb/>quelque objet. Les <hi>caractères</hi>
 <lb/>à*raide desquels les anatomistes distinguent
@@ -22845,7 +22845,7 @@ niant des sacs Sans ouverture, qui revêtent
 </entryFree>
 
 <entryFree>
-<p><orth>Caracteriser</orth>, v. a., <hi>depingere</hi> ; faire</p>
+<p><orth>Caracteriser</orth>, v. a., <foreign xml:lang="lat">depingere</foreign> ; faire</p>
 
 <p>connaître les qualités qui doivent distinguer
 <lb/>une chose de toute autre ehose.</p>
@@ -22854,7 +22854,7 @@ niant des sacs Sans ouverture, qui revêtent
 <entryFree>
 <p><orth>Caractéristique</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">proprius</foreign> ; qui
 <lb/>appartient en propre à quelque chose.
-<lb/>— <hi>SIgnes caractéristiques</hi>, ce SOnt ceux
+<lb/>— <term>Sines caractéristiques</term>, ce SOnt ceux
 <lb/>qui Servent à faire reconnaître une maladie.</p>
 </entryFree>
 
@@ -22893,8 +22893,8 @@ niant des sacs Sans ouverture, qui revêtent
 <lb/>et tantôt avec excès de base, c’està-dire
 <lb/>à rétat de sous-Sel.</p>
 
-<p><hi>Carbonate (sous-') d’ammoniaque, subcarbonas
-<lb/>ammonU, ammonium sub-carbonicum</hi> ;
+<p><term>Carbonate (sous-') d’ammoniaque </term>, <foreign xml:lang="lat">subcarbonas
+  <lb/>ammonii, ammonium sub-carbonicum</foreign> ;
 <lb/>sel blanc, cristallisable, d’une
 <lb/>saveur caustique, piquante et urineuse,
 <lb/>d’une odeur fortement ammoniacale, qui
@@ -22909,8 +22909,8 @@ niant des sacs Sans ouverture, qui revêtent
 <lb/>et d’u/cuii <hi>volatil concret</hi>. Il fait
 <lb/>la base de <hi>l’esprit volatil de corne de cerf</hi>.</p>
 
-<p><hi>Carbonate (sous-') de baryte, sub-carbonus
-<lb/>barytae, baryta sub-carbonica</hi> ; sel
+  <p><term>Carbonate (sous-') de baryte</term> , <foreign xml:lang="lat">sub-carbonus
+    <lb/>barytae, baryta sub-carbonica</foreign>; sel
 <lb/>cristallisable, dont toutes les formes Secondaires
 <lb/>dérivent d’un rhomboïde obtus,
 <lb/>presque insoluhle dans reau, et dont
@@ -22920,8 +22920,8 @@ niant des sacs Sans ouverture, qui revêtent
 <lb/>contrées. C’est un poison, quoiqu’on en
 <lb/>ait conseillé l’usage en médecine.</p>
 
-<p><hi>Carbonate (sous-) de chaux, sub-carbonas
-<lb/>calcis, calx sub-carbonica</hi> ; sel insoluble
+<p><term>>termi>Carbonate (sous-) de chaux</term>, <foreign xml:lang="lat">sub-carbonas
+  <lb/>calcis, calx sub-carbonica </foreign> ; sel insoluble
 
 
 <pb n="124" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0134/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=134"/>
