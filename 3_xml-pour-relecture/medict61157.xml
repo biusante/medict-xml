@@ -230,7 +230,7 @@ articulation
 <etym>(<hi>abscedere</hi>.
   <lb/>S’écarter)</etym>, <foreign xml:lang="grc">ἀπόστημα</foreign>; collection de
 <lb/>pus dans une cavité, formée par un travail
-<lb/>morbide, avec ou S.ans tumeur.—<term>abcès chaud</term><term>abcès aigu</term><term>abcès soudain</term>,
+<lb/>morbide, avec ou S.ans tumeur.—abcès chaud, abcès aigu, abcès soudain,
 <lb/>celui qui SUccède à une
 <lb/>inflammation aiguë.—<hi>froid,- chronique,serofulcux</hi>,
 <lb/>celui qui est le résultat
@@ -485,7 +485,7 @@ synonyme
 <entryFree>
   <p><orth>Abortif</orth>, <gram>adj.</gram> et <gram>s. m.</gram><hi/>
 <etym>(<hi>ab</hi>, avant, <hi>ortus</hi>,
-<lb/>naissance)</etym>, <foreign xml:lang="grc">ἔκτρωματικος</foreign> ; relatifà ravorte-
+<lb/>naissance)</etym>, <foreign xml:lang="grc"><choice><sic>ἔκτρωματικος</sic><corr>ἐκτρωματικὸς</corr></choice></foreign> ; relatifà ravorte-
 <lb/><hi>ment</hi>. <hi>Fruitabortif</hi>, fcetus né avant terme.
 <lb/><hi>Drogue abortive</hi>, SUbstance à laquelle on
 <lb/>attribue la propriété de déterminer l’expulsion
@@ -1216,7 +1216,7 @@ qui a lieuparaccident.
 
 <entryFree>
 <p><orth>Accouchée</orth>, <gram>adj.</gram> pris subst., <foreign xml:lang="lat">puerpera</foreign>,
-  <lb/><foreign xml:lang="grc">τοκὰς</foreign>, <foreign xml:lang="grc">παιδοιέκος</foreign> ; femme qui vient de
+  <lb/><foreign xml:lang="grc">τοκὰς</foreign>, <foreign xml:lang="grc"><choice><sic>παιδοιέκος</sic><corr>παιδοτόκος</corr></choice></foreign> ; femme qui vient de
 <lb/>mettre un enfant au monde.</p>
 </entryFree>
 
@@ -2287,7 +2287,7 @@ verrue
 
 <entryFree>
 <p><orth>Acromphale</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">acromphalus</foreign>,
-  <lb/><foreign xml:lang="grc">ἁκρόμφαλιον</foreign>
+  <lb/><foreign xml:lang="grc"><choice><sic>ἁκρόμφαλιον</sic><corr>ἀκρόμφαλιον</corr></choice></foreign>
 <etym>(ἄκρος, extrême, ὀμφαλὸς,
 <lb/>nombril)</etym> ; 
 extrémité du cordon ombilical,
@@ -4337,9 +4337,9 @@ ton et y passer la mèche. | Stylet d’argent,
 <p><term>Aiguille de Walther.</term> V. <ref>Aiguille à cataracte</ref>
 <lb/>.</p>
 
-<p><term>Aiguille droite.</term> V. <hi>Aiguille a acupuneture,
-<lb/>ά appareils, a bec-de-lièvre,
-<lb/>a cataracte, a contre-ouverture, ά fistule</hi>.</p>
+<p><term>Aiguille droite.</term> V. <ref>Aiguille à acupuncture</ref>,
+<lb/><ref>Aiguille à appareils</ref>, <ref>Aiguille à bec-de-lièvre</ref>,
+<lb/><ref>Aiguille à cataracte</ref>, <ref>Aiguille à contre-ouverture</ref>, <ref>Aiguille à fistule</ref>.</p>
 
 <p><term>Aiguille emmanchée</term>. V. <ref>Aiguille à ligature</ref>.</p>
 
@@ -4673,11 +4673,11 @@ instrument dont on se sert
 </entryFree>
 
 <entryFree>
-<p><orth>Albatre calcaire</orth> ; variété du carbonate
+<p><orth>Albâtre calcaire</orth> ; variété du carbonate
 <lb/>de chaux, en masses compactes,
 <lb/>d’un très-beau blanc, et demi-transparentes.</p>
 
-<p><term>Albâtre gypseux</term> ; variété du sulfate
+<p><orth>Albâtre gypseux</orth> ; variété du sulfate
 <lb/>de chaux naturel, en masses compactes,
 <lb/>tendrcs et SUseeptibles de poli.</p>
 </entryFree>
@@ -6114,9 +6114,9 @@ ohscurcissement
 </entryFree>
 
 <entryFree>
-<p><orth>Ambre</orth> <hi>blanc</hi>, variété du <hi>succin</hi>.</p>
+<p><orth>Ambre blanc</orth>, variété du <hi>succin</hi>.</p>
 
-  <p><term>Ambre gris</term> <gram>s. m.</gram><foreign xml:lang="lat">ambra grisea</foreign>, <foreign xml:lang="grc">ἄμβρα</foreign>
+<p><orth>Ambre gris</orth> <gram>s. m.</gram><foreign xml:lang="lat">ambra grisea</foreign>, <foreign xml:lang="grc">ἄμβρα</foreign>
 <lb/> ; suhstance plus légère que reau, opaque,
 <lb/>cendrée, ordinairement tachetée
 <lb/>de points blancs et noirs, molle, tenace,
@@ -6133,9 +6133,9 @@ ohscurcissement
 <lb/>en médecine ; il est stimulant,
 <lb/>aphrodisiaque.</p>
 
-<p><term>Ambre jaune</term>. V. <ref>Succin</ref>. ’</p>
+<p><orth>Ambre jaune</orth>. V. <ref>Succin</ref>. ’</p>
 
-<p><term>Ambre noir</term>. V. <ref>Jayet</ref>.</p>
+<p><orth>Ambre noir</orth>. V. <ref>Jayet</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -6446,7 +6446,7 @@ perte de la mémoire.</p>
 
 <entryFree>
 <p><orth>Amnios</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">amnion</foreign>, <foreign xml:lang="lat">amnios</foreign>, <foreign xml:lang="grc">ἀμνίον</foreign>
-<lb/>, <foreign xml:lang="grc">ἀμνιος</foreign>
+<lb/>, <foreign xml:lang="grc"><choice><sic>ἀμνιος</sic><corr>ἄμνιος</corr></choice></foreign>
 <etym>(ἄνα, ensemble, εὶναι, je SUis)</etym> ;
 
 <lb/>membrane séreuse, mince, presque
@@ -6877,7 +6877,7 @@ SItuation du malade
 </entryFree>
 
 <entryFree>
-  <p><orth>Anacollème</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">ἀνάκολλημα</foreign>
+  <p><orth>Anacollème</orth>, <gram>s. m.</gram>, <foreign xml:lang="grc"><choice><sic>ἀνάκολλημα</sic><corr>ἀνακόλλημα</corr></choice></foreign>
 <etym>(ἀνακολλάω,
 <lb/>je colle)</etym> ; 
 épithéme frontal.</p>
@@ -7209,7 +7209,7 @@ fluxion vers le
 </entryFree>
 
 <entryFree>
-<p><orth>Anasarque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anasarca</foreign>, <foreign xml:lang="grc">ἀνασὰρκα</foreign>
+<p><orth>Anasarque</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anasarca</foreign>, <foreign xml:lang="grc"><choice><sic>ἀνασὰρκα</sic><corr>ἀνασάρκα</corr></choice></foreign>
 <lb/>
 <etym>(ἀνὰ, entre, σὰρξ, chair)</etym> ; 
 hydropisie générale
@@ -8721,7 +8721,7 @@ qui n’a point de testicules.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Anorexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorexia</foreign>, <foreign xml:lang="grc">ἀνόρεξία</foreign>
+<p><orth>Anorexie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anorexia</foreign>, <foreign xml:lang="grc"><choice><sic>ἀνόρεξία</sic><corr>ἀνoρεξία</corr></choice></foreign>
 <lb/>
 <etym>(a priv., όρεξις, appétit)</etym> ; 
 diminution ou
@@ -9019,7 +9019,7 @@ nom donné par
 </entryFree>
 
 <entryFree>
-  <p><orth>Anthèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthesis</foreign>, <foreign xml:lang="grc">ἀνθήσις</foreign> ; fforaison
+<p><orth>Anthèse</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthesis</foreign>, <foreign xml:lang="grc"><choice><sic>ἀνθήσις</sic><corr>ἄνθησις</corr></choice></foreign> ; fforaison
 <lb/> : ensernble des phénomènes qui accompagnent
 <lb/>répanouissemeIIt des fleuI.</p>
 </entryFree>
@@ -9060,7 +9060,7 @@ nom donné
 </entryFree>
 
 <entryFree>
-<p><orth>Anthracite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthracites</foreign>, <foreign xml:lang="grc">ἀνθρακὶτης</foreign>
+<p><orth>Anthracite</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">anthracites</foreign>, <foreign xml:lang="grc"><choice><sic>ἀνθρακὶτης</sic><corr>ἀνθρακίτης</corr></choice></foreign>
 <lb/> ; minéral assez voisin du charbon de
 <lb/>terre, dont il diffère parce qu’il ne contient
 <lb/>guère que du carbone pur, mêlé
@@ -9738,7 +9738,7 @@ remède contre
 </entryFree>
 
 <entryFree>
-<p><orth>Antipathie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antipathia</foreign>, <foreign xml:lang="grc">ἀντιπάθια</foreign>
+<p><orth>Antipathie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antipathia</foreign>, <foreign xml:lang="grc"><choice><sic>ἀντιπάθια</sic><corr>ἀντιπάθεια</corr></choice></foreign>
 <lb/>
 <etym>(ἀντὶ, contre, πάθος, passion)</etym> ;
 
@@ -9926,7 +9926,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Anti-thénar</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anti-thenar</foreign>, <foreign xml:lang="grc">ἀντίθέναρ</foreign>
+<p><orth>Anti-thénar</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anti-thenar</foreign>, <foreign xml:lang="grc"><choice><sic>ἀντίθέναρ</sic><corr>ἀντιθέναρ</corr></choice></foreign>
 <lb/>θεναρ (ἀντὶ, A is à-vis, θεὸαρ, thénar) ; nom
 <lb/>donné par WInslow à une portion de
 <lb/>l’adducteur et du court fléchl'sseur du
@@ -10003,7 +10003,7 @@ contre-poison ; reméde
 
 <entryFree>
 <p><orth>Anus</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">anus</foreign>, <foreign xml:lang="lat">podex</foreign>, <foreign xml:lang="grc">ἀρκὸς</foreign>, <foreign xml:lang="grc">δακτύριον</foreign>,
-<lb/><foreign xml:lang="lat">ἔδρα</foreign>, <foreign xml:lang="grc">κύσσαλος</foreign>, <foreign xml:lang="grc">κυσὸς</foreign> ; ouverture
+<lb/><foreign xml:lang="grc"><choice><sic>ἔδρα</sic><corr>ἕδρα</corr></choice></foreign>, <foreign xml:lang="grc">κύσσαλος</foreign>, <foreign xml:lang="grc">κυσὸς</foreign> ; ouverture
 <lb/>circulaire, située à l’extrémité inférieure
 <lb/>du rectum, et par laquelle les résidus
 <lb/>des alimens sont expulsés.
@@ -10296,7 +10296,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Aphthe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphtha</foreign>, <foreign xml:lang="lat">ἅφθα</foreign> ; petit
+<p><orth>Aphthe</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">aphtha</foreign>, <foreign xml:lang="grc"><choice><sic>ἅφθα</sic><corr>ἄφθα</corr></choice></foreign> ; petit
 <lb/>ulcère blanchâtre et SUperficiel qi i se
 <lb/>forme SUr la membrane interne de la
 <lb/>bouche, et quelquefois du pharynx, de
@@ -10465,7 +10465,7 @@ contre-poison ; reméde
 </entryFree>
 
 <entryFree>
-<p><orth>Apolinose</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc">ἀπόλινωσις</foreign> (ἀπὸ, par,
+<p><orth>Apolinose</orth>, <gram>s. f.</gram>, <foreign xml:lang="grc"><choice><sic>ἀπόλινωσις</sic><corr>ἀπολίνωσις</corr></choice></foreign> (ἀπὸ, par,
 <lb/>λίνον, fil de lin) ; méthode d’opérer la
 <lb/>fistule stercorale par le moyen d’une ligature
 <lb/>faite avec un fil de lin, qu’employait
@@ -10789,7 +10789,7 @@ tombe) ; relâchement des lacs ; chute
 </entryFree>
 
 <entryFree>
-<p><orth>Appareil</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apparatus</foreign>, <foreign xml:lang="grc">κατάσκευὴ</foreign>
+<p><orth>Appareil</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">apparatus</foreign>, <foreign xml:lang="grc"><choice><sic>κατάσκευὴ</sic><corr>κατασκευὴ</corr></choice></foreign>
 <lb/>σκευὴ <hi>[apparo</hi>, je prépare) ; ensemble des
 <lb/>organes qui concourent à l’exercice d’une
 <lb/>fonction. ASsemblage de plusieurs
@@ -11262,7 +11262,7 @@ y fait naître de petits flocons albumineux.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Arcanson</orth>. V. <ref>Brai</ref> <hi>sec</hi>.</p>
+<p><orth>Arcanson</orth>. V. <ref>Brai <hi>sec</hi></ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -11270,10 +11270,10 @@ y fait naître de petits flocons albumineux.</p>
 <lb/>mercure obtenu en calcinant le nitrate
 <lb/>mercuriel.</p>
 
-<p><orth>Arcanum duplicatum</orth>. V. <ref>Sulfate</ref> <hi>de
-<lb/>potasse</hi>.</p>
+<p><orth>Arcanum duplicatum</orth>. V. <ref>Sulfate de potasse</ref>
+<lb/>.</p>
 
-<p><orth>Arcanum tartari</orth>. V. <ref>Acétate</ref> <hi>de potasse</hi>.</p>
+<p><orth>Arcanum tartari</orth>. V. <ref>Acétate <hi>de potasse</hi></ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -11605,7 +11605,7 @@ long-temps que le cachou était retiré
 </entryFree>
 
 <entryFree>
-<p><orth>Arhythme</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arhythmus</foreign>, <foreign xml:lang="grc">ἀῥυθμὸς</foreign>
+<p><orth>Arhythme</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">arhythmus</foreign>, <foreign xml:lang="grc"><choice><sic>ἀῥυθμὸς</sic><corr>ἄρρυθμος</corr></choice></foreign>
 </p>
 <pb n="59" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0069/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=69"/>
 
@@ -13379,7 +13379,7 @@ des hommes doués d’un caractère mélancolique,
 
 <entryFree>
 <p><orth>Auditif</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">auditorius</foreign>, <foreign xml:lang="lat">auditivus</foreign>,
-<lb/><foreign xml:lang="grc">ἀκυστ κὸς</foreign>(<hi>audire</hi>, entendre) ; qui appartient
+<lb/><foreign xml:lang="grc"><choice><sic>ἀκυστ κὸς</sic><corr>ἀκουστικὸς</corr></choice></foreign>(<hi>audire</hi>, entendre) ; qui appartient
 <lb/>au sens on à l’organe de rouie : <hi>conduits
 <lb/>auditifs, externe</hi> et <hi>interne ; artères</hi>
 <lb/>et <hi>veines auditives, internes</hi> et <hi>externes ;
@@ -13406,7 +13406,7 @@ des hommes doués d’un caractère mélancolique,
 
 <entryFree>
 <p><orth>Augment</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">augmentum</foreign>, <foreign xml:lang="lat">incrementum</foreign>,
-<lb/><foreign xml:lang="grc">αὒξησις</foreign>, <foreign xml:lang="grc">ἔπίδυσις</foreign>, <foreign xml:lang="grc">ἀνάβασις</foreign> <hi>(auge
+<lb/><foreign xml:lang="grc"><choice><sic>αὒξησις</sic><corr>αὔξησις</corr></choice></foreign>, <foreign xml:lang="grc"><choice><sic>ἔπίδυσις</sic><corr>ἐπίδυσις</corr></choice></foreign>, <foreign xml:lang="grc">ἀνάβασις</foreign> <hi>(auge
 <lb/>re</hi>, augmenter) ; période d’une maladie
 <lb/>durant laquelle les symptômes S’accroissent.</p>
 </entryFree>
@@ -13654,7 +13654,7 @@ des hommes doués d’un caractère mélancolique,
 </entryFree>
 
 <entryFree>
- <p><orth>Autopsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">autopsia</foreign>, <foreign xml:lang="grc">ἀυτοψία</foreign> (ἀυ
+  <p><orth>Autopsie</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">autopsia</foreign>, <foreign xml:lang="grc"><choice><sic>ἀυτοψία</sic><corr>αὐτοψία</corr></choice></foreign> (ἀυ
 <lb/>τὸς, soi-même, ὀ'πτομαι, je vois) ; action
 <lb/>d’examiner soi-même. | <hi>AUtopsie cadavérique</hi>,
 <lb/>examen attentif que l’on fait d’un
@@ -13741,7 +13741,7 @@ une maladie quelconque va se déclarer.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Avant-main</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antè equitem ; région</foreign>
+<p><orth>Avant-main</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">antè equitem</foreign>
 <lb/>antérieure du cheval ; ron y cornprend
 <lb/>la tète, l’encolure, le garrot, le
 <lb/>poitea.il, les epaules et les membres antérieurs.</p>
@@ -15213,7 +15213,7 @@ due du diamètre antéro-posteriem du
 </entryFree>
 
 <entryFree>
-<p><orth>Barreaux aimantés ou magnétiques</orth>  ou <hi> magnétiques ;</hi>
+<p><orth>Barreaux aimantés</orth>  ou <orth>Barreaux magnétiques</orth>
 <lb/>verges ou barres d’acier trempé, auxquelles
 <lb/>on a communiqué la propriété
 <lb/>magnétique.</p>
@@ -15494,7 +15494,7 @@ fate de SOUde, des SUlfates de fer et de
 </entryFree>
 
 <entryFree>
-<p><orth>Battement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">pulsus</foreign> <foreign xml:lang="grc">σφύγμος</foreign>. On
+<p><orth>Battement</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">pulsus</foreign> <foreign xml:lang="grc"><choice><sic>σφύγμος</sic><corr>σφυγμὸς</corr></choice></foreign>. On
 <lb/>entend par ce mot les pulsations du cœur
 <lb/>et des artères.</p>
 </entryFree>
@@ -15652,21 +15652,21 @@ ron préparait en faisant diseoudre des
 <lb/>SUif de bouc, de térébenthine de venise.
 <lb/>et de résine d’élemi. Excitant.</p>
 
-<p><hi><term>Baume du commandeur de Ferme</term>, balsamum
+<p><term>Baume du commandeur de Ferme</term>, <hi>balsamum
 <lb/>commendatoris</hi> (<hi>teinture balsamique)</hi> ;
 <lb/>teinture alcoolique de styrax, de
 <lb/>benjoin, de baume de TOlu, de myrrhe,
 <lb/>d’aloés, d’ambre gris, etc., employée
 <lb/>comme excitant intérieurement et à l’extérieur.</p>
 
-<p><hi><term>Baume cordial de Sennert</term>, balsamum
+<p><term>Baume cordial de Sennert</term>, <hi>balsamum
 <lb/>cordiale Sennerti</hi> ; médicament excitant,
 <lb/>composé d’huiles essentielles de citron,
 <lb/>de girolle, de cannelle, de musc et d’ambre
 <lb/>gris. On le donnait comme tonique
 <lb/>et excitant à ha dose de 6 à I5 graine.</p>
 
-<p><hi><term>Baume de Fioraventi spiritueux</term>, balsamum
+<p><term>Baume de Fioraventi spiritueux</term>, <hi>balsamum
 <lb/>FIOraventi spiriluosum</hi> Ialeoolat de
 <lb/>térébenthine composé) ; alcoolat distillé
 <lb/>'au bain-marie, composé de plusieurs
@@ -15731,7 +15731,7 @@ ron préparait en faisant diseoudre des
 <lb/>à l’intérieur dans les phthisies
 <lb/>pulmonaires.</p>
 
-<p><hi><term>Baume néphrétique de Fuller</term>, balsamum
+<p><term>Baume néphrétique de Fuller</term>, <hi>balsamum
 <lb/>nephreticum FUlleri</hi> ; médicament
 <lb/>liquide, composé d’huiles, derésines, de
 <lb/>baumes, qui ont éprouvé un commencement
@@ -15741,7 +15741,7 @@ ron préparait en faisant diseoudre des
 <lb/>I5 à 3o gouttes, danscertaines affections
 <lb/>des reins.</p>
 
-<p><term>Baume nervin</term>  ou <hi><term>Baume nerval</term>, balsamum
+<p><term>Baume nervin</term>  ou <term>Baume nerval</term>, <hi>balsamum
 <lb/>nervinum</hi> (onguent d’herbes vulnéraires,
 <lb/>de baume du Pérou et de camphre)
 <lb/> ; sorte d’onguent composé d’huiles
@@ -15750,8 +15750,8 @@ ron préparait en faisant diseoudre des
 <lb/>en frictions dans les douleurs des rnembres
 <lb/>et des articulations.</p>
 
-<p><term>Baume opodeldoch</term>  ou <term>Baume opodeltoch</term>, balsamum
-<lb/>opodeltoch (savon de moelle de
+<p><term>Baume opodeldoch</term>  ou <term>Baume opodeltoch</term>, <hi>balsamum
+<lb/>opodeltoch</hi> (savon de moelle de
 <lb/>bœuf ammoniacal) ; médicament d’un
 <lb/>aspect et d’une consistance gélatineuse,
 <lb/>composé de savon de moelle de bœuf.
@@ -15773,7 +15773,7 @@ et de thym, de camphre, d’amrnoniaque,
 <lb/>riches</hi>, des tIOchisques de noix muscade
 <lb/>(Lemery).</p>
 
-<p><hi><term>Baume de pareira-brava</term>, balsamum
+<p><term>Baume de pareira-brava</term>, <hi>balsamum
 <lb/>pareirae-brarae</hi> ; mélange mou de baume,
 <lb/>de résine, d’hydrochlorate d’ammoniaque
 <lb/>et de poudre de la racine de pareirabrava.
@@ -15843,13 +15843,13 @@ et de thym, de camphre, d’amrnoniaque,
 <lb/>de l’aloés, et de l’huile dis
 <lb/>tillée de genièvre et de girofle.</p>
 
-<p><hi><term>Baume de vie d’Hoffmann</term>, balsamum
+<p><term>Baume de vie d’Hoffmann</term>, <hi>balsamum
 <lb/>vilae HOffmanni</hi> ; alcoolat composé d’huiles
 <lb/>esSentielles et d’ambre)gri.s, employé
 <lb/>comme.stimulant à l’intérieur et comme
 <lb/>topique.</p>
 
-<p><hi><term>Baume vulnéraire de Minderer</term>, balsamum
+<p><term>Baume vulnéraire de Minderer</term>, <hi>balsamum
 <lb/>vulnerarium MIndereri</hi> ; sorte de
 <lb/>liniment composé de térébenthine, de
 <lb/>résine élémi, d’huile de millepertuis et
@@ -16265,7 +16265,7 @@ sels formés par la comhinaison de racide
 </entryFree>
 
 <entryFree>
-<p><orth>Benzoïque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">benzolcus</foreign> ; nom d’un
+<p><orth>Benzoïque</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">benzoïcus</foreign> ; nom d’un
 <lb/>acide qui n’existe que dans les baumes
 <lb/>et l’urine de quelques espèces d’animaux
 <lb/>quadrupèdes herbivores. Retiré
@@ -16322,14 +16322,14 @@ sels formés par la comhinaison de racide
 </entryFree>
 
 <entryFree>
-<p><orth>Bercer</orth>, v. r., <hi>oscillare</hi>. Le cheval
+<p><orth>Bercer</orth>, <gram>v. r.</gram>, <foreign xml:lang="lat">oscillare</foreign>. Le cheval
 <lb/>qui se berce est celui en qui la croupe
 <lb/>est vacillante lorsqu’il marche au pas ou
 <lb/>au trot.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Bergamote</orth>, s. L On appelle ainsi une
+<p><orth>Bergamote</orth>, <gram>s. f.</gram> On appelle ainsi une
 <lb/>espèce d’orange, qui est petite et d’une
 <lb/>odeur très-agréable. L’huile essentielle
 <lb/>que l’on retire de SOn écorce est trèssuave,
@@ -16343,7 +16343,7 @@ loureux observé aux Indes, et inconnu
 </entryFree>
 
 <entryFree>
-<p><orth>Berle</orth>, S. L On donne spécialement ce
+<p><orth>Berle</orth>, <gram>s. f.</gram> On donne spécialement ce
 <lb/>nom à une plante de la famille des ombellifères
 <lb/>et de la pentandrie digynie,
 <lb/>que l’on trouve dans les ruisseaux et les
@@ -16374,13 +16374,13 @@ loureux observé aux Indes, et inconnu
 </entryFree>
 
 <entryFree>
-<p><orth>Bertinal</orth>., S. rrt. ; les <hi>cornets sphénoïdaux</hi>
+<p><orth>Bertinal</orth>.<gram>s. m.</gram> ; les <hi>cornets sphénoïdaux</hi>
 <lb/>ou <hi>de Bertin</hi> ont reçu de M. Geoffroy
 <lb/>Saint-HIlaire le nom (ras <hi>bcrtinatix</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Besicles</orth>, S. L pl., <hi>conspicilla</hi> (de <hi>bis
+<p><orth>Besicles</orth>, <gram>s. f. pl.</gram>, <foreign xml:lang="lat">conspicilla</foreign> (de <hi>bis
 <lb/>oeuli</hi> ou <hi>bis circuli</hi>, œil ou cercle double ;
 <lb/>SUivant d’autres, de <hi>bis</hi> κύκλος, d’iIù l’on
 <lb/>aurait fait <hi>byeycles</hi>, puis <hi>bècyales</hi>, et enfin
@@ -16415,7 +16415,7 @@ loureux observé aux Indes, et inconnu
 </entryFree>
 
 <entryFree>
-<p><orth>Bètail</orth>, S. ni., <hi>pecus</hi>. On comprend
+<p><orth>Bétail</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">pecus</foreign>. On comprend
 <lb/>sous ce nom un troupeau d’animaux à
 <lb/>quatre pieds. Le gros bétail se compose
 <lb/>de bœufs, de vaches ; le menu bétail,
@@ -16423,7 +16423,7 @@ loureux observé aux Indes, et inconnu
 </entryFree>
 
 <entryFree>
-<p><orth>Betel</orth>, <gram>s. m.</gram> ; nom indien d’une espéce
+<p><orth>Bétel</orth>, <gram>s. m.</gram> ; nom indien d’une espéce
 <lb/>de poivrier <hi/>(<hi>piper bctel</hi>, L.) qui
 <lb/>croît aux Indes orientalcs, ct dont les
 <lb/>fruits ont une saveur aromatique et poivrée,
@@ -16445,7 +16445,7 @@ et donnent également à cette préparation
 </entryFree>
 
 <entryFree>
-<p><orth>Bétoine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">betonica ofsicinalis</foreign>, L. ;
+<p><orth>Bétoine</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">betonica officinalis</foreign>, L. ;
 <lb/>famille des labiées, didynamie gymnospermie.
 <lb/>Cette plante vivace croît dans
 <lb/>les bois ; scs feuilles et sa racine, réduites
@@ -16453,10 +16453,10 @@ et donnent également à cette préparation
 <lb/>Sternutatoires. La dernière est un peu
 <lb/>émétique.</p>
 
-<p><term>Bètoine des montagnes</term> ; nom vulgaire
+<p><term>Bétoine des montagnes</term> ; nom vulgaire
 <lb/>île <hi>Varnique</hi>.</p>
 
-<p><term>Bètoine d’eau</term>. On appelle ainsi la scrophulaire
+<p><term>Bétoine d’eau</term>. On appelle ainsi la scrophulaire
 <lb/>aquatique.</p>
 </entryFree>
 
@@ -16485,7 +16485,7 @@ et donnent également à cette préparation
 </entryFree>
 
 <entryFree>
-<p><orth>Betterave</orth>, s. L ; variété de la <hi>bette</hi>.</p>
+<p><orth>Betterave</orth>, <gram>s. f.</gram> ; variété de la <hi>bette</hi>.</p>
 </entryFree>
 
 <entryFree>
@@ -16525,15 +16525,15 @@ et concrètes, qui lui sont très-analogues
 <lb/>aspect butyreux, et de la facilité avec
 <lb/>laquelle ils fondent par une douce chaleur.</p>
 
-<p><hi>Beurre d’antimoine glacial, butyrum
-<lb/>t’el oleum glaciale antimonii</hi> ; nom ancien
+<p><term>Beurre d’antimoine glacial</term>, butyrum
+<lb/>t’el oleum glaciale antimonii ; nom ancien
 <lb/>du deutochlorure d’antimoine SUblimé.</p>
 
-<p><hi>Beurre d’arsenic, butyrum vel oleum
-<lb/>corrosivum arscnici</hi> ; nom donné anciennement
+<p><term>Beurre d’arsenic</term>, butyrum vel oleum
+<lb/>corrosivum arscnici ; nom donné anciennement
 <lb/>au chlorure d’arsenic sublimé.</p>
 
-<p><term>Beurre de bismuth</term> <hi>, butyrum bismuthi ;</hi>
+  <p><term>Beurre de bismuth</term> <foreign xml:lang="lat">butyrum bismuthi</foreign>
 <lb/>nom ancien du chlorure de bismuth sublimé.</p>
 
 <p><term>Beurre de cacao</term> <hi>, butyrum è nucleis çacao</hi> ;
@@ -16550,24 +16550,24 @@ et concrètes, qui lui sont très-analogues
 <lb/>en fait des suppositoires, etc. H est nourrissant
 <lb/>et émollient.</p>
 
-<p><term>Beurre de cire</term> <hi>, butyrum ceræ</hi> ; huile
+  <p><term>Beurre de cire</term> <foreign xml:lang="lat">butyrum cerae</foreign> ; huile
 <lb/>noirâtre, épaisse et pyrogénée, qui est
 <lb/>fournie par la distillation de la cire.</p>
 
-<p><hi>Beurre d’ètain, butyrum JOVis vel
-<lb/>stanni</hi> ; ancien nom du chlorure d’étain.</p>
+<p><term>Beurre d’étain</term>, <foreign xml:lang="lat">butyrum Jovis</foreign> vel <foreign xml:lang="lat">butyrum stanni</foreign>
+<lb/>; ancien nom du chlorure d’étain.</p>
 
-<p><term>Beurre de Saturne</term> <hi>, butyrum Saturni ;</hi>
+<p><term>Beurre de Saturne</term> <foreign xml:lang="lat">butyrum Saturni</foreign>
 <lb/>mélange mou de vinaigre de Saturne et
 <lb/>de miel rosat.</p>
 
-<p><term>Beurre</term>  ou <hi>baume de succin, balsamum
-<lb/>succini</hi> ; dissolution de succindans rhuile
+<p><term>Beurre de succin</term>  ou <term>Baume de succin</term>, <foreign xml:lang="lat">balsamum succini</foreign>
+<lb/> ; dissolution de succindans rhuile
 <lb/>de térébenthine. C’est un excitant des
 <lb/>reins et du système nerveux, quand on
 <lb/>le donne à la dose d’une à six gouttes.</p>
 
-<p><term>Beurre de zinc</term> <hi>, hutyrurn zinci</hi> ; ancien
+<p><term>Beurre de zinc</term> <foreign xml:lang="lat">butyrum zinci</foreign> ; ancien
 <lb/>nom du chlorure de zinc.</p>
 </entryFree>
 
@@ -16578,20 +16578,20 @@ et concrètes, qui lui sont très-analogues
 </entryFree>
 
 <entryFree>
-<p><orth>Bezoard</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">bezoar</foreign> ; concrétion
+<p><orth>Bézoard</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">bezoar</foreign> ; concrétion
 <lb/>qui se forme dans les voies digestives
 <lb/>des animaux.</p>
 
-<p><term>Bèzoard factice</term> ; nom que ron donnait
+<p><term>Bézoard factice</term> ; nom que ron donnait
 <lb/>à des médicamens composés de eubstances
 <lb/>aromatiques et excitantes, auxquels
 <lb/>on attribuait les memes vertus
 <lb/>qu’aux bézoards animaux.</p>
 
-<p><term>Bèzoard jovial</term>, poudre composée
+<p><term>Bézoard jovial</term>, poudre composée
 <lb/>d’oxides d’étain, d’antimoine et de mercure.</p>
 
-<p><term>Bèzoard lunaire</term> ; médicament cssentiellement
+<p><term>Bézoard unaire</term> ; médicament cssentiellement
 <lb/>composé de chlorure d’ar-
 
 
@@ -16600,11 +16600,11 @@ et concrètes, qui lui sont très-analogues
 gent, que ron administrait surtout dans
 <lb/>l’épilepsie et autres affections nerveuses.</p>
 
-<p><term>Bèzoard martial</term> ; médicament tonique,
+<p><term>Bézoard martial</term> ; médicament tonique,
 <lb/>dont le tritcxide de fer faisait la
 <lb/>base.</p>
 
-<p><term>Bèzoard mercuriel</term> ; préparation pharmaceutique,
+<p><term>Bézoard mercuriel</term> ; préparation pharmaceutique,
 <lb/>dont l’acide d’antimoine
 <lb/>fait la base, et dans laquelle il n’entre
 <lb/>pae de mercure. Ce médicament a été
@@ -16612,17 +16612,17 @@ gent, que ron administrait surtout dans
 <lb/>d’antimoine qui en font la base portaient
 <lb/>le nom de <hi>mercure de vie</hi>.</p>
 
-<p><term>Bèzoard minéral</term> ; ancien nom du deutoxide
+<p><term>Bézoard minéral</term> ; ancien nom du deutoxide
 <lb/>d’antimoine ou acide antirnonieux
 <lb/>préparé par Pacide nitrique.</p>
 
-<p><term>Bèzoard de Saturne</term> ; préparation pharmaceutique
+<p><term>Bézoard de Saturne</term> ; préparation pharmaceutique
 <lb/>dont le plomb faisait partie.</p>
 
-<p><term>Bèzoard solaire</term> ; médicament dont ror
+<p><term>Bézoard solaire</term> ; médicament dont ror
 <lb/>faisait partie.</p>
 
-<p><term>Bèzoard de Vénus</term> ; préparation dans
+<p><term>Bézoard de Vénus</term> ; préparation dans
 <lb/>laquelle entrait de la limaille de cuivre.</p>
 </entryFree>
 
@@ -16640,7 +16640,7 @@ gent, que ron administrait surtout dans
 <lb/>l’une des extrémités est divisée profondément
 <lb/>en deux chefs.</p>
 
-<p><term>BIceps brachial</term> <hi>, biceps brachii</hi> ; muscle
+<p><term>Biceps brachial</term> <foreign xml:lang="lat">biceps brachii</foreign>; muscle
 <lb/>de la partie antérieure et interne du
 <lb/>brae, qui s’étend du contour de la çavité
 <lb/>glénoïde et du sommet de l’apophyse
@@ -16648,7 +16648,7 @@ gent, que ron administrait surtout dans
 <lb/>radius, qui fléchit l’avant-bras sur le
 <lb/>bras, et ramène la main à la supination.</p>
 
-<p><term>BIceps crural</term> <hi>, biceps femoris</hi> ; muscle
+<p><term>Biceps crural</term> <foreign xml:lang="lat">biceps femoris</foreign> ; muscle
 <lb/>de la partie postérieure de la cuisse,
 <lb/>étendu de la tubérosÎté de l’ischion et
 <lb/>d’une grande portion de la lèvre externe
@@ -16673,7 +16673,7 @@ gent, que ron administrait surtout dans
 </entryFree>
 
 <entryFree>
-<p><orth>Biconjugé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">hiconjugatus</foreign>. Les
+<p><orth>Biconjugé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">biconjugatus</foreign>. Les
 <lb/>feuilles de plusieurs mimeuses sont biconjugées,
 <lb/>c’est-à-dire que leur pétiole
 <lb/>commun est bifurqué à son sommet, et
@@ -16699,7 +16699,7 @@ gent, que ron administrait surtout dans
 
 <entryFree>
 <p><orth>Bicuspidé</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, alore écrit
-<lb/><hi>bicuspide, bicuspidatus</hi> ; qui est terminé
+<lb/><foreign xml:lang="lat">bicuspide</foreign> <foreign xml:lang="lat">bicuspidatus</foreign>; qui est terminé
 <lb/>par deux pointes. Les deux premières
 <lb/>molaires SOnt quelquefois appelées <hi>dents
 <lb/>bicuspidées</hi>, ou SImplement <hi>bicuspides</hi>. <hi>|
@@ -16714,7 +16714,7 @@ gent, que ron administrait surtout dans
 </entryFree>
 
 <entryFree>
-<p><orth>Bidigité-penné</orth>. , <gram>adj.</gram>, <foreign xml:lang="lat">bidigitato-p'uinatus</foreign>.
+<p><orth>Bidigité-penné</orth>. , <gram>adj.</gram>, <foreign xml:lang="lat">bidigitato-pinnatus</foreign>.
 <lb/>Les feuilles de plusieurs mimeuses,
 <lb/>composées d’un pétiole commun, qui
 <lb/>porte à SOn SOmmet deux feuilles pennées,
@@ -16730,7 +16730,7 @@ gent, que ron administrait surtout dans
 <lb/>gernrées, auxquelles on ajoute des végétaux
 <lb/>amers et aromatiques.</p>
 
-<p><term>BIère sapinette</term> ; boisson médicamenteuse
+<p><term>Bière sapinette</term> ; boisson médicamenteuse
 <lb/>qu’on prépare én faisant macérer
 <lb/>des bourgeons de sapin, des feuilles de
 <lb/>cochléaria et de la racine de raifort dans
@@ -16740,7 +16740,7 @@ gent, que ron administrait surtout dans
 
 <entryFree>
 <p><orth>Bifemoro-calcanien</orth>, <gram>adj.</gram> et <gram>s. m.</gram>,
-<lb/><hi>bifemoro – calcaneus</hi> ; nom donné par
+<lb/><foreign xml:lang="lat">bifemoro-calcaneus</foreign> ; nom donné par
 <lb/>ChansSIer aux muscles jumeaux de la
 <lb/>jambe.</p>
 </entryFree>
@@ -16752,7 +16752,7 @@ gent, que ron administrait surtout dans
 </entryFree>
 
 <entryFree>
-<p><orth>Bifide</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bisidus</foreign> ; une partie quelconque
+<p><orth>Bifide</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bifidus</foreign> ; une partie quelconque
 <lb/>d’un végétal est bifide, lorsqu’elle
 <lb/>offre une fente qui la partage en
 <lb/>deux, environ jusqu’à sa partie moyenne.
@@ -16775,7 +16775,7 @@ gent, que ron administrait surtout dans
 </entryFree>
 
 <entryFree>
-<p><orth>Bifurcation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">bifureatio</foreign> : sépara-
+<p><orth>Bifurcation</orth>, <gram>s. f.</gram>, <foreign xml:lang="lat">bifurcatio</foreign> : sépara-
 
 
 <pb n="88" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:61157:0098/full/full/0/default.jpg" corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?61157&amp;p=98"/>
@@ -16785,7 +16785,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Bifurqué</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bifureatus</foreign> ; qui se termine
+<p><orth>Bifurqué</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bifurcatus</foreign> ; qui se termine
 <lb/>par deux branches écartées.</p>
 </entryFree>
 
@@ -16796,7 +16796,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Bijugé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bijugatus ; on</foreign> appelle
+<p><orth>Bijugé</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bijugatus</foreign> appelle
 <lb/><hi>feuilles bijugées</hi>, celles dont le pétiole
 <lb/>commun porte deux paires de folioles :
 <lb/>telles sont celles de plusieurs gesses et
@@ -16826,7 +16826,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Bile</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">bilis</foreign>, <foreign xml:lang="lat">fel</foreign>, <foreign xml:lang="lat">choiera</foreign>, χολὴ ;
+<p><orth>Bile</orth>, <gram>s. f.</gram> <foreign xml:lang="lat">bilis</foreign>, <foreign xml:lang="lat">fel</foreign>, <foreign xml:lang="lat">cholera</foreign>, <foreign xml:lang="grc">χολὴ</foreign> ;
 <lb/>liqueur jaunâtre ou verdâtre, visqueuse,
 <lb/>amère, fade, nauséabonde, et plus pesante
 <lb/>que reau, qui est sécrétée par le
@@ -16835,7 +16835,7 @@ tion en deux branches. Se dit en anatomie
 <lb/>dans le duodénum, ou qu’elle Séjourne
 <lb/>dans la vésicule du fiel.</p>
 
-<p><term>BIle répandue</term>. V. <ref>Ictère</ref>.</p>
+<p><term>Bile répandue</term>. V. <ref>Ictère</ref>.</p>
 </entryFree>
 
 <entryFree>
@@ -16845,7 +16845,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Bilieux</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bdiosus</foreign>, qui a rapport
+<p><orth>Bilieux</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">biliosus</foreign>, qui a rapport
 <lb/>à la bile, qui contient de la bile, ou qui
 <lb/>est causé par la bile : épithète qu’on
 <lb/>donne à certainee constitutions et à
@@ -16861,7 +16861,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Billarder</orth>, v. a., <hi>oscillare</hi>. Le cheval
+<p><orth>Billarder</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">oscillare</foreign>. Le cheval
 <lb/>billarde lorsqu’en trottant il jette en
 <lb/>dehors les jambes de devant.</p>
 </entryFree>
@@ -16890,7 +16890,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Bimane</orth>, <gram>adj.</gram> et S. In., <hi>bimanus ;</hi>
+<p><orth>Bimane</orth>, <gram>adj.</gram> et <gram>s. m.</gram>, <foreign xml:lang="lat">bimanus</foreign>
 <lb/>qui a deux mains : épithète donnée à
 <lb/>l’homme, parce qu’il est le Seul mammifère
 <lb/>qui jouisse de la prérogative d’avoir
@@ -16904,7 +16904,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Binocle</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">bis oeulus</foreign> ; bandage
+<p><orth>Binocle</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">bis oculus</foreign> ; bandage
 <lb/>que l’on applique SUr les yeux. H exige
 <lb/>une bande de huit à dix aunes, roulée à
 <lb/>un ou à deux cylindres, dont les jets doivent
@@ -16941,7 +16941,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Bipinnatifide</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bipinnatisidus</foreign>. On
+<p><orth>Bipinnatifide</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bipinnatifidus</foreign>. On
 <lb/>dit des feuilles qu’elles sont bipinnatifides,
 <lb/>lorsque sur les parties latérales de
 <lb/>leur pétiole commun elles offrent des divisions
@@ -16952,7 +16952,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Bipinné</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bipinnatus ; Se</foreign> dit des
+<p><orth>Bipinné</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bipinnatus</foreign> dit des
 <lb/>feuilles composées dont le rachis ou pétiole
 <lb/>commun porte des feuilles pinnées
 <lb/>sur leurs parties latérales.</p>
@@ -16969,7 +16969,7 @@ tion en deux branches. Se dit en anatomie
 </entryFree>
 
 <entryFree>
-<p><orth>Biscuit</orth>, S.nr., <hi>biscoctus</hi>, cuit deux fois ;
+<p><orth>Biscuit</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">biscoctus</foreign>, cuit deux fois ;
 <lb/>pain jaune, mince, dur, sonore, fragile
 <lb/>et brillant dans sa cassiire, qu’on
 <lb/>emploie surtout dans la marine ; pâtisserie
@@ -16987,7 +16987,7 @@ légère, aromatique et très-délicate,
 </entryFree>
 
 <entryFree>
-<p><orth>Bisexe</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bisrxuinus</foreign> (<hi>bis</hi>, deux
+<p><orth>Bisexe</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bisexuinus</foreign> (<hi>bis</hi>, deux
 <lb/>fois, <hi>sexus</hi>, sexe) ; état d’un individu
 <lb/>qui réunit deux sexes.</p>
 </entryFree>
@@ -17039,7 +17039,7 @@ légère, aromatique et très-délicate,
 </entryFree>
 
 <entryFree>
-<p><orth>Bistouri</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">scalpellus</foreign> ou <hi>scalpea ;</hi>
+<p><orth>Bistouri</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">scalpellus</foreign> ou <foreign xml:lang="lat">scalpea</foreign>
 <lb/>instrument tranchant, assez Semblable
 <lb/>à un petit couteau, composé d’une lame
 <lb/>et d’un manche, et qui Sert en chirurgie
@@ -17112,7 +17112,7 @@ trémité de la lame est surmontée d’un
 </entryFree>
 
 <entryFree>
-<p><orth>Bitume</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">bitumcn</foreign>. On donne ce
+<p><orth>Bitume</orth>, <gram>s. m.</gram>, <foreign xml:lang="lat">bitumen</foreign>. On donne ce
 <lb/>nom collectif à des SUbstances liquides,
 <lb/>molles ou SOlides, électrisables par le
 <lb/>frottement, trés-odorantes, liquéfiablcs
@@ -17121,7 +17121,7 @@ trémité de la lame est surmontée d’un
 <lb/>flamme, en répandant une épaisse fumée,
 <lb/>et exhalant une odeur particulière.</p>
 
-<p><term>BItume de JUdée</term> ; c’est l’asphalte.</p>
+<p><term>Bitume de Judée</term> ; c’est l’asphalte.</p>
 </entryFree>
 
 <entryFree>
@@ -17137,7 +17137,7 @@ trémité de la lame est surmontée d’un
 </entryFree>
 
 <entryFree>
-<p><orth>Bivalve</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bivalves</foreign> ; qui est corirposé
+<p><orth>Bivalve</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">bivalvis</foreign> ; qui est corirposé
 <lb/>de deux valves. La capsule du lilas,
 
 
@@ -17148,17 +17148,17 @@ la coquille de l’huître, de la moule, sont
 </entryFree>
 
 <entryFree>
-<p><orth>Biventre</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">Inventer</foreign> ; qui a deux
-<lb/>ventrcs. Synonyme de <hi>digastrique</hi>.</p>
+<p><orth>Biventre</orth>, <gram>adj.</gram>, <foreign xml:lang="lat">biventer</foreign> ; qui a deux
+<lb/>ventrcs. Synonyme de digastrique.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Blabe</orth>, <gram>s. f.</gram>,)3λάβη ; synonyme de
+  <p><orth>Blabe</orth>, <gram>s. f.</gram>,<foreign xml:lang="grc">βλάβη</foreign>; synonyme de
 <lb/><hi>blessure</hi>.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Blachmal</orth>, s. In, C’est, suivant JOhnson,
+<p><orth>Blachmal</orth>, <gram>s. m.</gram>, C’est, suivant JOhnson,
 <lb/>un composé de plusieurs sulfures
 <lb/>métalliques.</p>
 </entryFree>
@@ -17172,11 +17172,11 @@ la coquille de l’huître, de la moule, sont
 </entryFree>
 
 <entryFree>
-<p><orth>Blanc</orth> <hi>d’argent</hi>. On donne ce nom,
+<p><orth>Blanc <hi>d’argent</hi></orth>. On donne ce nom,
 <lb/>dans le commerce, au plus beau blanc
 <lb/>de plomb.</p>
 
-<p><term>Blanc de baleine</term> <hi>, sperma ceti</hi> substance
+<p><orth>Blanc de baleine</orth> <foreign xml:lang="lat">sperma ceti</foreign> substance
 <lb/>grasse, contenue dans le* tissu
 <lb/>cellulaire interposé entre les membranes
 <lb/>du cerveau de diverses espèces de cachalot,
@@ -17193,29 +17193,29 @@ la coquille de l’huître, de la moule, sont
 <lb/>18 degrés, et d’un autre principe particulier
 <lb/>jaunâtre.</p>
 
-<p><term>Blanc tle bismuth</term> ; Synonyme de <hi>blanc
+<p><orth>Blanc de bismuth</orth> ; Synonyme de <hi>blanc
 <lb/>de fard</hi>.</p>
 
-<p><term>Blanc de céruse</term> <hi>, cerussa</hi> ; nom vulgaire
+<p><orth>Blanc de céruse</orth> <foreign xml:lang="lat">cerussa</foreign> ; nom vulgaire
 <lb/>du sous-carbonate de plomb.</p>
 
-<p><term>Blanc d’ESpagne</term>  ou <hi>de craie</hi> ; dénomination
+<p><orth>Blanc d’Espagne</orth>  ou <orth>Blanc de craie</orth> ; dénomination
 <lb/>vulgaire du carbonate de chaux
 <lb/>finement pulvérisé, réduit en pâte avec
 <lb/>de l’eau, et moulé en pains cylindriques
 <lb/>ou ovoÏdes.</p>
 
-<p><term>Blanc de fard</term> ; dénomination qui a
+<p><orth>Blanc de fard</orth> ; dénomination qui a
 <lb/>été donnée au SOUs-nitrate de bismuth,
 <lb/>parce qu’on remploie pour plâtrer la
 <lb/>peau.</p>
 
-<p><term>Blanc de l’œil</term> ; nom donné par Je vulgaire
+<p><orth>Blanc de l’œil</orth> ; nom donné par Je vulgaire
 <lb/>à la portion du globe de l’œil, apparente
 <lb/>entre les paupières, qui entoure la
 <lb/>cornée transparente^</p>
 
-<p><term>Blanc d’œuf</term> <hi>, albumen</hi> ; partie de l’œuf
+<p><orth>Blanc d’œuf</orth> <foreign xml:lang="lat">albumen</foreign> ; partie de l’œuf
 <lb/>qui enveloppe le jaune, presque entièrement
 <lb/>formée d’albumine renfermés dans
 <lb/>un tissu aréolaire délicat. 11 sert à la clarification
@@ -17224,25 +17224,25 @@ la coquille de l’huître, de la moule, sont
 <lb/>les effets délétères du deuto-chiorure de
 <lb/>mercure, du nitrate d’argent, etc., introduits
 <lb/>dans le canal alimentaire.</p>
-<p><term>Blanc de plomb</term>, plomb blanc, <foreign xml:lang="lat">plumbum album</foreign>  ; 
+<p><orth>Blanc de plomb</orth>, <orth>plomb blanc</orth>, <foreign xml:lang="lat">plumbum album</foreign>  ; 
 <lb/>nom vulgaire du sous-carbonate
 <lb/>de plomb.</p>
 
-<p><term>Blanc-manger</term> ; mélange de lait d’amandes
+<p><orth>Blanc-manger</orth> ; mélange de lait d’amandes
 <lb/>douces et de gelée amylacée,
 <lb/>aromatisé avec de reau de Heurs d’oranger
 <lb/>et de l’huile essentieHe de citron.
 <lb/>On le prescrit comme aliment léger dans
 <lb/>les convalescences.</p>
 
-<p><term>Blane-raisin</term>, par corruption de blancrh.azes
+<p><orth>Blanc-raisin</orth>, par corruption de blancrh.azes
 <lb/> ; SOrte de cèrat composé d’huile
 <lb/>de cire et de SOUs-carbonate ou blanc de
 <lb/>plomb.</p>
 </entryFree>
 
 <entryFree>
-<p><orth>Blanchet</orth>, S, m. ; filtre de drap blanc
+<p><orth>Blanchet</orth>, <gram>s. m.</gram> ; filtre de drap blanc
 <lb/>dont les pharmaciens Se Servent pour
 <lb/>passer les SIrops.</p>
 </entryFree>
@@ -17256,8 +17256,8 @@ la coquille de l’huître, de la moule, sont
 </entryFree>
 
 <entryFree>
-<p><orth>Blanchir</orth>, v. a., <hi>dealbarc.—la sole d’un
-<lb/>cheval</hi>, c’est enlever une partie de la
+<p><orth>Blanchir</orth>, <gram>v. a.</gram>, <foreign xml:lang="lat">dealbare</foreign>—la sole d’un
+<lb/>cheval, c’est enlever une partie de la
 <lb/>SOle avec un instrument qu’on appelle
 <lb/><hi>boutoir</hi>. On la pare, on la blanchit.</p>
 </entryFree>
