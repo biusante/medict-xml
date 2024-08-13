@@ -366,6 +366,13 @@
         <text/>
       </element>
     </define>
+    <define name="choices">
+      <choice>
+        <ref name="choice.corr"/>
+        <ref name="choice.expan"/>
+        <ref name="choice.reg"/>
+      </choice>
+    </define>
     <define name="choice.corr">
       <element name="choice">
         <a:documentation>Correction philologique.</a:documentation>
@@ -435,7 +442,7 @@
         <oneOrMore>
           <choice>
             <text/>
-            <ref name="choice.corr"/>
+            <ref name="choices"/>
             <ref name="damage"/>
             <ref name="ex"/>
           </choice>
@@ -467,7 +474,7 @@
           <choice>
             <text/>
             <ref name="foreign"/>
-            <ref name="choice.corr"/>
+            <ref name="choices"/>
             <ref name="i"/>
             <ref name="lb"/>
           </choice>
@@ -523,7 +530,7 @@
         <oneOrMore>
           <choice>
             <text/>
-            <ref name="choice.corr"/>
+            <ref name="choices"/>
             <ref name="ex"/>
             <element name="hi">
               <text/>
