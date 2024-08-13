@@ -442,9 +442,12 @@
         <oneOrMore>
           <choice>
             <text/>
+            <ref name="cb"/>
             <ref name="choices"/>
             <ref name="damage"/>
             <ref name="ex"/>
+            <ref name="lb"/>
+            <ref name="pb"/>
           </choice>
         </oneOrMore>
       </element>
@@ -473,10 +476,12 @@
         <zeroOrMore>
           <choice>
             <text/>
-            <ref name="foreign"/>
             <ref name="choices"/>
+            <ref name="cb"/>
+            <ref name="foreign"/>
             <ref name="i"/>
             <ref name="lb"/>
+            <ref name="pb"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -644,8 +649,12 @@
         <zeroOrMore>
           <choice>
             <text/>
+            <ref name="cb"/>
+            <ref name="choices"/>
+            <ref name="ex"/>
             <ref name="lb"/>
             <ref name="i"/>
+            <ref name="pb"/>
           </choice>
         </zeroOrMore>
       </element>
